@@ -11,3 +11,12 @@ El relato noánico cuenta que Lamech y su esposa tienen un hijo cuya apariencia 
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. CVI, identificado como “Fragment of the Book of Noah”, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar el fragmento, las palabras marcadas por Charles y la relación con el capítulo 107 y otras tradiciones de Noé. No se presenta como documento independiente completo.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+El capítulo pertenece al apéndice **Nacimiento de Noé**. Testigos parciales reportados: Greek Chester Beatty-Michigan 106:1–107:3; Latin Royal Ms. 5 E XIII 106:1–18; Aramaic 4Q204 106:1–2 y 106:13–107:2. El resumen de la historia de Lamech/Matusalén/Enoc y la apariencia del niño no debe completarse con textos paralelos como si fueran idénticos.
+
+La *Genesis Apocryphon* 1Q20 (cols. 2–5) y fragmentos de “Birth of Noah” 4Q534–536 contienen tradiciones paralelas del nacimiento extraordinario; se registrarán como textos relacionados en apéndice separado, no como testigos directos de 1 Enoc 106.
+
+**Pendiente:** cotejar el texto del fragmento arameo, Greek, Latin y Ge'ez; verificar la explicación del nombre Noé y las frases sobre los hijos; marcar letras reconstruidas.
