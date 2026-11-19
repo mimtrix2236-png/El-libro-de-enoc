@@ -28,4 +28,14 @@ class EnocContentCatalogTest {
             assertTrue("Chapter ${chapter.number} lost its provisional status", chapter.status.contains("Paráfrasis provisional"))
         }
     }
+    @Test
+    fun chapters76To78ContainVerseLevelParaphrases() {
+        val expectedCounts = mapOf(76 to 14, 77 to 8, 78 to 17)
+        expectedCounts.forEach { (chapterNumber, expectedCount) ->
+            val chapter = EnocContent.chapters.first { it.number == chapterNumber }
+            assertEquals(expectedCount, chapter.verses.size)
+            assertEquals((1..expectedCount).map { "$chapterNumber:$it" }, chapter.verses.map { it.reference })
+        }
+    }
+
 }
