@@ -13,7 +13,7 @@
 6. **George W. E. Nickelsburg, 1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1–36; 81–108 (Hermeneia, 2001).** Comentario académico; protegido por derechos, consultar edición legítima.
 7. **George W. E. Nickelsburg & James C. VanderKam, 1 Enoch: A New Translation (2012).** Traducción y estudio moderno; usar como referencia bibliográfica, no copiar texto protegido.
 
-## Estructura literaria de referencia
+8. **Charles, R. H., The Book of Enoch (1917), capítulos 66–71, cotejo preliminar realizado el 19 de noviembre de 2026.** Consulta digital: https://thebookandme.com/read/1-enoch-the-book-of-parables-chapters-37-71/66/ (texto histórico, útil como guía; comprobar OCR y signos editoriales).\n\n## Estructura literaria de referencia
 - 1–36: Libro de los Vigilantes.
 - 37–71: Parábolas / Similitudes.
 - 72–82: Libro Astronómico o de los Luminares.
