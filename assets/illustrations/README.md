@@ -33,3 +33,9 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 92 | chapter_92.svg | Rollo de esperanza y senda iluminada |
 | 93 | chapter_93.svg | Siete semanas históricas en arcos |
 | 94 | chapter_94.svg | Dos caminos, justicia y opresión |
+| 95 | chapter_95.svg | Enoc lamenta y denuncia violencia |
+| 96 | chapter_96.svg | Luz para los justos y riqueza opresiva |
+| 97 | chapter_97.svg | Riqueza injusta y registro celestial |
+| 98 | chapter_98.svg | Libro de obras y lujo desmoronado |
+| 99 | chapter_99.svg | Idolatría, falsas medidas y cuidado de niños |
+| 100 | chapter_100.svg | Justos bajo protección en tiempo de violencia |
