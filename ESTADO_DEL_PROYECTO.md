@@ -73,3 +73,10 @@ Cada tramo debe registrar: edición española base (traductor/editor/año/licenc
 
 
 - Verificación bibliográfica añadida en `editorial/VERIFICACION_EJEMPLAR_CHARLES.md` (commit `5fb854096c1fff7e5b695dd4e0346ac46d5c4066`): el PDF abierto es la décima impresión de 1962, que reproduce la traducción de la segunda edición de Charles (1912); no debe llamarse facsímil de la primera impresión de 1917. La introducción de Oesterley se considera fuente historiográfica de época, no consenso académico actual. No se ha verificado aún en imagen el texto de 72–82 ni 82:11.
+
+
+## Dictamen de trabajo 82:11 — variante 360/364 (2026-11-19)
+- Se creó `editorial/DICTAMEN_82-11_360-364.md` (commit `74f52d6cbe6b9c3c7ff9d4fd8285b62fb28fabdd`).
+- Evidencia comprobada: Dillmann 1851, p. 58, imprime el numeral Ge'ez `፫፻ወ፷ወ፬` = 364; Charles 1912 reporta 360 en manuscritos g, q, u y 364 en t y el grupo β.
+- Decisión editorial de trabajo: texto principal 360 días + cuatro días intercalares, porque 82:6 ya da 364 para el año y 360 + 4 explica la distribución sin duplicar los días intercalares. Aparato obligatorio conserva la variante 364 de Dillmann y de otros testigos.
+- Alcance: dilema resuelto para el texto de trabajo, no declarado resuelto paleográficamente en forma definitiva. Falta inspección directa de los manuscritos y revisión sintáctica experta del Ge'ez. No afirmar que se ha realizado una traducción independiente integral del manuscrito.
