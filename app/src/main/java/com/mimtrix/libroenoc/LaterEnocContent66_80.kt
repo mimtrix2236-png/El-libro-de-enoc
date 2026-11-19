@@ -112,9 +112,18 @@ object LaterEnocContent66_80 {
                 VerseEntry("79:5", "En una etapa del ciclo, la Luna se retrasa cinco días respecto del Sol y del orden de las estrellas, según el cálculo de la visión; el punto de referencia de la frase queda ambiguo."),
                 VerseEntry("79:6", "Enoc concluye que esta es la representación de cada luminar que Uriel, su guía, le enseñó.")
             )),
-        ChapterEntry(80, "El desorden de la creación en tiempos de pecado", "Paráfrasis provisional · cotejo crítico pendiente",
-            "el desorden moral se expresa mediante una imagen de desajuste cósmico.",
-            "Fuente: R. H. Charles, The Book of Enoch (1912), cap. LXXX, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original. Pendiente: Cotejo contra texto base pendiente. Ilustración: assets/illustrations/chapter_80.svg — cielo con astros fuera de sus rutas, nube seca, árbol sin fruto y una figura que mira confundida las estrellas.",
-            listOf(VerseEntry("Capítulo 80 · paráfrasis", "Uriel advierte que, en los tiempos descritos como de pecado, las estaciones y los ciclos dejarán de ser reconocidos o parecerán alterarse: los años se acortarán, las cosechas se retrasarán, faltará lluvia y los frutos no llegarán a su tiempo. La visión menciona cambios en la Luna y el Sol, y estrellas que abandonan sus órdenes. Los seres humanos perderán la comprensión de sus señales y algunos las tomarán por divinidades. El capítulo termina con la multiplicación del mal y el anuncio de juicio.")))
+        ChapterEntry(80, "El desorden cósmico en tiempos de pecado", "Paráfrasis provisional por versículo · cotejo crítico pendiente",
+            "El desajuste de los ciclos celestes y agrícolas funciona como advertencia apocalíptica, no como predicción científica. Las frases entre corchetes de Charles se señalan como suplementos.",
+            "Fuente de trabajo: Charles 1917, cap. LXXX. No se asigna testimonio Qumrán arameo directo a 80 en el mapeo consultado. 80:5 y parte de 80:7 están marcados como interpolación/suplemento por Charles. Ver docs/auditoria_76-82_fuentes.md.",
+            listOf(
+                VerseEntry("80:1", "Uriel recuerda a Enoc que le reveló los recorridos, tareas y tiempos del Sol, la Luna, los dirigentes de las estrellas y quienes las hacen girar."),
+                VerseEntry("80:2", "En la época de los pecadores, el relato anuncia que los años se acortarán, las siembras se retrasarán y la tierra cambiará; la lluvia quedará retenida por el cielo."),
+                VerseEntry("80:3", "Los frutos de la tierra tardarán y no madurarán cuando corresponda; también los árboles demorarán sus frutos."),
+                VerseEntry("80:4", "La Luna dejará de seguir el orden que la visión le asigna y no aparecerá en el momento esperado."),
+                VerseEntry("80:5", "Charles incluye entre corchetes una escena del Sol que viaja por el extremo de un gran carro al oeste y brilla fuera de la medida acostumbrada. Se mantiene como suplemento editorial, no como lectura segura."),
+                VerseEntry("80:6", "Muchos dirigentes de las estrellas quebrarán el orden establecido; cambiarán sus rutas y funciones y dejarán de aparecer en sus estaciones."),
+                VerseEntry("80:7", "Los pecadores perderán la comprensión del orden de los astros y las personas se equivocarán al interpretarlos, llegando a tratarlos como dioses. Una frase entre corchetes en Charles se deja sin incorporar como texto seguro."),
+                VerseEntry("80:8", "El mal aumentará y, según la advertencia, el castigo alcanzará a los transgresores hasta su destrucción.")
+            ))
     )
 }
