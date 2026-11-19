@@ -46,10 +46,12 @@ Los archivos con sufijo `parafrasis` son paráfrasis de trabajo: no deben presen
 - Capítulo 104: [paráfrasis provisional](104_capitulo_104_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_104.svg)
 - Capítulo 105: [paráfrasis provisional](105_capitulo_105_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_105.svg)
 - Capítulo 106: [paráfrasis provisional](106_capitulo_106_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_106.svg)
+- Capítulo 107: [paráfrasis provisional](107_capitulo_107_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_107.svg)
+- Capítulo 108: [paráfrasis provisional](108_capitulo_108_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_108.svg)
 
 ## Pendiente
 
-Capítulos 107–108 aún no tienen archivos en este directorio. La revisión textual de los capítulos existentes tampoco se considera completa. La sección 71:13 (laguna señalada en la edición de Charles consultada) queda sin reconstrucción.
+Todos los capítulos 1–108 tienen archivo de borrador; falta revisión y cotejo en este directorio. La revisión textual de los capítulos existentes tampoco se considera completa. La sección 71:13 (laguna señalada en la edición de Charles consultada) queda sin reconstrucción.
 
 ## Fuentes de consulta para 66–71
 
