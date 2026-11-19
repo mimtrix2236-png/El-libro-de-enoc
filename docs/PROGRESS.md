@@ -21,11 +21,11 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 51–55 — borradores preliminares con advertencias de cotejo
 - [x] Capítulos 56–60 — borradores preliminares con notas de cotejo
 - [x] Capítulos 61–65 — borradores preliminares y notas de cotejo
-- [ ] Capítulos 66–108 (en curso: borradores 66–75 preparados; falta continuar 76–108 y revisión)
+- [ ] Capítulos 66–108 (en curso: borradores 66–85 preparados; falta continuar 86–108 y revisión)
 - [ ] Revisión de coherencia y notas documentales
 - [ ] Glosario y apéndices
 - [ ] Bibliografía verificada
-- [ ] Ilustraciones finales (se generó una lámina conceptual sepia para escenas 66–70; falta separar/crear imágenes individuales e integrarlas)
+- [ ] Ilustraciones finales (se generaron láminas conceptuales sepia para escenas 66–70 y 76–80; falta producir imágenes individuales, generar escenas restantes e integrarlas)
 - [ ] Edición imprimible
 
 ## Estado real de la aplicación (revisado el 18 de noviembre de 2026)
@@ -50,4 +50,4 @@ El texto de lectura se redacta como paráfrasis literaria original y no se prese
 
 ## Próximo paso
 
-Continuar con capítulos 66–75. El texto es borrador y requiere cotejo documental; después completar integración en app, ilustraciones y edición impresa.
+Continuar con capítulos 86–95. El texto es borrador y requiere cotejo documental; después completar integración en app, ilustraciones y edición impresa.
