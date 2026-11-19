@@ -81,5 +81,5 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Los documentos 03.md–20.md están en docs/chapters/.
 - No se declara completada la edición crítica ni la compilación APK.
 
-- [x] Integración en `EnocContent.kt`: capítulos 3–20 reemplazados por entradas versículo por versículo extraídas de sus documentos editoriales. Se conservaron las etiquetas alfabéticas del capítulo 5; su sección 5:6d–j sigue identificada como texto problemático y no como traducción literal cerrada.
+- [x] Integración en `EnocContent.kt`: capítulos 2–20 reemplazados por entradas versículo por versículo extraídas de sus documentos editoriales. Se conservaron las etiquetas alfabéticas del capítulo 5; su sección 5:6d–j sigue identificada como texto problemático y no como traducción literal cerrada.
 - [ ] Revisar compilación Kotlin y probar visualmente la navegación de capítulos 3–20. La actualización del archivo fuente no equivale a una compilación verificada.
