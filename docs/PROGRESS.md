@@ -33,7 +33,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Proyecto Android Kotlin/Jetpack Compose inicial y archivos Gradle/manifest en el repositorio
 - [x] Prototipo de lector con páginas preliminares (título, dedicatoria-placeholder, nota editorial, prólogo-placeholder, introducción-placeholder e índice)
 - [x] Controles de índice, tamaño de letra y navegación preliminar
-- [ ] Texto real de los 108 capítulos integrado en la app (actualmente el cuerpo de capítulos es un placeholder)
+- [ ] Texto de los 108 capítulos integrado en la app (avance parcial: capítulos 1–16 en borrador y capítulo 17 incorporado como paráfrasis literaria identificada; 18–108 pendientes de integración y cotejo)
 - [ ] Navegación de índice a capítulo y paginación/swipe
 - [x] Marcadores guardados/restaurables (implementación inicial con preferencias locales)
 - [x] Modo nocturno (implementación inicial)
@@ -51,3 +51,11 @@ El texto de lectura se redacta como paráfrasis literaria original y no se prese
 ## Próximo paso
 
 Cotejar borradores con fuentes capítulo por capítulo; producir arte individual e integrar, completar apéndices, app y edición imprimible.
+
+
+## Registro de integración — 19 de noviembre de 2026
+
+- [x] Capítulo 17 añadido al catálogo del lector Android, con título, texto de lectura, nota editorial y estado explícito de paráfrasis no crítica.
+- [x] Ilustración vectorial original `journey_17.xml` creada e integrada en la pantalla del capítulo 17.
+- [ ] Convertir la paráfrasis 17 en unidades versiculares cotejadas; no presentarla como traducción literal.
+- [ ] Continuar con el capítulo 18 y siguientes. Los archivos de paráfrasis existentes son material de trabajo, no sustituyen el cotejo de fuentes.
