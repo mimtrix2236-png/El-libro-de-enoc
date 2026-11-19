@@ -1,20 +1,23 @@
-# Capítulo 79 — Resumen de las leyes celestes (paráfrasis provisional)
+# Capítulo 79 — Recapitulación de las leyes celestes (paráfrasis provisional por versículo)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa del Ge'ez ni cotejo diplomático; los números y restauraciones siguen pendientes.
 
-Enoc resume las leyes que Uriel le mostró: los recorridos de los luminares, sus posiciones, tiempos, estaciones, meses y semanas. Se recapitula el movimiento lunar, sus fases y su relación con las rutas del Sol y las estrellas, según el calendario descrito en la sección.
+**79:1.** Enoc le dice a Matusalén que la revelación del orden de las estrellas ha concluido y que ya le mostró todo lo que recibió.
 
-**Idea central:** el conocimiento del calendario es presentado como un sistema ordenado que puede transmitirse y recordarse.
+**79:2.** Se enumeran las reglas celestes para cada día, período, año, salida y el orden que corresponde a meses y semanas.
 
-**Ilustración propia:** assets/illustrations/chapter_79.svg — un escriba señala un diagrama de órbitas y un calendario circular, rodeado por pequeñas estrellas y marcas de estaciones.
+**79:3.** La Luna inicia su disminución en la sexta puerta; el texto afirma que allí alcanza su plenitud y desde ese punto comienza a menguar.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXIX, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original.
+**79:4.** Una frase restaurada por Charles describe el menguante en la primera puerta de su temporada hasta completar 177 días, que el relato calcula como veinticinco semanas y dos días. La restauración no se toma como lectura segura.
 
-**Pendiente:** revisar la recapitulación y las cifras con el texto base; evitar armonizaciones aritméticas no documentadas.
+**79:5.** En una etapa del ciclo, la Luna se retrasa cinco días respecto del Sol y del orden de las estrellas, según el cálculo de la visión; el punto de referencia de la frase queda ambiguo.
 
+**79:6.** Enoc concluye que esta es la representación de cada luminar que Uriel, su guía, le enseñó.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**Idea central:** Enoc resume las reglas de los luminares y deja constancia del ciclo lunar dentro del sistema calendárico antiguo.
 
-El capítulo recapitula las leyes del cielo y los ciclos; la paráfrasis no debe borrar los problemas de números. Charles imprime 79:4 con una lectura/restauración entre corchetes angulares para “la mengua” y cifra 177 días (25 semanas + 2 días). La aritmética de 78:15–16 (tres meses de 30 y tres de 29) da 177, pero eso no resuelve el testimonio. 4Q209 frg. 26 se asigna de forma tentativa a 78:17–79:2 y solo preserva fragmentos; su ubicación no certifica todo 79.
+**Ilustración SVG propia:** `assets/illustrations/chapter_79.svg` — escriba y rueda celeste con las puertas y semanas.
 
-**Fuentes comprobadas:** Charles 1917 (texto y signos editoriales), Theosis Library §§78–79 (mapeo de fragmentos, descrito por su autor), Machiela 2023. Se requiere cotejo con la edición crítica de Drawnel/Milik y fotografías para decidir la lectura final; por ahora las cifras se mantienen como datos de la tradición y se anotan sus límites.
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXIX, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_79. Se consultó la transcripción; no se cotejaron directamente manuscritos.
+
+**Nota textual:** 79:4 tiene una restauración editorial entre signos angulares en Charles; la cifra 177 y su conversión a 25 semanas + 2 días se conservan como datos de la tradición, sin armonización. La ubicación tentativa de 4Q209 frg. 26 en 78:17–79:2 solo aporta un testimonio fragmentario a la sección contigua. Véase `docs/auditoria_76-82_fuentes.md`.
