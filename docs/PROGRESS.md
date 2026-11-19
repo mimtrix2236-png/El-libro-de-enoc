@@ -162,3 +162,12 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Fuentes consultadas: R. H. Charles, *The Book of Enoch* (1912), caps. LXXXIX–XCIV, reproducción en https://rojc.uk/book-of-enoch.htm; https://fishtheright.com/writings/enoch/92/; https://scriptura.si/works/enoch-1-charles-1917/91/; consulta 19-11-2026.
 - [ ] Cotejar la historia alegórica de 89–90 y las semanas 91/93; respetar la división de Charles (92 antes de 91; 91:12–17 colocados con 93) sin asumir que es el orden original.
 - [ ] Próximos archivos faltantes: capítulos 95–108.
+
+
+## Avance — capítulos 95–100 (19 de noviembre de 2026)
+
+- [x] Capítulos 95–100: paráfrasis originales provisionales creadas, con fuente de trabajo y advertencias.
+- [x] Capítulos 95–100: seis ilustraciones SVG específicas en tinta sepia sobre pergamino.
+- Fuente consultada: R. H. Charles, *The Book of Enoch* (1912), caps. XCV–C, reproducción en https://rojc.uk/book-of-enoch.htm; consulta 19-11-2026.
+- [ ] Cotejar suplementos, lecturas corruptas y subdivisiones de 95–100 con edición crítica y testigos.
+- [ ] Próximos archivos faltantes: capítulos 101–108.
