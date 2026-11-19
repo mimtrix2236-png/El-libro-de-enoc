@@ -69,3 +69,11 @@
 - El test de catálogo ahora verifica 76–79 (14, 8, 17 y 6 unidades).
 - CI del conjunto 76–79 está pendiente; la corrección de paréntesis del catálogo ya pasó en run 44543772744.
 - Siguiente: capítulo 80.
+
+
+## 19 de noviembre de 2026 — expansión versicular capítulo 80
+- Expandí capítulo 80 a ocho paráfrasis por referencia e integré el contenido en el lector offline.
+- Conservé como suplementos editoriales (no lecturas seguras) las frases que Charles marca entre corchetes en 80:5 y 80:7; anoté que no se asigna fragmento arameo directo a 80 en el mapeo consultado.
+- El test de catálogo ahora verifica 76–80 (14, 8, 17, 6 y 8 unidades).
+- CI de los cambios 76–80 sigue pendiente; el fix de sintaxis anterior está verificado exitosamente.
+- Siguiente: capítulo 81, tablas celestiales y misión.
