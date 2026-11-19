@@ -47,6 +47,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Fuente-audit 83–90: `docs/auditoria_83-90_fuentes.md`; notas por capítulo añadidas, con variante aramea más corta de 89:1b–9 y debate de división 89:55–58/89:59–90:42 registrados.
 - Preview generado de capítulo 76 en `assets/generated/chapter_76_winds_gates_preview.jpg` (160×160, comprimido, no final ni integrado); ver `assets/generated/README.md`.
 
+- Fuente-audit 91–95: `docs/auditoria_91-95_fuentes.md`; corregida la omisión de 93:11–14 y anotado el desplazamiento de la Apocalipsis de las Semanas entre testigos.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
