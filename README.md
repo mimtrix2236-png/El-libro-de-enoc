@@ -41,6 +41,9 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Audio celestial: sintetizador offline original, sin samples externos, opcional con control de volumen; requiere prueba auditiva real.
 - Flujo CI verificado; APK debug de desarrollo, no release final.
 
+## Registro de trabajo reciente
+- Fuente-audit de capítulos 76–82: `docs/auditoria_76-82_fuentes.md`; notas críticas agregadas a cada paráfrasis, sin convertirlas en traducciones finales. Revisión de fuentes secundarias y bibliografía; cotejo directo de manuscritos aún pendiente.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
