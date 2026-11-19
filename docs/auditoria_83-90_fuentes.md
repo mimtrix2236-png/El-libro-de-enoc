@@ -39,3 +39,10 @@ Se revisaron las paráfrasis 83–90, el texto de Charles 1917 y resúmenes/fich
 
 ## Cambios incorporados
 Se agregaron notas de cotejo y límites de evidencia a cada paráfrasis 83–90. No se creó texto literal, no se reconstruyeron lagunas y no se afirmaron cotejos directos.
+
+
+## Addendum 19-11-2026 — rangos de 89 y 90
+
+- Capítulo 89 se organizó en 13 unidades narrativas, 89:1–9 hasta 89:72–77; el primer rango mantiene la cautela por la versión aramea más corta en 4Q206.
+- Capítulo 90 se organizó en seis unidades narrativas (90:1–5, 6–12, 13–19, 20–27, 28–36, 37–42).
+- Estos rangos son síntesis para lectura; no son paráfrasis de cada versículo ni traducción. El test de catálogo verifica la secuencia de rangos.
