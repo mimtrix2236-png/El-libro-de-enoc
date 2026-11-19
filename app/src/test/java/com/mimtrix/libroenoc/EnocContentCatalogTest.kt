@@ -30,7 +30,7 @@ class EnocContentCatalogTest {
     }
     @Test
     fun chapters76To78ContainVerseLevelParaphrases() {
-        val expectedCounts = mapOf(76 to 14, 77 to 8, 78 to 17, 79 to 6, 80 to 8)
+        val expectedCounts = mapOf(76 to 14, 77 to 8, 78 to 17, 79 to 6, 80 to 8, 81 to 10, 82 to 20)
         expectedCounts.forEach { (chapterNumber, expectedCount) ->
             val chapter = EnocContent.chapters.first { it.number == chapterNumber }
             assertEquals(expectedCount, chapter.verses.size)
