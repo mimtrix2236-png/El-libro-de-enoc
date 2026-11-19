@@ -225,6 +225,13 @@ object EnocContent {
                 VerseEntry("16:2", "«Y ahora, acerca de los Vigilantes que te enviaron para que intercedieras por ellos, que antes estuvieron en el cielo…»."),
                 VerseEntry("16:3", "«Vosotros estuvisteis en el cielo, pero [todos] los misterios todavía no os habían sido revelados. Conocisteis cosas sin valor y, con la dureza de vuestros corazones, las disteis a conocer a las mujeres; por medio de esos misterios, hombres y mujeres cometen mucho mal sobre la tierra»."),
                 VerseEntry("16:4", "«Decidles, por tanto: no tendréis paz»." )
+            )),
+
+        ChapterEntry(17, "El primer viaje de Enoc", "Paráfrasis literaria · cotejo versículo por versículo pendiente",
+            "Enoc es conducido a regiones desconocidas: contempla territorios de fuego, profundidades y paisajes extraordinarios. La visión le permite observar misterios de la creación y lugares vinculados con el destino de las almas. No se trata de una travesía humana, sino de una revelación de realidades ocultas.",
+            "Texto incorporado desde la paráfrasis literaria original del proyecto (docs/chapters/17_capitulo_17_parafrasis.md). No es traducción crítica ni transcripción ge'ez. Antes de elevar su estado: dividir según la numeración de Charles, cotejar cada unidad con Dillmann y los testigos etiópicos disponibles, y registrar variantes y suplementos. La descripción topográfica requiere comparación con comentarios y manuscritos.",
+            listOf(
+                VerseEntry("17:1–unidad completa", "Enoc fue llevado a lugares que no conocía. Vio regiones de fuego, espacios profundos y paisajes que parecían extenderse más allá del mundo familiar. La visión lo condujo a contemplar misterios de la creación y lugares asociados con el destino de las almas. El viaje no se presenta como una expedición humana, sino como una revelación: aquello que permanece oculto a la mirada cotidiana le fue mostrado para que comprendiera la grandeza y el orden del universo.")
             ))
 
     )
