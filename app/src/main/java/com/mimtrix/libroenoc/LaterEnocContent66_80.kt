@@ -101,10 +101,17 @@ object LaterEnocContent66_80 {
                 VerseEntry("78:16", "En el ciclo de salida, el texto repite la distribución: tres meses con treinta días y tres con veintinueve."),
                 VerseEntry("78:17", "La Luna se compara con una figura humana durante una parte de sus apariciones nocturnas y con el cielo durante el día; la visión afirma que su apariencia se debe a su luz.")
             )),
-        ChapterEntry(79, "Resumen de las leyes celestes", "Paráfrasis provisional · cotejo crítico pendiente",
-            "el conocimiento del calendario es presentado como un sistema ordenado que puede transmitirse y recordarse.",
-            "Fuente: R. H. Charles, The Book of Enoch (1912), cap. LXXIX, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original. Pendiente: revisar la recapitulación y las cifras con el texto base; evitar armonizaciones aritméticas no documentadas. Ilustración: assets/illustrations/chapter_79.svg — un escriba señala un diagrama de órbitas y un calendario circular, rodeado por pequeñas estrellas y marcas de estaciones.",
-            listOf(VerseEntry("Capítulo 79 · paráfrasis", "Enoc resume las leyes que Uriel le mostró: los recorridos de los luminares, sus posiciones, tiempos, estaciones, meses y semanas. Se recapitula el movimiento lunar, sus fases y su relación con las rutas del Sol y las estrellas, según el calendario descrito en la sección."))),
+        ChapterEntry(79, "Recapitulación de las leyes celestes", "Paráfrasis provisional por versículo · cotejo crítico pendiente",
+            "Enoc recapitula los ciclos y leyes de los luminares; 79:4 contiene una restauración editorial y el cómputo 177 días requiere cautela.",
+            "Fuente de trabajo: Charles 1917, cap. LXXIX. La frase de 79:4 está restaurada entre signos editoriales; 4Q209 frg. 26 se asigna tentativamente a 78:17–79:2. No se cotejó directamente. Ver docs/auditoria_76-82_fuentes.md.",
+            listOf(
+                VerseEntry("79:1", "Enoc le dice a Matusalén que la revelación del orden de las estrellas ha concluido y que ya le mostró todo lo que recibió."),
+                VerseEntry("79:2", "Se enumeran las reglas celestes para cada día, período, año, salida y el orden que corresponde a meses y semanas."),
+                VerseEntry("79:3", "La Luna inicia su disminución en la sexta puerta; el texto afirma que allí alcanza su plenitud y desde ese punto comienza a menguar."),
+                VerseEntry("79:4", "Una frase restaurada por Charles describe el menguante en la primera puerta de su temporada hasta completar 177 días, que el relato calcula como veinticinco semanas y dos días. La restauración no se toma como lectura segura."),
+                VerseEntry("79:5", "En una etapa del ciclo, la Luna se retrasa cinco días respecto del Sol y del orden de las estrellas, según el cálculo de la visión; el punto de referencia de la frase queda ambiguo."),
+                VerseEntry("79:6", "Enoc concluye que esta es la representación de cada luminar que Uriel, su guía, le enseñó.")
+            )),
         ChapterEntry(80, "El desorden de la creación en tiempos de pecado", "Paráfrasis provisional · cotejo crítico pendiente",
             "el desorden moral se expresa mediante una imagen de desajuste cósmico.",
             "Fuente: R. H. Charles, The Book of Enoch (1912), cap. LXXX, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original. Pendiente: Cotejo contra texto base pendiente. Ilustración: assets/illustrations/chapter_80.svg — cielo con astros fuera de sus rutas, nube seca, árbol sin fruto y una figura que mira confundida las estrellas.",
