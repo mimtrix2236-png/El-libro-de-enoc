@@ -36,3 +36,26 @@ Fecha del registro: 2026-11-19
 5. Crear código de aplicación, integrar texto, ilustraciones, navegación, búsqueda, favoritos, ajustes y persistencia.
 6. Compilar y probar antes de entregar APK. No presentar versión final hasta que pase verificaciones.
 
+
+
+## Ampliación de fuentes críticas — sesión 2026-11-19
+
+### Fuentes académicas adicionales localizadas
+6. Online Critical Pseudepigrapha, “1 Enoch”, edición digital crítica (Society of Biblical Literature, edición 1.5): https://pseudepigrapha.org/reader.html?doc=1En.xml . La ficha describe los testigos incluidos, las lenguas, la bibliografía y los límites de reutilización. El texto griego/latino transcrito se declara de dominio público; las reconstrucciones arameas entre corchetes y algunas correcciones editoriales tienen restricciones expresas. No copiar reconstrucciones protegidas.
+7. John C. Reeves, “Enoch, Books of”, *Encyclopaedia Iranica*, publicado 15-12-1998, actualizado 26-04-2013: https://www.iranicaonline.org/articles/enoch-books-of/ . Confirma que el texto completo se conserva en etiópico y que existen fragmentos anteriores griegos, siríacos, latinos y arameos de Qumrán.
+8. “(Ethiopic Book of) Enoch”, Beta maṣāḥǝft, Universität Hamburg: https://betamasaheft.awhamburg.de/works/LIT1340EnochE/main . Describe las cinco unidades principales y la tradición lingüística/manuscrita.
+9. “Notes on the Text of 1 Enoch”, Intertextual Bible: https://intertextual.bible/read/1-enoch/notes . Presenta ejemplos concretos de problemas textuales y advierte que la secuencia cronológica de la Apocalipsis de las Semanas exige leer 93:3–10 antes de 91:11–17.
+10. George W. E. Nickelsburg, *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1–36; 81–108*, Hermeneia, Fortress Press, 2001: https://www.jstor.org/stable/j.ctvb9373x . Fuente de comentario académico; obra protegida, usar como bibliografía y no reproducir su traducción.
+11. Andrei A. Orlov, “Enoch, Astronomical Book of (1 Enoch 72–82)”, *Dictionary of Early Judaism*, Eerdmans: https://www.marquette.edu/maqom/enochdic123.pdf . Fuente de contexto para el Libro Astronómico.
+
+### Ajustes de criterio derivados de la consulta
+- La edición digital crítica OCP no es un texto español integral listo para publicar: reúne testigos en varias lenguas y traducciones auxiliares. Sirve para control textual puntual, no como sustituto de una traducción española con derechos claros.
+- No debe afirmarse que los fragmentos arameos permiten reconstruir todos los capítulos: la evidencia es fragmentaria y no cubre la colección completa. El Libro de las Parábolas (37–71) carece de fragmentos arameos conocidos según la descripción de OCP.
+- El texto completo continuo depende de la versión etiópica (Geʽez); las versiones griegas y otros testimonios solo conservan partes. Las fechas de composición de cada unidad y las fechas de los manuscritos conservados son cuestiones distintas y deben presentarse por separado.
+- La cronología editorial de 91–93 debe registrarse como un problema de disposición/orden de la tradición y de las ediciones. La lectura cronológica de la Apocalipsis de las Semanas suele disponer primero 93:3–10 y luego 91:11–17; la app deberá ofrecer una nota de orden sin alterar silenciosamente la numeración tradicional.
+- Derechos: que una obra antigua sea de dominio público no significa que cualquier traducción moderna lo sea. Antes de incluir el texto español completo, identificar la traducción concreta, su traductor, año de publicación, jurisdicción y licencia/dominio público. La política de OCP limita expresamente el uso de reconstrucciones y correcciones específicas.
+
+### Estado de esta sesión
+- Se amplió la bibliografía crítica y se precisó el alcance de los testigos.
+- No se declara terminado ningún capítulo: todavía no se dispone del manuscrito español base ni de una traducción española completa cuya reutilización esté verificada.
+- Siguiente avance: localizar una traducción española histórica con metadatos verificables y situación de derechos clara; comparar su estructura con la edición crítica y documentar capítulos en lotes, sin alterar el texto a ciegas.
