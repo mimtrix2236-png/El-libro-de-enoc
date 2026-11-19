@@ -7,7 +7,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
 - [x] Estructura editorial inicial y criterios de fuentes
 - [x] Guía general de secciones y capítulos
-- [x] Capítulo 1 — paráfrasis literaria + nota de lectura + dirección de ilustración
+- [x] Capítulo 1 — texto español revisado en sus 9 versículos a partir del ge'ez de Dillmann y cotejo con Charles; aparato crítico todavía en preparación
 - [x] Capítulo 2 — paráfrasis literaria + nota de lectura + dirección de ilustración
 - [x] Capítulos 3–5 — paráfrasis literarias + notas de lectura + direcciones de ilustración (borradores iniciales)
 - [x] Capítulos 6–10 — borradores narrativos, notas y direcciones de ilustración
@@ -61,3 +61,11 @@ Cotejar borradores con fuentes capítulo por capítulo; producir arte individual
 - [x] Capítulos 21–35 incorporados al lector como paráfrasis preliminares identificadas, con notas editoriales y cotejo pendiente.
 - [x] Ilustraciones vectoriales iniciales de capítulos 21–35 creadas y conectadas a la navegación.
 - [ ] Continuar desde el capítulo 36. Las paráfrasis no sustituyen el cotejo de los testigos ni constituyen una traducción crítica.
+
+
+## Cambio de método editorial — 19 de noviembre de 2026
+
+- Se suspende la incorporación de paráfrasis-resumen como si fueran capítulos terminados.
+- La edición definitiva se rehace desde el capítulo 1, versículo por versículo, conservando la numeración de la edición base y registrando suplementos, emendaciones, lagunas y variantes.
+- Capítulo 1: primera revisión completa 1:1–9 integrada en la app. Base consultada: Dillmann 1851 (ge'ez), Charles 1917 y descripción del testigo Rylands Ethiopic MS 23, fol. 2r col. a. Pendiente el cotejo directo de todas las fotografías y aparatos críticos; por ello no se etiqueta aún como definitivo.
+- Los capítulos 2–108 quedan en estado provisional hasta ser rehechos con este mismo método. Las paráfrasis existentes no cuentan como traducción final.
