@@ -67,3 +67,6 @@ Cada tramo debe registrar: edición española base (traductor/editor/año/licenc
 - Fuente de control: Andrei A. Orlov, “Enoch, Astronomical Book of (1 Enoch 72–82)”, *Dictionary of Early Judaism*, pp. 580–581 del PDF consultado.
 - Se documenta que el propio PDF extraído contiene errores de OCR en nombres/referencias; no trasladarlos al texto ni tratarlos como variantes antiguas.
 - **Alcance real:** avance de control estructural y numérico. No se ha hecho aún cotejo versículo por versículo, no se declara terminado ningún capítulo y no se ha producido todavía el texto español final.
+
+
+- Nuevo documento `editorial/INCIDENCIAS_77-82.md` (commit `4448d05414a9428a5a0d7731758b756085d0bc64`): registra una advertencia de encabezado 77/78 ausente en una transcripción digital y una variante numérica 360/364 en 82:11 reportada para distintos testigos. Ambas quedan pendientes de verificación directa en facsímiles; no se ha impuesto ninguna lectura.
