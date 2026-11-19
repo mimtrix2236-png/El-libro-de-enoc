@@ -11,3 +11,10 @@ La matanza y el clamor de la tierra continúan. Enoc mira al cielo y ve seres de
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXXVII, https://rojc.uk/book-of-enoch.htm; https://adfonteslibrary.org/work-st-pseudepigrapha-1-enoch (consultadas 19-11-2026). Paráfrasis original.
 
 **Pendiente:** revisar la descripción de los seres celestiales y la torre, y su conexión con la escena siguiente.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+El capítulo describe seres celestiales que apartan a Enoc y lo elevan para observar la visión. En el texto los seres no están todos nombrados; la identificación con los cuatro arcángeles es una interpretación tradicional, no se incorpora al resumen como dato explícito. Los fragmentos Qumrán de la Vision of the Beasts 4Q204–207 son evidencia de circulación de partes de esta sección amplia, pero no se realizó una asignación verse-by-verse en esta revisión.
+
+**Pendiente:** verificar número de seres, acciones y el término de la torre con edición crítica y fragmentos.
