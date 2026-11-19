@@ -11,3 +11,10 @@ Enoc exhorta a sus hijos y a los justos a elegir rectitud y una vida de paz. Les
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. XCIV, https://rojc.uk/book-of-enoch.htm; texto de Charles consultado en https://fishtheright.com/writings/enoch/92/ (consultadas 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar las subdivisiones 94:1–5 y 94:6–11, variantes y posibles suplementos. Esta paráfrasis no constituye una traducción versicular.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+94:1–5 pertenece a la exhortación/epístola y está parcialmente atestiguado por 4Q212 (la ficha bibliográfica asigna 94:1–2 a un fragmento); 94:6–11 se encuentra en la sección de ayes y no está confirmado por ese fragmento. El resumen cubre ambos bloques de manera general; en la edición final deberán separarse y anotar los límites del testimonio.
+
+**Pendiente:** verificar versículos, términos de riqueza/violencia y los suplementos de Charles contra el Ge'ez y 4Q212. No se afirma cotejo directo del arameo.
