@@ -3,35 +3,59 @@
 Actualizado: 2026-11-19
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
-## Continuidad
-- No presentar al usuario la aplicación/APK hasta que esté finalizada, compilada y verificada.
-- No depender del historial del chat; leer y actualizar este documento y los registros de `editorial/` en cada sesión nueva.
-- Guardar cada avance como commit en GitHub.
-- Mantener estilo visual acordado: libro antiguo de cuero marrón, pergamino envejecido, ornamentación dorada discreta, tipografía serif y grabados sepia.
+## Mandato del usuario
+- Terminar la edición editorial completa del libro (capítulos 1–108), cotejo de fuentes, corrección justificada, verificación de datos cronológicos/fechas/calendario/nombres/medidas, ilustraciones y aplicación.
+- No presentar aplicación ni APK al usuario antes de que todo esté completo y comprobado.
+- Guardar avances frecuentes en GitHub para poder continuar desde un chat nuevo sin depender del historial de conversación.
+- No pedir confirmación capítulo por capítulo ni para ilustraciones rutinarias.
+- El usuario pide que el trabajo no se detenga hasta completar. **Limitación real:** el asistente no puede garantizar trabajo autónomo continuo en segundo plano ni superar límites de automatizaciones; la continuidad debe hacerse en sesiones o ejecuciones disponibles. En nuevas sesiones, abrir este archivo y los registros y continuar desde el estado guardado. No afirmar progreso no realizado.
 
-## Trabajo guardado
-- `editorial/COTEJO_CAPITULOS_76-90.md`: registro estructural y criterios para 76–108; enmienda explícita de notas previas provisionales.
-- `editorial/REGISTRO_VERIFICACION_FUENTES.md`: bibliografía y comprobaciones de fuentes, calendario y orden textual.
-- Imagen ilustrativa del capítulo 76 generada en el chat (puertas celestes y vientos en grabado sepia). Se registró su descripción; subida como binario a GitHub aún no verificada.
+## Diseño editorial y visual
+Libro antiguo de cuero marrón, pergamino envejecido, ornamentación dorada discreta, tipografía serif, grabados originales en sepia. Conservar el texto fiel y usar notas editoriales para variantes, interpolaciones, lagunas y problemas de transcripción.
 
-## Hallazgos confirmados
-- 1 Enoc es una colección compuesta con diferentes unidades y dataciones, no un texto homogéneo de una sola autoría/fecha.
-- Secciones: 72–82 Astronómico; 83–90 Visiones de los Sueños; 91–108 final compuesto por unidades; 106–107 relato de Noé; 108 apéndice.
-- Orden crítico frecuente de la sección final: 93:1–10 + 91:11–17 (Apocalipsis de las Semanas); 91:1–10, 18–19 (exhortación); 92:1–5 + 93:11–105:2 (epístola); 106–107; 108. Ediciones difieren en presentación.
-- Calendario de 364 días descrito en el Libro Astronómico es esquema antiguo, no duración astronómica actual.
+## Estado real (no confundir notas preliminares con cotejo completo)
+- **Capítulos 1–75:** el estado previo del chat decía borrador, pero el manuscrito y los archivos completos no están disponibles en el repositorio. No se puede certificar el cotejo ni dar por finalizados estos capítulos.
+- **76–90:** existe un registro de observaciones estructurales/provisionales; NO es cotejo crítico versículo a versículo. Revisar antes de aplicar enmiendas.
+- **91–108:** existen observaciones de estructura y variantes de orden; NO cotejo versículo a versículo.
+- **Ilustración 76:** generada en chat, escena de doce puertas/vientos celestes en grabado sepia. Archivo binario en GitHub no verificado.
+- **App/APK:** no implementada ni compilada/verificada en este repositorio; no presentar como producto listo.
 
-## Pendientes principales
-1. Definir edición española base legalmente utilizable; registrar editor, traductor, año, URL/ISBN/licencia.
-2. Cotejo versículo a versículo con esa edición y fuentes críticas; tabla de discrepancias y notas.
-3. Verificación de nombres, cronología, calendarios, medidas y datos astronómicos; no inventar enmiendas.
-4. Crear ilustraciones para capítulos restantes; catalogar prompts y assets; guardar imágenes en repositorio o almacenamiento verificable.
-5. Implementar app Android, contenido completo, offline, índice, navegación, búsqueda, marcadores, progreso, ajustes y lectura.
-6. Compilar, probar en tamaños/dispositivos, verificar funcionalidad y preparar APK firmado/instalable según capacidades disponibles.
+## Fuentes y hallazgos guardados
+Ver editorial/REGISTRO_VERIFICACION_FUENTES.md y editorial/COTEJO_CAPITULOS_76-90.md.
+1 Enoc es una colección de unidades literarias con transmisión/composición diferenciada, no una obra de autoría y fecha uniformes.
+- Astronómico: 72–82; Sueños: 83–90; final: 91–108 (incluye unidades editoriales distintas).
+- El calendario de 364 días es un sistema antiguo descrito en el texto; no debe confundirse con el año tropical astronómico actual.
+- Hay diferencias de orden y numeración editorial, especialmente en la composición de 91–93. No reorganizar sin documentar la edición base.
+- Distinguir error de OCR, errata de edición, variante de traducción, variante textual, interpolación, laguna y corrección conjetural.
 
-## Bloqueo operativo
-- No se logró crear automatización diaria porque la cuenta alcanzó el límite de 3 tareas programadas activas. No se canceló ninguna tarea existente sin autorización.
-- El repositorio inicialmente estaba vacío; ahora contiene registros editoriales. No afirmar que el APK o la app están implementados.
-- El manuscrito base del proyecto no está disponible aquí; una fuente de referencia ayuda al control de estructura, pero no sustituye el cotejo del texto español elegido.
+## Lista de trabajo (no declarar capítulo terminado hasta completar texto, cotejo y nota de verificación)
+- [ ] 1–10
+- [ ] 11–20
+- [ ] 21–30
+- [ ] 31–40
+- [ ] 41–50
+- [ ] 51–60
+- [ ] 61–71
+- [ ] 72–82
+- [ ] 83–90
+- [ ] 91–105
+- [ ] 106–108
+- [ ] Apéndice/notas editoriales y bibliografía
+- [ ] Ilustraciones: catalogar/crear para cada capítulo y guardar archivos verificables
+- [ ] App: implementación completa (texto íntegro de edición legalmente utilizable, imágenes, índice, navegación, búsqueda, favoritos/marcadores, progreso, ajustes, lectura offline)
+- [ ] Build reproducible, pruebas y APK final comprobado
 
-## Próximo paso al retomar
-Leer este archivo y `editorial/REGISTRO_VERIFICACION_FUENTES.md`; obtener/definir la edición base, continuar cotejo con capítulos 76–82 y registrar cada discrepancia con fuente y decisión; después seguir capítulos consecutivamente. No anunciar finalización hasta comprobar todos los requisitos.
+## Requisitos para cotejo
+Cada tramo debe registrar: edición española base (traductor/editor/año/licencia o estado legal), referencias consultadas, lista de discrepancias por capítulo/versículo, clasificación del problema, propuesta, justificación, decisión editorial, confianza y cualquier texto incierto. Validar datos astronómicos/cronológicos contra fuentes académicas y distinguir el contenido histórico de explicaciones científicas actuales.
+
+## Bloqueos
+- Falta recuperar/definir el texto español base y verificar su derecho de uso.
+- La automatización diaria no pudo crearse porque la cuenta alcanzó el máximo de 3 tareas activas; no se canceló ninguna tarea ajena.
+- No hay build ni pruebas confirmadas.
+
+## Continuidad para el próximo chat
+1. Leer este archivo y todos los documentos editoriales.
+2. No repetir ni sobrevalorar avances anteriores; corregir registro si una afirmación no está sustentada.
+3. Conseguir/definir edición base y legalidad.
+4. Trabajar consecutivamente, cotejar capítulos y guardar commits incrementales.
+5. No entregar la app hasta que cada casilla esté verificada y el build/test esté comprobado.
