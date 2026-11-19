@@ -31,3 +31,10 @@
 - Identifiqué el testimonio griego Chester Beatty-Michigan XII como parcial: 97:6–104:13 (con lagunas) y 106:1–107:3; no cubre 96 ni 97:1–5. El catálogo 4care se consultó, no se leyeron imágenes del papyrus.
 - Registré que no se asigna un testimonio Qumrán arameo directo a 96–100 en la lista consultada; no se afirma corroboración manuscrita de esos capítulos.
 - Próxima tarea: 101–105 y luego 106–108; verificar el contenido de 105 y 108 (tradición Ge'ez), el apéndice de nacimiento de Noé y la continuidad de los testigos griegos/latinos.
+
+
+## 19 de noviembre de 2026 — capítulos 101–105
+- Añadí notas de testigos y límites de cotejo a 101–105 y creé `docs/auditoria_101-105_fuentes.md`.
+- Registré el rango parcial del papyrus griego Chester Beatty-Michigan XII (97:6–104:13 y 106:1–107:3) y el fragmento arameo 4Q204 asignado a 104:13–105:2; no se afirma que se hayan leído directamente los manuscritos.
+- En capítulo 105 anoté que su ausencia del papyrus griego no prueba interpolación tardía, pues hay un testimonio arameo fragmentario; la frase “su hijo” queda sin interpretación doctrinal definitiva.
+- Próxima tarea: audit 106–108, birth-of-Noah appendix and eschatological admonition, then source/copyright review and app integration.
