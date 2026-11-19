@@ -11,3 +11,10 @@ La visión continúa con una estrella que cae del cielo y se mezcla con los anim
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXXVI, https://rojc.uk/book-of-enoch.htm; https://adfonteslibrary.org/work-st-pseudepigrapha-1-enoch (consultadas 19-11-2026). Paráfrasis original.
 
 **Nota:** los animales son símbolos del sueño; no se presenta aquí una reconstrucción zoológica ni una identificación histórica definitiva. Cotejo pendiente.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+El motivo de estrella(s) caída(s), unión con animales y nacimiento de híbridos (elefantes, camellos, asnos) está en el texto de Charles. La interpretación como alusión a los Vigilantes/Nephilim es un paralelo narrativo razonable, pero se mantiene como interpretación; no se identifican especies ni actores históricos de forma definitiva. Dugan 2023 considera la evidencia material de 4Q204–207 en relación con la Vision of the Beasts, pero la presente nota no ubica cada fragmento por verso.
+
+**Pendiente:** cotejo de los fragmentos arameos y variantes de 86 con Drawnel 2019/Milik 1976.
