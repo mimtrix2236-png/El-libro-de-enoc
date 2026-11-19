@@ -100,7 +100,9 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 
 - GitHub Actions run 104 failed during `compileDebugKotlin`: Java compilation target 1.8 conflicted with Kotlin target 17. This is a real failure, not a successful build.
 - [x] Fixed the configuration in `app/build.gradle.kts` by aligning Java source/target and Kotlin JVM target to 17.
-- [ ] The new CI run after this fix must complete successfully; APK generation is not verified yet.
+- [x] CI run 111 completed successfully for commit `fe2150aae85f70669a5bc27fcc14f34a3b982d3f` after the JVM-target fix (run: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44532471736). This verified compilation for that commit only, not the later chapter 72–77 additions.
+- [x] Workflow updated to upload `app/build/outputs/apk/debug/app-debug.apk` as a 30-day artifact; this upload configuration still awaits its own successful run.
+- [ ] Latest content build and artifact upload verified.
 
 
 ## Avance astronómico — capítulos 72–77 (19 de noviembre de 2026)
