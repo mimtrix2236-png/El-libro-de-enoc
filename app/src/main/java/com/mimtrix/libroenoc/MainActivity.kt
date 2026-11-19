@@ -44,6 +44,15 @@ private fun EnocReader() {
     val paper = if (night) Color(0xFF302832) else Color(0xFFFBF6EA)
     val text = if (night) Parchment else Ink
     val selected = EnocContent.chapters.firstOrNull { it.number == selectedChapter }
+    val chapterArt = when (selectedChapter) {
+        6 -> R.drawable.watchers_06
+        7 -> R.drawable.giants_07
+        8 -> R.drawable.forbidden_08
+        9 -> R.drawable.archangels_09
+        10 -> R.drawable.judgment_10
+        else -> R.drawable.enoch_illumination_banner
+    }
+    val lastAvailableChapter = EnocContent.chapters.maxOfOrNull { it.number } ?: 1
 
     MaterialTheme {
         Surface(Modifier.fillMaxSize(), color = bg) {
@@ -96,6 +105,8 @@ private fun EnocReader() {
                                 item {
                                     Text("CAPÍTULO $selectedChapter", color = Wine, fontSize = 10.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.5.sp)
                                     Spacer(Modifier.height(7.dp))
+                                    Image(painterResource(chapterArt), contentDescription = "Ilustración del capítulo $selectedChapter", modifier = Modifier.fillMaxWidth().height(132.dp))
+                                    Spacer(Modifier.height(12.dp))
                                     Text(selected?.title ?: "Capítulo", color = text, fontSize = 24.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Serif)
                                     Spacer(Modifier.height(9.dp))
                                     Text(selected?.editorialNote ?: "", color = text.copy(alpha = .72f), fontSize = 12.sp)
@@ -129,7 +140,7 @@ private fun EnocReader() {
                         TextButton(onClick = { fontScale = (fontScale + .1f).coerceAtMost(1.5f) }) { Text("A+", color = text) }
                         TextButton(onClick = { night = !night }) { Text(if (night) "☀" else "☾", color = text) }
                     }
-                    TextButton(onClick = { selectedChapter = (selectedChapter + 1).coerceAtMost(108); showIndex = false }) { Text("Siguiente ›", color = text) }
+                    TextButton(onClick = { selectedChapter = (selectedChapter + 1).coerceAtMost(lastAvailableChapter); showIndex = false }) { Text("Siguiente ›", color = text) }
                 }
             }
         }
