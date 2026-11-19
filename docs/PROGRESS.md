@@ -138,3 +138,18 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Fuentes consultadas: R. H. Charles, *The Book of Enoch* (1912), caps. LXXXIII–LXXXVIII, reproducción en https://rojc.uk/book-of-enoch.htm y pasajes consultados en https://adfonteslibrary.org/work-st-pseudepigrapha-1-enoch; consulta 19-11-2026.
 - [ ] Cotejar secuencia, símbolos de animales/estrellas y variantes. No asignar identidades históricas definitivas en estas paráfrasis.
 - [ ] Próximos archivos faltantes: capítulos 89–108.
+
+
+## Build checkpoint through chapter 82 — 19 de noviembre de 2026
+
+- [x] CI run 122 completed successfully for commit `656be007498839006cf30c2bdf387e7cc65a52c5`: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44533080957
+- [x] Debug APK artifact exists: `el-libro-de-enoc-debug-apk`, 9,114,758 bytes, expires 19-12-2026. Run link: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44533080957
+- The app source still only includes the earlier partial chapter catalog; this build is an intermediate compile/artifact, not the complete reader or final APK.
+
+## Audit — 19 November 2026
+
+- [x] 88 individual chapter-paraphrase files exist in `docs/chapters/`, numbered 1–88 consecutively.
+- [x] 23 individual SVG chapter illustrations exist in `assets/illustrations/`, numbered 66–88 consecutively.
+- [ ] Chapters 89–108 and their illustrations are still missing.
+- [ ] The chapter text remains provisional; sources have been consulted online but no complete manuscript-by-manuscript critical collation has been done for these batches.
+- [ ] The reader app has not yet integrated chapters 36–88 or these new SVGs; the PDF has not been produced.
