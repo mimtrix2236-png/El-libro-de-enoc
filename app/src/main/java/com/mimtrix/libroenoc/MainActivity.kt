@@ -153,7 +153,19 @@ private fun EnocReader() {
                         }
                     }
                 } else {
-                    Column(Modifier.weight(1f).padding(horizontal = 14.dp).pointerInput(selectedChapter) {\n                        var totalDrag = 0f\n                        detectHorizontalDragGestures(\n                            onDragStart = { totalDrag = 0f },\n                            onDragEnd = {\n                                if (totalDrag < -90f) selectedChapter = (selectedChapter + 1).coerceAtMost(lastAvailableChapter)\n                                else if (totalDrag > 90f) selectedChapter = (selectedChapter - 1).coerceAtLeast(1)\n                                totalDrag = 0f\n                            },\n                            onDragCancel = { totalDrag = 0f },\n                            onHorizontalDrag = { _, amount -> totalDrag += amount }\n                        )\n                    }) {
+                    Column(Modifier.weight(1f).padding(horizontal = 14.dp).pointerInput(selectedChapter) {
+                        var totalDrag = 0f
+                        detectHorizontalDragGestures(
+                            onDragStart = { totalDrag = 0f },
+                            onDragEnd = {
+                                if (totalDrag < -90f) selectedChapter = (selectedChapter + 1).coerceAtMost(lastAvailableChapter)
+                                else if (totalDrag > 90f) selectedChapter = (selectedChapter - 1).coerceAtLeast(1)
+                                totalDrag = 0f
+                            },
+                            onDragCancel = { totalDrag = 0f },
+                            onHorizontalDrag = { _, amount -> totalDrag += amount }
+                        )
+                    }) {
                         Card(Modifier.fillMaxSize(), shape = RoundedCornerShape(12.dp), colors = CardDefaults.cardColors(containerColor = paper)) {
                             LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(19.dp)) {
                                 item {
