@@ -60,6 +60,11 @@ private fun EnocReader() {
         18 -> R.drawable.columns_18
         19 -> R.drawable.abyss_19
         20 -> R.drawable.archangels_20
+        21 -> R.drawable.judgment_places_21
+        22 -> R.drawable.souls_chambers_22
+        23 -> R.drawable.outer_fire_23
+        24 -> R.drawable.chosen_mountains_24
+        25 -> R.drawable.tree_of_life_25
         else -> R.drawable.enoch_illumination_banner
     }
     val lastAvailableChapter = EnocContent.chapters.maxOfOrNull { it.number } ?: 1
