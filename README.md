@@ -53,6 +53,9 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 - Fuente-audit 101–105: `docs/auditoria_101-105_fuentes.md`; anotados los testigos griegos parciales y 4Q204 para 104:13–105:2.
 
+- Fuente-audit 106–108: `docs/auditoria_106-108_fuentes.md`; apéndice de Noé con testigos fragmentarios y capítulo 108 señalado como Ge'ez-only en los testigos consultados.
+- Hito de borradores: están presentes 108 archivos de capítulos; 66–108 cuentan con notas críticas de fuentes y límites de evidencia, aún no traducción crítica final.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
