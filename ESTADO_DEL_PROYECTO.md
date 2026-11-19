@@ -59,3 +59,11 @@ Cada tramo debe registrar: edición española base (traductor/editor/año/licenc
 3. Conseguir/definir edición base y legalidad.
 4. Trabajar consecutivamente, cotejar capítulos y guardar commits incrementales.
 5. No entregar la app hasta que cada casilla esté verificada y el build/test esté comprobado.
+
+
+## Avance guardado — control académico de capítulos 72–82 (2026-11-19)
+- Se creó `editorial/CONTROL_CAPITULOS_72-82.md` (commit `6a27f0b72119547ce92bc0386160bde9f25f5f10`).
+- Registra el contenido por capítulo, las cifras sensibles (364, 354 y 360 días; puertas solares y de vientos; listas del capítulo 77), y la posible pérdida de material tras 82:20.
+- Fuente de control: Andrei A. Orlov, “Enoch, Astronomical Book of (1 Enoch 72–82)”, *Dictionary of Early Judaism*, pp. 580–581 del PDF consultado.
+- Se documenta que el propio PDF extraído contiene errores de OCR en nombres/referencias; no trasladarlos al texto ni tratarlos como variantes antiguas.
+- **Alcance real:** avance de control estructural y numérico. No se ha hecho aún cotejo versículo por versículo, no se declara terminado ningún capítulo y no se ha producido todavía el texto español final.
