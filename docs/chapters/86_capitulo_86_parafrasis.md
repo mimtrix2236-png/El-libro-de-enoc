@@ -1,20 +1,23 @@
-# Capítulo 86 — Las estrellas caídas y los gigantes (paráfrasis provisional)
+# Capítulo 86 — Las estrellas caídas y los gigantes (paráfrasis provisional por versículo)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa ni cotejo diplomático.
 
-La visión continúa con una estrella que cae del cielo y se mezcla con los animales. Después llegan muchas estrellas más, que se unen a la primera. En la alegoría, su unión con las hembras produce criaturas descritas como elefantes, camellos y asnos. Los animales temen a estos seres, se enfrentan, devoran y hieren entre sí; la tierra y sus habitantes quedan aterrados y huyen.
+**86:1.** Enoc ve una estrella caer del cielo y acercarse a los toros; la estrella se comporta como un animal que pasta entre ellos.
 
-**Idea central:** la caída de las estrellas y la violencia de las criaturas simbolizan la irrupción de fuerzas que corrompen y devastan.
+**86:2.** Los toros grandes, incluido el negro, cambian de lugar y de pastoreo, y comienzan a convivir de otra manera.
 
-**Ilustración propia:** assets/illustrations/chapter_86.svg — una estrella cae sobre un rebaño, otras estrellas la siguen; siluetas de criaturas gigantes y animales en desorden bajo un cielo oscuro.
+**86:3.** Muchas estrellas bajan y se precipitan hacia la primera; en la alegoría aparecen como toros entre los animales.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXXVI, https://rojc.uk/book-of-enoch.htm; https://adfonteslibrary.org/work-st-pseudepigrapha-1-enoch (consultadas 19-11-2026). Paráfrasis original.
+**86:4.** Los recién llegados se unen con las vacas, y estas quedan preñadas y dan a luz criaturas descritas como elefantes, camellos y asnos.
 
-**Nota:** los animales son símbolos del sueño; no se presenta aquí una reconstrucción zoológica ni una identificación histórica definitiva. Cotejo pendiente.
+**86:5.** Los toros sienten temor y se enfrentan: muerden, devoran y cornean.
 
+**86:6.** Las criaturas comienzan a devorar a los toros; los habitantes de la tierra se estremecen, temen y huyen.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**Idea central:** La caída de estrellas y las criaturas híbridas simbolizan la irrupción de violencia y desorden.
 
-El motivo de estrella(s) caída(s), unión con animales y nacimiento de híbridos (elefantes, camellos, asnos) está en el texto de Charles. La interpretación como alusión a los Vigilantes/Nephilim es un paralelo narrativo razonable, pero se mantiene como interpretación; no se identifican especies ni actores históricos de forma definitiva. Dugan 2023 considera la evidencia material de 4Q204–207 en relación con la Vision of the Beasts, pero la presente nota no ubica cada fragmento por verso.
+**Ilustración SVG propia:** `assets/illustrations/chapter_86.svg` — arte conceptual específico del capítulo.
 
-**Pendiente:** cotejo de los fragmentos arameos y variantes de 86 con Drawnel 2019/Milik 1976.
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXXVI, dominio público; transcripción consultada, no cotejo directo.
+
+**Nota textual:** Fuente de trabajo: Charles 1917, cap. LXXXVI. La secuencia se conserva como alegoría; no se fijan identidades históricas ni se cotejaron fragmentos verso por verso. Ver docs/auditoria_83-90_fuentes.md.
