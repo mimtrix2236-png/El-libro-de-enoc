@@ -40,7 +40,10 @@
 | 11 | 1–2 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 3r col. a; precisión «sobre la tierra» suplementada por Charles |
 | 12 | 1–6 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 3r col. a; revisar expresiones dañadas o inciertas en 12:4–6 |
 | 13 | 1–10 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 3r col. a–b; pasajes inciertos en 13:1–2, 13:6 y suplemento en 13:8 |
-| 14–108 | — | PENDIENTE | No incorporar resúmenes anteriores como traducción definitiva |
+| 14 | 1–25 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 3r col. b–3v col. a; suplementos de Charles en 14:3–4, 14:18 y 14:25 |
+| 15 | 1–12 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 3v col. a–b; suplementos en 15:2, 15:9–11 |
+| 16 | 1–4 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 3v col. b; variantes y suplementos en 16:1–3 |
+| 17–108 | — | PENDIENTE | No incorporar resúmenes anteriores como traducción definitiva |
 
 ## Decisión editorial de calendario
 En 82:11, la lectura de trabajo acordada es 360 días más cuatro días intercalares. Se conserva 364 como variante documentada. No reabrir esta decisión sin nueva evidencia textual.
@@ -57,10 +60,10 @@ En 82:11, la lectura de trabajo acordada es 360 días más cuatro días intercal
 9. Cambiar el estado a REVISADO; solo después de revisión editorial final, DEFINITIVO.
 
 ## Advertencia sobre el estado actual
-Los capítulos 1–13 incluidos en la aplicación son borradores de traducción basados en el texto ge'ez crítico digital de Dillmann, la traducción de Charles y la cartografía de columnas del manuscrito Rylands MS 23 publicada por Theosis Library. No son todavía una transcripción diplomática ni una edición crítica completa. Los capítulos 11–108 aún no deben presentarse como texto definitivo.
+Los capítulos 1–16 incluidos en la aplicación son borradores de traducción basados en el texto ge'ez crítico digital de Dillmann, la traducción de Charles y la cartografía de columnas del manuscrito Rylands MS 23 publicada por Theosis Library. No son todavía una transcripción diplomática ni una edición crítica completa. Los capítulos 11–108 aún no deben presentarse como texto definitivo.
 
 ## Avance documentado de la sesión
-- Capítulos 6–13 añadidos a la aplicación, versículo por versículo según la numeración de Charles.
-- Ilustraciones vectoriales originales vinculadas a los capítulos 6–13.
-- Fuentes de cotejo y límites de los testigos registrados en `editorial/fuentes_capitulos_06_10.md` y `editorial/fuentes_capitulos_11_13.md`.
+- Capítulos 6–16 añadidos a la aplicación, versículo por versículo según la numeración de Charles.
+- Ilustraciones vectoriales originales vinculadas a los capítulos 6–16.
+- Fuentes de cotejo y límites de los testigos registrados en los archivos `editorial/fuentes_capitulos_06_10.md`, `editorial/fuentes_capitulos_11_13.md` y `editorial/fuentes_capitulos_14_16.md`.
 - Los textos de capítulos 6–10 permanecen marcados como borradores; se requiere segunda colación de variantes y revisión lingüística.
