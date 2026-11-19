@@ -35,14 +35,18 @@ private val Gold = Color(0xFFC69A45)
 private val Wine = Color(0xFF6B2835)
 
 class MainActivity : ComponentActivity() {
+    private val celestialPlayer = CelestialAudioPlayer()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContent { EnocReader() }
+        setContent { EnocReader(celestialPlayer) }
     }
+    override fun onStart() { super.onStart(); celestialPlayer.resume() }
+    override fun onStop() { celestialPlayer.pause(); super.onStop() }
+    override fun onDestroy() { celestialPlayer.stop(); super.onDestroy() }
 }
 
 @Composable
-private fun EnocReader() {
+private fun EnocReader(celestialPlayer: CelestialAudioPlayer) {
     val context = LocalContext.current
     val prefs = remember(context) { context.getSharedPreferences("enoc_reader", Context.MODE_PRIVATE) }
     var selectedChapter by remember { mutableIntStateOf(prefs.getInt("last_chapter", 1).coerceIn(1, 108)) }
@@ -59,6 +63,10 @@ private fun EnocReader() {
     LaunchedEffect(bookmarks) {
         prefs.edit().putStringSet("bookmarks", bookmarks.map { it.toString() }.toSet()).apply()
     }
+    var ambientEnabled by remember { mutableStateOf(false) }
+    var ambientVolume by remember { mutableFloatStateOf(.18f) }
+    LaunchedEffect(ambientEnabled, ambientVolume) { if (ambientEnabled) celestialPlayer.start(ambientVolume) else celestialPlayer.stop() }
+    DisposableEffect(celestialPlayer) { onDispose { celestialPlayer.stop() } }
     val visibleChapters = EnocContent.chapters.filter {
         searchQuery.isBlank() || it.number.toString().contains(searchQuery.trim()) || it.title.contains(searchQuery.trim(), ignoreCase = true)
     }
@@ -120,6 +128,14 @@ private fun EnocReader() {
                     Text(if (showIndex) "ÍNDICE DE CAPÍTULOS" else "CAPÍTULO $selectedChapter", color = text, fontWeight = FontWeight.Bold, fontSize = 12.sp)
                     Spacer(Modifier.weight(1f))
                     TextButton(onClick = { showIndex = !showIndex }) { Text(if (showIndex) "Continuar" else "Índice", color = Wine) }
+                }
+                Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 3.dp), verticalAlignment = Alignment.CenterVertically) {
+                    Text("Ambiente celestial", color = text, fontSize = 12.sp)
+                    Spacer(Modifier.weight(1f))
+                    Switch(checked = ambientEnabled, onCheckedChange = { ambientEnabled = it })
+                }
+                if (ambientEnabled) {
+                    Slider(value = ambientVolume, onValueChange = { ambientVolume = it }, valueRange = 0f..0.35f, modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp))
                 }
                 if (showIndex) {
                     OutlinedTextField(
