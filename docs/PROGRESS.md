@@ -68,3 +68,16 @@ Cotejar borradores con fuentes capítulo por capítulo; producir arte individual
 - Capítulo 2: traducción de trabajo 2:1–3 preparada en documento independiente, con ge'ez de Dillmann 1851, Charles 1917 y nota expresa sobre la cláusula 2:3 que Charles marca como suplemento. Todavía no se ha integrado en EnocContent.kt.
 - Capítulos 3–20: sus entradas previas siguen siendo borradores y no se cuentan como traducción final. Deben sustituirse capítulo por capítulo.
 - Los capítulos 21–108 quedan en estado provisional hasta ser rehechos con este mismo método. Las paráfrasis existentes no cuentan como traducción final.
+
+
+## Revisión versículo por versículo — capítulos 3–20 (19 de noviembre de 2026)
+
+Se incorporaron documentos editoriales individuales para los capítulos 3–20:
+- Cap. 3: 3:1; capítulo de un solo versículo.
+- Cap. 4: 4:1; capítulo de un solo versículo.
+- Cap. 5: estructura irregular de Charles con subdivisiones alfabéticas en 5:6 y 5:7. El tramo 5:6d–j permanece sin traducción literal cerrada y está descrito como sección problemática; no se debe considerar completo.
+- Caps. 6–20: documentos con numeración de Charles, traducción de trabajo y notas de suplementos, reconstrucciones, nombres y pasajes dudosos.
+- Fuentes base consultadas: Dillmann 1851 (ge'ez), Charles 1917 (numeración y siglas editoriales), mapeo fotográfico del Rylands Ethiopic MS 23 y descripción de la evidencia en Online Critical Pseudepigrapha.
+- Advertencia general: el texto ge'ez digital de Dillmann no tiene numeración versicular y no es transcripción diplomática del Rylands MS 23. La traducción sigue la segmentación editorial de Charles; las variantes requieren cotejo adicional con Charles 1906, Knibb y los testigos griegos/arameos disponibles.
+- Los documentos 03.md–20.md están en docs/chapters/. Todavía no se han integrado en EnocContent.kt; por tanto la app aún conserva entradas anteriores provisionales para estos capítulos.
+- No se declara completada la edición crítica ni la compilación APK.
