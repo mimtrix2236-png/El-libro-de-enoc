@@ -10,7 +10,8 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulo 1 — paráfrasis literaria + nota de lectura + dirección de ilustración
 - [x] Capítulo 2 — paráfrasis literaria + nota de lectura + dirección de ilustración
 - [x] Capítulos 3–5 — paráfrasis literarias + notas de lectura + direcciones de ilustración (borradores iniciales)
-- [ ] Capítulos 6–108
+- [x] Capítulos 6–10 — borradores narrativos, notas y direcciones de ilustración
+- [ ] Capítulos 11–108
 - [ ] Revisión de coherencia y notas documentales
 - [ ] Glosario y apéndices
 - [ ] Bibliografía verificada
@@ -39,4 +40,4 @@ El texto de lectura se redacta como paráfrasis literaria original y no se prese
 
 ## Próximo paso
 
-Redactar y documentar los capítulos 6–10, avanzando en secuencia sin duplicar contenidos; luego integrar capítulos y preliminares en el lector y añadir funciones persistentes, búsqueda, modo nocturno y pruebas.
+Redactar y documentar los capítulos 11–15 en secuencia; luego integrar capítulos en el lector y añadir funciones persistentes, búsqueda, modo nocturno y pruebas.
