@@ -32,7 +32,12 @@
 | 3 | 1–2 | PROVISIONAL | Comprobar la cifra de catorce árboles y duración de hojas |
 | 4 | 1 | PROVISIONAL | Mantener unidad textual sin divisiones inventadas |
 | 5 | 1–9 | PROVISIONAL | Revisar especialmente orden y segmentación de 5:6–7 |
-| 6–108 | — | PENDIENTE | No incorporar resúmenes anteriores como traducción definitiva |
+| 6 | 1–8 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 2r col. c; cotejo de apertura y estructura; variantes de nombres y Jared pendientes |
+| 7 | 1–6 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 2r col. c–2v col. a; cifra de 3.000 codos conservada como lectura transmitida |
+| 8 | 1–4 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 2v col. a; suplementos editoriales de la lista de enseñanzas pendientes |
+| 9 | 1–11 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 2v col. a–b; frase difícil 9:2 y cláusula suplementaria 9:3 |
+| 10 | 1–22 | BORRADOR TRADUCIDO | Rylands MS 23, fol. 2v col. b–3r col. a; suplementos en 10:2, 10:9, 10:16 y 10:21 |
+| 11–108 | — | PENDIENTE | No incorporar resúmenes anteriores como traducción definitiva |
 
 ## Decisión editorial de calendario
 En 82:11, la lectura de trabajo acordada es 360 días más cuatro días intercalares. Se conserva 364 como variante documentada. No reabrir esta decisión sin nueva evidencia textual.
@@ -49,4 +54,10 @@ En 82:11, la lectura de trabajo acordada es 360 días más cuatro días intercal
 9. Cambiar el estado a REVISADO; solo después de revisión editorial final, DEFINITIVO.
 
 ## Advertencia sobre el estado actual
-Los capítulos 1–5 incluidos en la aplicación son borradores de lectura basados en traducciones publicadas y resúmenes previos. No son todavía una transcripción diplomática ni una edición crítica completa. Los capítulos 6–108 aún no deben presentarse como texto definitivo.
+Los capítulos 1–10 incluidos en la aplicación son borradores de traducción basados en el texto ge'ez crítico digital de Dillmann, la traducción de Charles y la cartografía de columnas del manuscrito Rylands MS 23 publicada por Theosis Library. No son todavía una transcripción diplomática ni una edición crítica completa. Los capítulos 11–108 aún no deben presentarse como texto definitivo.
+
+## Avance documentado de la sesión
+- Capítulos 6–10 añadidos a la aplicación, versículo por versículo según la numeración de Charles.
+- Ilustraciones vectoriales originales vinculadas a los capítulos 6–10.
+- Fuente de cotejo y límites de los testigos registrados en `editorial/fuentes_capitulos_06_10.md`.
+- Los textos de capítulos 6–10 permanecen marcados como borradores; se requiere segunda colación de variantes y revisión lingüística.
