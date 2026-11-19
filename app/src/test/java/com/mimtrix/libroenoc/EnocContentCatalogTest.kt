@@ -45,4 +45,11 @@ class EnocContentCatalogTest {
         assertEquals(expected, chapter.verses.map { it.reference })
     }
 
+    @Test
+    fun chapter90NarrativeUnitsPreserveOrderedRanges() {
+        val expected = listOf("90:1–5", "90:6–12", "90:13–19", "90:20–27", "90:28–36", "90:37–42")
+        val chapter = EnocContent.chapters.first { it.number == 90 }
+        assertEquals(expected, chapter.verses.map { it.reference })
+    }
+
 }
