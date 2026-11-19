@@ -22,7 +22,7 @@
 - No convertir reconstrucciones editoriales en texto seguro.
 - Registrar una revisión como completada solo cuando el capítulo se coteje y se revise en español.
 
-## Prioridad de la siguiente sesión
+## Primer cotejo parcial registrado\n- Capítulos 66–71: revisión preliminar de tema y secuencia con traducción R. H. Charles 1917; borradores corregidos. Falta cotejo versículo por versículo, evaluación de variantes y revisión crítica.\n\n## Prioridad de la siguiente sesión
 1. Capítulos 66–71: sección de Parábolas; revisar identidad del Hijo del Hombre/Mesías y formulaciones interpretativas delicadas.
 2. Capítulos 72–82: revisar los datos astronómicos y calendáricos con notas que expliquen el sistema antiguo.
 3. Capítulos 83–90: verificar los sueños, el simbolismo animal y las transiciones históricas.
