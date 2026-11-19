@@ -17,10 +17,15 @@ Los archivos con sufijo `parafrasis` son paráfrasis de trabajo: no deben presen
 - Capítulo 75: [paráfrasis provisional](75_capitulo_75_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_75.svg)
 - Capítulo 76: [paráfrasis provisional](76_capitulo_76_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_76.svg)
 - Capítulo 77: [paráfrasis provisional](77_capitulo_77_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_77.svg)
+- Capítulo 78: [paráfrasis provisional](78_capitulo_78_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_78.svg)
+- Capítulo 79: [paráfrasis provisional](79_capitulo_79_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_79.svg)
+- Capítulo 80: [paráfrasis provisional](80_capitulo_80_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_80.svg)
+- Capítulo 81: [paráfrasis provisional](81_capitulo_81_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_81.svg)
+- Capítulo 82: [paráfrasis provisional](82_capitulo_82_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_82.svg)
 
 ## Pendiente
 
-Capítulos 78–108 aún no tienen archivos en este directorio. La revisión textual de los capítulos existentes tampoco se considera completa. La sección 71:13 (laguna señalada en la edición de Charles consultada) queda sin reconstrucción.
+Capítulos 83–108 aún no tienen archivos en este directorio. La revisión textual de los capítulos existentes tampoco se considera completa. La sección 71:13 (laguna señalada en la edición de Charles consultada) queda sin reconstrucción.
 
 ## Fuentes de consulta para 66–71
 
