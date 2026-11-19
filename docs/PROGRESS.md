@@ -153,3 +153,12 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - [ ] Chapters 89–108 and their illustrations are still missing.
 - [ ] The chapter text remains provisional; sources have been consulted online but no complete manuscript-by-manuscript critical collation has been done for these batches.
 - [ ] The reader app has not yet integrated chapters 36–88 or these new SVGs; the PDF has not been produced.
+
+
+## Avance — capítulos 89–94 (19 de noviembre de 2026)
+
+- [x] Capítulos 89–94: paráfrasis provisionales y originales creadas, con fuentes de trabajo y notas de orden/división textual.
+- [x] Capítulos 89–94: seis ilustraciones SVG individuales, estilo sepia/pergamino.
+- Fuentes consultadas: R. H. Charles, *The Book of Enoch* (1912), caps. LXXXIX–XCIV, reproducción en https://rojc.uk/book-of-enoch.htm; https://fishtheright.com/writings/enoch/92/; https://scriptura.si/works/enoch-1-charles-1917/91/; consulta 19-11-2026.
+- [ ] Cotejar la historia alegórica de 89–90 y las semanas 91/93; respetar la división de Charles (92 antes de 91; 91:12–17 colocados con 93) sin asumir que es el orden original.
+- [ ] Próximos archivos faltantes: capítulos 95–108.
