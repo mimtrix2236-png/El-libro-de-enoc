@@ -39,3 +39,9 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 98 | chapter_98.svg | Libro de obras y lujo desmoronado |
 | 99 | chapter_99.svg | Idolatría, falsas medidas y cuidado de niños |
 | 100 | chapter_100.svg | Justos bajo protección en tiempo de violencia |
+| 101 | chapter_101.svg | Navegantes y mar dentro de límites |
+| 102 | chapter_102.svg | Justicia y luz para los muertos rectos |
+| 103 | chapter_103.svg | Registros y queja de los justos |
+| 104 | chapter_104.svg | Libro de nombres y palabras fieles |
+| 105 | chapter_105.svg | Comunidad en paz ante la luz |
+| 106 | chapter_106.svg | Nacimiento de Noé y consulta de Lamech |
