@@ -121,3 +121,11 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Fuente consultada: R. H. Charles, *The Book of Enoch* (1912), caps. LXXVIII–LXXXII, https://rojc.uk/book-of-enoch.htm y Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html; 19-11-2026.
 - [ ] Cotejo de nombres de luminares, cifras del calendario, tablas celestiales y orden de secciones.
 - [ ] Próxima secuencia pendiente: capítulos 83–108.
+
+
+## APK artifact — 19 de noviembre de 2026
+
+- [x] Workflow updated to package the debug APK artifact; run 117 succeeded for commit `274c0fc8b0316d857cf50492eca9263ed6320471`.
+- Artifact verified: `el-libro-de-enoc-debug-apk`, 9,114,756 bytes, expires 19-12-2026. Artifact ZIP: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44532838183
+- This APK proves the Kotlin app compiled at that commit; the current app content is still partial and does not yet contain all 108 chapters. This is an intermediate build, not the final delivery.
+- [ ] Latest source through chapter 82 must be rebuilt and its artifact verified before this checkpoint can be considered current.
