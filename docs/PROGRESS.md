@@ -112,3 +112,12 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Fuentes consultadas: R. H. Charles, *The Book of Enoch* (1912), caps. LXXII–LXXVII, https://rojc.uk/book-of-enoch.htm y Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html. Consulta 19-11-2026.
 - [ ] Cotejar los cálculos calendáricos y cosmografía; no modernizar ni armonizar cifras sin aparato crítico.
 - [ ] Próxima secuencia de archivos faltantes: capítulos 78–108.
+
+
+## Avance astronómico — capítulos 78–82 (19 de noviembre de 2026)
+
+- [x] Capítulos 78–82: paráfrasis originales provisionales creadas, con fuente y advertencias sobre cálculos/nombres.
+- [x] Capítulos 78–82: SVGs específicos creados, estilo sepia sobre pergamino, aún no conectados al lector Android.
+- Fuente consultada: R. H. Charles, *The Book of Enoch* (1912), caps. LXXVIII–LXXXII, https://rojc.uk/book-of-enoch.htm y Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html; 19-11-2026.
+- [ ] Cotejo de nombres de luminares, cifras del calendario, tablas celestiales y orden de secciones.
+- [ ] Próxima secuencia pendiente: capítulos 83–108.
