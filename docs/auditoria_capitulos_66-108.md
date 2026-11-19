@@ -45,3 +45,10 @@ El commit posterior `645837c80ba361d42fe6a4bf46476b1d18961e07` añade las refere
 Se añadió búsqueda de capítulos (título/número), marcadores guardados en SharedPreferences, persistencia del capítulo, tamaño de letra y modo nocturno, y gesto horizontal para anterior/siguiente. El CI ejecuta tres tests de catálogo y la build APK.
 
 Se refinó el arte SVG de los capítulos 66–70. La comprobación de archivos confirma las copias en los assets Android. La build en commit `e2def78` pasó: workflow 44538335785, artifact debug de 9,194,893 bytes. Sigue siendo una build de desarrollo; no se ha probado en un teléfono real ni es una release final.
+
+
+## Ambiente y arte refinado — 19-11-2026
+
+Se implementó el sonido celestial de forma procedural (sine-pad con progresión lenta, fade-in/crossfade/release) mediante `AudioTrack`, sin muestras ni archivos de terceros; toggle apagado por defecto, control de volumen, offline, pausa en `onStop` y reanudación en `onStart`. Build/tests de commit `a802f77` pasaron; artifact debug 9,205,699 bytes. La escucha real en dispositivo queda pendiente.
+
+Se refinó el arte de capítulos 66–75 (10 SVG de escenas específicas) y sus copias en assets Android. Los capítulos 76–108 mantienen el arte vectorial de concepto que requiere refinamiento. El CI de commits de arte posteriores a `a802f77` estaba en cola al registrar esto.

@@ -218,3 +218,12 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - [x] Ilustraciones SVG 66–70 refinadas con escenas más detalladas y específicas, en pergamino/sepia, duplicadas en los assets Android.
 - [x] Compilación y artifact debug verificados en commit `e2def78`: workflow 44538335785, tests, `assembleDebug` y upload-artifact completados; APK artifact 9,194,893 bytes. Link: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44538335785.
 - [ ] El artifact es una build de desarrollo, no una release final; todavía faltan pruebas de dispositivo, revisión de navegación/UI, cotejo crítico y PDF.
+
+
+## Ambiente celestial y nuevas láminas — 19 de noviembre de 2026
+
+- [x] Ambiente celestial procedural original (sintetizado con AudioTrack, sin samples/archivos de terceros), interruptor apagado por defecto y volumen.
+- [x] Audio offline; se pausa al detenerse la actividad y se reanuda al volver; se detiene al cerrar el lector.
+- [x] Build/tests de CI en commit `a802f77` exitosos; APK debug artifact de 9,205,699 bytes: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44539201507. La escucha en teléfono aún no se ha probado.
+- [x] Arte SVG detallado revisado/refinado para capítulos 66–75 (10 escenas) y copias de app.
+- [ ] Build del commit de arte posterior y prueba física del sonido pendiente; los capítulos 76–108 siguen con SVG conceptuales más simples.

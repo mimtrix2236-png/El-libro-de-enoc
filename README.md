@@ -35,7 +35,7 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Los 108 capítulos tienen archivos individuales de paráfrasis provisional; los capítulos 66–108 están integrados en catálogos Kotlin offline. El cotejo crítico sigue pendiente.
 - 43 SVG capítulo-específicos (66–108) en `assets/illustrations/` y duplicados en `app/src/main/assets/illustrations/`; son bocetos vectoriales, no arte final.
 - El cotejo integral de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
-- Tres pruebas unitarias de catálogo pasan en CI; build debug y artifact verificados en commit `e2def78`: [ejecución](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44538335785). No es release final.
+- Tres pruebas unitarias de catálogo pasan en CI; build debug con ambiente celestial verificada en commit `a802f77`: [ejecución](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44539201507). No es release final; falta prueba en dispositivo.
 - Auditoría 66–108: `docs/auditoria_capitulos_66-108.md`.
 - CI Android: compilación verificada con éxito en commit `613cd34`; artifact APK debug disponible en [GitHub Actions](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44536929563). Es un build de desarrollo, no APK final.
 - Flujo de compilación Android configurado en `.github/workflows/android-build.yml`; una compilación debug ya se verificó, pero el APK final de entrega aún requiere pruebas y una build final.
