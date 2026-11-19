@@ -11,3 +11,10 @@ Enoc transmite otro libro para Matusalén y las generaciones que conservarán la
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912/1917), cap. CVIII; transcripción consultada en https://apocryphalibrary.weebly.com/1-enoch-108.html y https://ambientbible.com/read/1-enoch/108 (consultadas 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar el texto final y su terminología de “generación de luz”, transformación y destino; no se afirma que esta paráfrasis sea una traducción crítica.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+108 es una unidad separada, denominada **Admonición escatológica** en estudios recientes. Se conserva solo en la tradición etiópica (Ge'ez) en las fuentes consultadas; no se identifica testimonio arameo, griego, copto ni latino. Los estudios la consideran una adición posterior a las unidades anteriores; se ha propuesto una fecha del siglo I d. C., pero el marco exacto es debatido. Debe presentarse en un apéndice final claramente rotulado como texto de tradición etiópica sin testigos antiguos paralelos identificados, no como si estuviera comprobado por Qumrán o el papyrus griego.
+
+**Pendiente:** cotejo con la edición Ge'ez y aparato de Stuckenbruck/Nickelsburg; verificar el vocabulario de “generación de luz”, transformación y recompensa. No se afirma cotejo directo.
