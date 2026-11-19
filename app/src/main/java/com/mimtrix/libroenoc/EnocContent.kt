@@ -70,7 +70,7 @@ object EnocContent {
                 VerseEntry("6:4", "Todos le respondieron: «Juremos juntos y comprometámonos mediante una maldición recíproca a no abandonar este propósito, sino a realizarlo»."),
                 VerseEntry("6:5", "Entonces todos juraron juntos y se comprometieron unos con otros mediante aquella maldición."),
                 VerseEntry("6:6", "Eran doscientos en total. Descendieron en los días de Jared sobre la cima del monte Hermón, y lo llamaron Hermón porque allí habían jurado y se habían comprometido mediante una maldición."),
-                VerseEntry("6:7", "Estos son los nombres de sus jefes: Semihazá, su dirigente; Artaqof; Rameel; Kokabiel; Tamiel; Ramiel; Daniel; Ezequiel; Baraqiel; Asael; Armaros; Batariel; Ananel; Zaqiel; Samsapeel; Satariel; Turel; Yomiel y Sariel."),
+                VerseEntry("6:7", "Estos son los nombres de sus jefes: Semihazá, su dirigente; Arakiba; Rameel; Kokabiel; Tamiel; Ramiel; Daniel; Ezequiel; Baraqiel; Asael; Armaros; Batariel; Ananel; Zaqiel; Samsapeel; Satariel; Turel; Yomiel y Sariel."),
                 VerseEntry("6:8", "Estos eran los jefes de decenas de todos ellos.")
             )),
         ChapterEntry(7, "Los gigantes y la violencia sobre la tierra", "Borrador traducido · cotejo crítico pendiente",
@@ -90,7 +90,7 @@ object EnocContent {
             listOf(
                 VerseEntry("8:1", "Azazel enseñó a los seres humanos a fabricar espadas, cuchillos, escudos y corazas. Les mostró los metales de la tierra y cómo trabajarlos, así como brazaletes, adornos, el uso del antimonio, el embellecimiento de los párpados, piedras preciosas y toda clase de tintes."),
                 VerseEntry("8:2", "Se extendió una gran impiedad; cometieron actos de inmoralidad, fueron desviados y se corrompieron en todos sus caminos."),
-                VerseEntry("8:3", "Semihazá enseñó encantamientos y el corte de raíces; Armaros, cómo deshacer encantamientos; Baraqiel, la astrología; Kokabiel, las constelaciones; Ezequiel, el conocimiento de las nubes; y Sariel, el curso de la Luna. La lista contiene además nombres y enseñanzas cuya lectura presenta dificultades."),
+                VerseEntry("8:3", "Semihazá enseñó encantamientos y el corte de raíces; Armaros, cómo deshacer encantamientos; Baraqiel, la astrología; Kokabiel, las constelaciones; Ezequiel, el conocimiento de las nubes; [Araqiel, los signos de la tierra; Shamsiel, los signos del Sol]; y Sariel, el curso de la Luna. La edición de Charles señala entre corchetes angulares la cláusula sobre Araqiel y Shamsiel como suplemento; se mantiene aquí entre corchetes para no confundirla con la lectura no marcada."),
                 VerseEntry("8:4", "Mientras los seres humanos perecían, clamaban, y su clamor subió hasta el cielo.")
             )),
         ChapterEntry(9, "La súplica de los arcángeles", "Borrador traducido · cotejo crítico pendiente",
