@@ -11,3 +11,10 @@ Enoc recibe la orden de observar y leer las tablas celestiales. En la visión, e
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXXI, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar el pasaje de las tablas, la misión familiar y las instrucciones temporales; revisar su relación con la tradición del escriba Enoc.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+La descripción de las tablas celestiales y del encargo a Matusalén coincide con el texto de Charles y con el capítulo 81 del Ge'ez de Dillmann digitalizado. El manuscrito etiópico Rylands Ethiopic MS 23 se mapea a fol. 11r col. a–b. Hay una variante numérica relevante en 81:5: Charles traduce “siete santos”, mientras el texto impreso de Dillmann mostrado en la fuente consultada lee “tres”; la fuente señala que Charles informa grupos de manuscritos con ambas lecturas. La paráfrasis evita fijar el número y lo deja pendiente.
+
+**Fuentes comprobadas:** Theosis Library §81 (mapeo y transcripción de Dillmann; informa cotejo fotográfico de su autor), Charles 1917. No se cotejó aquí el aparato completo de Charles 1906/Knibb ni las fotografías originales.
