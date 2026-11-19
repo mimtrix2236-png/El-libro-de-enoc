@@ -66,4 +66,4 @@ Los capítulos 1–16 incluidos en la aplicación son borradores de traducción 
 - Capítulos 6–16 añadidos a la aplicación, versículo por versículo según la numeración de Charles.
 - Ilustraciones vectoriales originales vinculadas a los capítulos 6–16.
 - Fuentes de cotejo y límites de los testigos registrados en los archivos `editorial/fuentes_capitulos_06_10.md`, `editorial/fuentes_capitulos_11_13.md` y `editorial/fuentes_capitulos_14_16.md`.
-- Los textos de capítulos 6–10 permanecen marcados como borradores; se requiere segunda colación de variantes y revisión lingüística.
+- Los textos de capítulos 6–16 permanecen marcados como borradores; se requiere segunda colación de variantes y revisión lingüística.
