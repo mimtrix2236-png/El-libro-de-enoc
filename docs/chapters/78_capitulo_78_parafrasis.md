@@ -1,22 +1,45 @@
-# Capítulo 78 — Los nombres del Sol y la Luna (paráfrasis provisional)
+# Capítulo 78 — El Sol, la Luna y sus fases (paráfrasis provisional por versículo)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa del Ge'ez ni cotejo diplomático; las cifras y nombres requieren revisión crítica.
 
-La visión da nombres al Sol y a la Luna y los presenta como dos grandes luminares. Describe sus recorridos y la transferencia de luz a la Luna: esta crece hasta la plenitud y luego disminuye hasta quedar oscura. El texto ofrece una secuencia de días y proporciones para explicar sus fases, con referencias a meses de distinta duración.
+**78:1.** El texto transmite dos nombres tradicionales para el Sol; las formas de escribirlos varían entre las ediciones y se registran en la nota textual.
 
-**Idea central:** el ciclo de luz de la Luna y su relación con el Sol se integran a un orden calendárico.
+**78:2.** La Luna recibe cuatro nombres en esta tradición; su transliteración no es uniforme en las distintas versiones.
 
-**Ilustración propia:** assets/illustrations/chapter_78.svg — Sol y Luna con nombres simbólicos alrededor, una serie de fases y una balanza de luz en estilo de grabado antiguo.
+**78:3.** Ambos luminares son descritos como grandes cuerpos celestes de tamaño comparable, según la cosmología del relato.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXVIII, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original.
+**78:4.** El Sol se representa con siete unidades adicionales de luz respecto de la Luna; la luz se distribuye mediante medidas hasta completar el ciclo descrito.
 
-**Pendiente:** cotejar nombres propios, secuencia de fases y cifras entre ediciones; no tratar los cálculos como astronomía moderna.
+**78:5.** Los luminares se ponen por las puertas occidentales, recorren la región del norte y reaparecen por las puertas orientales.
 
+**78:6.** Al salir, la Luna muestra una fracción pequeña de su luz; el capítulo relaciona su plenitud con el día catorce. Una frase entre corchetes en Charles es un suplemento editorial.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**78:7.** El relato cuenta el crecimiento de la luz hasta el día quince mediante unidades numéricas; las cifras y su relación requieren cotejo, pues las versiones no son uniformes.
 
-Se mantiene el resumen del ciclo de luz, los nombres tradicionales de Sol y Luna, y la secuencia de plenitud/disminución; no se convierten las cifras antiguas en astronomía moderna. 4Q210 frg. 1 iii se asigna a 78:6–8 y conserva fragmentariamente referencias a los días 14 y 15 y al cumplimiento de la luz. La ubicación de 4Q209 frg. 26 en 78:17–79:2 es **suelta/provisional**, no una correspondencia segura verso por verso.
+**78:8.** Durante el menguante, el texto enumera una reducción diaria de la luz —desde catorce partes, pasando por trece y sucesivamente hasta dos, una fracción mínima y finalmente nada— para el día quince.
 
-**Advertencia de edición:** el recurso digital de Charles 1917 consultado señala que el texto de 1 Enoc 78 aparece continuado bajo el encabezado 77 (falta el encabezado, no el material). Antes de fijar la numeración y títulos en la edición final, comparar una copia de la edición impresa con Charles 1906, Knibb y la edición etiópica elegida.
+**78:9.** Se indica que algunos meses tienen veintinueve días y que en una ocasión se cuenta un mes de veintiocho.
 
-**Fuentes comprobadas:** Machiela 2023, perfil 4Q210; Theosis Library §78; Charles 1917. No se leyó directamente el aparato de Milik/Drawnel en esta revisión.
+**78:10.** Uriel explica otra regla: cómo la luz pasa del Sol a la Luna y por qué lado se recibe.
+
+**78:11.** Durante el crecimiento, la Luna recibe luz mientras se ubica frente al Sol; el período se describe como catorce días, con una frase suplementada por Charles entre corchetes.
+
+**78:12.** El primer día se llama luna nueva porque el texto presenta ese momento como el comienzo de la luz que llega a la Luna.
+
+**78:13.** La plenitud se describe cuando el Sol se pone en el oeste y la Luna sale por el este; ilumina toda la noche hasta que el Sol vuelve a aparecer frente a ella.
+
+**78:14.** Desde el lado por el que recibe luz, la Luna comienza a disminuir; el proceso continúa hasta que termina el mes y su disco queda sin iluminación.
+
+**78:15.** El relato agrupa tres meses de treinta días y tres de veintinueve, y vincula la secuencia a un período de 177 días. La cifra pertenece al calendario antiguo y requiere cotejo aritmético y textual.
+
+**78:16.** En el ciclo de salida, el texto repite la distribución: tres meses con treinta días y tres con veintinueve.
+
+**78:17.** La Luna se compara con una figura humana durante una parte de sus apariciones nocturnas y con el cielo durante el día; la visión afirma que su apariencia se debe a su luz.
+
+**Idea central:** el relato explica las fases de la Luna y el ciclo de los luminares con nombres y medidas propios de una cosmología antigua.
+
+**Ilustración SVG propia:** `assets/illustrations/chapter_78.svg` — discos solares y lunares, fases y marcas de medida.
+
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXVIII, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_78. Se consultó la transcripción; no se cotejaron directamente manuscritos.
+
+**Nota textual:** 4Q210 frg. 1 iii se asigna a 78:6–8 y conserva fragmentos de referencias a 14/15 días; la ubicación de 4Q209 frg. 26 en 78:17–79:2 es tentativa. Charles 1917 omite el encabezado de 78 en la transcripción consultada, aunque el material está presente bajo 77. Las cifras (14/15, 29/28, 177) y los nombres se registran como lecturas de la tradición, no como astronomía moderna. Véase `docs/auditoria_76-82_fuentes.md`.
