@@ -38,3 +38,11 @@
 - Registré el rango parcial del papyrus griego Chester Beatty-Michigan XII (97:6–104:13 y 106:1–107:3) y el fragmento arameo 4Q204 asignado a 104:13–105:2; no se afirma que se hayan leído directamente los manuscritos.
 - En capítulo 105 anoté que su ausencia del papyrus griego no prueba interpolación tardía, pues hay un testimonio arameo fragmentario; la frase “su hijo” queda sin interpretación doctrinal definitiva.
 - Próxima tarea: audit 106–108, birth-of-Noah appendix and eschatological admonition, then source/copyright review and app integration.
+
+
+## 19 de noviembre de 2026 — capítulos 106–108
+- Añadí notas de testigos y límites a 106–108 y creé `docs/auditoria_106-108_fuentes.md`.
+- Registré el alcance fragmentario de 4Q204, Greek Chester Beatty-Michigan y Latin Royal Ms. 5 E XIII para 106–107. Las tradiciones de 1Q20/4Q534–536 se separan como paralelos, no como texto idéntico.
+- Capítulo 108 quedó marcado como apéndice independiente y Ethiopic-only en los testigos consultados, sin testimonio Aramaic/Greek/Coptic/Latin identificado; la fecha posterior se presenta como hipótesis.
+- **Hito de borradores:** 108 archivos de capítulos están presentes; las paráfrasis 66–108 ahora llevan notas críticas de fuente y límites de evidencia (esto no equivale a traducción versicular final ni cotejo directo de manuscritos).
+- Próxima tarea: auditar 1–108 de forma integral, normalizar índice, revisar capítulos 1–65, apéndices, bibliografía, derechos, integrar contenido al Android reader, completar arte de capítulos, PDF y build APK.
