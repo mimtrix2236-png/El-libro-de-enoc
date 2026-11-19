@@ -33,7 +33,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Proyecto Android Kotlin/Jetpack Compose inicial y archivos Gradle/manifest en el repositorio
 - [x] Prototipo de lector con páginas preliminares (título, dedicatoria-placeholder, nota editorial, prólogo-placeholder, introducción-placeholder e índice)
 - [x] Controles de índice, tamaño de letra y navegación preliminar
-- [ ] Texto de los 108 capítulos integrado en la app (avance parcial: capítulos 1–16 en borrador y capítulos 17–20 incorporados como paráfrasis literarias identificadas; 21–108 pendientes de integración y cotejo)
+- [ ] Texto de los 108 capítulos integrado en la app (avance parcial: capítulos 1–16 en borrador y capítulos 17–35 incorporados como paráfrasis literarias identificadas; 36–108 pendientes de integración y cotejo)
 - [ ] Navegación de índice a capítulo y paginación/swipe
 - [x] Marcadores guardados/restaurables (implementación inicial con preferencias locales)
 - [x] Modo nocturno (implementación inicial)
@@ -58,4 +58,6 @@ Cotejar borradores con fuentes capítulo por capítulo; producir arte individual
 - [x] Capítulos 17–20 añadidos al catálogo del lector Android como paráfrasis literarias identificadas, cada uno con nota editorial y advertencia de cotejo pendiente.
 - [x] Ilustraciones vectoriales originales de capítulos 17–20 creadas e integradas (`journey_17`, `columns_18`, `abyss_19`, `archangels_20`).
 - [ ] Convertir las paráfrasis 17–20 en unidades versiculares cotejadas; no presentarlas como traducción literal.
-- [ ] Continuar con el capítulo 21 y siguientes. Los archivos de paráfrasis existentes son material de trabajo, no sustituyen el cotejo de fuentes.
+- [x] Capítulos 21–35 incorporados al lector como paráfrasis preliminares identificadas, con notas editoriales y cotejo pendiente.
+- [x] Ilustraciones vectoriales iniciales de capítulos 21–35 creadas y conectadas a la navegación.
+- [ ] Continuar desde el capítulo 36. Las paráfrasis no sustituyen el cotejo de los testigos ni constituyen una traducción crítica.
