@@ -61,3 +61,11 @@
 - Integré esas unidades en el catálogo Android offline (`LaterEnocContent66_80.kt`) para lectura y añadí un test de catálogo que verifica el número y la secuencia de referencias.
 - La build anterior con fix de paréntesis capítulo 66 (`78a256b`) pasó; la compilación de los nuevos cambios de 76–78 está pendiente de CI.
 - Próximo capítulo en secuencia: 79. No se afirma traducción directa ni cotejo crítico final.
+
+
+## 19 de noviembre de 2026 — expansión versicular capítulo 79
+- Expandí capítulo 79 a seis paráfrasis por referencia y lo integré al catálogo Android offline.
+- Registré la restauración editorial de 79:4 y el cálculo de 177 días/25 semanas + 2 días como datos transmitidos con cautela, no como reconstrucción segura.
+- El test de catálogo ahora verifica 76–79 (14, 8, 17 y 6 unidades).
+- CI del conjunto 76–79 está pendiente; la corrección de paréntesis del catálogo ya pasó en run 44543772744.
+- Siguiente: capítulo 80.
