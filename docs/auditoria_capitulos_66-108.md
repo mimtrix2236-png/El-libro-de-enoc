@@ -57,3 +57,8 @@ Se refinó el arte de capítulos 66–75 (10 SVG de escenas específicas) y sus 
 ## Estado consolidado — 19-11-2026
 
 La sección de progreso confirma ahora: lector offline con búsqueda de título/número, marcadores, progreso/tipografía/modo guardados, swipe y ambiente celestial procedural original. Build/tests de commit `a802f77` pasaron y el artifact debug se generó. Las ilustraciones 66–75 se refinaron; las 76–108 aún requieren mejora. No se ha probado el audio en dispositivo y no existe PDF final.
+
+
+## Capítulo 66: traducción indirecta provisional
+
+Se añadió una traducción española nueva de 66:1–3 basada en R. H. Charles (1917), desde su inglés. El suplemento `[abide and]` se conserva como `[permanecen y]` y se explica; la frase final sobre alejarse de la presencia de Enoc se mantiene sin armonización. El texto está en `docs/chapters/66_capitulo_66_traduccion_de_trabajo.md` y en el catálogo Android. No se ha cotejado con Ge'ez ni con un aparato crítico; por tanto no es una traducción final.

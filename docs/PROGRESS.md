@@ -6,13 +6,13 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 ## Estado actual — 19 de noviembre de 2026
 
 ### Libro
-- [x] 108 archivos canónicos de paráfrasis provisionales, consecutivos, en `docs/chapters/`.
-- [x] Capítulos 66–108: 43 archivos con resumen, fuente de trabajo, notas e idea de ilustración; el cotejo crítico/versicular sigue pendiente.
+- [x] 108 archivos canónicos consecutivos en `docs/chapters/`; 66–108 son borradores, capítulo 66 además tiene traducción indirecta en archivo separado.
+- [x] Capítulos 66–108: 43 archivos con resumen, fuente, notas e idea de ilustración; capítulo 66 tiene traducción indirecta desde Charles (1917); cotejo crítico/versicular pendiente.
 - [x] 43 SVG individuales 66–108 y copias Android; capítulos 66–75 refinados en escenas más detalladas; 76–108 siguen conceptuales y requieren revisión artística.
 - [ ] Traducción final y cotejo versículo por versículo; aparato de variantes; apéndices completos; PDF de libro.
 
 ### Aplicación
-- [x] Catálogo offline de 108 capítulos.
+- [x] Catálogo offline de 108 capítulos; capítulo 66 con traducción indirecta de trabajo, capítulos 67–108 con paráfrasis provisionales.
 - [x] Índice, búsqueda por título/número, marcadores por capítulo, persistencia del último capítulo, tamaño de letra y modo nocturno.
 - [x] Navegación por swipe horizontal.
 - [x] Ambiente celestial original procedural (AudioTrack), opcional, apagado por defecto, control de volumen, offline y pausa/resume al salir/volver.
@@ -37,7 +37,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 51–55 — borradores preliminares con advertencias de cotejo
 - [x] Capítulos 56–60 — borradores preliminares con notas de cotejo
 - [x] Capítulos 61–65 — borradores preliminares y notas de cotejo
-- [x] Capítulos 66–108 — 43 borradores individuales comprobados en `docs/chapters/`; siguen siendo paráfrasis provisionales y no cotejo crítico.
+- [x] Capítulos 66–108 — 43 borradores individuales comprobados; 66 tiene traducción indirecta de trabajo en el lector; 67–108 permanecen como paráfrasis provisionales.
 - [ ] Revisión de coherencia y notas documentales
 - [x] Glosario preliminar (apéndices todavía pendientes)
 - [x] Bibliografía base y protocolo de cotejo registrados (ver docs/bibliografia_fuentes_cotejo.md)
@@ -246,3 +246,10 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 ## Corrección del estado de audio/build y arte — 19-11-2026
 
 El ambiente celestial ya está implementado en Kotlin; no es solo una especificación. CI de commit `a802f77` verificó tests, `assembleDebug` y upload-artifact. Las ilustraciones 66–75 refinadas están en ambos árboles de assets. Las commits posteriores `ceef01f` (arte 74–75) y `0364ab4` (documentación) tenían workflows en cola al momento de este ajuste.
+
+
+## Traducción de trabajo del capítulo 66 — 19 de noviembre de 2026
+
+- [x] Capítulo 66: 3 unidades versiculares traducidas al español desde R. H. Charles 1917 (traducción indirecta desde inglés); suplemento [abide and] preservado entre corchetes; lectura inusual “me alejé de la presencia de Enoc” no armonizada y señalada.
+- [x] Documento separado `docs/chapters/66_capitulo_66_traduccion_de_trabajo.md` y contenido integrado al catálogo Android.
+- [ ] Cotejo directo con Ge'ez/arameo y aparato crítico; esta traducción no es final.
