@@ -170,5 +170,64 @@ object EnocContent {
                 VerseEntry("13:9", "Cuando desperté, fui hacia ellos. Estaban todos reunidos, sentados y llorando en Abelshail, entre el Líbano y Seneser, con el rostro cubierto."),
                 VerseEntry("13:10", "Les relaté todas las visiones que había visto durante el sueño y comencé a pronunciar palabras de justicia y a reprender a los Vigilantes del cielo.")
             ))
+
+        ,
+        ChapterEntry(14, "La visión de la morada celestial", "Borrador traducido · cotejo crítico pendiente",
+            "Enoc comunica la sentencia a los Vigilantes y es llevado en visión a una morada de cristal y fuego, ante el trono de la Gran Gloria.",
+            "Rylands MS 23, fol. 3r col. b–3v col. a. Charles marca suplementos en 14:3–4, 14:18 y 14:25. Se conservan señalados. La descripción arquitectónica y las imágenes del trono deben cotejarse con el ge'ez línea por línea antes de cerrar.",
+            listOf(
+                VerseEntry("14:1", "Este es el libro de las palabras de justicia y de la reprensión de los Vigilantes eternos, conforme al mandato del Santo y Grande, según la visión que contemplé en sueños y que ahora comunicaré con lengua humana y con el aliento de mi boca."),
+                VerseEntry("14:2", "El Grande concedió a los seres humanos la capacidad de hablar y comprender con el corazón."),
+                VerseEntry("14:3", "Así como creó y dio al ser humano la capacidad de comprender la palabra de sabiduría, también me creó y me concedió [la capacidad] de reprender a los Vigilantes, hijos del cielo. La frase entre corchetes es un suplemento editorial de Charles."),
+                VerseEntry("14:4", "Escribí vuestra petición. En mi visión se me mostró que vuestra súplica no será concedida [por todos los días de la eternidad y que el juicio ya ha sido pronunciado definitivamente contra vosotros]. El pasaje entre corchetes es una expansión editorial."),
+                VerseEntry("14:5", "Desde ahora no subiréis al cielo por toda la eternidad; ha salido la sentencia de que permaneceréis atados sobre la tierra durante todos los días del mundo."),
+                VerseEntry("14:6", "Antes veréis la destrucción de vuestros hijos amados; no hallaréis alegría en ellos, pues caerán ante vosotros por la espada."),
+                VerseEntry("14:7", "Vuestra petición en favor de ellos no será concedida, ni tampoco la vuestra, aunque lloréis, supliquéis y pronunciéis todas las palabras contenidas en el escrito que he redactado."),
+                VerseEntry("14:8", "La visión se me mostró así: las nubes me llamaron y la niebla me convocó; el curso de las estrellas y los relámpagos me impulsaron con rapidez. Los vientos de la visión me hicieron volar, me elevaron y me llevaron al cielo."),
+                VerseEntry("14:9", "Avancé hasta acercarme a un muro construido de cristales y rodeado de lenguas de fuego; aquello comenzó a infundirme temor."),
+                VerseEntry("14:10", "Atravesé las lenguas de fuego y me acerqué a una gran casa construida de cristales. Sus paredes parecían un mosaico de cristal y su suelo también era de cristal."),
+                VerseEntry("14:11", "Su techo parecía el recorrido de las estrellas y de los relámpagos; entre ellos había querubines de fuego, y el cielo que los cubría era como agua."),
+                VerseEntry("14:12", "Un fuego ardiente rodeaba las paredes y sus puertas resplandecían en llamas."),
+                VerseEntry("14:13", "Entré en aquella casa. Era caliente como el fuego y fría como el hielo; no había en ella deleite alguno. El miedo me cubrió y el temblor se apoderó de mí."),
+                VerseEntry("14:14", "Mientras temblaba, caí rostro en tierra y contemplé una visión."),
+                VerseEntry("14:15", "Entonces apareció ante mí una segunda casa, mayor que la primera. Toda su entrada estaba abierta y estaba construida con llamas de fuego."),
+                VerseEntry("14:16", "En todos los aspectos superaba a la primera en esplendor, magnificencia y extensión; no puedo describiros su grandeza ni su amplitud."),
+                VerseEntry("14:17", "Su suelo era de fuego; sobre él estaban los relámpagos y el camino de las estrellas, y también su techo era de fuego llameante."),
+                VerseEntry("14:18", "Miré y vi [en su interior] un trono elevado. Su apariencia era como el cristal y sus ruedas como el sol resplandeciente; allí se manifestaba la visión de los querubines. La expresión entre corchetes es suplementaria en Charles."),
+                VerseEntry("14:19", "De debajo del trono brotaban corrientes de fuego llameante, de modo que no podía mirarlas."),
+                VerseEntry("14:20", "La Gran Gloria estaba sentada sobre él. Sus vestiduras brillaban más que el sol y eran más blancas que la nieve."),
+                VerseEntry("14:21", "Ningún ángel podía entrar ni contemplar su rostro, a causa de su magnificencia y gloria; tampoco podía verlo ningún ser de carne."),
+                VerseEntry("14:22", "El fuego llameante lo rodeaba y un gran fuego estaba delante de él. Nadie de los que lo rodeaban podía acercarse. Diez mil veces diez mil estaban ante él, pero no necesitaba consejero alguno."),
+                VerseEntry("14:23", "Los santísimos que estaban cerca de él no se apartaban ni de noche ni de día."),
+                VerseEntry("14:24", "Hasta entonces había permanecido postrado rostro en tierra y temblando. El Señor me llamó con su propia boca y me dijo: «Acércate, Enoc, y escucha mi palabra»."),
+                VerseEntry("14:25", "[Uno de los santos se acercó, me despertó y me hizo levantar para aproximarme a la puerta; yo incliné el rostro hacia abajo.] Esta frase está marcada como suplemento editorial en Charles.")
+            )),
+        ChapterEntry(15, "El origen de los espíritus malignos", "Borrador traducido · cotejo crítico pendiente",
+            "La respuesta divina explica por qué los Vigilantes no debían unirse a mujeres y presenta a los espíritus de los gigantes como espíritus malignos que permanecen en la tierra.",
+            "Rylands MS 23, fol. 3v col. a–b. Charles marca suplementos y variantes en 15:2, 15:9–10 y 15:11. La explicación sobre el origen y la naturaleza de los espíritus debe cotejarse con las tradiciones judías antiguas y con los fragmentos arameos pertinentes, sin armonizar las diferencias.",
+            listOf(
+                VerseEntry("15:1", "Él respondió y me dijo; escuché su voz: «No temas, Enoc, hombre justo y escriba de justicia. Acércate y escucha mi voz»."),
+                VerseEntry("15:2", "«Ve y di a los Vigilantes del cielo, que te enviaron para interceder por ellos: vosotros debéis interceder por los seres humanos, y no los seres humanos por vosotros». La forma exacta de la orden presenta una variante editorial."),
+                VerseEntry("15:3", "«¿Por qué abandonasteis el cielo alto, santo y eterno, os acostasteis con mujeres, os contaminasteis con las hijas de los hombres, tomasteis esposas y actuasteis como los hijos de la tierra, engendrando gigantes como hijos?»."),
+                VerseEntry("15:4", "«Aunque erais santos, espirituales y poseíais vida eterna, os contaminasteis con la sangre de las mujeres y engendrasteis hijos mediante la sangre de la carne. Deseasteis carne y sangre como quienes mueren y perecen»."),
+                VerseEntry("15:5", "«Por eso les di mujeres a los seres humanos, para que las fecundaran y engendraran hijos, y para que nada faltara en la tierra»."),
+                VerseEntry("15:6", "«Pero vosotros erais espirituales, vivíais la vida eterna y erais inmortales por todas las generaciones del mundo»."),
+                VerseEntry("15:7", "«Por eso no os destiné mujeres, pues la morada de los seres espirituales del cielo está en el cielo»."),
+                VerseEntry("15:8", "«Ahora, los gigantes nacidos de espíritu y carne serán llamados espíritus malignos sobre la tierra, y su morada estará en ella»."),
+                VerseEntry("15:9", "«Los espíritus malignos salieron de sus cuerpos. Como nacieron de seres humanos y su origen primero procede de los santos Vigilantes, serán espíritus malignos en la tierra y así serán llamados»."),
+                VerseEntry("15:10", "[«Los espíritus del cielo tendrán su morada en el cielo; los espíritus de la tierra, nacidos sobre la tierra, tendrán su morada en la tierra».] Este versículo completo aparece entre corchetes en Charles como suplemento."),
+                VerseEntry("15:11", "«Los espíritus de los gigantes afligen, oprimen, destruyen, atacan, combaten y causan devastación sobre la tierra. Provocan dificultades; no comen alimento, [pero aun así sienten hambre] y sed, y hacen daño». La frase sobre el hambre es suplementaria en Charles."),
+                VerseEntry("15:12", "«Estos espíritus se levantarán contra los hijos de los hombres y contra las mujeres, porque de ellos proceden».")
+            )),
+        ChapterEntry(16, "La sentencia final sobre los Vigilantes", "Borrador traducido · cotejo crítico pendiente",
+            "La sentencia confirma la duración de la actividad destructora de los espíritus y niega paz a los Vigilantes que pidieron intercesión.",
+            "Rylands MS 23, fol. 3v col. b. Charles señala suplementos en 16:1–3 y una precisión en 16:3. La expresión sobre el juicio final y la referencia a los misterios deben cotejarse con el ge'ez y los fragmentos arameos disponibles.",
+            listOf(
+                VerseEntry("16:1", "«Desde los días de la matanza, la destrucción y la muerte de los gigantes, cuyos espíritus salieron de sus cuerpos, estos espíritus causarán destrucción sin recibir todavía juicio; así continuarán hasta el día de la consumación, el gran [juicio], cuando llegue a su término la era de los Vigilantes y de los impíos»."),
+                VerseEntry("16:2", "«Y ahora, acerca de los Vigilantes que te enviaron para que intercedieras por ellos, que antes estuvieron en el cielo…»."),
+                VerseEntry("16:3", "«Vosotros estuvisteis en el cielo, pero [todos] los misterios todavía no os habían sido revelados. Conocisteis cosas sin valor y, con la dureza de vuestros corazones, las disteis a conocer a las mujeres; por medio de esos misterios, hombres y mujeres cometen mucho mal sobre la tierra»."),
+                VerseEntry("16:4", "«Decidles, por tanto: no tendréis paz»." )
+            ))
+
     )
 }
