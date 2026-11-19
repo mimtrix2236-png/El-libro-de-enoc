@@ -11,3 +11,10 @@ Enoc afirma haber leído las tablas celestiales: para los que murieron en justic
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. CIII, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** revisar la división de los versos, las quejas atribuidas a los justos y su relación con el capítulo siguiente; cotejo crítico pendiente.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+103 está dentro del tramo griego Chester Beatty-Michigan, parcialmente conservado. El resumen separa recompensa de los justos y queja de los que sufrieron; la secuencia de voces y la división de versículos deben verificarse. No se identifica un fragmento Qumrán arameo directo de 103 en el mapeo consultado.
+
+**Pendiente:** cotejo de 103:1–15, especialmente las quejas y el cambio de voz, y las lagunas del papyrus griego.
