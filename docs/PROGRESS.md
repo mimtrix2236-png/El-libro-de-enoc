@@ -171,3 +171,12 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Fuente consultada: R. H. Charles, *The Book of Enoch* (1912), caps. XCV–C, reproducción en https://rojc.uk/book-of-enoch.htm; consulta 19-11-2026.
 - [ ] Cotejar suplementos, lecturas corruptas y subdivisiones de 95–100 con edición crítica y testigos.
 - [ ] Próximos archivos faltantes: capítulos 101–108.
+
+
+## Avance — capítulos 101–106 (19 de noviembre de 2026)
+
+- [x] Capítulos 101–106: paráfrasis provisionales creadas con fuente de trabajo y notas.
+- [x] Capítulos 101–106: seis ilustraciones SVG individualizadas.
+- Fuente consultada: R. H. Charles, *The Book of Enoch* (1912), caps. CI–CVI, https://rojc.uk/book-of-enoch.htm; consulta 19-11-2026.
+- [ ] Cotejar las referencias a Sheol, los libros, “su hijo”, y el fragmento noánico 106; no resolver interpretaciones doctrinales ni reconstrucciones sin testigos.
+- [ ] Próximos archivos faltantes: capítulos 107–108.
