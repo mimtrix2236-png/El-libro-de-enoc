@@ -92,3 +92,10 @@
 - En 83 anoté la ausencia de testimonio Qumrán directo en el catálogo consultado; 84:3 deja fuera un suplemento editorial de Charles; 85 se mantiene alegoría sin fijar identificaciones históricas.
 - El test de catálogo ahora verifica 76–85 (14, 8, 17, 6, 8, 10, 20, 11, 6 y 10 unidades).
 - Próxima tarea: capítulo 86, la caída de estrellas y los gigantes.
+
+
+## 19 de noviembre de 2026 — expansión versicular capítulos 86–88
+- Expandí capítulos 86, 87 y 88 a paráfrasis por versículo (6, 4 y 3 unidades) e integré al catálogo offline.
+- La alegoría se conserva sin fijar identificaciones históricas; 88:3 tiene asignación fragmentaria 4Q206 en una fuente secundaria, no cotejada directamente.
+- El test de catálogo ahora verifica 76–88 con conteos por capítulo.
+- Próxima tarea: capítulo 89, el diluvio y la historia alegórica, que requiere dividirse en unidades para no resumir demasiado.
