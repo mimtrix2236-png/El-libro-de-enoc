@@ -20,7 +20,8 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 46–50 — borradores preliminares y notas de interpretación
 - [x] Capítulos 51–55 — borradores preliminares con advertencias de cotejo
 - [x] Capítulos 56–60 — borradores preliminares con notas de cotejo
-- [ ] Capítulos 61–108
+- [x] Capítulos 61–65 — borradores preliminares y notas de cotejo
+- [ ] Capítulos 66–108
 - [ ] Revisión de coherencia y notas documentales
 - [ ] Glosario y apéndices
 - [ ] Bibliografía verificada
@@ -49,4 +50,4 @@ El texto de lectura se redacta como paráfrasis literaria original y no se prese
 
 ## Próximo paso
 
-Continuar con capítulos 61–70. En paralelo, planificar carga offline de los capítulos en Android y hacer revisión de compilación.
+Continuar con capítulos 66–75. El texto es borrador y requiere cotejo documental; después completar integración en app, ilustraciones y edición impresa.
