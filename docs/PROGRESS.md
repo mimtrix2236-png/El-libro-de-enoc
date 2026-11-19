@@ -101,3 +101,12 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - GitHub Actions run 104 failed during `compileDebugKotlin`: Java compilation target 1.8 conflicted with Kotlin target 17. This is a real failure, not a successful build.
 - [x] Fixed the configuration in `app/build.gradle.kts` by aligning Java source/target and Kotlin JVM target to 17.
 - [ ] The new CI run after this fix must complete successfully; APK generation is not verified yet.
+
+
+## Avance astronómico — capítulos 72–77 (19 de noviembre de 2026)
+
+- [x] Capítulos 72–77: paráfrasis narrativas originales añadidas con fuente de trabajo y advertencia de cotejo pendiente.
+- [x] Capítulos 72–77: ilustraciones SVG individuales creadas en tinta sepia/pergamino; aún no integradas en Android.
+- Fuentes consultadas: R. H. Charles, *The Book of Enoch* (1912), caps. LXXII–LXXVII, https://rojc.uk/book-of-enoch.htm y Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html. Consulta 19-11-2026.
+- [ ] Cotejar los cálculos calendáricos y cosmografía; no modernizar ni armonizar cifras sin aparato crítico.
+- [ ] Próxima secuencia de archivos faltantes: capítulos 78–108.
