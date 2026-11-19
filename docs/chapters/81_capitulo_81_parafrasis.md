@@ -1,20 +1,31 @@
-# Capítulo 81 — Las tablas celestiales y la misión de Enoc (paráfrasis provisional)
+# Capítulo 81 — Las tablas celestiales y la misión de Enoc (paráfrasis provisional por versículo)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa ni cotejo diplomático.
 
-Enoc recibe la orden de observar y leer las tablas celestiales. En la visión, estas contienen el registro de las acciones humanas y de las generaciones futuras. Enoc bendice al Creador por sus obras y su paciencia, y declara dichoso al que muere en justicia sin quedar registrado por la injusticia. Los seres celestiales lo devuelven a la tierra, junto a su casa, y le encomiendan comunicar lo aprendido a Matusalén y a sus hijos. Le anuncian un plazo para instruirlos antes de su nueva partida.
+**81:1.** El mensajero pide a Enoc observar las tablas celestiales, leer lo que contienen y atender cada detalle.
 
-**Idea central:** Enoc es un transmisor de conocimiento y advertencia; la sabiduría debe conservarse y comunicarse a su familia.
+**81:2.** Enoc lee y comprende el registro de las acciones de la humanidad, incluidas las generaciones futuras hasta el extremo de la historia.
 
-**Ilustración propia:** assets/illustrations/chapter_81.svg — Enoc frente a tablillas luminosas, descendiendo hacia una casa antigua mientras sus descendientes esperan con rollos.
+**81:3.** Enoc bendice al Señor, Rey de gloria, por la creación y alaba su paciencia hacia los seres humanos.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXXI, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original.
+**81:4.** Enoc declara bienaventurado al que muere en rectitud y bondad, sin un registro de injusticia ni una condena pendiente.
 
-**Pendiente:** cotejar el pasaje de las tablas, la misión familiar y las instrucciones temporales; revisar su relación con la tradición del escriba Enoc.
+**81:5.** Los seres celestiales lo llevan a la tierra, delante de su casa, y le ordenan transmitir la revelación a Matusalén y a sus hijos; recuerdan que todos son criaturas del Señor.
 
+**81:6.** Le conceden un año para impartir sus últimas instrucciones, enseñar, registrar y testimoniar; en el segundo año será retirado de entre ellos.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**81:7.** Enoc recibe ánimo: quienes practican el bien compartirán alegría con los justos y celebrarán mutuamente la rectitud.
 
-La descripción de las tablas celestiales y del encargo a Matusalén coincide con el texto de Charles y con el capítulo 81 del Ge'ez de Dillmann digitalizado. El manuscrito etiópico Rylands Ethiopic MS 23 se mapea a fol. 11r col. a–b. Hay una variante numérica relevante en 81:5: Charles traduce “siete santos”, mientras el texto impreso de Dillmann mostrado en la fuente consultada lee “tres”; la fuente señala que Charles informa grupos de manuscritos con ambas lecturas. La paráfrasis evita fijar el número y lo deja pendiente.
+**81:8.** Los pecadores perecerán con los pecadores, y quienes abandonan la fidelidad compartirán el destino de los que desertan.
 
-**Fuentes comprobadas:** Theosis Library §81 (mapeo y transcripción de Dillmann; informa cotejo fotográfico de su autor), Charles 1917. No se cotejó aquí el aparato completo de Charles 1906/Knibb ni las fotografías originales.
+**81:9.** Los justos también pueden morir por la violencia de los seres humanos y ser apartados a causa de las acciones de los impíos; el texto no elimina el sufrimiento presente.
+
+**81:10.** Los mensajeros terminan su discurso. Enoc vuelve junto a su pueblo y bendice al Señor del mundo.
+
+**Idea central:** Enoc recibe un registro del destino humano y es enviado a transmitirlo a su familia antes de su partida.
+
+**Ilustración SVG propia:** `assets/illustrations/chapter_81.svg` — Enoc lee tablas celestiales frente a su hogar.
+
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXXI, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_81. Transcripción consultada; no cotejo directo.
+
+**Nota textual:** 81:5 presenta una variante numérica (Charles lee “siete” y Dillmann digitalizado “tres” en las fuentes secundarias revisadas). La paráfrasis evita fijar la cifra. Ver `docs/auditoria_76-82_fuentes.md`.
