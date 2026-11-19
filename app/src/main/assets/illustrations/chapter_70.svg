@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 70, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><path d="M60 580 Q120 470 70 360 T130 190 M450 580 Q390 470 440 360 T380 190" stroke="#a16d39" stroke-width="18" fill="none"/><path d="M70 580 Q130 480 85 390 T145 220 M440 580 Q380 480 425 390 T365 220" stroke="#d1b38a" stroke-width="6" fill="none"/><g transform="translate(260 350)" stroke="#5b3b20" stroke-width="8" fill="#c5a273"><circle cx="0" cy="-55" r="28"/><path d="M-20 -20 L20 -20 45 55 -45 55Z"/><path d="M-40 0 L-100 -40 M40 0 L100 -40"/><path d="M-45 55 L-110 120 0 120 110 120 45 55" fill="none"/><path d="M-120 125 Q0 160 120 125 L100 180 -100 180Z" fill="#8a5b30"/><path d="M-140 140 Q-170 110 -160 60 M140 140 Q170 110 160 60" fill="none"/></g><path d="M255 250 Q190 210 205 150 Q245 105 280 150 Q315 210 255 250Z" fill="#d7bd92" stroke="#5b3b20" stroke-width="8"/><path d="M255 220 L255 120 M230 160 L280 160" stroke="#a16d39" stroke-width="7"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M120 180 Q255 80 390 180"/><path d="M115 220 Q255 125 395 220"/></g></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 70</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Capítulo 70: la elevación de Enoc en un carro espiritual entre los vientos, grabado sepia">
+<defs><radialGradient id="p70"><stop stop-color="#f4e5c7"/><stop offset="1" stop-color="#c5a076"/></radialGradient><linearGradient id="sky70" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#80603b"/><stop offset=".5" stop-color="#c6a174"/><stop offset="1" stop-color="#f0d79c"/></linearGradient><pattern id="h70" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(40)"><path d="M0 0V7" stroke="#5b3b21" stroke-width="1" opacity=".3"/></pattern></defs>
+<rect width="512" height="720" fill="url(#p70)"/><rect x="18" y="18" width="476" height="684" rx="7" fill="none" stroke="#573820" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9b7448" stroke-width="2"/>
+<g stroke="#5d3d21" stroke-width="4" fill="none"><path d="M43 64L74 44L96 64L74 84Z M416 64L438 44L460 64L438 84Z M43 656L74 636L96 656L74 676Z M416 656L438 636L460 656L438 676Z"/></g>
+<!-- Sky and earth -->
+<path d="M45 600L45 180Q87 92 256 76Q425 92 467 180L467 600Z" fill="url(#sky70)" stroke="#573820" stroke-width="6"/>
+<g fill="#c6a277" stroke="#5d3d21" stroke-width="5"><path d="M42 600L102 438L168 512L225 388L292 510L359 420L471 600Z"/><path d="M60 600L122 510L176 552L242 470L310 560L376 490L453 600Z"/></g>
+<g fill="url(#h70)"><path d="M42 600L102 438L168 512L225 388L292 510L359 420L471 600Z"/></g>
+<!-- two wind currents -->
+<g fill="none" stroke="#f0d7a0" stroke-width="12" opacity=".65"><path d="M85 550Q35 430 118 328Q170 260 94 170Q52 130 110 95"/><path d="M430 550Q480 430 395 328Q340 260 420 170Q460 130 402 95"/></g>
+<g fill="none" stroke="#8b6438" stroke-width="5"><path d="M95 525Q60 420 136 330Q180 255 115 172M420 525Q455 420 380 330Q332 255 397 172"/></g>
+<!-- Celestial road and rays -->
+<path d="M256 610L200 405L256 130L312 405Z" fill="#e8d2a9" opacity=".4" stroke="#8b6438" stroke-width="4"/>
+<g stroke="#d9b97f" stroke-width="5"><path d="M256 100L256 240M196 130L228 258M316 130L284 258M145 180L205 290M367 180L307 290"/></g>
+<!-- Chariot -->
+<g transform="translate(256 410)" stroke="#563820" stroke-width="6" stroke-linejoin="round">
+ <path d="M-110 12L-83 -50L84 -50L111 12L90 70L-88 70Z" fill="#b58b5c"/>
+ <path d="M-92 -32L-72 -12L-42 -12L-20 -32L10 -32L31 -12L63 -12L87 -32" fill="none" stroke="#e1c69a" stroke-width="6"/>
+ <circle cx="-66" cy="62" r="34" fill="#d5b88a"/><circle cx="68" cy="62" r="34" fill="#d5b88a"/>
+ <circle cx="-66" cy="62" r="20" fill="none" stroke="#68472b" stroke-width="5"/><circle cx="68" cy="62" r="20" fill="none" stroke="#68472b" stroke-width="5"/>
+ <path d="M-66 30L-66 94M-96 62L-36 62M68 30L68 94M38 62L98 62" stroke="#68472b" stroke-width="4"/>
+ <path d="M-28 -52L0 -72L28 -52L20 4L-20 4Z" fill="#d9c199"/>
+</g>
+<!-- Enoc -->
+<g transform="translate(256 292)" stroke="#573820" stroke-width="6" stroke-linejoin="round">
+ <circle cx="0" cy="-52" r="26" fill="#e0c69b"/>
+ <path d="M-22 -66Q-7 -91 20 -72L26 -52L5 -35L-23 -41Z" fill="#75502d"/>
+ <ellipse cx="0" cy="-100" rx="42" ry="9" fill="none" stroke="#c69a45" stroke-width="5"/>
+ <path d="M-24 -26Q-48 10 -42 68L-68 126L-31 148L-5 100L40 148L72 123L38 67Q40 9 22 -26Z" fill="#d5bc91"/>
+ <path d="M-30 0L0 31L32 0L21 66L-26 66Z" fill="#ead8b6"/>
+ <path d="M-34 -10Q-97 -40 -114 26Q-88 76 -57 118Q-31 90 -12 54Q-38 105 -18 133" fill="#e5d1aa"/>
+ <g fill="none" stroke="#8c6338" stroke-width="4"><path d="M-51 -2Q-91 -27 -105 21M-61 35Q-77 73 -52 96M-33 53Q-45 92 -26 118"/></g>
+ <path d="M-42 38L-74 80L-55 93L-26 62M42 38L74 78L55 92L26 62" fill="#d5bc91"/>
+ <path d="M-56 121L-85 145L-35 153L-17 132M45 120L25 135L69 152L88 132Z" fill="#6b4727"/>
+</g>
+<!-- Heavenly destination -->
+<g stroke="#5b3a20" stroke-width="5" fill="#e4c99a"><path d="M173 128L256 82L339 128L330 161L182 161Z"/><path d="M192 161L192 207L218 207L218 161M294 161L294 207L320 207L320 161"/><path d="M171 210L341 210L326 232L186 232Z"/></g>
+<g fill="none" stroke="#a77b47" stroke-width="4"><path d="M200 135L256 104L312 135M203 185L309 185M210 220L302 220"/></g>
+<path d="M42 618Q256 634 470 618" fill="none" stroke="#5d3d21" stroke-width="4"/><text x="256" y="674" text-anchor="middle" font-family="serif" font-size="18" fill="#573820">1 ENOC · 70</text></svg>
