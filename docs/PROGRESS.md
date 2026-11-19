@@ -129,3 +129,12 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Artifact verified: `el-libro-de-enoc-debug-apk`, 9,114,756 bytes, expires 19-12-2026. Artifact ZIP: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44532838183
 - This APK proves the Kotlin app compiled at that commit; the current app content is still partial and does not yet contain all 108 chapters. This is an intermediate build, not the final delivery.
 - [ ] Latest source through chapter 82 must be rebuilt and its artifact verified before this checkpoint can be considered current.
+
+
+## Avance — Visiones de los Sueños, capítulos 83–88 (19 de noviembre de 2026)
+
+- [x] Capítulos 83–88: paráfrasis narrativas originales creadas y señaladas como provisionales.
+- [x] Capítulos 83–88: seis ilustraciones SVG específicas creadas en estilo sepia/pergamino.
+- Fuentes consultadas: R. H. Charles, *The Book of Enoch* (1912), caps. LXXXIII–LXXXVIII, reproducción en https://rojc.uk/book-of-enoch.htm y pasajes consultados en https://adfonteslibrary.org/work-st-pseudepigrapha-1-enoch; consulta 19-11-2026.
+- [ ] Cotejar secuencia, símbolos de animales/estrellas y variantes. No asignar identidades históricas definitivas en estas paráfrasis.
+- [ ] Próximos archivos faltantes: capítulos 89–108.
