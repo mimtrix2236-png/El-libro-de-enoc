@@ -80,3 +80,13 @@ Cada tramo debe registrar: edición española base (traductor/editor/año/licenc
 - Evidencia comprobada: Dillmann 1851, p. 58, imprime el numeral Ge'ez `፫፻ወ፷ወ፬` = 364; Charles 1912 reporta 360 en manuscritos g, q, u y 364 en t y el grupo β.
 - Decisión editorial de trabajo: texto principal 360 días + cuatro días intercalares, porque 82:6 ya da 364 para el año y 360 + 4 explica la distribución sin duplicar los días intercalares. Aparato obligatorio conserva la variante 364 de Dillmann y de otros testigos.
 - Alcance: dilema resuelto para el texto de trabajo, no declarado resuelto paleográficamente en forma definitiva. Falta inspección directa de los manuscritos y revisión sintáctica experta del Ge'ez. No afirmar que se ha realizado una traducción independiente integral del manuscrito.
+
+
+## Avance guardado — capítulos 83–90 (2026-11-19)
+- Se creó `editorial/CONTROL_CAPITULOS_83-90.md` (commit `c20b00f236c930b79c03927c0fdc58beeaa4d75a`).
+- Se estableció el mapa general: 83–84 primer sueño (diluvio y oración); 85–90 segundo sueño o Apocalipsis de los animales.
+- Se documentó la distinción entre el texto Ge'ez digital de Dillmann 1851 y las fotografías del manuscrito Rylands Ethiopic MS 23 del siglo XVIII: no son el mismo testimonio ni una transcripción diplomática.
+- Controles de ubicación publicados para Rylands MS 23: capítulo 83 en fol. 11v a–b; 86–87 en fol. 12r a–b; capítulo 90 desde fol. 13r c hasta fol. 14r a. No se extrapola esto a un cotejo completo.
+- OCP declara que su codificación etiópica disponible no cubre 83–90; no se lo presentará como testigo digital de esos capítulos.
+- **Alcance real:** reconocimiento estructural y procedencia/ubicación de testigos. 83–90 aún no está cotejado versículo por versículo ni traducido definitivamente.
+- Fuente de control principal: Theosis Library, “1 Enoch 83–90: The Book of Dream Visions (Ethiopic)”, https://theosislibrary.com/library/verified-enoch-ethiopic-dream-visions.
