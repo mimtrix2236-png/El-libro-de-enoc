@@ -11,3 +11,10 @@ La voz divina ordena que se convoque a los hijos de la tierra para mostrarles la
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. CV, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Nota:** la terminología “su hijo” se conserva como formulación del texto de Charles; no se resuelve aquí su interpretación doctrinal o histórica. Cotejo pendiente.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+El capítulo 105 no está en el tramo conservado del papyrus griego Chester Beatty-Michigan. 4Q204 (Enochc) se asigna a 104:13–105:2, por lo que hay un testimonio arameo fragmentario para el final, pero no una copia completa. El borrador conserva “su hijo” como lectura de Charles sin adjudicar una interpretación mesiánica/cristológica definitiva. La ausencia del capítulo 105 en el papyrus griego no prueba que fuera una interpolación: el fragmento arameo es evidencia de circulación previa.
+
+**Pendiente:** cotejar 105:1–2 con 4Q204 y el Ge'ez; registrar variantes de pronombre/“hijo” y reconstrucciones. No se leyó el fragmento directamente.
