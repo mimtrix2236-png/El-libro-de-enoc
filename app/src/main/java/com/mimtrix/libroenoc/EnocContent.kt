@@ -352,5 +352,5 @@ object EnocContent {
             "Borrador de lectura; confirmar correspondencia exacta con el capítulo y su orden en la edición de referencia antes de editarlo definitivamente. Paráfrasis preliminar; no es traducción crítica.",
             listOf(VerseEntry("35:unidad completa", "Enoc continúa contemplando las fronteras del mundo y sus accesos. El recorrido por el occidente completa parte de la descripción de regiones y puertas, y refuerza el tema de un cosmos cuyos movimientos obedecen a un orden revelado."))),
 
-    )
+    ) + LaterEnocContent36_50.chapters + LaterEnocContent51_65.chapters + LaterEnocContent66_80.chapters + LaterEnocContent81_95.chapters + LaterEnocContent96_108.chapters
 }
