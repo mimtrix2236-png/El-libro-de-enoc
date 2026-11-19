@@ -11,3 +11,10 @@ Enoc anima a los justos: la opresión no será eterna, y quienes sufrieron recib
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. XCVI, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar la sección de esperanza y el fragmento entre corchetes en 96:2; no integrarlo como texto seguro.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+96 pertenece a la exhortación/epístola y, en el catálogo de testigos consultado, no se asigna un fragmento arameo directo a este capítulo ni el papyrus griego Chester Beatty-Michigan comienza tan temprano. Por tanto, el borrador se apoya en Ge'ez y Charles. La esperanza para los justos y los ayes se mantienen como resumen; el suplemento entre corchetes de Charles en 96:2 no se incorpora.
+
+**Pendiente:** cotejo versículo a versículo del texto Ge'ez y aparato de Charles/Knibb; comprobar la secuencia de ayes y la expresión de sanidad.
