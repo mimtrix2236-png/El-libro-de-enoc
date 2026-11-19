@@ -180,3 +180,14 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Fuente consultada: R. H. Charles, *The Book of Enoch* (1912), caps. CI–CVI, https://rojc.uk/book-of-enoch.htm; consulta 19-11-2026.
 - [ ] Cotejar las referencias a Sheol, los libros, “su hijo”, y el fragmento noánico 106; no resolver interpretaciones doctrinales ni reconstrucciones sin testigos.
 - [ ] Próximos archivos faltantes: capítulos 107–108.
+
+
+## Cierre de borradores de capítulos 1–108 — 19 de noviembre de 2026
+
+- [x] Capítulos 107–108: paráfrasis originales provisionales y fuente registrada.
+- [x] Capítulos 107–108: dos ilustraciones SVG específicas creadas.
+- Fuentes consultadas: R. H. Charles, *The Book of Enoch* (1912/1917), caps. CVII–CVIII; https://rojc.uk/book-of-enoch.htm (107) y https://apocryphalibrary.weebly.com/1-enoch-108.html; https://ambientbible.com/read/1-enoch/108 (108), consulta 19-11-2026.
+- [x] Auditoría de nombres de archivo: 108 documentos consecutivos 1–108 en `docs/chapters/`.
+- [x] Auditoría de arte: 43 SVG individuales consecutivos para capítulos 66–108 en `assets/illustrations/`.
+- [ ] Las 108 paráfrasis NO son traducción crítica ni están cotejadas íntegramente con manuscritos. Las lagunas y variantes solo se anotaron en varios casos; falta una revisión sistemática.
+- [ ] El lector Android no contiene aún los capítulos 36–108 ni integra todas estas ilustraciones. El PDF de libro completo todavía no está creado.
