@@ -1,20 +1,27 @@
-# Capítulo 80 — El desorden de la creación en tiempos de pecado (paráfrasis provisional)
+# Capítulo 80 — El desorden cósmico en tiempos de pecado (paráfrasis provisional por versículo)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa ni cotejo diplomático; suplementos editoriales no se presentan como texto seguro.
 
-Uriel advierte que, en los tiempos descritos como de pecado, las estaciones y los ciclos dejarán de ser reconocidos o parecerán alterarse: los años se acortarán, las cosechas se retrasarán, faltará lluvia y los frutos no llegarán a su tiempo. La visión menciona cambios en la Luna y el Sol, y estrellas que abandonan sus órdenes. Los seres humanos perderán la comprensión de sus señales y algunos las tomarán por divinidades. El capítulo termina con la multiplicación del mal y el anuncio de juicio.
+**80:1.** Uriel recuerda a Enoc que le reveló los recorridos, tareas y tiempos del Sol, la Luna, los dirigentes de las estrellas y quienes las hacen girar.
 
-**Idea central:** el desorden moral se expresa mediante una imagen de desajuste cósmico.
+**80:2.** En la época de los pecadores, el relato anuncia que los años se acortarán, las siembras se retrasarán y la tierra cambiará; la lluvia quedará retenida por el cielo.
 
-**Ilustración propia:** assets/illustrations/chapter_80.svg — cielo con astros fuera de sus rutas, nube seca, árbol sin fruto y una figura que mira confundida las estrellas.
+**80:3.** Los frutos de la tierra tardarán y no madurarán cuando corresponda; también los árboles demorarán sus frutos.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXX, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original.
+**80:4.** La Luna dejará de seguir el orden que la visión le asigna y no aparecerá en el momento esperado.
 
-**Nota:** es una advertencia apocalíptica y simbólica, no una predicción meteorológica ni un modelo científico. Cotejo pendiente.
+**80:5.** Charles incluye entre corchetes una escena del Sol que viaja por el extremo de un gran carro al oeste y brilla fuera de la medida acostumbrada. Se mantiene como suplemento editorial, no como lectura segura.
 
+**80:6.** Muchos dirigentes de las estrellas quebrarán el orden establecido; cambiarán sus rutas y funciones y dejarán de aparecer en sus estaciones.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**80:7.** Los pecadores perderán la comprensión del orden de los astros y las personas se equivocarán al interpretarlos, llegando a tratarlos como dioses. Una frase entre corchetes en Charles se deja sin incorporar como texto seguro.
 
-El capítulo 80 funciona como advertencia apocalíptica: retraso de cosechas, lluvia retenida y alteración de luminares en “los días de los pecadores”. La paráfrasis mantiene el marco moral y no lo presenta como predicción meteorológica ni explicación científica. La ficha de Theosis Library ubica el capítulo 80 en Rylands Ethiopic MS 23, fol. 11r col. a, pero la lista de fragmentos arameos que relaciona con 72–82 no asigna un testimonio directo a 80; no debe insinuarse que 4Q210/209 confirma sus versículos.
+**80:8.** El mal aumentará y, según la advertencia, el castigo alcanzará a los transgresores hasta su destrucción.
 
-**Fuentes comprobadas:** Charles 1917, cap. 80; Theosis Library §80 y descripción general de testigos. No se hizo cotejo directo de Ge'ez ni aparato crítico para este capítulo.
+**Idea central:** la visión usa el desajuste de los ciclos celestes y agrícolas como imagen apocalíptica de corrupción y juicio; no es una predicción científica.
+
+**Ilustración SVG propia:** `assets/illustrations/chapter_80.svg` — cielo alterado, astros fuera de sus rutas y cosecha demorada.
+
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXX, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_80. Se consultó la transcripción; no se cotejaron directamente manuscritos.
+
+**Nota textual:** Charles imprime 80:5 entre corchetes y marca una frase en 80:7 como interpolación; no se incorporan como lectura segura. En la lista de fragmentos 4Q208–211 consultada no se asigna testimonio arameo directo a 80. Véase `docs/auditoria_76-82_fuentes.md`.
