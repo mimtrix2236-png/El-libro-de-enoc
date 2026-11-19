@@ -18,7 +18,8 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 36–40 — borradores preliminares y notas editoriales
 - [x] Capítulos 41–45 — borradores preliminares con notas de cotejo
 - [x] Capítulos 46–50 — borradores preliminares y notas de interpretación
-- [ ] Capítulos 51–108
+- [x] Capítulos 51–55 — borradores preliminares con advertencias de cotejo
+- [ ] Capítulos 56–108
 - [ ] Revisión de coherencia y notas documentales
 - [ ] Glosario y apéndices
 - [ ] Bibliografía verificada
@@ -47,4 +48,4 @@ El texto de lectura se redacta como paráfrasis literaria original y no se prese
 
 ## Próximo paso
 
-Continuar con capítulos 51–60. La edición sigue siendo un borrador de paráfrasis: antes de imprimir, cotejar todos los capítulos con fuentes críticas y completar aparato de notas.
+Continuar con capítulos 56–65. Revisar e integrar textos al lector; aún falta cotejo documental, aparato de notas, contenido íntegro y compilación.
