@@ -106,3 +106,10 @@
 - La diferencia aramea/Ge'ez de 89:1b–9 queda anotada: 4Q206 frags. 8 I y 9 se reportan como versión aramea más corta; el resumen por rangos no sustituye el cotejo versicular.
 - Añadí test para verificar la secuencia exacta de rangos del capítulo 89.
 - Próximo: capítulo 90 y cierre del bloque 83–90.
+
+
+## 19 de noviembre de 2026 — capítulo 90 y cierre de Dream Visions
+- Dividí capítulo 90 (42 versículos) en seis rangos narrativos y lo integré al lector offline.
+- Los capítulos 83–88 están en paráfrasis por versículo; 89 y 90 son resúmenes por unidades/rangos por su extensión. Las referencias no equivalen a una traducción versicular completa.
+- Añadí test para la secuencia de rangos de capítulo 90 y actualicé el informe 83–90 con los rangos 89 y 90.
+- Próximo bloque: 91–95, especialmente 91/93 (orden de las semanas) y completar las paráfrasis por versículo donde aún sean resúmenes.
