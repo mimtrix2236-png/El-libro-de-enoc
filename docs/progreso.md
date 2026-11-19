@@ -46,3 +46,11 @@
 - Capítulo 108 quedó marcado como apéndice independiente y Ethiopic-only en los testigos consultados, sin testimonio Aramaic/Greek/Coptic/Latin identificado; la fecha posterior se presenta como hipótesis.
 - **Hito de borradores:** 108 archivos de capítulos están presentes; las paráfrasis 66–108 ahora llevan notas críticas de fuente y límites de evidencia (esto no equivale a traducción versicular final ni cotejo directo de manuscritos).
 - Próxima tarea: auditar 1–108 de forma integral, normalizar índice, revisar capítulos 1–65, apéndices, bibliografía, derechos, integrar contenido al Android reader, completar arte de capítulos, PDF y build APK.
+
+
+## 19 de noviembre de 2026 — auditoría combinada 66–108 y corrección CI
+- Actualicé `docs/auditoria_capitulos_66-108.md` con seis informes nuevos (76–82, 83–90, 91–95, 96–100, 101–105 y 106–108), límites de testigos y referencias.
+- Los 108 archivos de capítulo están presentes. 66–108 tienen notas de cotejo documental, pero son paráfrasis provisional y las notas no equivalen a cotejo directo de manuscritos.
+- La imagen generada para 76 se conserva en el repositorio como preview 160×160; no está integrada al lector y no es final de imprenta.
+- CI falló en `LaterEnocContent66_80.kt` por un paréntesis faltante después de capítulo 66; corregido en commit `78a256b5d5433821be2063e3001142ecf1532047`. La verificación de esa corrección aún está pendiente.
+- Próximo foco: confirmar build, revisar catálogo Android 66–108 (notas de capítulo y unidades completas), auditar fuentes 1–65 y cerrar contenido de preliminares, glosario, apéndices y PDF.
