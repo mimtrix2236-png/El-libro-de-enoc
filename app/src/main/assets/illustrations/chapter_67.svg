@@ -1,2 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 67, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><path d="M45 540 L130 320 195 420 270 240 350 420 430 290 490 550Z" fill="#b9976c" stroke="#5b3b20" stroke-width="7"/><path d="M65 590 Q180 550 270 590 T480 585" fill="none" stroke="#5b3b20" stroke-width="7"/><path d="M90 560 Q150 540 205 560 T310 560 T430 560" fill="none" stroke="#6c4729" stroke-width="12"/><g transform="translate(115 300)"><path d="M0 150 L210 150 190 210 25 210Z" fill="#6f4829" stroke="#4b321e" stroke-width="8"/><path d="M25 150 L35 75 175 75 190 150Z" fill="#b88b5c" stroke="#4b321e" stroke-width="8"/><path d="M40 75 L105 25 170 75" fill="#d0ad7a" stroke="#4b321e" stroke-width="8"/><path d="M80 80 L80 140 M120 80 L120 140" stroke="#5b3b20" stroke-width="6"/><path d="M15 180 Q60 160 100 180 T195 180" fill="none" stroke="#c6a27b" stroke-width="6"/></g><path d="M320 560 Q345 500 355 450 Q380 500 390 560 Q410 510 425 470 Q455 520 465 580" fill="none" stroke="#b55f2b" stroke-width="14"/><path d="M330 580 Q360 530 370 485 M400 590 Q425 545 440 510" stroke="#e0a24e" stroke-width="6" fill="none"/><g transform="translate(75 475)" fill="#d4bd95" stroke="#5b3b20" stroke-width="7"><circle cx="0" cy="-25" r="22"/><path d="M-18 0 L18 0 35 70 -35 70Z"/><path d="M-15 10 L-50 45 M15 10 L50 45"/></g></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 67</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Capítulo 67: Noé junto al arca, frente al valle de fuego, grabado sepia">
+<defs>
+ <radialGradient id="p67"><stop stop-color="#f4e5c7"/><stop offset="1" stop-color="#c6a074"/></radialGradient>
+ <linearGradient id="sky67" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d7c19b"/><stop offset="1" stop-color="#8c6540"/></linearGradient>
+ <linearGradient id="fire67" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f1c36b"/><stop offset=".5" stop-color="#a84c24"/><stop offset="1" stop-color="#43291c"/></linearGradient>
+ <pattern id="h67" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V7" stroke="#5d3d21" stroke-width="1" opacity=".3"/></pattern>
+</defs>
+<rect width="512" height="720" fill="url(#p67)"/><rect x="18" y="18" width="476" height="684" rx="7" fill="none" stroke="#573820" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9b7448" stroke-width="2"/>
+<g stroke="#5d3d21" stroke-width="4" fill="none"><path d="M43 64L74 44L96 64L74 84Z M416 64L438 44L460 64L438 84Z M43 656L74 636L96 656L74 676Z M416 656L438 636L460 656L438 676Z"/></g>
+<!-- Storm and distant mountains -->
+<path d="M38 176Q73 121 126 148Q158 92 220 130Q270 82 326 132Q386 92 442 160L477 290L35 290Z" fill="url(#sky67)" stroke="#583820" stroke-width="5"/>
+<g fill="#b18b5e" stroke="#5d3d21" stroke-width="5"><path d="M36 330L111 214L168 300L224 185L302 313L371 201L478 330Z"/><path d="M45 395L130 270L195 365L285 260L353 380L430 280L479 395Z"/></g>
+<g fill="url(#h67)"><path d="M36 330L111 214L168 300L224 185L302 313L371 201L478 330Z"/><path d="M45 395L130 270L195 365L285 260L353 380L430 280L479 395Z"/></g>
+<!-- Fire valley / mineral springs -->
+<path d="M70 425Q128 388 179 435Q232 395 286 437Q345 392 402 431L472 512L472 600L45 600Z" fill="#5c3a22" stroke="#4a2e1c" stroke-width="5"/>
+<path d="M88 485Q123 453 150 489Q184 462 211 492Q243 461 276 492Q318 465 349 492Q388 463 430 493L464 560L62 560Z" fill="url(#fire67)" stroke="#3c271b" stroke-width="5"/>
+<g fill="none" stroke="#f1c46f" stroke-width="7"><path d="M108 530Q132 485 149 528T192 529T237 527T281 530T325 529T371 530T417 528"/><path d="M145 494Q171 462 184 500M252 491Q273 462 291 498M357 492Q378 466 392 499"/></g>
+<!-- Ark on hillside -->
+<g transform="translate(82 318)" stroke="#583820" stroke-width="6" stroke-linejoin="round">
+ <path d="M0 98L25 160L255 160L286 98Z" fill="#9a6d3e"/>
+ <path d="M10 98L40 55L240 55L276 98Z" fill="#c5a074"/>
+ <path d="M20 91L267 91M28 108L260 108M38 126L249 126M50 143L238 143" stroke="#6c4727" stroke-width="5"/>
+ <path d="M42 55L65 20L214 20L240 55Z" fill="#d4b58a"/>
+ <path d="M73 20L90 3L189 3L211 20Z" fill="#b88a59"/>
+ <rect x="102" y="62" width="50" height="36" fill="#654529"/>
+ <path d="M118 62V98M136 62V98" stroke="#d4b58a" stroke-width="4"/>
+ <path d="M72 35L85 35M108 35L120 35M150 35L165 35M188 35L202 35" stroke="#68472b" stroke-width="5"/>
+</g>
+<!-- Noah -->
+<g transform="translate(110 522)" stroke="#573820" stroke-width="5" stroke-linejoin="round">
+ <circle cx="0" cy="-35" r="24" fill="#d8bd91"/>
+ <path d="M-22 -47Q-17 -70 10 -58L23 -43L10 -27L-22 -28Z" fill="#6a4828"/>
+ <path d="M-14 -15Q-45 20 -37 70L-53 122L-4 120L18 70L43 120L84 115L55 64Q59 20 19 -15Z" fill="#c6a276"/>
+ <path d="M-20 8L-3 39L25 8L10 82L-22 82Z" fill="#e6d0a8"/>
+ <path d="M-35 42L-68 76L-56 89L-27 63M42 42L68 78L53 89L28 62" fill="#c6a276"/>
+ <path d="M-44 112L-66 135L-19 140L-5 126M45 112L30 128L72 140L86 128Z" fill="#6a4828"/>
+ <path d="M-27 -9L27 -9" stroke="#a27a4c" stroke-width="7"/>
+</g>
+<!-- Messenger angel on the ridge -->
+<g transform="translate(392 247)" stroke="#593920" stroke-width="5" stroke-linejoin="round">
+ <circle cx="0" cy="-30" r="21" fill="#e0c69b"/>
+ <ellipse cx="0" cy="-62" rx="34" ry="8" fill="none" stroke="#c69a45" stroke-width="5"/>
+ <path d="M-16 -9L-28 48L-42 104L-9 112L14 55L34 105L65 97L39 45L16 -9Z" fill="#d6bd93"/>
+ <path d="M-15 5Q-76 -8 -86 -60Q-59 -82 -34 -31L-10 12M18 8Q72 -11 86 -60Q59 -82 34 -31L10 12" fill="#e6d2ad"/>
+ <path d="M-33 40L-67 32M32 40L68 28" stroke="#b38752" stroke-width="8"/>
+</g>
+<path d="M42 618Q256 634 470 618" fill="none" stroke="#5d3d21" stroke-width="4"/><text x="256" y="674" text-anchor="middle" font-family="serif" font-size="18" fill="#573820">1 ENOC · 67</text></svg>
