@@ -69,7 +69,6 @@ Cotejar borradores con fuentes capítulo por capítulo; producir arte individual
 - Capítulos 3–20: sus entradas previas siguen siendo borradores y no se cuentan como traducción final. Deben sustituirse capítulo por capítulo.
 - Los capítulos 21–108 quedan en estado provisional hasta ser rehechos con este mismo método. Las paráfrasis existentes no cuentan como traducción final.
 
-
 ## Revisión versículo por versículo — capítulos 3–20 (19 de noviembre de 2026)
 
 Se incorporaron documentos editoriales individuales para los capítulos 3–20:
@@ -79,5 +78,8 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - Caps. 6–20: documentos con numeración de Charles, traducción de trabajo y notas de suplementos, reconstrucciones, nombres y pasajes dudosos.
 - Fuentes base consultadas: Dillmann 1851 (ge'ez), Charles 1917 (numeración y siglas editoriales), mapeo fotográfico del Rylands Ethiopic MS 23 y descripción de la evidencia en Online Critical Pseudepigrapha.
 - Advertencia general: el texto ge'ez digital de Dillmann no tiene numeración versicular y no es transcripción diplomática del Rylands MS 23. La traducción sigue la segmentación editorial de Charles; las variantes requieren cotejo adicional con Charles 1906, Knibb y los testigos griegos/arameos disponibles.
-- Los documentos 03.md–20.md están en docs/chapters/. Todavía no se han integrado en EnocContent.kt; por tanto la app aún conserva entradas anteriores provisionales para estos capítulos.
+- Los documentos 03.md–20.md están en docs/chapters/.
 - No se declara completada la edición crítica ni la compilación APK.
+
+- [x] Integración en `EnocContent.kt`: capítulos 3–20 reemplazados por entradas versículo por versículo extraídas de sus documentos editoriales. Se conservaron las etiquetas alfabéticas del capítulo 5; su sección 5:6d–j sigue identificada como texto problemático y no como traducción literal cerrada.
+- [ ] Revisar compilación Kotlin y probar visualmente la navegación de capítulos 3–20. La actualización del archivo fuente no equivale a una compilación verificada.
