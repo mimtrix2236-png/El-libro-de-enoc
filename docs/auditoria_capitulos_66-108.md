@@ -52,3 +52,8 @@ Se refinó el arte SVG de los capítulos 66–70. La comprobación de archivos c
 Se implementó el sonido celestial de forma procedural (sine-pad con progresión lenta, fade-in/crossfade/release) mediante `AudioTrack`, sin muestras ni archivos de terceros; toggle apagado por defecto, control de volumen, offline, pausa en `onStop` y reanudación en `onStart`. Build/tests de commit `a802f77` pasaron; artifact debug 9,205,699 bytes. La escucha real en dispositivo queda pendiente.
 
 Se refinó el arte de capítulos 66–75 (10 SVG de escenas específicas) y sus copias en assets Android. Los capítulos 76–108 mantienen el arte vectorial de concepto que requiere refinamiento. El CI de commits de arte posteriores a `a802f77` estaba en cola al registrar esto.
+
+
+## Estado consolidado — 19-11-2026
+
+La sección de progreso confirma ahora: lector offline con búsqueda de título/número, marcadores, progreso/tipografía/modo guardados, swipe y ambiente celestial procedural original. Build/tests de commit `a802f77` pasaron y el artifact debug se generó. Las ilustraciones 66–75 se refinaron; las 76–108 aún requieren mejora. No se ha probado el audio en dispositivo y no existe PDF final.
