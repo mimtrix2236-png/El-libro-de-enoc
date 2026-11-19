@@ -56,6 +56,7 @@ private fun EnocReader() {
         14 -> R.drawable.heavenly_house_14
         15 -> R.drawable.spirits_15
         16 -> R.drawable.final_sentence_16
+        17 -> R.drawable.journey_17
         else -> R.drawable.enoch_illumination_banner
     }
     val lastAvailableChapter = EnocContent.chapters.maxOfOrNull { it.number } ?: 1
