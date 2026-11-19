@@ -62,6 +62,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 - 79: paráfrasis por versículo integrada (6 unidades); el test de catálogo ahora verifica 76–79. CI de estos cambios pendiente.
 
+- 80: paráfrasis por versículo integrada (8 unidades), con suplementos de Charles claramente marcados; test de catálogo ahora verifica 76–80. CI pendiente.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
