@@ -11,3 +11,10 @@ Enoc anuncia un tiempo en que la violencia se extenderá incluso entre familias,
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. C, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar imágenes de sangre, guardianes, testimonios de la naturaleza y cifras; no presentar la paráfrasis como traducción literal.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+El capítulo 100 cae dentro del tramo griego Chester Beatty-Michigan 97:6–104:13, aunque la copia presenta lagunas. El resumen mantiene el contenido general (violencia, juicio, protección y naturaleza como testigo), pero no se verificó cada detalle con el griego ni el Ge'ez. No se asigna un fragmento arameo Qumrán directo a 100 en la lista consultada.
+
+**Pendiente:** cotejo de los versículos sobre ángeles, sangre, testigos naturales y numerales; no inferir que el griego preserva todos los versos.
