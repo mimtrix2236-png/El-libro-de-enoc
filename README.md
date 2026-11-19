@@ -49,6 +49,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 - Fuente-audit 91–95: `docs/auditoria_91-95_fuentes.md`; corregida la omisión de 93:11–14 y anotado el desplazamiento de la Apocalipsis de las Semanas entre testigos.
 
+- Fuente-audit 96–100: `docs/auditoria_96-100_fuentes.md`; anotado el alcance parcial del papyrus griego Chester Beatty-Michigan y lagunas, sin afirmar testimonio arameo directo.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
