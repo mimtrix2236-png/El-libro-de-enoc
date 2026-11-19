@@ -27,10 +27,13 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 ## Estado de desarrollo
 - Proyecto Android con interfaz inicial de lectura por capítulos.
 - Índice de capítulos, controles de tamaño de letra y modo nocturno.
-- Primera ilustración vectorial ornamental integrada en la cabecera.
-- Contenido provisional de los capítulos 1–5 incorporado como borrador claramente etiquetado.
+- Ilustración vectorial ornamental integrada en la cabecera.
+- Ilustraciones vectoriales originales específicas para los capítulos 6–10.
+- Contenido provisional de los capítulos 1–10 incorporado versículo por versículo y marcado como borrador.
 - Registro y protocolo de cotejo crítico: `editorial/cotejo_critico.md`.
-- El cotejo versículo por versículo de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
+- Los capítulos 6–10 cuentan con mapa de folios y notas críticas en `editorial/fuentes_capitulos_06_10.md`.
+- El cotejo integral de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
+- Flujo de compilación Android configurado en `.github/workflows/android-build.yml`; APK aún no verificado.
 - No hay APK verificado todavía.
 
 ## Criterio de avance
