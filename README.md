@@ -44,6 +44,9 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 ## Registro de trabajo reciente
 - Fuente-audit de capítulos 76–82: `docs/auditoria_76-82_fuentes.md`; notas críticas agregadas a cada paráfrasis, sin convertirlas en traducciones finales. Revisión de fuentes secundarias y bibliografía; cotejo directo de manuscritos aún pendiente.
 
+- Fuente-audit 83–90: `docs/auditoria_83-90_fuentes.md`; notas por capítulo añadidas, con variante aramea más corta de 89:1b–9 y debate de división 89:55–58/89:59–90:42 registrados.
+- Preview generado de capítulo 76 en `assets/generated/chapter_76_winds_gates_preview.jpg` (160×160, comprimido, no final ni integrado); ver `assets/generated/README.md`.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
