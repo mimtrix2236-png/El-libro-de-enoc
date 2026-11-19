@@ -21,3 +21,9 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 80 | chapter_80.svg | Astros desordenados y tierra seca |
 | 81 | chapter_81.svg | Enoc y las tablas celestiales |
 | 82 | chapter_82.svg | Transmisión de rollos y rueda anual |
+| 83 | chapter_83.svg | Tierra hundiéndose y abismo del sueño |
+| 84 | chapter_84.svg | Enoc ora por el remanente |
+| 85 | chapter_85.svg | Alegoría de toros y generaciones |
+| 86 | chapter_86.svg | Estrella caída y criaturas gigantes |
+| 87 | chapter_87.svg | Enoc elevado ante una torre |
+| 88 | chapter_88.svg | Estrella transgresora encadenada al abismo |
