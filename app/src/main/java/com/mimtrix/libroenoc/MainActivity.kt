@@ -42,24 +42,37 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun EnocReader() {
-    var page by remember { mutableIntStateOf(0) }
-    var chapter by remember { mutableIntStateOf(1) }
+    val context = LocalContext.current
+    val prefs = remember { context.getSharedPreferences("enoc_reader", android.content.Context.MODE_PRIVATE) }
+    var page by remember { mutableIntStateOf(prefs.getInt("page", 0)) }
+    var chapter by remember { mutableIntStateOf(prefs.getInt("chapter", 1)) }
     var fontSize by remember { mutableFloatStateOf(19f) }
     var indexMode by remember { mutableStateOf(false) }
+    var bookmarkPage by remember { mutableIntStateOf(prefs.getInt("bookmark_page", 0)) }
+    var bookmarkChapter by remember { mutableIntStateOf(prefs.getInt("bookmark_chapter", 1)) }
+    var nightMode by remember { mutableStateOf(prefs.getBoolean("night_mode", false)) }
+    val activePaper = if (nightMode) Color(0xFF302820) else paper
+    val activeInk = if (nightMode) Color(0xFFE8D6B4) else ink
+    val activeBackground = if (nightMode) Color(0xFF191512) else parchment
 
     MaterialTheme {
-        Surface(Modifier.fillMaxSize(), color = parchment, contentColor = ink) {
+        Surface(Modifier.fillMaxSize(), color = activeBackground, contentColor = activeInk) {
             Column(Modifier.fillMaxSize().padding(16.dp), horizontalAlignment = Alignment.CenterHorizontally) {
                 Text("EL LIBRO DE ENOC", fontSize = 22.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Serif)
                 Text("Edición de lectura · Mauro Iván Maidana", fontSize = 12.sp)
                 Spacer(Modifier.height(10.dp))
                 Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-                    Button(onClick = { indexMode = !indexMode }, colors = ButtonDefaults.buttonColors(containerColor = ink)) { Text(if (indexMode) "Libro" else "Índice") }
+                    Button(onClick = { indexMode = !indexMode }, colors = ButtonDefaults.buttonColors(containerColor = activeInk)) { Text(if (indexMode) "Libro" else "Índice") }
                     OutlinedButton(onClick = { fontSize = (fontSize - 1).coerceAtLeast(14f) }) { Text("A−") }
                     OutlinedButton(onClick = { fontSize = (fontSize + 1).coerceAtMost(30f) }) { Text("A+") }
+                    OutlinedButton(onClick = { nightMode = !nightMode; prefs.edit().putBoolean("night_mode", nightMode).apply() }) { Text(if (nightMode) "☀" else "☾") }
+                }
+                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    OutlinedButton(onClick = { bookmarkPage = page; bookmarkChapter = chapter; prefs.edit().putInt("bookmark_page", page).putInt("bookmark_chapter", chapter).apply() }) { Text("Guardar") }
+                    OutlinedButton(onClick = { page = bookmarkPage; chapter = bookmarkChapter; indexMode = false }) { Text("Marcador") }
                 }
                 Spacer(Modifier.height(10.dp))
-                Box(Modifier.weight(1f).fillMaxWidth().background(paper, RoundedCornerShape(8.dp)).padding(18.dp)) {
+                Box(Modifier.weight(1f).fillMaxWidth().background(activePaper, RoundedCornerShape(8.dp)).padding(18.dp)) {
                     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState())) {
                         if (indexMode) {
                             Text("ÍNDICE", fontSize = 25.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Serif)
@@ -87,9 +100,9 @@ fun EnocReader() {
                 }
                 Spacer(Modifier.height(10.dp))
                 Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
-                    Button(onClick = { if (page > 0) page-- else chapter = (chapter - 1).coerceAtLeast(1) }, colors = ButtonDefaults.buttonColors(containerColor = ink)) { Text("‹ Anterior") }
+                    Button(onClick = { if (page > 0) page-- else chapter = (chapter - 1).coerceAtLeast(1); prefs.edit().putInt("page", page).putInt("chapter", chapter).apply() }, colors = ButtonDefaults.buttonColors(containerColor = activeInk)) { Text("‹ Anterior") }
                     Text(if (page < frontMatter.size) "Preliminar ${page + 1}/${frontMatter.size}" else "Cap. $chapter / 108", fontWeight = FontWeight.Bold)
-                    Button(onClick = { if (page < frontMatter.size - 1) page++ else if (page < frontMatter.size) { page = frontMatter.size; chapter = 1 } else chapter = (chapter + 1).coerceAtMost(108) }, colors = ButtonDefaults.buttonColors(containerColor = ink)) { Text("Siguiente ›") }
+                    Button(onClick = { if (page < frontMatter.size - 1) page++ else if (page < frontMatter.size) { page = frontMatter.size; chapter = 1 } else chapter = (chapter + 1).coerceAtMost(108); prefs.edit().putInt("page", page).putInt("chapter", chapter).apply() }, colors = ButtonDefaults.buttonColors(containerColor = activeInk)) { Text("Siguiente ›") }
                 }
             }
         }
