@@ -70,3 +70,6 @@ Cada tramo debe registrar: edición española base (traductor/editor/año/licenc
 
 
 - Nuevo documento `editorial/INCIDENCIAS_77-82.md` (commit `4448d05414a9428a5a0d7731758b756085d0bc64`): registra una advertencia de encabezado 77/78 ausente en una transcripción digital y una variante numérica 360/364 en 82:11 reportada para distintos testigos. Ambas quedan pendientes de verificación directa en facsímiles; no se ha impuesto ninguna lectura.
+
+
+- Verificación bibliográfica añadida en `editorial/VERIFICACION_EJEMPLAR_CHARLES.md` (commit `5fb854096c1fff7e5b695dd4e0346ac46d5c4066`): el PDF abierto es la décima impresión de 1962, que reproduce la traducción de la segunda edición de Charles (1912); no debe llamarse facsímil de la primera impresión de 1917. La introducción de Oesterley se considera fuente historiográfica de época, no consenso académico actual. No se ha verificado aún en imagen el texto de 72–82 ni 82:11.
