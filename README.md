@@ -56,6 +56,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Fuente-audit 106–108: `docs/auditoria_106-108_fuentes.md`; apéndice de Noé con testigos fragmentarios y capítulo 108 señalado como Ge'ez-only en los testigos consultados.
 - Hito de borradores: están presentes 108 archivos de capítulos; 66–108 cuentan con notas críticas de fuentes y límites de evidencia, aún no traducción crítica final.
 
+- Auditoría combinada 66–108 actualizada con seis informes de fuente 76–108. Commit `78a256b` corrige paréntesis faltante del catálogo capítulo 66; la verificación CI de ese fix está pendiente.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
