@@ -11,3 +11,10 @@ Enoc relata a Matusalén un segundo sueño. Aparecen animales bovinos que repres
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXXV, https://rojc.uk/book-of-enoch.htm; https://adfonteslibrary.org/work-st-pseudepigrapha-1-enoch (consultadas 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar símbolos, secuencia y posibles identificaciones históricas; no asignar nombres a cada animal sin aparato interpretativo.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+La paráfrasis conserva la escena inicial de toros/vaca y los cambios de color. La identificación de cada animal con figuras históricas (Adán, Eva, Caín, Abel, Set y descendientes) pertenece al aparato interpretativo; no se fija como significado inequívoco en el texto principal. Elena L. Dugan (2023, cap. 3, publicado en línea 2025) estudia la evidencia material y agrupa los fragmentos Qumrán 4Q204–207 como testigos de partes de la “Vision of the Beasts” en relación con la tradición Ge'ez, con diferencias de extensión y solapamientos. No se cotejaron aquí directamente esos fragmentos.
+
+**Pendiente:** revisar las identificaciones y el uso de color con Tiller 1993, Nickelsburg 2001 y Olson 2013; no asignar identidades sin nota.
