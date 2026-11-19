@@ -1,20 +1,19 @@
-# Capítulo 87 — La intervención de los seres celestiales (paráfrasis provisional)
+# Capítulo 87 — Enoc es elevado para observar (paráfrasis provisional por versículo)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa ni cotejo diplomático.
 
-La matanza y el clamor de la tierra continúan. Enoc mira al cielo y ve seres de aspecto humano y luminoso que descienden. Tres de los que llegan después lo toman de la mano, lo apartan de las generaciones terrestres y lo elevan a un lugar alto. Desde allí le muestran una torre que sobresale sobre el paisaje y le ordenan observar lo que ocurrirá con las criaturas y las estrellas de la visión.
+**87:1.** Los animales continúan atacándose y devorándose, y la tierra parece gritar ante la violencia.
 
-**Idea central:** el vidente es apartado para contemplar el juicio y la intervención celestial desde una posición elevada.
+**87:2.** Enoc vuelve a mirar al cielo y ve seres semejantes a hombres blancos; cuatro salen primero y otros tres los acompañan.
 
-**Ilustración propia:** assets/illustrations/chapter_87.svg — tres figuras celestiales levantan a Enoc hacia una torre de piedra que domina una llanura, con la tierra agitada debajo.
+**87:3.** Los tres últimos toman a Enoc de la mano, lo apartan de las generaciones terrestres y lo elevan a un lugar alto; allí ve una torre que sobresale y las colinas parecen pequeñas.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXXVII, https://rojc.uk/book-of-enoch.htm; https://adfonteslibrary.org/work-st-pseudepigrapha-1-enoch (consultadas 19-11-2026). Paráfrasis original.
+**87:4.** Le ordenan permanecer allí hasta observar el destino de los elefantes, camellos, asnos, estrellas, toros y demás criaturas.
 
-**Pendiente:** revisar la descripción de los seres celestiales y la torre, y su conexión con la escena siguiente.
+**Idea central:** Enoc es apartado de la tierra para observar el juicio de las criaturas.
 
+**Ilustración SVG propia:** `assets/illustrations/chapter_87.svg` — arte conceptual específico del capítulo.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXXVII, dominio público; transcripción consultada, no cotejo directo.
 
-El capítulo describe seres celestiales que apartan a Enoc y lo elevan para observar la visión. En el texto los seres no están todos nombrados; la identificación con los cuatro arcángeles es una interpretación tradicional, no se incorpora al resumen como dato explícito. Los fragmentos Qumrán de la Vision of the Beasts 4Q204–207 son evidencia de circulación de partes de esta sección amplia, pero no se realizó una asignación verse-by-verse en esta revisión.
-
-**Pendiente:** verificar número de seres, acciones y el término de la torre con edición crítica y fragmentos.
+**Nota textual:** Fuente de trabajo: Charles 1917, cap. LXXXVII. El número y la identidad de los seres no se interpretan más allá del texto. Testimonio Qumrán de la Vision of the Beasts es fragmentario y no se asignó aquí cada verso. Ver docs/auditoria_83-90_fuentes.md.
