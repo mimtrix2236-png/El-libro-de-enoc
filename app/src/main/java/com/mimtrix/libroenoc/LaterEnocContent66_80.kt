@@ -66,10 +66,19 @@ object LaterEnocContent66_80 {
                 VerseEntry("76:13", "Por la puerta central del oeste llegan rocío y lluvia, junto con prosperidad y bendición; la última, próxima al sur, trae sequía, devastación, calor abrasador y destrucción."),
                 VerseEntry("76:14", "Enoc concluye que el mapa de las doce puertas queda completo y que ha transmitido a Matusalén sus leyes, daños y beneficios.")
             )),
-        ChapterEntry(77, "Los cuatro extremos y las regiones del mundo", "Paráfrasis provisional · cotejo crítico pendiente",
-            "el mundo se ordena en regiones y elementos geográficos que forman una totalidad simbólica y sagrada.",
-            "Fuente: R. H. Charles, The Book of Enoch (1912), cap. LXXVII, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original. Pendiente: cotejar numeración, cifras, terminología y variantes. Ilustración: assets/illustrations/chapter_77.svg — mapa circular de los cuatro cuadrantes con siete montañas, ríos que convergen y pequeñas islas; un jardín luminoso ocupa una región del norte.",
-            listOf(VerseEntry("Capítulo 77 · paráfrasis", "Enoc recibe nombres para las cuatro direcciones. La visión distingue regiones del norte: una habitada por seres humanos, otra con aguas, abismos, bosques, ríos, oscuridad y nubes, y otra asociada al jardín de justicia. También describe siete montañas, grandes ríos y siete islas, cuyos tamaños y ubicaciones se expresan desde la perspectiva cosmográfica del relato."))),
+        ChapterEntry(77, "Los cuatro extremos del mundo", "Paráfrasis provisional por versículo · cotejo crítico pendiente",
+            "La visión explica las regiones del mundo y enumera montañas, ríos e islas. Las etimologías y algunas ubicaciones tienen variantes.",
+            "Fuente de trabajo: Charles 1917, cap. LXXVII. 4Q210/4Q209 se asigna parcialmente a 76:14–77:3 según fuentes secundarias; hay diferencias etimológicas entre arameo y Ge'ez. No se cotejaron fotografías ni aparato crítico. Ver docs/auditoria_76-82_fuentes.md.",
+            listOf(
+                VerseEntry("77:1", "Enoc nombra el primer sector como este por ser el inicio; al segundo, el sur, lo vincula en la tradición etiópica con el descenso del Altísimo, especialmente del Bendito."),
+                VerseEntry("77:2", "El oeste recibe un nombre relacionado con la disminución, porque allí las luminarias parecen perder su luz y desaparecer al ponerse."),
+                VerseEntry("77:3", "El norte se divide en tres zonas: una para los seres humanos; otra con mares, profundidades, bosques, ríos, oscuridad y nubes; y una tercera donde se sitúa el jardín de justicia."),
+                VerseEntry("77:4", "Enoc contempla siete montañas muy elevadas; desde ese paisaje se relacionan la escarcha y el transcurrir de días, estaciones y años."),
+                VerseEntry("77:5", "Ve siete grandes ríos. Uno, cuya procedencia se transmite con una lectura dañada, desemboca en el Gran Mar."),
+                VerseEntry("77:6", "Dos ríos llegan desde el norte y descargan en el mar oriental que el texto llama Eritreo."),
+                VerseEntry("77:7", "Los otros cuatro se dirigen hacia sus mares: dos hacia el Eritreo y dos hacia el Gran Mar. La frase sobre un posible destino desértico y la cifra restaurada se dejan sin resolver."),
+                VerseEntry("77:8", "Enoc observa siete islas grandes: dos situadas en tierra firme y cinco en el Gran Mar.")
+            )),
         ChapterEntry(78, "Los nombres del Sol y la Luna", "Paráfrasis provisional · cotejo crítico pendiente",
             "el ciclo de luz de la Luna y su relación con el Sol se integran a un orden calendárico.",
             "Fuente: R. H. Charles, The Book of Enoch (1912), cap. LXXVIII, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original. Pendiente: cotejar nombres propios, secuencia de fases y cifras entre ediciones; no tratar los cálculos como astronomía moderna. Ilustración: assets/illustrations/chapter_78.svg — Sol y Luna con nombres simbólicos alrededor, una serie de fases y una balanza de luz en estilo de grabado antiguo.",
