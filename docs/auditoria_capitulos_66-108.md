@@ -62,3 +62,23 @@ La sección de progreso confirma ahora: lector offline con búsqueda de título/
 ## Capítulo 66: traducción indirecta provisional
 
 Se añadió una traducción española nueva de 66:1–3 basada en R. H. Charles (1917), desde su inglés. El suplemento `[abide and]` se conserva como `[permanecen y]` y se explica; la frase final sobre alejarse de la presencia de Enoc se mantiene sin armonización. El texto está en `docs/chapters/66_capitulo_66_traduccion_de_trabajo.md` y en el catálogo Android. No se ha cotejado con Ge'ez ni con un aparato crítico; por tanto no es una traducción final.
+
+
+## Addendum de cotejo — 19 de noviembre de 2026
+
+Se añadieron notas de fuente y límites de evidencia a cada archivo de paráfrasis de 76–108 y se crearon informes separados:
+
+- `docs/auditoria_76-82_fuentes.md` — puertas de vientos, regiones, ciclo solar/lunar, numerales, variante de 81:5 y fragmento 4Q209 82:9–13.
+- `docs/auditoria_83-90_fuentes.md` — sueños, Vision of the Beasts, variante aramea más corta del diluvio 89:1b–9, y debate sobre 89:55–58 / 89:59–90:42.
+- `docs/auditoria_91-95_fuentes.md` — orden de 91–93, 4Q212, suplemento de 93:11–14 y límites del testimonio en 94–95.
+- `docs/auditoria_96-100_fuentes.md` — papyrus griego Chester Beatty-Michigan parcial 97:6–104:13 y lagunas.
+- `docs/auditoria_101-105_fuentes.md` — testimonio griego parcial y 4Q204 104:13–105:2; cuidado con 105 y “su hijo”.
+- `docs/auditoria_106-108_fuentes.md` — Nacimiento de Noé y testigos fragmentarios; 108 señalado como Ge'ez-only en los testigos consultados.
+
+**Estado actualizado:** los 108 archivos de capítulo existen y 66–108 tienen notas de cotejo documental con referencias y límites explícitos. Estas notas se basan en fuentes secundarias y ediciones digitales revisadas; no constituyen cotejo directo de fotografías ni aparato crítico completo. Los borradores son paráfrasis, no traducción final.
+
+### Ilustración generada
+Se guardó `assets/generated/chapter_76_winds_gates_preview.jpg`, una preview IA comprimida de 160×160. No es lámina final de impresión ni está integrada en el lector; el SVG capítulo 76 permanece como recurso de app. Ver `assets/generated/README.md`.
+
+### CI reciente
+El CI de los commits de notas falló por un paréntesis de cierre faltante en `LaterEnocContent66_80.kt`, capítulo 66. Se corrigió en `78a256b5d5433821be2063e3001142ecf1532047`. La ejecución de esa corrección todavía debe confirmarse; no se declara build success.
