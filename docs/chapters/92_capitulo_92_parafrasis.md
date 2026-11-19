@@ -11,3 +11,10 @@ El texto se presenta como un libro de Enoc dirigido a sus hijos y a las generaci
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. XCII, https://rojc.uk/book-of-enoch.htm; https://fishtheright.com/writings/enoch/92/ (consultadas 19-11-2026). Paráfrasis original.
 
 **Nota textual:** Charles coloca el capítulo 92 antes de 91 dentro de su orden editorial. Se conserva el número tradicional aquí y se anotará el orden en el aparato. Cotejo pendiente.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+92:1–5 funciona como introducción del libro/exhortación epistolar en la organización crítica de Stuckenbruck (2007; 2010). 4Q212 frg. a se asigna a 92:1–2; es un testimonio muy fragmentario y no confirma el resto de la paráfrasis. La formulación “a las generaciones” y el alcance del prólogo deben verificarse por separado en los testigos Ge'ez y arameo.
+
+**Pendiente:** cotejo directo de 92:1–5 con 4Q212 y las ediciones críticas; el resumen sigue provisional.
