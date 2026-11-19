@@ -54,3 +54,10 @@
 - La imagen generada para 76 se conserva en el repositorio como preview 160×160; no está integrada al lector y no es final de imprenta.
 - CI falló en `LaterEnocContent66_80.kt` por un paréntesis faltante después de capítulo 66; corregido en commit `78a256b5d5433821be2063e3001142ecf1532047`. La verificación de esa corrección aún está pendiente.
 - Próximo foco: confirmar build, revisar catálogo Android 66–108 (notas de capítulo y unidades completas), auditar fuentes 1–65 y cerrar contenido de preliminares, glosario, apéndices y PDF.
+
+
+## 19 de noviembre de 2026 — expansión versicular 76–78
+- Expandí 76 (14 unidades), 77 (8) y 78 (17) a paráfrasis originales por referencia de versículo, usando Charles 1917 como texto de trabajo y conservando notas de restauraciones, variantes y numerales inciertos.
+- Integré esas unidades en el catálogo Android offline (`LaterEnocContent66_80.kt`) para lectura y añadí un test de catálogo que verifica el número y la secuencia de referencias.
+- La build anterior con fix de paréntesis capítulo 66 (`78a256b`) pasó; la compilación de los nuevos cambios de 76–78 está pendiente de CI.
+- Próximo capítulo en secuencia: 79. No se afirma traducción directa ni cotejo crítico final.
