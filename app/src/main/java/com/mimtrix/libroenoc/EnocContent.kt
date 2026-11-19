@@ -135,8 +135,7 @@ object EnocContent {
                 VerseEntry("10:20", "«Purifica la tierra de toda opresión, injusticia, pecado e impiedad; elimina de ella toda impureza que se comete sobre su superficie»."),
                 VerseEntry("10:21", "«Que todos los hijos de los hombres lleguen a ser justos y que todas las naciones me adoren, me bendigan y se inclinen ante mí». Esta cláusula está señalada como reconstrucción en Charles."),
                 VerseEntry("10:22", "«La tierra quedará limpia de toda corrupción, pecado, castigo y tormento. Nunca más enviaré estas cosas sobre ella, de generación en generación y para siempre»." )
-            ))
-        ,
+            )),
         ChapterEntry(11, "Los depósitos de bendición", "Borrador traducido · cotejo crítico pendiente",
             "Se anuncia la apertura de los depósitos celestiales: justicia y paz se extenderán entre las generaciones.",
             "Rylands MS 23, fol. 3r col. a. El ge'ez de Dillmann presenta dos unidades breves; Charles añade en 11:1 la precisión «sobre la tierra» entre signos editoriales. Se mantiene la frase entre corchetes en esta versión de trabajo.",
@@ -170,8 +169,7 @@ object EnocContent {
                 VerseEntry("13:9", "Cuando desperté, fui hacia ellos. Estaban todos reunidos, sentados y llorando en Abelshail, entre el Líbano y Seneser, con el rostro cubierto."),
                 VerseEntry("13:10", "Les relaté todas las visiones que había visto durante el sueño y comencé a pronunciar palabras de justicia y a reprender a los Vigilantes del cielo.")
             ))
-
-        ,
+,
         ChapterEntry(14, "La visión de la morada celestial", "Borrador traducido · cotejo crítico pendiente",
             "Enoc comunica la sentencia a los Vigilantes y es llevado en visión a una morada de cristal y fuego, ante el trono de la Gran Gloria.",
             "Rylands MS 23, fol. 3r col. b–3v col. a. Charles marca suplementos en 14:3–4, 14:18 y 14:25. Se conservan señalados. La descripción arquitectónica y las imágenes del trono deben cotejarse con el ge'ez línea por línea antes de cerrar.",
