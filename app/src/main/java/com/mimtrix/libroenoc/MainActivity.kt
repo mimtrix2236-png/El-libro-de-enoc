@@ -21,6 +21,9 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.ui.viewinterop.AndroidView
+import android.webkit.WebView
+import android.webkit.WebViewClient
 
 private val Parchment = Color(0xFFF1E5CB)
 private val Ink = Color(0xFF2D2130)
@@ -130,7 +133,32 @@ private fun EnocReader() {
                                 item {
                                     Text("CAPÍTULO $selectedChapter", color = Wine, fontSize = 10.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.5.sp)
                                     Spacer(Modifier.height(7.dp))
-                                    Image(painterResource(chapterArt), contentDescription = "Ilustración del capítulo $selectedChapter", modifier = Modifier.fillMaxWidth().height(132.dp))
+                                    if (selectedChapter in 66..108) {
+                                        AndroidView(
+                                            modifier = Modifier.fillMaxWidth().height(132.dp),
+                                            factory = { context ->
+                                                WebView(context).apply {
+                                                    settings.javaScriptEnabled = false
+                                                    settings.allowFileAccess = true
+                                                    settings.allowContentAccess = false
+                                                    webViewClient = WebViewClient()
+                                                    setBackgroundColor(android.graphics.Color.TRANSPARENT)
+                                                    val assetUrl = "file:///android_asset/illustrations/chapter_$selectedChapter.svg"
+                                                    tag = assetUrl
+                                                    loadUrl(assetUrl)
+                                                }
+                                            },
+                                            update = { view ->
+                                                val assetUrl = "file:///android_asset/illustrations/chapter_$selectedChapter.svg"
+                                                if (view.tag != assetUrl) {
+                                                    view.tag = assetUrl
+                                                    view.loadUrl(assetUrl)
+                                                }
+                                            }
+                                        )
+                                    } else {
+                                        Image(painterResource(chapterArt), contentDescription = "Ilustración del capítulo $selectedChapter", modifier = Modifier.fillMaxWidth().height(132.dp))
+                                    }
                                     Spacer(Modifier.height(12.dp))
                                     Text(selected?.title ?: "Capítulo", color = text, fontSize = 24.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Serif)
                                     Spacer(Modifier.height(9.dp))
