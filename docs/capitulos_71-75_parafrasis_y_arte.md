@@ -5,17 +5,13 @@
 
 ---
 
-## Capítulo 71 — La última visión de Enok
+## Capítulo 71 — La elevación y las revelaciones celestiales de Enok
 
-Enok contempla una revelación de carácter celestial. Los seres que lo acompañan le muestran la grandeza del mundo invisible y su lugar dentro del orden divino. La experiencia lo conduce a una comprensión renovada de su misión: el conocimiento recibido no es para engrandecerlo, sino para transmitir advertencia, esperanza y testimonio.
+El espíritu de Enok es llevado al cielo. Allí contempla seres santos, corrientes de fuego y la presencia del Señor de los Espíritus. Miguel lo toma de la mano y lo conduce por revelaciones y misterios celestiales, incluidos los confines del cielo y las cámaras de los astros. El capítulo culmina con una visión elevada de la dignidad y el destino de Enok; la interpretación de sus últimas líneas presenta diferencias y debates entre lectores y tradiciones.
 
-El capítulo culmina con una visión elevada que las tradiciones interpretan de distintas maneras, vinculada con la identidad y la dignidad celestial de Enok.
+**Lectura:** El ascenso funciona como culminación de las revelaciones, pero el sentido exacto de la identidad celestial de Enok en el cierre requiere nota crítica.
 
-**Lectura:** La revelación transforma al mensajero y exige humildad ante el misterio.
-
-**Ilustración — grabado antiguo:** Enok ante una sala celestial de columnas luminosas, rodeado de ángeles; un resplandor central y detalles de estrellas, grabado monocromo sepia, sin letras.
-
----
+**Ilustración — grabado antiguo:** Enok llevado por Miguel ante una visión de corrientes de fuego, estrellas y una sala celestial; luz y sombra, grabado sepia, sin texto.
 
 ## Capítulo 72 — El recorrido del sol
 
