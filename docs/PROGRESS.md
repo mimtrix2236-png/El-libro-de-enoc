@@ -33,7 +33,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Proyecto Android Kotlin/Jetpack Compose inicial y archivos Gradle/manifest en el repositorio
 - [x] Prototipo de lector con páginas preliminares (título, dedicatoria-placeholder, nota editorial, prólogo-placeholder, introducción-placeholder e índice)
 - [x] Controles de índice, tamaño de letra y navegación preliminar
-- [ ] Texto de los 108 capítulos integrado en la app (avance parcial: capítulos 1–16 en borrador y capítulo 17 incorporado como paráfrasis literaria identificada; 18–108 pendientes de integración y cotejo)
+- [ ] Texto de los 108 capítulos integrado en la app (avance parcial: capítulos 1–16 en borrador y capítulos 17–20 incorporados como paráfrasis literarias identificadas; 21–108 pendientes de integración y cotejo)
 - [ ] Navegación de índice a capítulo y paginación/swipe
 - [x] Marcadores guardados/restaurables (implementación inicial con preferencias locales)
 - [x] Modo nocturno (implementación inicial)
