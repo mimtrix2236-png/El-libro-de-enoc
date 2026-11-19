@@ -11,3 +11,10 @@ El capítulo reprende a quienes celebran la mentira, deforman las palabras de ju
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. XCIX, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** revisar las subdivisiones y la lectura de 99:5 sobre abandono de niños; cotejo crítico pendiente.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+El papyrus griego Chester Beatty-Michigan alcanza el capítulo 99 de forma parcial (97:6–104:13) y tiene lagunas; la edición consultada reporta faltantes alrededor de 99:4, 5b–6, 8–9 y 16. La paráfrasis no se trata como traducción y no debe añadir explicaciones sobre las prácticas condenadas que no estén en el texto. El catálogo de Qumrán no asigna un testimonio arameo directo a 99 en esta revisión.
+
+**Pendiente:** cotejar versículos, numeración, ayes y términos de idolatría/explotación con Ge'ez y edición del griego; las lagunas se anotarán sin restaurar.
