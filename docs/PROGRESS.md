@@ -55,7 +55,7 @@ Cotejar borradores con fuentes capítulo por capítulo; producir arte individual
 
 ## Registro de integración — 19 de noviembre de 2026
 
-- [x] Capítulo 17 añadido al catálogo del lector Android, con título, texto de lectura, nota editorial y estado explícito de paráfrasis no crítica.
-- [x] Ilustración vectorial original `journey_17.xml` creada e integrada en la pantalla del capítulo 17.
-- [ ] Convertir la paráfrasis 17 en unidades versiculares cotejadas; no presentarla como traducción literal.
-- [ ] Continuar con el capítulo 18 y siguientes. Los archivos de paráfrasis existentes son material de trabajo, no sustituyen el cotejo de fuentes.
+- [x] Capítulos 17–20 añadidos al catálogo del lector Android como paráfrasis literarias identificadas, cada uno con nota editorial y advertencia de cotejo pendiente.
+- [x] Ilustraciones vectoriales originales de capítulos 17–20 creadas e integradas (`journey_17`, `columns_18`, `abyss_19`, `archangels_20`).
+- [ ] Convertir las paráfrasis 17–20 en unidades versiculares cotejadas; no presentarlas como traducción literal.
+- [ ] Continuar con el capítulo 21 y siguientes. Los archivos de paráfrasis existentes son material de trabajo, no sustituyen el cotejo de fuentes.
