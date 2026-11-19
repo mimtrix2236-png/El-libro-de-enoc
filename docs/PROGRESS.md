@@ -19,12 +19,12 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 51–55 — borradores preliminares con advertencias de cotejo
 - [x] Capítulos 56–60 — borradores preliminares con notas de cotejo
 - [x] Capítulos 61–65 — borradores preliminares y notas de cotejo
-- [ ] Capítulos 66–108 — el estado real se audita a continuación; no se cuentan como preparados sin archivo comprobable.
+- [x] Capítulos 66–108 — 43 borradores individuales comprobados en `docs/chapters/`; siguen siendo paráfrasis provisionales y no cotejo crítico.
 - [ ] Revisión de coherencia y notas documentales
 - [x] Glosario preliminar (apéndices todavía pendientes)
 - [x] Bibliografía base y protocolo de cotejo registrados (ver docs/bibliografia_fuentes_cotejo.md)
 - [ ] Bibliografía verificada capítulo por capítulo
-- [ ] Ilustraciones finales (se generaron varias láminas/portadas conceptuales en sepia; son bocetos de referencia y no están integrados como archivos de arte finales)
+- [ ] Ilustraciones finales: 43 SVG específicos de capítulos 66–108 existen en el repositorio y están copiados a los assets de Android; son bocetos vectoriales/conceptos, no arte final pulido.
 - [ ] Edición imprimible
 
 ## Estado real de la aplicación (revisado el 18 de noviembre de 2026)
@@ -32,7 +32,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Proyecto Android Kotlin/Jetpack Compose inicial y archivos Gradle/manifest en el repositorio
 - [x] Prototipo de lector con páginas preliminares (título, dedicatoria-placeholder, nota editorial, prólogo-placeholder, introducción-placeholder e índice)
 - [x] Controles de índice, tamaño de letra y navegación preliminar
-- [ ] Texto de los 108 capítulos integrado en la app (avance parcial: capítulos 1–16 en borrador y capítulos 17–35 incorporados como paráfrasis literarias identificadas; 36–108 pendientes de integración y cotejo)
+- [x] Catálogo de capítulos 1–108 integrado en el código Kotlin del lector; los capítulos 66–108 están en tres catálogos offline. El contenido continúa siendo paráfrasis provisional, no traducción crítica.
 - [ ] Navegación de índice a capítulo y paginación/swipe
 - [x] Marcadores guardados/restaurables (implementación inicial con preferencias locales)
 - [x] Modo nocturno (implementación inicial)
@@ -191,3 +191,18 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - [x] Auditoría de arte: 43 SVG individuales consecutivos para capítulos 66–108 en `assets/illustrations/`.
 - [ ] Las 108 paráfrasis NO son traducción crítica ni están cotejadas íntegramente con manuscritos. Las lagunas y variantes solo se anotaron en varios casos; falta una revisión sistemática.
 - [ ] El lector Android no contiene aún los capítulos 36–108 ni integra todas estas ilustraciones. El PDF de libro completo todavía no está creado.
+
+
+## Auditoría de continuidad 66–108 — 19 de noviembre de 2026
+
+- [x] Se comprobó el árbol de GitHub: 108 archivos canónicos consecutivos en `docs/chapters/`, sin huecos.
+- [x] Capítulos 66–108: 43 archivos individuales con paráfrasis provisional, notas editoriales, fuente de trabajo e idea de ilustración.
+- [x] Arte: 43 SVG capítulo-específicos en `assets/illustrations/` y 43 copias coincidentes en `app/src/main/assets/illustrations/`.
+- [x] Catálogo Kotlin: capítulos 66–80, 81–95 y 96–108 incluidos en `EnocContent.chapters`; el contenido está empaquetado para uso offline.
+- [x] Se corrigieron cierres de paréntesis faltantes en los 73 registros `ChapterEntry` de los catálogos 36–108. El CI del commit `613cd34` terminó con éxito y subió el artifact `el-libro-de-enoc-debug-apk` (9,180,825 bytes): https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44536929563.
+- [x] Se añadieron referencias de Charles/Global Grey a las notas de app de capítulos 72–77 (commit `645837c`); su ejecución de CI aún estaba en curso al momento de este registro.
+- [ ] Cotejo crítico capítulo por capítulo y revisión versicular; la traducción histórica de Charles es una fuente de trabajo, no un aparato crítico suficiente por sí sola.
+- [ ] Revisión visual de las 43 SVG: son dibujos vectoriales de concepto, no ilustraciones finales de calidad editorial.
+- [ ] Integrar audio celestial con licencia/original verificada, completar funciones de lector, preparar PDF y probar navegación/uso real.
+
+**Fuentes de referencia:** R. H. Charles, *The Book of Enoch* (1912; edición SPCK 1917), eBook Project Gutenberg #77935, https://www.gutenberg.org/ebooks/77935 y https://www.gutenberg.org/cache/epub/77935/pg77935-images.html; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html; Online Critical Pseudepigrapha, https://pseudepigrapha.org/reader.html?doc=1En.xml (la página informa transición de plataforma; el lector no mostró texto en esta revisión). Consultado el 19-11-2026.
