@@ -16,3 +16,11 @@
 - No se cotejaron fotografías ni aparatos críticos completos. Las notas identifican interpretaciones como tales y no presentan el borrador como traducción crítica.
 - Se generó una ilustración específica para capítulo 76; se subió al repo como preview comprimido de 160×160, no como arte final ni recurso integrado. Registro: `assets/generated/README.md`.
 - Siguiente: continuar cotejo 91–95 y luego 96–108; en paralelo, mejorar resolución/estilo e integrar ilustraciones y revisar lector/build.
+
+
+## 19 de noviembre de 2026 — capítulos 91–95
+- Añadí notas críticas por capítulo 91–95 y un documento de auditoría `docs/auditoria_91-95_fuentes.md`.
+- Detecté y corregí una omisión de contenido en capítulo 93: la paráfrasis inicial solo cubría 93:1–10; agregué una paráfrasis de 93:11–14 y registré su vínculo con la Epístola, separado de la Apocalipsis de las Semanas.
+- Registré que 4Q212 preserva partes de 91–94 y que el orden Ge'ez de 91–93 difiere del orden reconstruido con el testimonio arameo; las asignaciones son fragmentarias y no se cotejaron fotos directamente.
+- 94:1–2 tiene un fragmento asignado; 94:3–11 y 95 no se consideran corroborados por 4Q212 en esta revisión.
+- **Siguiente:** auditoría de 96–100, y luego 101–108; todavía faltan cotejos directos de manuscritos, traducción final, app/PDF/APK e ilustraciones finales.
