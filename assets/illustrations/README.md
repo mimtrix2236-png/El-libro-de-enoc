@@ -45,3 +45,5 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 104 | chapter_104.svg | Libro de nombres y palabras fieles |
 | 105 | chapter_105.svg | Comunidad en paz ante la luz |
 | 106 | chapter_106.svg | Nacimiento de Noé y consulta de Lamech |
+| 107 | chapter_107.svg | Tabla de generaciones y Noé |
+| 108 | chapter_108.svg | Destinos de luz y oscuridad |
