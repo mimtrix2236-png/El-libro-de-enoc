@@ -24,7 +24,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 66–108 — borradores preparados; pendiente cotejo y revisión editorial
 - [ ] Revisión de coherencia y notas documentales
 - [x] Glosario preliminar (apéndices todavía pendientes)
-- [ ] Bibliografía verificada
+- [x] Bibliografía base y protocolo de cotejo registrados (ver docs/bibliografia_fuentes_cotejo.md)\n- [ ] Bibliografía verificada capítulo por capítulo
 - [ ] Ilustraciones finales (se generaron varias láminas/portadas conceptuales en sepia; son bocetos de referencia y no están integrados como archivos de arte finales)
 - [ ] Edición imprimible
 
@@ -50,4 +50,4 @@ El texto de lectura se redacta como paráfrasis literaria original y no se prese
 
 ## Próximo paso
 
-Revisión de fuentes, creación de ilustraciones individuales e integración; completar apéndices, app y edición imprimible.
+Cotejar borradores con fuentes capítulo por capítulo; producir arte individual e integrar, completar apéndices, app y edición imprimible.
