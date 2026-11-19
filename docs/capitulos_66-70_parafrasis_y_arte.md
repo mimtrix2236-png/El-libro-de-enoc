@@ -1,72 +1,32 @@
 # Libro de Enoc — capítulos 66–70
-## Paráfrasis literaria de trabajo · edición de Mauro Iván Maidana
+## Paráfrasis revisada preliminar · Mauro Iván Maidana
 
-> **Nota editorial:** Estos textos son paráfrasis de trabajo, no traducción literal ni edición crítica. Deben cotejarse con una traducción pública identificada y con las variantes manuscritas antes de publicación. La ilustración propuesta es una dirección artística, no una imagen final.
+> **Cotejo inicial:** Se revisaron los temas y secuencia de estos capítulos contra la traducción histórica de R. H. Charles (1917), disponible en acceso público. Esto es una paráfrasis, no una traducción; cotejo con manuscritos y variantes aún pendiente.
 
----
+## Capítulo 66 — Los ángeles de las aguas
+Enok recibe una visión de los ángeles encargados de las aguas subterráneas. Se les muestra como fuerzas que podrían liberar las aguas para traer juicio, pero reciben la orden de mantenerlas bajo control. La escena presenta a las aguas como un poder cósmico que está sujeto a mandato.
 
-## Capítulo 66 — Las aguas y el juicio
+**Ilustración:** puertas y corrientes subterráneas bajo la tierra, con mensajeros celestiales custodiándolas; grabado sepia.
 
-Enok recibe la explicación de los mensajeros acerca de las aguas que sostienen y rodean la creación. Se le anuncia que aquello que parece estable puede convertirse en instrumento de juicio cuando la violencia y la corrupción alcanzan su medida. Las fuerzas del mundo no están fuera del orden divino: también ellas cumplen un límite y una función.
+## Capítulo 67 — Noé, las aguas y el lugar de castigo
+La visión vincula el destino de los seres rebeldes con un lugar de castigo y con las aguas que servirán para el juicio. Noé aparece en la tradición del relato en relación con la preservación y la promesa de su descendencia. El capítulo describe un paisaje de aguas extraordinarias y el destino reservado a los poderes que corrompieron la tierra.
 
-La visión recuerda que el desastre no es una fuerza sin sentido; el relato lo presenta dentro de una advertencia dirigida a quienes han quebrantado el orden.
+**Ilustración:** valle rocoso con aguas termales y humo, Noé contemplando desde una elevación; estilo aguafuerte.
 
-**Lectura:** El capítulo enlaza el misterio de la naturaleza con la responsabilidad moral de la humanidad.
+## Capítulo 68 — Miguel y Rafael ante la severidad del juicio
+Enok contempla el temor y la respuesta de los arcángeles ante el juicio de los rebeldes. La escena enfatiza que el castigo tiene alcance y consecuencias; las aguas que aparecen en el relato son parte de la imagen de juicio. El capítulo recoge una reacción celestial ante la gravedad de la transgresión.
 
-**Ilustración — grabado antiguo:** Enormes depósitos celestes y corrientes de agua suspendidas sobre una tierra oscura; un pequeño Enok observa desde una ladera. Tinta sepia, papel envejecido, composición vertical, sin texto.
+**Ilustración:** Dos arcángeles en diálogo ante un valle oscuro, luz reflejada sobre aguas, grabado antiguo.
 
----
+## Capítulo 69 — Los nombres y funciones de los rebeldes; el juramento
+La narración enumera nombres de seres vinculados con la rebelión y con enseñanzas que, según el relato, condujeron a la corrupción. También describe un juramento o secreto primordial representado como fundamento de las fuerzas y límites del cosmos. La lista y las funciones atribuidas a cada figura son complejas y deben conservarse con notas, evitando simplificarlas o atribuirlas sin cotejo.
 
-## Capítulo 67 — El valle de castigo y las aguas ardientes
-
-Enok contempla un valle destinado a los poderes que corrompieron la tierra. Allí se describe un lugar de aguas y fuego, una imagen terrible de la consecuencia que aguarda a los seres que transgredieron los límites establecidos. El relato conecta el destino de los rebeldes con la historia del diluvio y con la preservación de Noé.
-
-La visión insiste en que el juicio no es solamente amenaza: también anuncia que la violencia tendrá un final y que la tierra no quedará eternamente sometida a ella.
-
-**Lectura:** El valle funciona como símbolo de la destrucción de aquello que pervierte la vida.
-
-**Ilustración — grabado antiguo:** Garganta rocosa con un manantial humeante, brillos de fuego bajo la superficie y siluetas lejanas; paisaje sombrío, líneas de aguafuerte y tonos marrón oscuro.
-
----
-
-## Capítulo 68 — Los nombres y la memoria de los rebeldes
-
-Enok recibe una relación de nombres vinculados con la rebelión de los Vigilantes y con las enseñanzas que desviaron a la humanidad. La memoria de esos nombres conserva el relato de cómo el conocimiento, cuando se entrega sin sabiduría ni responsabilidad, puede convertirse en una herramienta de daño.
-
-El texto transmite solemnidad: las acciones de los seres poderosos no desaparecen en el olvido y su historia queda expuesta como advertencia para las generaciones.
-
-**Lectura:** Nombrar es recordar; recordar es reconocer el peso de las acciones.
-
-**Ilustración — grabado antiguo:** Un rollo abierto con nombres simbólicos escritos en caracteres antiguos, rodeado de figuras angélicas en sombras; evitar inventar escritura supuestamente histórica, usar signos decorativos no legibles.
-
----
-
-## Capítulo 69 — El juramento y las fuerzas del mundo
-
-La visión enumera figuras y poderes asociados con la rebelión y revela el juramento que, en el relato, sostiene el orden de las cosas. Se presenta como una autoridad que fija límites a los cielos, la tierra y los acontecimientos. La transgresión de los Vigilantes aparece en contraste con ese orden: ellos quebrantaron sus límites y arrastraron a otros al desvío.
-
-El capítulo reúne nombres, imágenes y explicaciones que subrayan la gravedad de la rebelión y la certeza del juicio.
-
-**Lectura:** El juramento representa el límite que mantiene la creación en su lugar.
-
-**Ilustración — grabado antiguo:** Cielo nocturno con constelaciones, un círculo de luz que parece sellar el horizonte y figuras oscuras descendiendo; estilo de xilografía, papel de pergamino.
-
----
+**Ilustración:** Tabla de nombres simbólicos junto a un sello/círculo cósmico, caracteres ornamentales no legibles; pergamino oscuro.
 
 ## Capítulo 70 — Enok es elevado
+El relato dice que Enok es elevado durante su vida y deja de contarse entre la comunidad terrenal. Su nombre y su figura quedan asociados con la esfera celestial, en una escena de ascenso que prepara la visión siguiente.
 
-La narración cuenta que Enok es apartado de la compañía humana y elevado hacia las regiones celestiales. Su vida terrenal queda atrás y comienza una experiencia de cercanía con los misterios del cielo. El cambio no se presenta como una conquista personal, sino como una transformación concedida: el justo es llevado a contemplar aquello que antes solo podía recibir en visiones.
-
-El capítulo prepara el relato de las revelaciones finales y señala que Enok ya no ocupa únicamente el lugar de testigo sobre la tierra.
-
-**Lectura:** La elevación de Enok simboliza el paso de la vida visible hacia una contemplación más profunda.
-
-**Ilustración — grabado antiguo:** Enok asciende entre nubes abiertas y escaleras de luz tenue, acompañado por figuras celestiales; rostro sereno, vestiduras antiguas, textura de grabado y paleta sepia.
+**Ilustración:** Enok ascendiendo en un carro o movimiento espiritual entre los cielos, paisaje bajo, grabado sepia.
 
 ---
-
-## Estado
-- Borradores de paráfrasis: capítulos 66–70.
-- Notas de lectura: incluidas.
-- Direcciones de ilustración: incluidas.
-- Pendiente: cotejo de fuentes y producción de ilustraciones finales.
+**Estado de revisión:** 66–70 corregidos en sus temas generales contra Charles 1917. Queda cotejo versículo por versículo, variantes y revisión crítica.
