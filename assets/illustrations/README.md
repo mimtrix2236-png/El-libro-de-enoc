@@ -27,3 +27,9 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 86 | chapter_86.svg | Estrella caída y criaturas gigantes |
 | 87 | chapter_87.svg | Enoc elevado ante una torre |
 | 88 | chapter_88.svg | Estrella transgresora encadenada al abismo |
+| 89 | chapter_89.svg | Historia alegórica, ovejas y pastores |
+| 90 | chapter_90.svg | Juicio y nueva casa de los animales |
+| 91 | chapter_91.svg | Enoc exhorta a sus hijos, caminos y semanas |
+| 92 | chapter_92.svg | Rollo de esperanza y senda iluminada |
+| 93 | chapter_93.svg | Siete semanas históricas en arcos |
+| 94 | chapter_94.svg | Dos caminos, justicia y opresión |
