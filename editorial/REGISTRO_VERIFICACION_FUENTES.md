@@ -59,3 +59,22 @@ Fecha del registro: 2026-11-19
 - Se amplió la bibliografía crítica y se precisó el alcance de los testigos.
 - No se declara terminado ningún capítulo: todavía no se dispone del manuscrito español base ni de una traducción española completa cuya reutilización esté verificada.
 - Siguiente avance: localizar una traducción española histórica con metadatos verificables y situación de derechos clara; comparar su estructura con la edición crítica y documentar capítulos en lotes, sin alterar el texto a ciegas.
+
+
+## Decisión provisional de texto matriz — 2026-11-19
+
+### Base inglesa identificada
+- R. H. Charles, trad., *The Book of Enoch (1 Enoch)*, con introducción de W. O. E. Oesterley, Londres: S.P.C.K., 1917; la reimpresión digitalizada de 1962 declara que reproduce la traducción de la segunda edición de Charles (Oxford, 1912).
+- Transcripción comprobable: Project Gutenberg, eBook 77935, https://www.gutenberg.org/ebooks/77935 ; HTML íntegro: https://www.gutenberg.org/cache/epub/77935/pg77935-images.html . La ficha indica traductor R. H. Charles, publicación original 1917 y dominio público en Estados Unidos. Se debe verificar el estatus jurídico en los territorios de distribución antes de publicar comercialmente.
+- La transcripción debe cotejarse con el escaneo de la edición impresa, porque Gutenberg deriva de páginas digitalizadas y puede contener errores de OCR/transcripción. Conservar el aparato de Charles: ⌜ ⌝ texto apoyado solo por el griego; 〚 〛 solo por el etiópico; ‹ › restituciones; [ ] interpolaciones añadidas; ( ) palabras suplidas por el editor; † † texto corrupto; puntos suspensivos para palabras perdidas.
+
+### Alternativas españolas identificadas y límites
+- Federico Corriente y Antonio Piñero, “Libro 1 de Henoc (etiópico y griego)”, en Alejandro Díez Macho (ed.), *Apócrifos del Antiguo Testamento*, vol. IV, Madrid: Cristiandad, 1982/1984, pp. 13–143. Es una referencia académica importante, pero está protegida por derechos; no reproducir íntegramente ni asumir licencia por encontrar una copia en línea.
+- The Gnostic Library declara que su español es una traducción propia asistida por IA desde Charles 1912/1917; es una traducción moderna de tercero, no debe copiarse.
+- Enoc y la Biblia declara también una traducción propia desde Charles; no copiarla ni tratarla como texto histórico de dominio público.
+
+### Propuesta editorial para esta obra
+Adoptar Charles 1917/1912 como texto fuente histórico de control y producir una **traducción española nueva e independiente**, manteniendo sus señales críticas y contrastándola con testigos antiguos y bibliografía académica donde existan. No llamarla traducción directa del arameo o ge'ez: será traducción desde el inglés de Charles, con control crítico de las fuentes disponibles. Registrar siempre las lecturas inciertas y no convertir conjeturas en texto seguro. Esta decisión es provisional hasta revisión jurídica para distribución en Argentina y demás territorios previstos.
+
+### Consecuencia para el proyecto
+El volumen español de Corriente–Piñero servirá como referencia bibliográfica secundaria y contraste cuando se tenga acceso legítimo; no será copiado al repositorio. El texto propio debe preservar la numeración, las variantes y las lagunas de la fuente base. Antes de cerrar cada capítulo, comparar su transcripción con las imágenes de la edición de Charles y anotar las diferencias.
