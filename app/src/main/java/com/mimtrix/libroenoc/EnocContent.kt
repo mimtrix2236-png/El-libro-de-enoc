@@ -136,5 +136,39 @@ object EnocContent {
                 VerseEntry("10:21", "«Que todos los hijos de los hombres lleguen a ser justos y que todas las naciones me adoren, me bendigan y se inclinen ante mí». Esta cláusula está señalada como reconstrucción en Charles."),
                 VerseEntry("10:22", "«La tierra quedará limpia de toda corrupción, pecado, castigo y tormento. Nunca más enviaré estas cosas sobre ella, de generación en generación y para siempre»." )
             ))
+        ,
+        ChapterEntry(11, "Los depósitos de bendición", "Borrador traducido · cotejo crítico pendiente",
+            "Se anuncia la apertura de los depósitos celestiales: justicia y paz se extenderán entre las generaciones.",
+            "Rylands MS 23, fol. 3r col. a. El ge'ez de Dillmann presenta dos unidades breves; Charles añade en 11:1 la precisión «sobre la tierra» entre signos editoriales. Se mantiene la frase entre corchetes en esta versión de trabajo.",
+            listOf(
+                VerseEntry("11:1", "En aquellos días abriré los depósitos de bendición que están en el cielo, para hacerlos descender [sobre la tierra] a causa de las obras y del trabajo de los hijos de los hombres."),
+                VerseEntry("11:2", "La paz y la verdad estarán unidas durante todos los días del mundo y a lo largo de todas las generaciones de la humanidad.")
+            )),
+        ChapterEntry(12, "Enoc y los Vigilantes", "Borrador traducido · cotejo crítico pendiente",
+            "Enoc, oculto entre los santos, recibe el encargo de comunicar a los Vigilantes la sentencia que pesa sobre ellos.",
+            "Rylands MS 23, fol. 3r col. a. El capítulo conserva seis versículos en la numeración de Charles. En 12:4–6 aparecen signos de daño o incertidumbre en la traducción inglesa; mantenerlos visibles y revisar la sintaxis ge'ez antes de cerrar.",
+            listOf(
+                VerseEntry("12:1", "Antes de estos acontecimientos, Enoc había sido ocultado, y ninguno de los hijos de los hombres sabía dónde se encontraba, dónde habitaba ni qué había sido de él."),
+                VerseEntry("12:2", "Sus actividades estaban relacionadas con los Vigilantes, y sus días transcurrían entre los santos."),
+                VerseEntry("12:3", "Yo, Enoc, bendecía al Señor de la majestad y Rey de los siglos. Entonces los Vigilantes me llamaron —a mí, Enoc el escriba— y me dijeron:"),
+                VerseEntry("12:4", "«Enoc, escriba de justicia, ve y anuncia a los Vigilantes del cielo que abandonaron el cielo excelso y el lugar santo y eterno, que se contaminaron con mujeres y actuaron como los hijos de la tierra, tomando esposas para sí: habéis causado una gran destrucción sobre la tierra»."),
+                VerseEntry("12:5", "«No tendréis paz ni perdón por el pecado. Aunque os deleitéis en vuestros hijos…» La formulación transmitida presenta una dificultad textual."),
+                VerseEntry("12:6", "«Veréis la muerte de vuestros seres queridos y lamentaréis la destrucción de vuestros hijos; suplicaréis para siempre, pero no alcanzaréis misericordia ni paz».")
+            )),
+        ChapterEntry(13, "La petición de los Vigilantes", "Borrador traducido · cotejo crítico pendiente",
+            "Enoc comunica a Azazel su sentencia, escribe la petición de los Vigilantes y recibe una visión de castigo.",
+            "Rylands MS 23, fol. 3r col. a–b. Charles marca dificultades en 13:1–2 y 13:6, y una cláusula de voz/mandato en 13:8 con signos editoriales. En 13:7, la geografía de las aguas de Dan y la ubicación al sur/oeste de Hermón requieren revisión toponímica.",
+            listOf(
+                VerseEntry("13:1", "Enoc fue y dijo a Azazel: «No tendrás paz. Ha salido contra ti una sentencia severa: serás encadenado»."),
+                VerseEntry("13:2", "«No se te concederá tolerancia ni petición favorable, a causa de la injusticia que enseñaste y de todas las obras de impiedad, injusticia y pecado que mostraste a los hombres»."),
+                VerseEntry("13:3", "Después fui y hablé a todos juntos. Todos sintieron temor, y el miedo y el estremecimiento se apoderaron de ellos."),
+                VerseEntry("13:4", "Me suplicaron que redactara una petición para ellos, a fin de que pudieran obtener perdón, y que presentara su súplica ante el Señor del cielo."),
+                VerseEntry("13:5", "Desde entonces no podían hablar con él ni levantar los ojos al cielo, avergonzados por los pecados por los que habían sido condenados."),
+                VerseEntry("13:6", "Entonces escribí su petición y la oración relativa a sus espíritus, a sus actos individuales y a lo que pedían: que recibieran perdón y prolongación de sus días. El final de este versículo contiene una lectura dañada o incierta en Charles."),
+                VerseEntry("13:7", "Me alejé y me senté junto a las aguas de Dan, en la región de Dan, al sur y al oeste del Hermón. Leía la petición de ellos hasta que me quedé dormido."),
+                VerseEntry("13:8", "Y he aquí que me sobrevino un sueño y cayeron sobre mí visiones. Vi una visión de castigo, [y una voz me ordenó] que la anunciara a los hijos del cielo y los reprendiera. La cláusula entre corchetes está señalada editorialmente."),
+                VerseEntry("13:9", "Cuando desperté, fui hacia ellos. Estaban todos reunidos, sentados y llorando en Abelshail, entre el Líbano y Seneser, con el rostro cubierto."),
+                VerseEntry("13:10", "Les relaté todas las visiones que había visto durante el sueño y comencé a pronunciar palabras de justicia y a reprender a los Vigilantes del cielo.")
+            ))
     )
 }
