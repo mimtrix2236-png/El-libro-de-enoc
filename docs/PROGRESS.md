@@ -14,7 +14,8 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 11–20 — borradores de paráfrasis, notas editoriales y direcciones de ilustración
 - [x] Capítulos 21–25 — borradores preliminares con notas de verificación e ilustración
 - [x] Capítulos 26–30 — borradores preliminares con notas de verificación e ilustración
-- [ ] Capítulos 31–108
+- [x] Capítulos 31–35 — borradores preliminares con notas de verificación e ilustración
+- [ ] Capítulos 36–108
 - [ ] Revisión de coherencia y notas documentales
 - [ ] Glosario y apéndices
 - [ ] Bibliografía verificada
@@ -28,8 +29,8 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Controles de índice, tamaño de letra y navegación preliminar
 - [ ] Texto real de los 108 capítulos integrado en la app (actualmente el cuerpo de capítulos es un placeholder)
 - [ ] Navegación de índice a capítulo y paginación/swipe
-- [ ] Marcadores persistentes
-- [ ] Modo nocturno
+- [x] Marcadores guardados/restaurables (implementación inicial con preferencias locales)
+- [x] Modo nocturno (implementación inicial)
 - [ ] Búsqueda dentro del libro
 - [ ] Lectura offline con contenido completo
 - [ ] Ilustraciones finales integradas
@@ -43,4 +44,4 @@ El texto de lectura se redacta como paráfrasis literaria original y no se prese
 
 ## Próximo paso
 
-Continuar con capítulos 31–40; revisar fuentes y variantes de los borradores antes de considerarlos texto editorial definitivo. En paralelo, integrar funciones persistentes en el lector.
+Continuar con capítulos 36–45; cotejar los borradores con fuentes críticas y completar funciones del lector (búsqueda, navegación a capítulos, integración del texto y pruebas).
