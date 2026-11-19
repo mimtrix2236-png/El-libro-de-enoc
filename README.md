@@ -24,8 +24,18 @@ Aplicación de lectura y proyecto editorial de **Mauro Iván Maidana**.
 ## Criterio editorial
 Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones, variantes e interpretaciones se marcarán como tales y no se presentarán como texto antiguo íntegro. La traducción o transcripción incorporada deberá ser verificable y compatible con derechos de uso.
 
-## Estado
-Prototipo Android inicial. La interfaz de lectura y navegación está en desarrollo; el contenido completo, las ilustraciones, los marcadores y la edición imprimible aún deben incorporarse.
+## Estado de desarrollo
+- Proyecto Android con interfaz inicial de lectura por capítulos.
+- Índice de capítulos, controles de tamaño de letra y modo nocturno.
+- Primera ilustración vectorial ornamental integrada en la cabecera.
+- Contenido provisional de los capítulos 1–5 incorporado como borrador claramente etiquetado.
+- Registro y protocolo de cotejo crítico: `editorial/cotejo_critico.md`.
+- El cotejo versículo por versículo de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
+- No hay APK verificado todavía.
+
+## Criterio de avance
+La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
+
 
 ## Objetivos de la app
 - Lectura con diseño de libro y navegación por páginas/capítulos
