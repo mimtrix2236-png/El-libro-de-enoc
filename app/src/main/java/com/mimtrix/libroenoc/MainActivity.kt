@@ -3,6 +3,8 @@ package com.mimtrix.libroenoc
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.Image
+import androidx.compose.ui.res.painterResource
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -53,6 +55,8 @@ private fun EnocReader() {
                 ) {
                     Text("EDICIÓN ILUSTRADA", color = Gold, fontSize = 10.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.sp)
                     Spacer(Modifier.height(7.dp))
+                    Image(painterResource(R.drawable.enoch_illumination_banner), contentDescription = "Ilustración ornamental inspirada en manuscritos etiópicos", modifier = Modifier.fillMaxWidth().height(112.dp))
+                    Spacer(Modifier.height(8.dp))
                     Text("El Libro de Enoc", color = Parchment, fontSize = 27.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Serif)
                     Text("Lectura · manuscritos · variantes críticas", color = Color(0xFFD9CBAF), fontSize = 12.sp)
                 }
