@@ -38,4 +38,11 @@ class EnocContentCatalogTest {
         }
     }
 
+    @Test
+    fun chapter89NarrativeUnitsPreserveOrderedRanges() {
+        val expected = listOf("89:1–9", "89:10–13", "89:14–17", "89:18–22", "89:23–27", "89:28–34", "89:35–40", "89:41–49", "89:50–54", "89:55–58", "89:59–64", "89:65–71", "89:72–77")
+        val chapter = EnocContent.chapters.first { it.number == 89 }
+        assertEquals(expected, chapter.verses.map { it.reference })
+    }
+
 }
