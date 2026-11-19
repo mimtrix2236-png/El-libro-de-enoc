@@ -99,3 +99,10 @@
 - La alegoría se conserva sin fijar identificaciones históricas; 88:3 tiene asignación fragmentaria 4Q206 en una fuente secundaria, no cotejada directamente.
 - El test de catálogo ahora verifica 76–88 con conteos por capítulo.
 - Próxima tarea: capítulo 89, el diluvio y la historia alegórica, que requiere dividirse en unidades para no resumir demasiado.
+
+
+## 19 de noviembre de 2026 — capítulo 89 dividido por unidades
+- Reorganicé el borrador extenso de capítulo 89 en 13 rangos narrativos, del diluvio hasta el registro de los pastores, y lo integré al lector offline.
+- La diferencia aramea/Ge'ez de 89:1b–9 queda anotada: 4Q206 frags. 8 I y 9 se reportan como versión aramea más corta; el resumen por rangos no sustituye el cotejo versicular.
+- Añadí test para verificar la secuencia exacta de rangos del capítulo 89.
+- Próximo: capítulo 90 y cierre del bloque 83–90.
