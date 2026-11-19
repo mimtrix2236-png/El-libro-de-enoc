@@ -11,3 +11,10 @@ Enoc declara que las tablas anuncian generaciones que continuarán transgrediend
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. CVII, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar la continuidad con 106 y el fragmento noánico; revisar el significado del nombre y las lecturas de los testigos.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+107 se transmite junto al Nacimiento de Noé y continúa la explicación de Enoc a Matusalén. Los testigos reportados incluyen Greek Chester Beatty-Michigan 106:1–107:3 y Aramaic 4Q204 106:13–107:2, ambos fragmentarios. No se considera una copia completa. La formulación sobre el nombre y el “consuelo” necesita cotejo con Ge'ez, Greek y Latin.
+
+**Pendiente:** cotejar 107:1–3, el cierre y el orden respecto de 106; distinguir lecturas conservadas de reconstrucciones.
