@@ -16,3 +16,8 @@ Use an original generated audio asset or an asset with an explicit license permi
 
 ## Sound design brief
 A quiet, ethereal pad with soft airy harmonics, faint bell-like shimmer, slow evolving tones, subtle cosmic ambience, no recognizable melody or religious quotations, no percussion, no voices. Low volume and smooth loop. This is a design brief; an audio file must still be created/obtained, licensed, integrated, and tested before this feature can be claimed complete.
+
+
+## Implementación en Android (19-11-2026)
+
+El lector genera un ambiente original de forma procedural con tonos sinusoidales y acordes lentos; no usa samples ni archivos de terceros. Está apagado por defecto, tiene interruptor y control de volumen, funciona offline y se pausa al salir de la actividad o cerrar el lector. La síntesis es una primera versión y requiere escucha/prueba en dispositivo para ajustar timbre, volumen, fades y posibles interrupciones de audio.
