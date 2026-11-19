@@ -11,3 +11,10 @@ Enoc lamenta la maldad y desea que sus lágrimas fueran como aguas para aliviar 
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. XCV, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar frases de difícil lectura y suplementos señalados por Charles; no reconstruir los pasajes dañados.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+No se identificó un fragmento Qumrán asignado directamente a 1 Enoc 95 en el catálogo de 4Q212 consultado. El borrador depende de la tradición etiópica y de Charles; no debe afirmarse una corroboración aramea para el capítulo. La paráfrasis conserva la estructura de ayes y lamentación, pero requiere división por versículos para detectar omisiones.
+
+**Pendiente:** cotejar 95 completo con edición Ge'ez/Charles/Knibb y aparato; verificar las frases de llanto y los destinatarios de cada ay.
