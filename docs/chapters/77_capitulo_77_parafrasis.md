@@ -1,20 +1,27 @@
-# Capítulo 77 — Los cuatro extremos y las regiones del mundo (paráfrasis provisional)
+# Capítulo 77 — Los cuatro extremos del mundo (paráfrasis provisional por versículo)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa del arameo ni cotejo diplomático; las variantes etimológicas y reconstrucciones permanecen abiertas.
 
-Enoc recibe nombres para las cuatro direcciones. La visión distingue regiones del norte: una habitada por seres humanos, otra con aguas, abismos, bosques, ríos, oscuridad y nubes, y otra asociada al jardín de justicia. También describe siete montañas, grandes ríos y siete islas, cuyos tamaños y ubicaciones se expresan desde la perspectiva cosmográfica del relato.
+**77:1.** Enoc nombra el primer sector como este por ser el inicio; al segundo, el sur, lo vincula en la tradición etiópica con el descenso del Altísimo, especialmente del Bendito.
 
-**Idea central:** el mundo se ordena en regiones y elementos geográficos que forman una totalidad simbólica y sagrada.
+**77:2.** El oeste recibe un nombre relacionado con la disminución, porque allí las luminarias parecen perder su luz y desaparecer al ponerse.
 
-**Ilustración propia:** assets/illustrations/chapter_77.svg — mapa circular de los cuatro cuadrantes con siete montañas, ríos que convergen y pequeñas islas; un jardín luminoso ocupa una región del norte.
+**77:3.** El norte se divide en tres zonas: una para los seres humanos; otra con mares, profundidades, bosques, ríos, oscuridad y nubes; y una tercera donde se sitúa el jardín de justicia.
 
-**Fuente:** R. H. Charles, *The Book of Enoch* (1912), cap. LXXVII, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultadas 19-11-2026). Paráfrasis original.
+**77:4.** Enoc contempla siete montañas muy elevadas; desde ese paisaje se relacionan la escarcha y el transcurrir de días, estaciones y años.
 
-**Nota:** nombres geográficos, localización y simbolismo no se resuelven en esta paráfrasis. Cotejo y comentario histórico pendientes.
+**77:5.** Ve siete grandes ríos. Uno, cuya procedencia se transmite con una lectura dañada, desemboca en el Gran Mar.
 
+**77:6.** Dos ríos llegan desde el norte y descargan en el mar oriental que el texto llama Eritreo.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**77:7.** Los otros cuatro se dirigen hacia sus mares: dos hacia el Eritreo y dos hacia el Gran Mar. La frase sobre un posible destino desértico y la cifra restaurada se dejan sin resolver.
 
-El capítulo reúne cuatro direcciones, división de regiones terrestres, siete montañas, siete ríos y siete islas. El fragmento arameo 4Q210 1ii / 4Q209 frg. 23 se sitúa en 76:14–77:3 y conserva parte de la lista de cuartos y de las tres divisiones de la tierra; hay diferencias importantes entre el texto arameo y el etiópico en la explicación de nombres direccionales. En particular, la razón del “sur” en el arameo (juego de palabras con “el Grande habita”) difiere de la explicación etiópica (“el Altísimo desciende”); el “oeste” también presenta una etimología distinta. No se deben armonizar esas lecturas.
+**77:8.** Enoc observa siete islas grandes: dos situadas en tierra firme y cinco en el Gran Mar.
 
-**Fuentes comprobadas:** Machiela, *Handbook* (2023), perfil de 4Q210 y solapamiento 4Q210/4Q209; Theosis Library, §77 y su mapeo; Charles 1917. El detalle etimológico procede de un estudio digital secundario que identifica las letras preservadas; aún falta consulta directa de las ediciones DJD/Milik/Drawnel y fotografías. Esta paráfrasis no reconstruye las etimologías.
+**Idea central:** el capítulo representa la tierra como regiones y paisajes que forman una geografía cosmológica y sagrada.
+
+**Ilustración SVG propia:** `assets/illustrations/chapter_77.svg` — cuatro regiones, montañas, ríos e islas en una cartografía simbólica.
+
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXVII, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_77. Se consultó la transcripción; no se cotejaron directamente manuscritos.
+
+**Nota textual:** las etimologías de “sur” y “oeste” difieren en el testimonio arameo/etiópico según estudios secundarios. En 77:5 Charles marca “west” como corrupto; 77:7 incluye restauración entre signos editoriales y alternativa “desierto”. Se mantienen como incertidumbres. 4Q210/4Q209 se asigna parcialmente a 76:14–77:3 en fuentes secundarias; no confirma el capítulo completo. Véase `docs/auditoria_76-82_fuentes.md`.
