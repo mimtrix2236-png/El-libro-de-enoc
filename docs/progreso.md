@@ -77,3 +77,11 @@
 - El test de catálogo ahora verifica 76–80 (14, 8, 17, 6 y 8 unidades).
 - CI de los cambios 76–80 sigue pendiente; el fix de sintaxis anterior está verificado exitosamente.
 - Siguiente: capítulo 81, tablas celestiales y misión.
+
+
+## 19 de noviembre de 2026 — expansión versicular capítulos 81–82
+- Expandí 81 a 10 paráfrasis y 82 a 20 paráfrasis por referencia, y los integré en el catálogo Android offline.
+- En 81:5 la paráfrasis no fija “tres” o “siete” seres porque la fuente secundaria informa una variante; en 82:9–13 anoté el testimonio fragmentario 4Q209 frg. 28 y las variantes de nombres/numerales.
+- El test de catálogo ahora verifica capítulos 76–82 (14, 8, 17, 6, 8, 10 y 20 unidades).
+- CI del conjunto sigue pendiente; la compilación con la corrección de paréntesis del capítulo 66 sí pasó previamente.
+- Siguiente capítulo: 83, Dream Visions.
