@@ -1,2 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 73, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><path d="M100 260 Q100 150 210 140 Q150 170 150 250 Q150 340 240 365 Q110 390 100 260Z" fill="#d7bd91" stroke="#5b3b20" stroke-width="8"/><circle cx="255" cy="250" r="90" fill="#d7bd91" stroke="#5b3b20" stroke-width="8"/><circle cx="365" cy="260" r="88" fill="#c6a272" stroke="#5b3b20" stroke-width="8"/><path d="M365 172 A88 88 0 0 0 365 348 Q310 320 310 260 Q310 200 365 172Z" fill="#ead8b6" stroke="#8b633a" stroke-width="5"/><path d="M90 480 Q160 420 230 480 T370 480 T450 480" fill="none" stroke="#5b3b20" stroke-width="7"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M110 540 L400 540 M130 520 L130 560 M190 520 L190 560 M250 520 L250 560 M310 520 L310 560 M370 520 L370 560"/></g></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 73</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Capítulo 73: el ciclo de la Luna y sus fases en una rueda celeste, grabado sepia">
+<defs><radialGradient id="p73"><stop stop-color="#f5e7ca"/><stop offset="1" stop-color="#c5a076"/></radialGradient><radialGradient id="moon73"><stop stop-color="#f2dfb6"/><stop offset="1" stop-color="#b58b59"/></radialGradient><pattern id="h73" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(40)"><path d="M0 0V7" stroke="#5b3b21" stroke-width="1" opacity=".28"/></pattern></defs>
+<rect width="512" height="720" fill="url(#p73)"/><rect x="18" y="18" width="476" height="684" rx="7" fill="none" stroke="#573820" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9b7448" stroke-width="2"/>
+<g stroke="#5d3d21" stroke-width="4" fill="none"><path d="M43 64L74 44L96 64L74 84Z M416 64L438 44L460 64L438 84Z M43 656L74 636L96 656L74 676Z M416 656L438 636L460 656L438 676Z"/></g>
+<!-- celestial wheel -->
+<circle cx="256" cy="300" r="192" fill="#b89466" stroke="#5b3b21" stroke-width="7"/><circle cx="256" cy="300" r="178" fill="url(#h73)" stroke="#8b6338" stroke-width="4"/>
+<circle cx="256" cy="300" r="130" fill="#d7bc90" stroke="#5b3b21" stroke-width="5"/><circle cx="256" cy="300" r="108" fill="none" stroke="#8b6338" stroke-width="4" stroke-dasharray="4 9"/>
+<g stroke="#5b3b21" stroke-width="4" fill="none"><path d="M256 108V492M64 300H448M120 164L392 436M392 164L120 436"/></g>
+<!-- phase disks -->
+<g stroke="#583820" stroke-width="4">
+ <circle cx="256" cy="132" r="33" fill="#403528"/><path d="M256 99A33 33 0 0 1 256 165A16 33 0 0 0 256 99Z" fill="url(#moon73)"/>
+ <circle cx="375" cy="181" r="33" fill="#403528"/><path d="M375 148A33 33 0 0 1 375 214A25 33 0 0 0 375 148Z" fill="url(#moon73)"/>
+ <circle cx="424" cy="300" r="33" fill="url(#moon73)"/>
+ <circle cx="375" cy="419" r="33" fill="#403528"/><path d="M375 386A33 33 0 0 1 375 452A25 33 0 0 1 375 386Z" fill="url(#moon73)"/>
+ <circle cx="256" cy="468" r="33" fill="#403528"/><path d="M256 435A33 33 0 0 1 256 501A16 33 0 0 1 256 435Z" fill="url(#moon73)"/>
+ <circle cx="137" cy="419" r="33" fill="#403528"/><path d="M137 386A33 33 0 0 1 137 452A25 33 0 0 0 137 386Z" fill="url(#moon73)"/>
+ <circle cx="88" cy="300" r="33" fill="url(#moon73)"/>
+ <circle cx="137" cy="181" r="33" fill="#403528"/><path d="M137 148A33 33 0 0 1 137 214A25 33 0 0 0 137 148Z" fill="url(#moon73)"/>
+</g>
+<!-- orbital markers and stars -->
+<g fill="#5b3b21" stroke="#5b3b21" stroke-width="3"><path d="M256 65L265 87L289 87L270 102L278 126L256 111L234 126L242 102L223 87L247 87Z"/><path d="M445 300L454 322L478 322L459 337L467 361L445 346L423 361L431 337L412 322L436 322Z"/><path d="M256 514L265 536L289 536L270 551L278 575L256 560L234 575L242 551L223 536L247 536Z"/><path d="M67 300L76 322L100 322L81 337L89 361L67 346L45 361L53 337L34 322L58 322Z"/></g>
+<!-- central moon and scroll -->
+<circle cx="256" cy="300" r="68" fill="url(#moon73)" stroke="#583820" stroke-width="6"/><circle cx="256" cy="300" r="48" fill="none" stroke="#8b6338" stroke-width="4"/>
+<path d="M224 300Q256 268 288 300Q256 332 224 300Z" fill="#6b4728" stroke="#583820" stroke-width="4"/>
+<path d="M256 250V350M206 300H306" stroke="#9a7044" stroke-width="4"/>
+<!-- scribe with tablet -->
+<g transform="translate(256 590)" stroke="#573820" stroke-width="5" stroke-linejoin="round"><circle cx="0" cy="-35" r="21" fill="#ddc59a"/><path d="M-18 -50Q-4 -70 18 -54L22 -34L5 -19L-19 -26Z" fill="#6d4928"/><path d="M-20 -14L-35 32L-48 77L-15 87L10 48L38 87L67 77L34 31L18 -14Z" fill="#c6a276"/><path d="M-24 7L0 28L28 7L17 47L-22 47Z" fill="#ead7b4"/><path d="M-38 22L-62 49L-48 62L-25 43M40 22L64 49L50 62L26 43" fill="#c6a276"/><path d="M-67 80L-89 99L-45 107L-20 93M45 80L22 94L68 107L88 94Z" fill="#6a4828"/><path d="M84 -2L121 17L111 58L75 41Z" fill="#d8bd91"/><path d="M86 11L109 24M83 26L105 38" stroke="#8c6338" stroke-width="4"/></g>
+<path d="M42 618Q256 634 470 618" fill="none" stroke="#5d3d21" stroke-width="4"/><text x="256" y="674" text-anchor="middle" font-family="serif" font-size="18" fill="#573820">1 ENOC · 73</text></svg>
