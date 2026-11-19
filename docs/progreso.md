@@ -85,3 +85,10 @@
 - El test de catálogo ahora verifica capítulos 76–82 (14, 8, 17, 6, 8, 10 y 20 unidades).
 - CI del conjunto sigue pendiente; la compilación con la corrección de paréntesis del capítulo 66 sí pasó previamente.
 - Siguiente capítulo: 83, Dream Visions.
+
+
+## 19 de noviembre de 2026 — expansión versicular capítulos 83–85
+- Expandí capítulos 83, 84 y 85 a paráfrasis por versículo (11, 6 y 10 unidades) e integré el texto en el lector offline.
+- En 83 anoté la ausencia de testimonio Qumrán directo en el catálogo consultado; 84:3 deja fuera un suplemento editorial de Charles; 85 se mantiene alegoría sin fijar identificaciones históricas.
+- El test de catálogo ahora verifica 76–85 (14, 8, 17, 6, 8, 10, 20, 11, 6 y 10 unidades).
+- Próxima tarea: capítulo 86, la caída de estrellas y los gigantes.
