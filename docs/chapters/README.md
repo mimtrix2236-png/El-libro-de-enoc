@@ -34,10 +34,16 @@ Los archivos con sufijo `parafrasis` son paráfrasis de trabajo: no deben presen
 - Capítulo 92: [paráfrasis provisional](92_capitulo_92_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_92.svg)
 - Capítulo 93: [paráfrasis provisional](93_capitulo_93_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_93.svg)
 - Capítulo 94: [paráfrasis provisional](94_capitulo_94_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_94.svg)
+- Capítulo 95: [paráfrasis provisional](95_capitulo_95_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_95.svg)
+- Capítulo 96: [paráfrasis provisional](96_capitulo_96_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_96.svg)
+- Capítulo 97: [paráfrasis provisional](97_capitulo_97_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_97.svg)
+- Capítulo 98: [paráfrasis provisional](98_capitulo_98_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_98.svg)
+- Capítulo 99: [paráfrasis provisional](99_capitulo_99_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_99.svg)
+- Capítulo 100: [paráfrasis provisional](100_capitulo_100_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_100.svg)
 
 ## Pendiente
 
-Capítulos 95–108 aún no tienen archivos en este directorio. La revisión textual de los capítulos existentes tampoco se considera completa. La sección 71:13 (laguna señalada en la edición de Charles consultada) queda sin reconstrucción.
+Capítulos 101–108 aún no tienen archivos en este directorio. La revisión textual de los capítulos existentes tampoco se considera completa. La sección 71:13 (laguna señalada en la edición de Charles consultada) queda sin reconstrucción.
 
 ## Fuentes de consulta para 66–71
 
