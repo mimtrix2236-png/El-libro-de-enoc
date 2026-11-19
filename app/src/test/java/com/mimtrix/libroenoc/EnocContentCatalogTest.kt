@@ -21,8 +21,10 @@ class EnocContentCatalogTest {
     }
 
     @Test
-    fun chapters66To108RemainMarkedAsProvisionalParaphrases() {
-        EnocContent.chapters.filter { it.number in 66..108 }.forEach { chapter ->
+    fun chapter66TranslationIsMarkedIndirectAndLaterDraftsRemainProvisional() {
+        val chapter66 = EnocContent.chapters.first { it.number == 66 }
+        assertTrue(chapter66.status.contains("Traducción de trabajo indirecta"))
+        EnocContent.chapters.filter { it.number in 67..108 }.forEach { chapter ->
             assertTrue("Chapter ${chapter.number} lost its provisional status", chapter.status.contains("Paráfrasis provisional"))
         }
     }
