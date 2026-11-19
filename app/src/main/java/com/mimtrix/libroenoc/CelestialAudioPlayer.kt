@@ -124,7 +124,7 @@ class CelestialAudioPlayer {
         val cycle = t % CHORD_SECONDS
         val chordIndex = floor(t / CHORD_SECONDS).toInt() % CHORDS.size
         val nextIndex = (chordIndex + 1) % CHORDS.size
-        val transition = smooth((cycle - (CHORD_SECONDS - CROSSFADE_SECONDS)) / CROSSFADE_SECONDS)
+        val transition = smooth(((cycle - (CHORD_SECONDS - CROSSFADE_SECONDS)) / CROSSFADE_SECONDS).toFloat())
         val current = chord(CHORDS[chordIndex], t)
         val next = chord(CHORDS[nextIndex], t)
         val fadeIn = minOf(1f, (t / 3.0).toFloat())
