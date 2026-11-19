@@ -1,2 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 66, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><path d="M45 610 Q20 520 75 420 Q40 350 95 240 L180 130 235 75 295 160 420 115 480 250 470 420 500 600Z" fill="#c7a77a" stroke="#5b3b20" stroke-width="8"/><path d="M60 560 Q120 450 185 480 Q260 520 330 460 Q410 410 480 485 L470 620 50 620Z" fill="#6d4a2c" opacity=".45"/><path d="M85 570 Q115 520 145 560 T210 560 T275 560 T340 560 T405 560 T465 560" fill="none" stroke="#4d3927" stroke-width="6"/><path d="M90 520 Q70 470 120 430 Q160 395 130 350 Q105 300 155 265" fill="none" stroke="#8a5a32" stroke-width="14"/><path d="M145 470 Q190 410 235 440 Q280 465 320 420 Q365 385 420 430" fill="none" stroke="#4d3927" stroke-width="8"/><g transform="translate(270 250)" stroke="#4d3927" stroke-width="8" fill="#d8bf94"><circle cx="0" cy="0" r="36"/><path d="M-20 35 Q-55 85 -25 140 L-50 210 0 205 30 140 55 210 95 205 65 140 Q85 80 30 35Z"/><path d="M-35 65 Q-100 20 -120 -30 Q-95 -50 -70 -5 L-20 60 M40 65 Q100 20 120 -30 Q95 -50 70 -5 L20 60" fill="none"/><path d="M-10 100 L-90 80 M20 100 L90 80" stroke="#a87942" stroke-width="12"/><path d="M-130 -70 Q-80 -130 -20 -90 T110 -80" fill="none" stroke="#b17a3f" stroke-width="12"/></g><path d="M65 280 Q140 220 210 250 T365 250 T480 270" fill="none" stroke="#b17a3f" stroke-width="5"/></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 66</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Capítulo 66: un ángel guarda la puerta de las aguas en una caverna, grabado sepia">
+<defs>
+ <radialGradient id="paper66" cx="42%" cy="28%" r="82%"><stop offset="0" stop-color="#f5e8cc"/><stop offset=".72" stop-color="#d7bd91"/><stop offset="1" stop-color="#b88e60"/></radialGradient>
+ <linearGradient id="gold66" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5d99a"/><stop offset=".55" stop-color="#b88640"/><stop offset="1" stop-color="#6d4525"/></linearGradient>
+ <linearGradient id="water66" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#514331"/><stop offset=".55" stop-color="#392f27"/><stop offset="1" stop-color="#211f1c"/></linearGradient>
+ <pattern id="hatch66" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V8" stroke="#5c3d22" stroke-width="1" opacity=".35"/></pattern>
+ <pattern id="stone66" width="44" height="32" patternUnits="userSpaceOnUse"><path d="M0 1H43M1 1V31M22 1V16M43 1V31M1 16H43" fill="none" stroke="#674727" stroke-width="1.4" opacity=".5"/></pattern>
+</defs>
+<rect width="512" height="720" fill="url(#paper66)"/>
+<rect x="17" y="17" width="478" height="686" rx="6" fill="none" stroke="#55371f" stroke-width="6"/>
+<rect x="29" y="29" width="454" height="662" fill="none" stroke="#9b7448" stroke-width="2"/>
+<g fill="none" stroke="#6b4727" stroke-width="3" opacity=".8"><path d="M42 68Q66 43 91 68Q66 93 42 68ZM421 68Q446 43 470 68Q446 93 421 68ZM42 652Q66 627 91 652Q66 677 42 652ZM421 652Q446 627 470 652Q446 677 421 652Z"/><path d="M56 53L56 83M77 53L77 83M435 53L435 83M456 53L456 83M56 637L56 667M77 637L77 667M435 637L435 667M456 637L456 667"/></g>
+<!-- Cavern and light -->
+<path d="M42 604L37 410Q52 280 88 193L141 111L201 78L258 105L318 78L390 120L458 213L475 408L470 604Z" fill="#9c764c" stroke="#583920" stroke-width="6"/>
+<path d="M42 604L37 410Q52 280 88 193L141 111L201 78L258 105L318 78L390 120L458 213L475 408L470 604Z" fill="url(#hatch66)" opacity=".8"/>
+<path d="M82 122L190 93L248 127L285 174L329 218L392 282L470 376" fill="none" stroke="#f0d49a" stroke-width="22" opacity=".24"/>
+<g stroke="#d5b16e" stroke-width="5" opacity=".8"><path d="M91 104L238 240M116 88L251 253M141 85L266 265M166 82L282 276"/></g>
+<!-- Pillars and stone portal -->
+<g stroke="#54371f" stroke-width="6">
+ <path d="M304 145L351 130L362 193L353 555L304 570Z" fill="#c4a276"/>
+ <path d="M353 555L362 193L397 203L408 570Z" fill="#9d7a50"/>
+ <path d="M297 135L370 115L420 143L407 202L360 193L304 202Z" fill="#cdb188"/>
+ <path d="M297 135L370 115L420 143L407 202L360 193L304 202Z" fill="url(#stone66)"/>
+ <path d="M303 565L358 553L411 569L411 596L303 596Z" fill="#a88659"/>
+ <path d="M306 164L355 151L359 182L306 194Z" fill="url(#stone66)"/>
+ <path d="M364 213L399 220L402 550L364 542Z" fill="url(#stone66)"/>
+</g>
+<!-- Gate bars and seal -->
+<path d="M364 246L398 252L398 498L364 490Z" fill="#4b3826" stroke="#2e261e" stroke-width="7"/>
+<g stroke="#c5a16c" stroke-width="8"><path d="M373 268L390 270M373 307L390 309M373 346L390 348M373 385L390 387M373 424L390 426M373 463L390 465"/></g>
+<circle cx="382" cy="370" r="25" fill="url(#gold66)" stroke="#4b321d" stroke-width="5"/>
+<circle cx="382" cy="370" r="17" fill="none" stroke="#5c3b20" stroke-width="3"/>
+<path d="M382 355L391 370L382 385L373 370Z" fill="#5b3b20"/>
+<!-- Surging water, held at the gate -->
+<path d="M411 246Q442 226 471 258L470 591L407 589Q424 540 411 495Q432 455 412 414Q437 373 410 332Q432 289 411 246Z" fill="url(#water66)" stroke="#35281e" stroke-width="6"/>
+<g fill="none" stroke="#d5b87e" stroke-width="5"><path d="M414 279Q439 259 469 283T479 315M415 335Q442 311 471 341T479 370M415 394Q440 371 471 400T478 433M414 455Q443 430 470 462T477 491M413 519Q441 494 469 526T476 555"/></g>
+<g fill="none" stroke="#efe0b8" stroke-width="2.5" opacity=".8"><path d="M430 293Q451 278 465 293M430 350Q450 338 465 351M430 410Q450 397 466 411M431 470Q450 456 465 471M429 533Q450 519 465 534"/></g>
+<!-- Angel -->
+<g transform="translate(228 305)" stroke="#55371f" stroke-width="6" stroke-linejoin="round">
+ <circle cx="0" cy="-78" r="34" fill="#d9bd8d"/>
+ <path d="M-27 -97Q-7 -125 25 -102Q37 -82 18 -60L-30 -62Z" fill="#75502d"/>
+ <path d="M-9 -75L8 -75M-22 -65L-13 -61" fill="none" stroke-width="4"/>
+ <ellipse cx="0" cy="-116" rx="49" ry="10" fill="none" stroke="url(#gold66)" stroke-width="5"/>
+ <!-- Wing -->
+ <path d="M-28 -40Q-103 -75 -125 -7Q-144 49 -118 116Q-86 82 -66 58Q-82 120 -47 150Q-26 96 -12 66Z" fill="#d6bd94"/>
+ <g fill="none" stroke="#8c6439" stroke-width="4"><path d="M-39 -30Q-101 -64 -116 -3Q-102 15 -79 28Q-91 62 -75 86Q-47 65 -35 42Q-48 104 -27 132"/><path d="M-51 -19Q-92 -22 -103 36M-64 20Q-83 55 -65 77M-42 48Q-53 89 -37 112"/></g>
+ <!-- Robe and torso -->
+ <path d="M-23 -40Q-50 3 -43 55L-74 148L-45 187L28 181L74 151L42 55Q36 2 22 -40Z" fill="#c9a775"/>
+ <path d="M-33 -12L4 18L38 -8L27 66L-28 68Z" fill="#ead7b1"/>
+ <path d="M-49 56L-16 75L16 72L48 55L61 140L-66 140Z" fill="#b28a59"/>
+ <path d="M-50 92L-14 115L18 114L52 91" fill="none" stroke="#6b4727" stroke-width="5"/>
+ <circle cx="1" cy="101" r="12" fill="url(#gold66)"/>
+ <!-- Arms: braced at gate -->
+ <path d="M-37 5Q-62 17 -77 54L-68 74Q-49 58 -28 38" fill="#d6bd94"/>
+ <path d="M37 9Q62 20 99 32L120 20L113 1Q74 -9 40 -26" fill="#d6bd94"/>
+ <path d="M87 22L104 13L121 21L118 41L100 48L86 35Z" fill="#d6bd94"/>
+ <path d="M-68 72L-84 87L-75 98L-58 85Z" fill="#b28a59"/>
+ <!-- Legs and sandals -->
+ <path d="M-42 145L-32 183L-20 210L-3 207L-13 177L-8 145Z" fill="#d6bd94"/>
+ <path d="M29 145L37 181L50 210L67 206L56 176L56 145Z" fill="#d6bd94"/>
+ <path d="M-18 206L-42 215L-10 219L11 212Z M50 205L29 215L66 219L82 211Z" fill="#6c4829"/>
+ <g fill="none" stroke="#5a3a20" stroke-width="4"><path d="M-35 213L-15 208M36 212L55 207M-27 184L-7 181M40 183L57 181"/></g>
+</g>
+<!-- foreground rock and waterline -->
+<path d="M42 602Q84 575 123 601Q166 585 201 602Q242 585 277 602Q319 584 355 602Q394 579 432 601L470 593L470 620L42 620Z" fill="#6b4a2b" stroke="#4b321e" stroke-width="6"/>
+<g stroke="#b58c5c" stroke-width="3" opacity=".7"><path d="M68 603L101 588L133 603M177 604L207 590L240 604M302 604L334 590L366 604M396 604L425 589L451 604"/></g>
+<path d="M52 640Q256 654 460 640" fill="none" stroke="#6e4a2a" stroke-width="3"/>
+<text x="256" y="674" text-anchor="middle" font-family="serif" font-size="18" fill="#55371f">1 ENOC · 66</text>
+</svg>
