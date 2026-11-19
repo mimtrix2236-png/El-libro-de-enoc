@@ -10,3 +10,9 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 69 | chapter_69.svg | Registro angelical, juramento y orden cósmico |
 | 70 | chapter_70.svg | Enoc elevado entre corrientes de viento y cordeles de medida |
 | 71 | chapter_71.svg | Palacio de cristal y fuego, trono y Enoc arrodillado |
+| 72 | chapter_72.svg | Puertas solares y disco del Sol |
+| 73 | chapter_73.svg | Secuencia de fases lunares |
+| 74 | chapter_74.svg | Rueda de ciclos y fases lunares |
+| 75 | chapter_75.svg | Cuatro días especiales y luminares |
+| 76 | chapter_76.svg | Doce portales y corrientes de viento |
+| 77 | chapter_77.svg | Cuatro cuadrantes, montañas, ríos e islas |
