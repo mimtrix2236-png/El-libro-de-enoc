@@ -58,6 +58,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 - Auditoría combinada 66–108 actualizada con seis informes de fuente 76–108. Commit `78a256b` corrige paréntesis faltante del catálogo capítulo 66; la verificación CI de ese fix está pendiente.
 
+- 76–78: paráfrasis originales por versículo integradas en el lector offline (14, 8 y 17 unidades respectivamente); test de secuencia añadido. CI de estos cambios pendiente.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
