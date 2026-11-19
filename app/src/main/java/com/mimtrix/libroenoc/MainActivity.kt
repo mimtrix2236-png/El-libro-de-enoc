@@ -1,12 +1,14 @@
 package com.mimtrix.libroenoc
 
 import android.os.Bundle
+import android.content.Context
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
 import androidx.compose.ui.res.painterResource
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.gestures.detectHorizontalDragGestures
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -22,6 +24,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.input.pointer.pointerInput
 import android.webkit.WebView
 import android.webkit.WebViewClient
 
@@ -39,10 +43,25 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 private fun EnocReader() {
-    var selectedChapter by remember { mutableIntStateOf(1) }
+    val context = LocalContext.current
+    val prefs = remember(context) { context.getSharedPreferences("enoc_reader", Context.MODE_PRIVATE) }
+    var selectedChapter by remember { mutableIntStateOf(prefs.getInt("last_chapter", 1).coerceIn(1, 108)) }
     var showIndex by remember { mutableStateOf(true) }
-    var fontScale by remember { mutableFloatStateOf(1f) }
-    var night by remember { mutableStateOf(false) }
+    var fontScale by remember { mutableFloatStateOf(prefs.getFloat("font_scale", 1f).coerceIn(.8f, 1.5f)) }
+    var night by remember { mutableStateOf(prefs.getBoolean("night_mode", false)) }
+    var searchQuery by remember { mutableStateOf("") }
+    var bookmarks by remember {
+        mutableStateOf(prefs.getStringSet("bookmarks", emptySet())?.mapNotNull { it.toIntOrNull() }?.toSet() ?: emptySet())
+    }
+    LaunchedEffect(selectedChapter, fontScale, night) {
+        prefs.edit().putInt("last_chapter", selectedChapter).putFloat("font_scale", fontScale).putBoolean("night_mode", night).apply()
+    }
+    LaunchedEffect(bookmarks) {
+        prefs.edit().putStringSet("bookmarks", bookmarks.map { it.toString() }.toSet()).apply()
+    }
+    val visibleChapters = EnocContent.chapters.filter {
+        searchQuery.isBlank() || it.number.toString().contains(searchQuery.trim()) || it.title.contains(searchQuery.trim(), ignoreCase = true)
+    }
     val bg = if (night) Color(0xFF19151B) else Parchment
     val paper = if (night) Color(0xFF302832) else Color(0xFFFBF6EA)
     val text = if (night) Parchment else Ink
@@ -100,15 +119,22 @@ private fun EnocReader() {
                 Row(Modifier.fillMaxWidth().padding(horizontal = 14.dp, vertical = 10.dp), verticalAlignment = Alignment.CenterVertically) {
                     Text(if (showIndex) "ÍNDICE DE CAPÍTULOS" else "CAPÍTULO $selectedChapter", color = text, fontWeight = FontWeight.Bold, fontSize = 12.sp)
                     Spacer(Modifier.weight(1f))
-                    TextButton(onClick = { showIndex = !showIndex }) { Text(if (showIndex) "Abrir lectura" else "Ver índice", color = Wine) }
+                    TextButton(onClick = { showIndex = !showIndex }) { Text(if (showIndex) "Continuar" else "Índice", color = Wine) }
                 }
                 if (showIndex) {
+                    OutlinedTextField(
+                        value = searchQuery,
+                        onValueChange = { searchQuery = it },
+                        modifier = Modifier.fillMaxWidth().padding(horizontal = 14.dp, vertical = 2.dp),
+                        singleLine = true,
+                        label = { Text("Buscar por título o capítulo") }
+                    )
                     LazyColumn(
                         Modifier.weight(1f),
                         contentPadding = PaddingValues(horizontal = 14.dp, vertical = 4.dp),
                         verticalArrangement = Arrangement.spacedBy(7.dp)
                     ) {
-                        items(EnocContent.chapters) { chapter ->
+                        items(visibleChapters) { chapter ->
                             Card(
                                 Modifier.fillMaxWidth().clickable { selectedChapter = chapter.number; showIndex = false },
                                 shape = RoundedCornerShape(12.dp),
@@ -121,13 +147,13 @@ private fun EnocReader() {
                                         Text(chapter.title, color = Ink, fontWeight = FontWeight.SemiBold)
                                         Text(chapter.status, color = Ink.copy(alpha = .62f), fontSize = 10.sp)
                                     }
-                                    Text("›", color = Gold, fontSize = 24.sp)
+                                    Text(if (chapter.number in bookmarks) "★" else "›", color = Gold, fontSize = 24.sp)
                                 }
                             }
                         }
                     }
                 } else {
-                    Column(Modifier.weight(1f).padding(horizontal = 14.dp)) {
+                    Column(Modifier.weight(1f).padding(horizontal = 14.dp).pointerInput(selectedChapter) {\n                        var totalDrag = 0f\n                        detectHorizontalDragGestures(\n                            onDragStart = { totalDrag = 0f },\n                            onDragEnd = {\n                                if (totalDrag < -90f) selectedChapter = (selectedChapter + 1).coerceAtMost(lastAvailableChapter)\n                                else if (totalDrag > 90f) selectedChapter = (selectedChapter - 1).coerceAtLeast(1)\n                                totalDrag = 0f\n                            },\n                            onDragCancel = { totalDrag = 0f },\n                            onHorizontalDrag = { _, amount -> totalDrag += amount }\n                        )\n                    }) {
                         Card(Modifier.fillMaxSize(), shape = RoundedCornerShape(12.dp), colors = CardDefaults.cardColors(containerColor = paper)) {
                             LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(19.dp)) {
                                 item {
@@ -163,6 +189,15 @@ private fun EnocReader() {
                                     Text(selected?.title ?: "Capítulo", color = text, fontSize = 24.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Serif)
                                     Spacer(Modifier.height(9.dp))
                                     Text(selected?.editorialNote ?: "", color = text.copy(alpha = .72f), fontSize = 12.sp)
+                                    Spacer(Modifier.height(9.dp))
+                                    Button(
+                                        onClick = {
+                                            bookmarks = if (selectedChapter in bookmarks) bookmarks - selectedChapter else bookmarks + selectedChapter
+                                        },
+                                        colors = ButtonDefaults.buttonColors(containerColor = Wine)
+                                    ) {
+                                        Text(if (selectedChapter in bookmarks) "Quitar marcador" else "Guardar marcador")
+                                    }
                                     Spacer(Modifier.height(17.dp))
                                 }
                                 items(selected?.verses ?: emptyList()) { verse ->
