@@ -13,19 +13,19 @@ data class ChapterEntry(
 object EnocContent {
     // Base de trabajo: traducción provisional. Cada versículo debe cotejarse con los testigos antes de declararse definitivo.
     val chapters = listOf(
-        ChapterEntry(1, "Bendición y juicio", "Borrador · cotejo crítico pendiente",
-            "Enoc bendice a los elegidos y anuncia la manifestación del Santo, el juicio y la paz para los justos.",
-            "Comparar ge'ez de Dillmann, fotografías de Rylands MS 23, versión de Charles y paralelos de Judas 14–15. Registrar reconstrucciones editoriales y no incorporarlas silenciosamente.",
+        ChapterEntry(1, "Bendición y juicio", "Traducción revisada desde el ge'ez · aparato crítico en preparación",
+            "Enoc pronuncia una bendición sobre los elegidos y los justos, y anuncia la manifestación del Santo, el estremecimiento de la creación, el juicio y la paz destinada a los justos.",
+            "Base de trabajo: texto ge'ez de August Dillmann, Liber Henoch Aethiopice (1851), capítulo 1; traducción de R. H. Charles (1917); descripción del testigo Rylands Ethiopic MS 23, fol. 2r col. a, correspondiente al capítulo completo. La edición consultada advierte que el texto de Dillmann no es transcripción diplomática del códice y que Charles señala emendaciones y suplementos. Se conserva la numeración de Charles (1:1–9). En 1:4 no se incorpora al texto principal «y aparecer desde su campamento», que Charles imprime entre corchetes. En 1:7 Charles propone «por completo» como emendación; se deja fuera del texto principal hasta verificarla. En 1:8 se excluyen del cuerpo las frases que Charles marca como conjeturales («y él los ayudará a todos» / «y hará paz con ellos»). La puntuación y la disposición poética son editoriales. Pendiente: cotejo directo de fotografías del códice y de los aparatos de Charles 1906 y Knibb 1978; esta versión no se declara todavía edición crítica definitiva.",
             listOf(
-                VerseEntry("1:1", "Estas son las palabras de bendición de Enoc, con las que bendijo a los elegidos y a los justos que vivirán en el día de la tribulación."),
-                VerseEntry("1:2", "Enoc, hombre justo, cuyos ojos fueron abiertos por Dios, contempló la visión del Santo en los cielos, que los ángeles le mostraron."),
-                VerseEntry("1:3", "Hablé acerca de los elegidos y pronuncié mi oráculo sobre ellos: el Santo y Grande saldrá de su morada."),
-                VerseEntry("1:4", "El Dios eterno caminará sobre la tierra, sobre el monte Sinaí, y se manifestará en la fuerza de su poder."),
-                VerseEntry("1:5", "Todos serán sobrecogidos por el temor; los Vigilantes temblarán y un gran estremecimiento alcanzará los confines de la tierra."),
-                VerseEntry("1:6", "Las altas montañas serán sacudidas, las colinas serán abatidas y se derretirán como cera ante la llama."),
-                VerseEntry("1:7", "La tierra se abrirá y habrá juicio sobre todos."),
-                VerseEntry("1:8", "Con los justos establecerá la paz, protegerá a los elegidos y tendrá misericordia de ellos."),
-                VerseEntry("1:9", "He aquí que viene con miríadas de sus santos para ejecutar juicio y hacer comparecer a toda carne por sus obras.")
+                VerseEntry("1:1", "Palabras de la bendición de Enoc, con la que bendijo a los elegidos y a los justos que estarán presentes en el día de la tribulación, cuando sean apartados todos los malvados y los impíos."),
+                VerseEntry("1:2", "Y comenzó a hablar en parábola y dijo: Enoc, hombre justo, cuyos ojos fueron abiertos por Dios, vio la visión del Santo en los cielos. Los ángeles me la mostraron; de ellos oí todo y por ellos comprendí lo que veía. Pero no para esta generación, sino para una generación lejana, venidera."),
+                VerseEntry("1:3", "Acerca de los elegidos hablé y pronuncié mi parábola sobre ellos: El Santo y Grande saldrá de su morada."),
+                VerseEntry("1:4", "El Dios eterno caminará sobre la tierra —sobre el monte Sinaí— y se manifestará; mostrará la fuerza de su poder desde el cielo."),
+                VerseEntry("1:5", "Todos sentirán temor; los Vigilantes temblarán, y un gran miedo y estremecimiento se apoderarán de ellos hasta los confines de la tierra."),
+                VerseEntry("1:6", "Las altas montañas serán sacudidas, las colinas elevadas se abatirán y se derretirán como cera ante la llama."),
+                VerseEntry("1:7", "La tierra será desgarrada y todo cuanto hay sobre ella perecerá; habrá juicio sobre todos."),
+                VerseEntry("1:8", "Pero con los justos establecerá la paz, protegerá a los elegidos y tendrá misericordia de ellos. Todos pertenecerán a Dios; prosperarán, serán bendecidos y la luz de Dios brillará para ellos."),
+                VerseEntry("1:9", "Y he aquí que viene con miríadas de santos para ejecutar juicio, destruir a los impíos y pedir cuentas a toda carne por todas las obras de impiedad que cometieron y por todas las palabras duras que los pecadores impíos pronunciaron contra él.")
             )),
         ChapterEntry(2, "El orden de la creación", "Borrador · cotejo crítico pendiente",
             "La regularidad de las luminarias y los ciclos de la naturaleza se presenta como testimonio del orden creado.",
