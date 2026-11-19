@@ -26,7 +26,7 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 ## Estado de desarrollo
 - Proyecto Android con interfaz inicial de lectura por capítulos.
-- Índice de capítulos, controles de tamaño de letra y modo nocturno.
+- Índice con búsqueda por título/número, controles de tamaño de letra, modo nocturno, marcadores locales, guardado de último capítulo y navegación por swipe (implementación inicial).
 - Ilustración vectorial ornamental integrada en la cabecera.
 - Ilustraciones vectoriales originales específicas para los capítulos 6–16.
 - Contenido provisional de los capítulos 1–16 incorporado versículo por versículo y marcado como borrador.
@@ -35,6 +35,7 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Los 108 capítulos tienen archivos individuales de paráfrasis provisional; los capítulos 66–108 están integrados en catálogos Kotlin offline. El cotejo crítico sigue pendiente.
 - 43 SVG capítulo-específicos (66–108) en `assets/illustrations/` y duplicados en `app/src/main/assets/illustrations/`; son bocetos vectoriales, no arte final.
 - El cotejo integral de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
+- Tres pruebas unitarias de catálogo pasan en CI; build debug y artifact verificados en commit `e2def78`: [ejecución](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44538335785). No es release final.
 - Auditoría 66–108: `docs/auditoria_capitulos_66-108.md`.
 - CI Android: compilación verificada con éxito en commit `613cd34`; artifact APK debug disponible en [GitHub Actions](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44536929563). Es un build de desarrollo, no APK final.
 - Flujo de compilación Android configurado en `.github/workflows/android-build.yml`; una compilación debug ya se verificó, pero el APK final de entrega aún requiere pruebas y una build final.

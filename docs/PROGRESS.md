@@ -206,3 +206,15 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - [ ] Integrar audio celestial con licencia/original verificada, completar funciones de lector, preparar PDF y probar navegación/uso real.
 
 **Fuentes de referencia:** R. H. Charles, *The Book of Enoch* (1912; edición SPCK 1917), eBook Project Gutenberg #77935, https://www.gutenberg.org/ebooks/77935 y https://www.gutenberg.org/cache/epub/77935/pg77935-images.html; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html; Online Critical Pseudepigrapha, https://pseudepigrapha.org/reader.html?doc=1En.xml (la página informa transición de plataforma; el lector no mostró texto en esta revisión). Consultado el 19-11-2026.
+
+
+## Mejoras del lector y arte — 19 de noviembre de 2026
+
+- [x] Se agregó búsqueda por título o número de capítulo en el índice.
+- [x] Marcadores de capítulo guardados/restaurados localmente.
+- [x] Guarda el último capítulo leído, tamaño de letra y modo nocturno en preferencias locales.
+- [x] Navegación por gesto horizontal: deslizar a la izquierda avanza; a la derecha retrocede.
+- [x] Tres pruebas unitarias del catálogo (108 capítulos en orden, texto no vacío y paráfrasis 66–108 marcadas) añadidas; CI ejecutó las pruebas y la compilación con éxito.
+- [x] Ilustraciones SVG 66–70 refinadas con escenas más detalladas y específicas, en pergamino/sepia, duplicadas en los assets Android.
+- [x] Compilación y artifact debug verificados en commit `e2def78`: workflow 44538335785, tests, `assembleDebug` y upload-artifact completados; APK artifact 9,194,893 bytes. Link: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44538335785.
+- [ ] El artifact es una build de desarrollo, no una release final; todavía faltan pruebas de dispositivo, revisión de navegación/UI, cotejo crítico y PDF.

@@ -38,3 +38,10 @@ El commit posterior `645837c80ba361d42fe6a4bf46476b1d18961e07` añade las refere
 6. Generar y verificar PDF de libro completo; hacer pruebas finales de Android y entregar APK final.
 
 **Conclusión:** los borradores y el arte de 66–108 existen y están integrados al catálogo offline. No equivalen a una traducción crítica ni a una edición terminada.
+
+
+## Lector y build actualizados — 19-11-2026
+
+Se añadió búsqueda de capítulos (título/número), marcadores guardados en SharedPreferences, persistencia del capítulo, tamaño de letra y modo nocturno, y gesto horizontal para anterior/siguiente. El CI ejecuta tres tests de catálogo y la build APK.
+
+Se refinó el arte SVG de los capítulos 66–70. La comprobación de archivos confirma las copias en los assets Android. La build en commit `e2def78` pasó: workflow 44538335785, artifact debug de 9,194,893 bytes. Sigue siendo una build de desarrollo; no se ha probado en un teléfono real ni es una release final.
