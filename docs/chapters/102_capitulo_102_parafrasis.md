@@ -11,3 +11,10 @@ La visión anuncia un fuego terrible y un juicio ante el cual los luminares y la
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. CII, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar vocabulario sobre Sheol, espíritus y muerte, y las lecturas problemáticas del capítulo.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+102 está en el tramo de la Epístola transmitido parcialmente por el papyrus griego Chester Beatty-Michigan (97:6–104:13), con lagunas; no se identifica testimonio arameo Qumrán directo para este capítulo. El resumen evita afirmar un concepto específico de resurrección si el texto habla de destino de los muertos, espíritus o vindicación. La terminología del lugar de los muertos se mantendrá pendiente de cotejo.
+
+**Pendiente:** cotejar 102:1–11, el discurso atribuido a los pecadores y las lecturas sobre muerte/espíritus en Greek/Ge'ez; no rellenar lagunas.
