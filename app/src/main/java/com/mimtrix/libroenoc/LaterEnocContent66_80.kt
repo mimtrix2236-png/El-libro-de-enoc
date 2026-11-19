@@ -10,7 +10,7 @@ object LaterEnocContent66_80 {
                 VerseEntry("66:1", "Después de esto, me mostró a los ángeles del castigo, preparados para venir y soltar todas las fuerzas de las aguas que están debajo de la tierra, a fin de traer juicio y destrucción sobre todos los que [permanecen y] habitan en la tierra."),
                 VerseEntry("66:2", "El Señor de los Espíritus ordenó a los ángeles que iban saliendo que no hicieran subir las aguas, sino que las mantuvieran contenidas; pues esos ángeles estaban a cargo de las fuerzas de las aguas."),
                 VerseEntry("66:3", "Y me alejé de la presencia de Enoc.")
-            ),
+            )),
         ChapterEntry(67, "La promesa a Noé y el valle de castigo", "Paráfrasis provisional · cotejo crítico pendiente",
             "la preservación de Noé y la continuidad de la vida se contraponen al castigo de los transgresores; aguas y fuego funcionan como imagen de advertencia.",
             "Fuente: R. H. Charles, The Book of Enoch (1912), cap. LXVII, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultados 19-11-2026). Paráfrasis original. Pendiente: revisar el pasaje de las aguas y su relación con el castigo, junto con variantes y el fragmento noánico. Ilustración: assets/illustrations/chapter_67.svg — Noé junto a la estructura del arca; al fondo, un valle mineral con fuentes y corrientes de fuego, en una composición panorámica.",
