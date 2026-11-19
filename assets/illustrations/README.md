@@ -16,3 +16,8 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 75 | chapter_75.svg | Cuatro días especiales y luminares |
 | 76 | chapter_76.svg | Doce portales y corrientes de viento |
 | 77 | chapter_77.svg | Cuatro cuadrantes, montañas, ríos e islas |
+| 78 | chapter_78.svg | Sol y Luna con fases y proporciones |
+| 79 | chapter_79.svg | Escriba y diagrama de leyes celestes |
+| 80 | chapter_80.svg | Astros desordenados y tierra seca |
+| 81 | chapter_81.svg | Enoc y las tablas celestiales |
+| 82 | chapter_82.svg | Transmisión de rollos y rueda anual |
