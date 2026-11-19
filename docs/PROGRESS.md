@@ -94,3 +94,10 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 - [ ] Revisión/cotejo crítico de 66–71: pendiente; se consultó una reproducción online de R. H. Charles, pero no se cotejaron manuscritos ni aparato crítico. Las paráfrasis no son traducciones exactas.
 - Fuentes consultadas para 66–71: R. H. Charles, *The Book of Enoch* (1912), reproducción online en https://rojc.uk/book-of-enoch.htm y https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html. Consultadas el 19-11-2026.
 - La laguna editorial indicada por Charles en 71:13 se conserva como laguna; no se rellena con conjetura.
+
+
+## Build check and fix — 19 de noviembre de 2026
+
+- GitHub Actions run 104 failed during `compileDebugKotlin`: Java compilation target 1.8 conflicted with Kotlin target 17. This is a real failure, not a successful build.
+- [x] Fixed the configuration in `app/build.gradle.kts` by aligning Java source/target and Kotlin JVM target to 17.
+- [ ] The new CI run after this fix must complete successfully; APK generation is not verified yet.
