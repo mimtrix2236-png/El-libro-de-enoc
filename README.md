@@ -51,6 +51,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 - Fuente-audit 96–100: `docs/auditoria_96-100_fuentes.md`; anotado el alcance parcial del papyrus griego Chester Beatty-Michigan y lagunas, sin afirmar testimonio arameo directo.
 
+- Fuente-audit 101–105: `docs/auditoria_101-105_fuentes.md`; anotados los testigos griegos parciales y 4Q204 para 104:13–105:2.
+
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
 
