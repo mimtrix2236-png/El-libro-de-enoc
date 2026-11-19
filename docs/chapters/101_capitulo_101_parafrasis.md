@@ -11,3 +11,10 @@ Enoc pide a sus hijos observar el cielo y las obras del Altísimo y vivir sin ma
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. CI, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
 
 **Pendiente:** cotejar el capítulo con la edición base y revisar las imágenes del mar, la lluvia y los navegantes.
+
+
+## Nota de cotejo documental — revisión 19-11-2026
+
+101 se encuentra dentro del tramo epistolar griego que el Chester Beatty-Michigan preserva de forma parcial (97:6–104:13), pero no se identificó un fragmento arameo Qumrán directo a este capítulo. El resumen se apoya provisionalmente en Ge'ez y Charles. La comparación del mar, lluvia, rocío y temor natural debe cotejarse en el texto; no se interpreta como explicación científica.
+
+**Pendiente:** cotejo de 101:1–9, en especial metáforas de navegación y límites del mar, con el griego y Ge'ez.
