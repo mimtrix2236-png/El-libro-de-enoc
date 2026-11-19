@@ -253,3 +253,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Capítulo 66: 3 unidades versiculares traducidas al español desde R. H. Charles 1917 (traducción indirecta desde inglés); suplemento [abide and] preservado entre corchetes; lectura inusual “me alejé de la presencia de Enoc” no armonizada y señalada.
 - [x] Documento separado `docs/chapters/66_capitulo_66_traduccion_de_trabajo.md` y contenido integrado al catálogo Android.
 - [ ] Cotejo directo con Ge'ez/arameo y aparato crítico; esta traducción no es final.
+
+
+## Auditoría rápida de continuidad — capítulos 6–10 (19 de noviembre de 2026)
+
+- [x] Verificados los cinco documentos individuales en GitHub: 06.md–10.md.
+- [x] La numeración de trabajo coincide con Charles: cap. 6 (8 unidades), 7 (6), 8 (4), 9 (11), 10 (22); total 51 unidades versiculares documentadas.
+- [ ] Este conteo estructural no equivale a cotejo crítico completo. Las notas editoriales de cada capítulo siguen indicando pendientes (nombres, variantes, suplementos y pasajes difíciles).
+- [ ] Próximo trabajo: verificar el texto de cada unidad contra los testigos/ediciones disponibles, registrar diferencias y revisar su integración Android antes de marcar cualquier capítulo como final.
