@@ -19,7 +19,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Capítulos 51–55 — borradores preliminares con advertencias de cotejo
 - [x] Capítulos 56–60 — borradores preliminares con notas de cotejo
 - [x] Capítulos 61–65 — borradores preliminares y notas de cotejo
-- [x] Capítulos 66–108 — borradores preparados; pendiente cotejo y revisión editorial
+- [ ] Capítulos 66–108 — el estado real se audita a continuación; no se cuentan como preparados sin archivo comprobable.
 - [ ] Revisión de coherencia y notas documentales
 - [x] Glosario preliminar (apéndices todavía pendientes)
 - [x] Bibliografía base y protocolo de cotejo registrados (ver docs/bibliografia_fuentes_cotejo.md)
@@ -83,3 +83,14 @@ Se incorporaron documentos editoriales individuales para los capítulos 3–20:
 
 - [x] Integración en `EnocContent.kt`: capítulos 2–20 reemplazados por entradas versículo por versículo extraídas de sus documentos editoriales. Se conservaron las etiquetas alfabéticas del capítulo 5; su sección 5:6d–j sigue identificada como texto problemático y no como traducción literal cerrada.
 - [ ] Revisar compilación Kotlin y probar visualmente la navegación de capítulos 3–20. La actualización del archivo fuente no equivale a una compilación verificada.
+
+
+## Auditoría de archivos — 19 de noviembre de 2026
+
+- Se inspeccionó el contenido real de `docs/chapters/` mediante la API del repositorio. Antes de este avance, existían archivos de paráfrasis para capítulos 1–65; no había archivos 66–108. La marca anterior de “66–108 preparados” era incorrecta y queda corregida.
+- [x] Capítulos 66–71: seis paráfrasis narrativas provisionales creadas como archivos individuales, con idea central, fuente de trabajo, advertencias y una propuesta de ilustración específica.
+- [x] Capítulos 66–71: seis ilustraciones SVG originales en tinta sepia/pergamino, específicas de cada capítulo. Son arte vectorial de primera pasada, no ilustraciones finales revisadas ni integradas en la app.
+- [ ] Capítulos 72–108: todavía no creados.
+- [ ] Revisión/cotejo crítico de 66–71: pendiente; se consultó una reproducción online de R. H. Charles, pero no se cotejaron manuscritos ni aparato crítico. Las paráfrasis no son traducciones exactas.
+- Fuentes consultadas para 66–71: R. H. Charles, *The Book of Enoch* (1912), reproducción online en https://rojc.uk/book-of-enoch.htm y https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html. Consultadas el 19-11-2026.
+- La laguna editorial indicada por Charles en 71:13 se conserva como laguna; no se rellena con conjetura.
