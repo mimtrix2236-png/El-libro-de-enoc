@@ -31,10 +31,9 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Ilustraciones vectoriales originales específicas para los capítulos 6–16.
 - Contenido provisional de los capítulos 1–16 incorporado versículo por versículo y marcado como borrador.
 - Registro y protocolo de cotejo crítico: `editorial/cotejo_critico.md`.
-- Los capítulos 6–10 cuentan con mapa de folios y notas críticas en `editorial/fuentes_capitulos_06_10.md` y `editorial/fuentes_capitulos_11_13.md` y `editorial/fuentes_capitulos_14_16.md`.
+- Los capítulos 6–16 cuentan con mapas de folios y notas críticas en `editorial/fuentes_capitulos_06_10.md`, `editorial/fuentes_capitulos_11_13.md` y `editorial/fuentes_capitulos_14_16.md`.
 - El cotejo integral de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
 - Flujo de compilación Android configurado en `.github/workflows/android-build.yml`; APK aún no verificado.
-- No hay APK verificado todavía.
 
 ## Criterio de avance
 La aplicación se desarrolla en paralelo con la edición, pero el texto se publicará como definitivo únicamente después del cotejo de manuscritos, ediciones y variantes. Las ilustraciones originales se integrarán como recursos de la aplicación y se vincularán a capítulos concretos.
