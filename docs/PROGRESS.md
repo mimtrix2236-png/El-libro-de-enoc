@@ -280,3 +280,10 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Debug APK artifact verified: 9,229,448 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743101905; expires 20 Dec 2026 13:18 UTC.
 - [x] GitHub tree checked: 108 consecutive chapter draft files, 43 chapter-specific SVGs for 66–108, and generated chapter 106 preview present in source and app assets; MainActivity references the special asset in both WebView load paths.
 - [ ] No physical-device test of WebView artwork or audio. This is a debug/intermediate APK, not a final release. Full PDF and critical review 1–108 remain pending.
+
+
+## 20 November 2026 — Integrate chapter 106–108 revisions in Android catalog
+
+- [x] The offline reader catalog now has four narrative ranges for 106, three units for 107, and four ranges for 108 instead of one generic unit per chapter.
+- [x] Added source/witness caveats, the generated chapter 106 preview reference, and the Ge'ez-only transmission note for chapter 108.
+- [x] Added regression test for the chapter ranges and evidence notes. New CI pending.
