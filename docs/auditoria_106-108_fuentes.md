@@ -1,28 +1,47 @@
 # Cotejo documental focalizado: 1 Enoc 106–108
 
-**Fecha:** 19 de noviembre de 2026  
+**Revisión:** 20 de noviembre de 2026  
 **Editor:** Mauro Iván Maidana  
-**Estado:** revisión de referencias, resúmenes de artículos y catálogos; cotejo directo de manuscritos/aparato pendiente.
+**Estado:** se consultaron reproducciones de Charles 1917, catálogos y estudios secundarios. No se cotejaron directamente fotografías de los manuscritos ni el aparato crítico completo de Stuckenbruck/Drawnel.
 
 ## 106–107 — Nacimiento de Noé
-- Se trata como apéndice narrativo distinto dentro de 1 Enoc; no se confunde con la Epístola ni con una versión paralela independiente.
-- Testigos fragmentarios reportados: 4Q204 (Aramaic) 106:1–2 y 106:13–107:2; Greek Chester Beatty-Michigan 106:1–107:3; Latin Royal Ms. 5 E XIII 106:1–18. La correspondencia es parcial y los fragmentos arameos tienen lagunas.
-- El *Genesis Apocryphon* 1Q20 y los fragmentos 4Q534–536 “Birth of Noah” son tradiciones relacionadas, no copias de 1 Enoc 106–107. Se mantendrán en apéndice de paralelos separados.
-- **Pendiente:** cotejar los pasajes paralelos y el nombre/etimología Noé, el número de hijos, y letras reconstruidas; no armonizar.
+
+- Es una unidad narrativa diferenciada, 1 Enoc 106:1–107:3, que se transmite como apéndice noánico; no debe mezclarse con el texto del *Genesis Apocryphon* como si fuera el mismo.
+- Las asignaciones publicadas de 4Q204 incluyen 104:13–106:2 y 106:13–107:2. Los rangos y la nomenclatura de fragmentos dependen de las ediciones; no equivalen a un cotejo propio de las letras conservadas.
+- El papyrus Greek Chester Beatty–Michigan XII se reporta para 106:1–107:3; el Latin Royal Ms. 5 E XIII para 106:1–18. Son testimonios parciales.
+- Un fragmento adicional reportado con 106:19–107:1 llegó al mercado de antigüedades sin procedencia arqueológica demostrada; se mantiene separado y no se cuenta como testigo Qumrán seguro.
+- 1Q20 (*Genesis Apocryphon*) y 4Q534–536 (“Birth of Noah”) son tradiciones paralelas relacionadas; no son copias de 1 Enoc 106–107.
+- **Variantes/precauciones:** el relato repite las frases sobre abrir la boca y la bendición; las traducciones presentan formulaciones distintas. La expresión de salvación de Noé y “sus hijos/tres hijos” no se armoniza. Charles marca expresiones dañadas o suplementos; deben cotejarse en el aparato.
 
 ## 108 — Admonición escatológica
-- Se trata como unidad final separada.
-- La evidencia consultada indica que 108 solo está conservado en la tradición Ge'ez y no tiene testimonio identificado en Aramaic, Greek, Coptic o Latin; tampoco se reporta en Qumrán. Los testigos Aramaic 4Q204 y Greek Chester Beatty-Michigan concluyen con el Nacimiento de Noé; Latin Royal Ms. 5 termina en 106:18.
-- Estudios proponen que 108 fue añadido posteriormente; una fecha del siglo I d. C. es una hipótesis, no fecha demostrada.
-- **Pendiente:** cotejar Ge'ez y la edición crítica de Stuckenbruck/Nickelsburg. El texto se presentará con aviso de tradición Ge'ez sin testigos paralelos antiguos identificados.
 
-## Fuentes
-1. Henryk Drawnel (comp.), *Qumran Cave 4: The Aramaic Books of Enoch* (Oxford University Press, 2019), catálogo National Library of Israel: https://www.nli.org.il/en/books/NNL_ALEPH997009971868305171/NLI
-2. *Noah Traditions in the Dead Sea Scrolls*, artículo en Society of Biblical Literature, https://www.sbl-site.org/wp-content/uploads/2024/12/Peters.Noah_.pdf (tabla que sitúa Birth of Noah 106–107 en 4Q204 5; resume tradiciones relacionadas).
-3. 4care artefact record 752 / TM 61462, P. Beatty XII: https://4care-skos.mf.no/4care-artefacts/752/ (rango griego 97:6–104 y 106–107:3).
-4. Stuckenbruck, *1 Enoch 91–108* (2007), bibliografía prioritaria; no consultado íntegramente en esta revisión.
-5. R. H. Charles, *The Book of Enoch* (SPCK, 1917), caps. 106–108, dominio público; transcripción digital/OCR necesita control.
-6. Estudio de la Admonición escatológica (108) en repositorio Edinburgh, https://era.ed.ac.uk/server/api/core/bitstreams/8669d9cd-01f8-4b86-b87f-0b656c3b8869/content; fuente secundaria para su carácter Ge'ez-only y propuesta de datación.
+- Es una unidad final independiente, denominada *Eschatological Admonition* en bibliografía reciente.
+- En los testimonios catalogados consultados, 108 se conserva solo en la tradición Ge'ez; no se identifica un testigo Aramaic, Greek, Coptic o Latin. 4Q204 y Chester Beatty–Michigan XII concluyen con el material de Nacimiento de Noé; Royal Ms. 5 E XIII termina en 106:18.
+- La inclusión de 108 se interpreta como un desarrollo posterior de la colección. Se propone una datación de fines del siglo I d. C. en un estudio, pero es una hipótesis y no una fecha demostrada.
+- El texto se presentará como apéndice final con aviso de transmisión Ge'ez-only; no se atribuirá corroboración Qumrán.
+- **Corrección de fuente:** una reproducción web de Charles basada en su edición de 1912 consultada antes termina en 107 y no contiene 108. Para este capítulo se registra la edición SPCK 1917 y transcripción pública de Project Gutenberg #77935, además de Open Scroll. La paráfrasis no es traducción directa del Ge'ez.
+
+## Fuentes consultadas (20-11-2026)
+
+1. Henryk Drawnel, *Qumran Cave 4: The Aramaic Books of Enoch* (Oxford University Press, 2019), catálogo National Library of Israel: https://www.nli.org.il/en/books/NNL_ALEPH997009971868305171/NLI.
+2. *A Handbook of the Aramaic Scrolls from Qumran*, Brill, PDF: https://brill.com/display/book/9789004513815/9789004513815_webready_content_text.pdf. El perfil de 4Q204 resume los fragmentos y sus unidades; los números se contrastarán con Drawnel.
+3. *Noah Traditions in the Dead Sea Scrolls*, Society of Biblical Literature: https://www.sbl-site.org/wp-content/uploads/2024/12/Peters.Noah_.pdf. Orientación sobre tradiciones noánicas relacionadas.
+4. 4care, artefact record 752 / TM 61462, P. Beatty XII: https://4care-skos.mf.no/4care-artefacts/752/; rango Greek reportado 97:6–104 y 106–107:3.
+5. Philippe Langlois, estudio de fragmentos de 4Q204, fragmentos/rangos (reproducción): https://fr.scribd.com/document/674073421/Langlois-2008-Le-Premier-Manuscrit-Du-Livre-Dhenoch-Etude-Epigraphique-Et-Philologique-Des-Fragments-Arameens-de-4q201-a-Qumran-Version-Basse-Qualite. Se usa como guía de asignación, no como sustituto de edición crítica.
+6. Estudio de fragmento 106:19–107:1 de procedencia no comprobada, PDF en Library of Congress: https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/99/89/2020719989/2020719989.pdf. No se trata como fragmento de Qumrán confirmado.
+7. Loren T. Stuckenbruck, *1 Enoch 91–108* (De Gruyter, 2007), DOI: https://doi.org/10.1515/9783110204131. Se consultó la ficha bibliográfica y la estructura; el comentario completo no se consultó íntegramente.
+8. Estudio de 108 en repositorio Edinburgh: https://era.ed.ac.uk/server/api/core/bitstreams/8669d9cd-01f8-4b86-b87f-0b656c3b8869/content. Fuente secundaria sobre su carácter Ge'ez-only y la propuesta de datación.
+9. R. H. Charles, *The Book of Enoch* (SPCK, 1917), transcripción pública, Project Gutenberg #77935: https://www.gutenberg.org/ebooks/77935. Traducción histórica de dominio público; no es el texto Ge'ez ni una edición crítica moderna.
+10. Open Scroll, 1 Enoc 108, Charles 1917: https://openscrollproject.org/app/ancient/1EN-108. La página muestra el capítulo CVIII y la nota editorial sobre marcas de Charles.
 
 ## Cambios incorporados
-Se agregaron notas de testigos y límites a los capítulos 106–108. No se reconstruyeron lagunas ni se afirmó cotejo directo.
+
+- Revisadas las paráfrasis 106–108 por rangos; se ampliaron los detalles omitidos de 106 y la visión/recompensa de 108.
+- Precisadas las asignaciones parciales de 4Q204 y los límites de Greek/Latin; se separó el fragmento no provenienciado de la evidencia Qumrán.
+- Corregida la referencia de 108 a la transcripción de Charles 1917; la reproducción de 1912 que se usaba antes no incluía el capítulo.
+- Se generó e integró una ilustración original para 106, como preview de 160×240 px embebido en SVG; no es arte final de impresión.
+- No se reconstruyeron lagunas, ni se afirmó cotejo directo con manuscritos o aparato crítico.
+
+## Pendiente
+
+Cotejo directo de fotografías/fragmentos y aparatos críticos, comparación de Ge'ez/Aramaic/Greek/Latin, revisión de nombres y variantes, y control de la paráfrasis con las fuentes. El proyecto no debe etiquetar estos capítulos como “texto definitivo” hasta completar ese trabajo.
