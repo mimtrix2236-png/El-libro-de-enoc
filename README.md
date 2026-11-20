@@ -97,3 +97,6 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 
 
 - 106–108 también se integraron al catálogo offline con rangos narrativos (106: 4, 107: 3, 108: 4 unidades) y notas de testigos/limitaciones; test de regresión añadido. Build de esta revisión pendiente.
+
+
+- **Build verificado después de integrar 106–108 en el catálogo:** CI run 317 (commit ff195efe91850f5c3625c79805dc71b43f166e5f) pasó tests, assembleDebug y upload; APK debug 9,229,830 bytes. Run 320 (commit bf53c357b74a38f5a5572982706f070c36abd221, documentación posterior) también pasó y generó APK debug 9,229,829 bytes: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743746076. Artifact temporal, expira 20-12-2026 13:24 UTC. Sin prueba en dispositivo; aún no es release final.
