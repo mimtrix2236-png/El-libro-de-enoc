@@ -1,22 +1,26 @@
 # Capítulo 106 — El nacimiento extraordinario de Noé (paráfrasis provisional)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis narrativa original; no es una traducción literal ni una edición crítica. La división por rangos orienta la lectura, pero no sustituye un cotejo versículo a versículo.
 
-El relato noánico cuenta que Lamech y su esposa tienen un hijo cuya apariencia sorprende: cuerpo claro y rojizo, cabello muy blanco y ojos brillantes; al abrirlos, parece iluminar la casa. Lamech teme que el niño sea de origen celestial y consulta a Matusalén, quien acude a Enoc. Enoc explica que el nacimiento es verdadero y que el niño será Noé. Recuerda la transgresión de los ángeles, la aparición de gigantes, el castigo y el diluvio, pero anuncia que Noé y sus tres hijos sobrevivirán. El capítulo declara que la tierra será limpiada y que Noé será consuelo después de la destrucción.
+**106:1–3 — El nacimiento.** Lamech y su esposa tienen un hijo de apariencia extraordinaria: el relato describe una piel clara y rojiza, cabello muy blanco y ojos luminosos; al abrirlos, el niño parece llenar de luz la casa. La partera lo levanta y el recién nacido abre la boca; la formulación sobre lo que dice o a quién dirige su voz presenta diferencias en la traducción de Charles.
 
-**Idea central:** el nacimiento de Noé se presenta como señal y preparación para el diluvio, dentro de un fragmento relacionado con la tradición noánica.
+**106:4–7 — El temor de Lamech.** El padre queda aterrorizado por el aspecto del niño y sospecha que no sea de origen humano, sino semejante a los seres celestiales. Acude a Matusalén y le pide consultar a Enoc.
 
-**Ilustración propia:** assets/illustrations/chapter_106.svg — recién nacido de brillo simbólico en brazos de una partera; Lamech, Matusalén y Enoc contemplan la escena bajo una luz dorada.
+**106:8–12 — El informe de Matusalén.** Matusalén repite la descripción, cuenta el temor de Lamech y solicita una explicación. El relato vuelve a describir que el niño abre la boca y bendice al Señor del cielo.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. CVI, identificado como “Fragment of the Book of Noah”, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original.
+**106:13–19 — La respuesta de Enoc.** Enoc vincula el nacimiento con la transgresión de los Vigilantes, la aparición de gigantes y el castigo que limpiará la tierra. Anuncia el diluvio, la preservación de Noé y sus hijos, y advierte que la injusticia volverá a crecer después de la primera destrucción.
 
-**Pendiente:** cotejar el fragmento, las palabras marcadas por Charles y la relación con el capítulo 107 y otras tradiciones de Noé. No se presenta como documento independiente completo.
+**Idea central:** el nacimiento de Noé es una señal dentro de la narración del diluvio; el texto combina temor familiar, explicación celestial y promesa de supervivencia, sin convertirlo en un relato idéntico a otros textos noánicos.
 
+**Ilustración conceptual existente:** assets/illustrations/chapter_106.svg.  
+**Ilustración generada integrada (preview):** assets/illustrations/chapter_106_generated.svg; copia offline en app/src/main/assets/illustrations/chapter_106_generated.svg. Es una imagen raster incrustada en SVG, 160×240 px, adecuada como preview de lector; no es master de impresión.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch*, edición SPCK 1917 (traducción desde Ge'ez, con el griego cuando sobrevive), transcripción pública en Project Gutenberg, eBook #77935: https://www.gutenberg.org/ebooks/77935. Paráfrasis original; consulta 20-11-2026.
 
-El capítulo pertenece al apéndice **Nacimiento de Noé**. Testigos parciales reportados: Greek Chester Beatty-Michigan 106:1–107:3; Latin Royal Ms. 5 E XIII 106:1–18; Aramaic 4Q204 106:1–2 y 106:13–107:2. El resumen de la historia de Lamech/Matusalén/Enoc y la apariencia del niño no debe completarse con textos paralelos como si fueran idénticos.
+## Nota documental
+- Los catálogos/estudios consultados asignan a 4Q204 fragmentos de 104:13–106:2 y 106:13–107:2. Son restos, no el capítulo entero; la nomenclatura de fragmentos varía entre ediciones.
+- El papyrus griego Chester Beatty–Michigan XII se reporta con 106:1–107:3; el testimonio latino Royal Ms. 5 E XIII, con 106:1–18. Los rangos son asignaciones publicadas, no cotejo directo realizado aquí.
+- Genesis Apocryphon 1Q20 y 4Q534–536 (tradiciones de “Birth of Noah”) son paralelos relacionados, no copias de 1 Enoc 106.
+- No armonizar la frase sobre el niño, “sus tres hijos”/“sus hijos”, ni suplementos entre Ge'ez, griego, arameo y latín. Charles marca expresiones dañadas o editoriales; deben verificarse en aparato.
 
-La *Genesis Apocryphon* 1Q20 (cols. 2–5) y fragmentos de “Birth of Noah” 4Q534–536 contienen tradiciones paralelas del nacimiento extraordinario; se registrarán como textos relacionados en apéndice separado, no como testigos directos de 1 Enoc 106.
-
-**Pendiente:** cotejar el texto del fragmento arameo, Greek, Latin y Ge'ez; verificar la explicación del nombre Noé y las frases sobre los hijos; marcar letras reconstruidas.
+**Pendiente:** cotejo directo de fragmentos/fotos y aparato de Drawnel/Milik, Ge'ez y testimonios Greek/Latin; revisar los nombres, la etimología de Noé y los suplementos sin reconstruir lagunas por conjetura.
