@@ -287,3 +287,10 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] The offline reader catalog now has four narrative ranges for 106, three units for 107, and four ranges for 108 instead of one generic unit per chapter.
 - [x] Added source/witness caveats, the generated chapter 106 preview reference, and the Ge'ez-only transmission note for chapter 108.
 - [x] Added regression test for the chapter ranges and evidence notes. New CI pending.
+
+
+## 20 November 2026 — CI after chapter 106–108 catalog integration
+
+- [x] CI run 317, commit ff195efe91850f5c3625c79805dc71b43f166e5f: catalog unit tests, assembleDebug, and artifact upload all succeeded. Debug APK 9,229,830 bytes: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743708994.
+- [x] CI run 320, commit bf53c357b74a38f5a5572982706f070c36abd221 (includes subsequent documentation updates): successful; debug APK artifact 9,229,829 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743746076; expires 20 Dec 2026 13:24 UTC.
+- [ ] Runtime/device testing remains outstanding; debug artifacts are temporary, not final release.
