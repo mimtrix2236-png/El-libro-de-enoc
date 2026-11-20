@@ -113,3 +113,13 @@
 - Los capítulos 83–88 están en paráfrasis por versículo; 89 y 90 son resúmenes por unidades/rangos por su extensión. Las referencias no equivalen a una traducción versicular completa.
 - Añadí test para la secuencia de rangos de capítulo 90 y actualicé el informe 83–90 con los rangos 89 y 90.
 - Próximo bloque: 91–95, especialmente 91/93 (orden de las semanas) y completar las paráfrasis por versículo donde aún sean resúmenes.
+
+
+## Revisión documental 106–108 y arte — 20 de noviembre de 2026
+- Revisé Charles 1917, fichas de manuscritos y estudios sobre el Nacimiento de Noé y la Admonición escatológica; amplié las paráfrasis 106–108 por rangos y añadí límites de evidencia.
+- Corregí la referencia del capítulo 108: una reproducción basada en Charles 1912 consultada antes no lo incluía; la fuente de trabajo se cambió a la edición SPCK 1917 y la transcripción pública de Project Gutenberg #77935/Open Scroll.
+- Precisé las asignaciones parciales: 4Q204 (104:13–106:2 y 106:13–107:2, según bibliografía), Greek Chester Beatty–Michigan XII (106:1–107:3) y Latin Royal Ms. 5 E XIII (106:1–18). No se leyeron fotos/aparatos críticos.
+- Separé un fragmento reportado 106:19–107:1 de procedencia no arqueológica comprobada; no lo cuento como Qumrán seguro.
+- Generé una ilustración original del nacimiento de Noé, la incorporé como preview SVG con PNG embebido de 160×240 y la integré en el lector Android para capítulo 106. El SVG conceptual original se conserva. No es master de impresión.
+- CI previo a estos cambios: run 299 exitoso para commit efc00173564331d1bc3bcfe0822307639368698a; artifact debug APK 9,218,655 bytes. Este checkpoint no verifica los cambios de hoy; queda pendiente la nueva ejecución.
+- Próximo: auditar los capítulos 1–108 y la integración de ilustraciones; cotejo crítico completo, revisión visual del lector, PDF y APK final aún pendientes.
