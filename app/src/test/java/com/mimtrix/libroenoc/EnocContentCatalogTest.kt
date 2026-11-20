@@ -52,4 +52,23 @@ class EnocContentCatalogTest {
         assertEquals(expected, chapter.verses.map { it.reference })
     }
 
+    @Test
+    fun chapters106to108UseUpdatedRangeSummariesAndSourceCaveats() {
+        val chapter106 = EnocContent.chapters.first { it.number == 106 }
+        val chapter107 = EnocContent.chapters.first { it.number == 107 }
+        val chapter108 = EnocContent.chapters.first { it.number == 108 }
+
+        assertEquals(listOf("106:1–3", "106:4–7", "106:8–12", "106:13–19"), chapter106.verses.map { it.reference })
+        assertEquals(listOf("107:1", "107:2", "107:3"), chapter107.verses.map { it.reference })
+        assertEquals(listOf("108:1–3", "108:4–6", "108:7–10", "108:11–15"), chapter108.verses.map { it.reference })
+
+        assertTrue(chapter106.criticalNote.contains("4Q204"))
+        assertTrue(chapter106.criticalNote.contains("no cotejo directo"))
+        assertTrue(chapter106.editorialNote.contains("chapter_106_generated.svg"))
+        assertTrue(chapter107.verses.last().text.contains("Noé"))
+        assertTrue(chapter108.criticalNote.contains("Ge'ez"))
+        assertTrue(chapter108.criticalNote.contains("No se cotejó Ge'ez directamente"))
+        assertTrue(chapter108.verses.last().text.contains("resplandecerán"))
+    }
+
 }
