@@ -136,3 +136,9 @@
 - [x] El catálogo offline ya no muestra una sola paráfrasis genérica para 106–108: 106 usa cuatro rangos, 107 sus tres versículos, 108 cuatro rangos.
 - [x] Se incorporaron notas de testigos y límites de evidencia; 106 apunta al preview generado; 108 se rotula como admonición final Ge'ez-only según fuentes consultadas.
 - [x] Añadí test de regresión para rangos y notas. CI nueva pendiente.
+
+
+## Build tras integración al catálogo 106–108 — 20 de noviembre de 2026
+- [x] CI run 317, commit ff195efe91850f5c3625c79805dc71b43f166e5f: tests del catálogo, assembleDebug y upload artifact, todos exitosos. APK debug 9,229,830 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743708994.
+- [x] CI run 320, commit bf53c357b74a38f5a5572982706f070c36abd221 (incluye actualización documental posterior): éxito y artifact debug APK 9,229,829 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743746076; expiración 20-12-2026 13:24 UTC.
+- [ ] No se probó runtime en dispositivo. Los APK son debug temporales, no release final.
