@@ -261,3 +261,14 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] La numeración de trabajo coincide con Charles: cap. 6 (8 unidades), 7 (6), 8 (4), 9 (11), 10 (22); total 51 unidades versiculares documentadas.
 - [ ] Este conteo estructural no equivale a cotejo crítico completo. Las notas editoriales de cada capítulo siguen indicando pendientes (nombres, variantes, suplementos y pasajes difíciles).
 - [ ] Próximo trabajo: verificar el texto de cada unidad contra los testigos/ediciones disponibles, registrar diferencias y revisar su integración Android antes de marcar cualquier capítulo como final.
+
+
+## 20 November 2026 — Source audit and chapter 106 art
+
+- [x] Revised chapter 106–108 provisional paraphrases by narrative ranges and clarified manuscript limits.
+- [x] Corrected chapter 108's source: a 1912 Charles reproduction previously cited does not include 108; the working citation now points to Charles SPCK 1917, Project Gutenberg #77935, and Open Scroll.
+- [x] Recorded published partial assignments: 4Q204 104:13–106:2 and 106:13–107:2; Greek Chester Beatty–Michigan XII 106:1–107:3; Latin Royal Ms. 5 E XIII 106:1–18. No direct photos or critical apparatus were collated.
+- [x] Separated a reported 106:19–107:1 fragment with unverified archaeological provenance from secure Qumran evidence.
+- [x] Generated a chapter-specific Noah-birth illustration and embedded a 160×240 PNG preview in SVG; integrated it into Android's chapter-106 viewer. Original vector concept preserved. Preview is not print master.
+- [ ] Rebuild after today's source and app changes; previous verified CI run 299 was commit efc00173564331d1bc3bcfe0822307639368698a, APK artifact 9,218,655 bytes. It is not a verification of today's commit.
+- [ ] Full 1–108 source/variant audit, visual QA, complete PDF and final APK remain outstanding.
