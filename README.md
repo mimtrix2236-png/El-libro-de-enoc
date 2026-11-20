@@ -83,3 +83,11 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 - Modo oscuro y lectura sin conexión
 - Ilustraciones con vista ampliada
 - Preparación de edición para imprimir
+
+
+## Última revisión registrada — 20 de noviembre de 2026
+
+- 106–108: paráfrasis provisionales ampliadas por rangos; auditoría de fuentes y testigos actualizada. La fuente de 108 se corrigió a Charles SPCK 1917 / Project Gutenberg #77935 (la reproducción de Charles 1912 citada anteriormente no incluía ese capítulo).
+- Capítulo 106: ilustración generada específica integrada en el lector como preview 160×240 px embebido en SVG; se conserva el concepto vectorial previo. No es recurso de impresión.
+- Build previo a estos cambios: CI run 299, commit efc00173564331d1bc3bcfe0822307639368698a, éxito y APK debug artifact 9,218,655 bytes. Una compilación nueva de los cambios actuales está pendiente.
+- Los borradores 1–108 existen, pero son paráfrasis provisionales; el cotejo completo de fuentes/variantes, revisión visual, PDF y APK final aún no están completados.
