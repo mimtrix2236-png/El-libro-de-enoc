@@ -272,3 +272,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Generated a chapter-specific Noah-birth illustration and embedded a 160×240 PNG preview in SVG; integrated it into Android's chapter-106 viewer. Original vector concept preserved. Preview is not print master.
 - [ ] Rebuild after today's source and app changes; previous verified CI run 299 was commit efc00173564331d1bc3bcfe0822307639368698a, APK artifact 9,218,655 bytes. It is not a verification of today's commit.
 - [ ] Full 1–108 source/variant audit, visual QA, complete PDF and final APK remain outstanding.
+
+
+## 20 November 2026 — Build verification after chapter 106 art
+
+- [x] CI run 312, commit ebdd9e2de0f7ed723bea6f2bbdf3a2d253f0e8a3, completed successfully: catalog unit tests, assembleDebug, and artifact upload.
+- [x] Debug APK artifact verified: 9,229,448 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743101905; expires 20 Dec 2026 13:18 UTC.
+- [x] GitHub tree checked: 108 consecutive chapter draft files, 43 chapter-specific SVGs for 66–108, and generated chapter 106 preview present in source and app assets; MainActivity references the special asset in both WebView load paths.
+- [ ] No physical-device test of WebView artwork or audio. This is a debug/intermediate APK, not a final release. Full PDF and critical review 1–108 remain pending.
