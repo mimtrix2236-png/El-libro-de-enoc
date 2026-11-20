@@ -130,3 +130,9 @@
 - [x] Artifact debug APK verificado: 9,229,448 bytes; enlace de ejecución https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743101905; expiración 20-12-2026 13:18 UTC.
 - [x] Se comprobó en el árbol GitHub: 108 archivos de capítulo consecutivos; 43 SVG de capítulo 66–108; el preview generado de capítulo 106 existe en source y app assets; MainActivity referencia el asset especial en ambas ramas de carga.
 - [ ] No se probó el WebView/ilustración ni audio en dispositivo físico. Este artifact es debug/intermedio, no release final. El PDF completo y la revisión crítica 1–108 siguen pendientes.
+
+
+## Integración de paráfrasis 106–108 al catálogo Android — 20 de noviembre de 2026
+- [x] El catálogo offline ya no muestra una sola paráfrasis genérica para 106–108: 106 usa cuatro rangos, 107 sus tres versículos, 108 cuatro rangos.
+- [x] Se incorporaron notas de testigos y límites de evidencia; 106 apunta al preview generado; 108 se rotula como admonición final Ge'ez-only según fuentes consultadas.
+- [x] Añadí test de regresión para rangos y notas. CI nueva pendiente.
