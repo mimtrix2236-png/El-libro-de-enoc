@@ -204,7 +204,8 @@ private fun EnocReader(celestialPlayer: CelestialAudioPlayer) {
                                                 }
                                             },
                                             update = { view ->
-                                                val assetUrl = "file:///android_asset/illustrations/chapter_$selectedChapter.svg"
+                                                val assetFile = if (selectedChapter == 106) "chapter_106_generated.svg" else "chapter_$selectedChapter.svg"
+                                                val assetUrl = "file:///android_asset/illustrations/$assetFile"
                                                 if (view.tag != assetUrl) {
                                                     view.tag = assetUrl
                                                     view.loadUrl(assetUrl)
