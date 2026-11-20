@@ -1,20 +1,24 @@
-# Capítulo 108 — El destino final de los justos y los pecadores (paráfrasis provisional)
+# Capítulo 108 — La admonición escatológica: destinos de justos y pecadores (paráfrasis provisional)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original por unidades de sentido; no es traducción literal ni edición crítica. Capítulo final independiente en la tradición de 1 Enoc.
 
-Enoc transmite otro libro para Matusalén y las generaciones que conservarán la ley. Los que hicieron el bien deben esperar hasta que la maldad termine y el poder de los transgresores desaparezca; los nombres de los malvados serán borrados y su descendencia y espíritus sufrirán juicio. En la visión, Enoc contempla un lugar de fuego y oscuridad, junto con un lugar de gloria preparado para quienes amaron el cielo más que la vida terrena y soportaron humillación por su fidelidad. Los espíritus de los buenos serán transformados, aparecerán en luz y recibirán asientos de honor; los pecadores verán su resplandor y marcharán al destino que les corresponde. El libro concluye con una exhortación a esperar, guardar la justicia y perseverar.
+**108:1–3 — Espera y juicio.** Enoc presenta otro libro dirigido a Matusalén y a quienes guardarán la ley al final. Los justos deben esperar el fin de la maldad; los nombres de los transgresores serán borrados de los libros, su descendencia y espíritus recibirán juicio, y su lamento se describe en un lugar desolado y de fuego.
 
-**Idea central:** la conclusión presenta destinos opuestos y afirma que la fidelidad, aunque despreciada durante la vida, será reconocida en el juicio.
+**108:4–6 — La visión del lugar de castigo.** Enoc ve una profundidad semejante a una nube invisible, fuego y formas luminosas que se mueven como montañas. Pregunta a un ángel; la respuesta identifica el lugar con el destino de quienes pecan, blasfeman y pervierten lo anunciado por el Señor.
 
-**Ilustración propia:** assets/illustrations/chapter_108.svg — una escena dividida: una morada luminosa con figuras resplandecientes y un valle oscuro/fuego distante; el libro cerrado queda en primer plano sobre pergamino.
+**108:7–10 — Los fieles humillados.** La visión se dirige a los humildes y a quienes fueron afligidos, despreciaron la riqueza, soportaron tortura y vergüenza, y conservaron su fidelidad. Su sufrimiento y la recompensa asignada se recuerdan en los libros.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912/1917), cap. CVIII; transcripción consultada en https://apocryphalibrary.weebly.com/1-enoch-108.html y https://ambientbible.com/read/1-enoch/108 (consultadas 19-11-2026). Paráfrasis original.
+**108:11–15 — La generación de luz.** Se anuncia la transformación de los espíritus fieles, su salida a la luz y la concesión de asientos de honor. La justicia divina hará que los justos resplandezcan, mientras los pecadores contemplarán ese destino y marcharán al lugar y tiempo asignados.
 
-**Pendiente:** cotejar el texto final y su terminología de “generación de luz”, transformación y destino; no se afirma que esta paráfrasis sea una traducción crítica.
+**Idea central:** la admonición final sostiene que la fidelidad de los humillados será vindicada, y contrapone su recompensa con el juicio de quienes persistieron en la maldad.
 
+**Ilustración conceptual existente:** assets/illustrations/chapter_108.svg — escena dividida de luz y oscuridad; es un concepto visual, no una descripción literal completa.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**Fuente de trabajo:** R. H. Charles, *The Book of Enoch*, SPCK 1917, capítulo CVIII, transcripción pública de Project Gutenberg eBook #77935 y Open Scroll: https://www.gutenberg.org/ebooks/77935 · https://openscrollproject.org/app/ancient/1EN-108. Paráfrasis original; consulta 20-11-2026. No se cotejó el Ge'ez directamente.
 
-108 es una unidad separada, denominada **Admonición escatológica** en estudios recientes. Se conserva solo en la tradición etiópica (Ge'ez) en las fuentes consultadas; no se identifica testimonio arameo, griego, copto ni latino. Los estudios la consideran una adición posterior a las unidades anteriores; se ha propuesto una fecha del siglo I d. C., pero el marco exacto es debatido. Debe presentarse en un apéndice final claramente rotulado como texto de tradición etiópica sin testigos antiguos paralelos identificados, no como si estuviera comprobado por Qumrán o el papyrus griego.
+## Nota documental
+- 108 se denomina **Admonición escatológica** y es una unidad separada. En los testimonios consultados, se conserva solo en la tradición Ge'ez; no se identifica un testigo arameo, griego, copto o latino.
+- 4Q204 (Aramaic) y el papyrus Chester Beatty–Michigan XII (Greek) terminan en el material del Nacimiento de Noé (hasta 107:2 o 107:3, según el testigo/registro); Royal Ms. 5 E XIII (Latin) termina en 106:18. Estos rangos son bibliográficos, no cotejo directo.
+- La inclusión de 108 se considera un desarrollo posterior de la colección; se ha propuesto una fecha del siglo I d. C., pero no es una fecha demostrada. Debe distinguirse del texto anterior y no presentarse como confirmado por Qumrán.
 
-**Pendiente:** cotejo con la edición Ge'ez y aparato de Stuckenbruck/Nickelsburg; verificar el vocabulario de “generación de luz”, transformación y recompensa. No se afirma cotejo directo.
+**Pendiente:** cotejo con edición crítica de Ge'ez y aparato de Stuckenbruck/Nickelsburg; verificar vocabulario, lecturas y orden. Mantener claramente separada esta unidad final.
