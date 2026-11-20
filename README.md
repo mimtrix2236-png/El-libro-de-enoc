@@ -91,3 +91,6 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 - Capítulo 106: ilustración generada específica integrada en el lector como preview 160×240 px embebido en SVG; se conserva el concepto vectorial previo. No es recurso de impresión.
 - Build previo a estos cambios: CI run 299, commit efc00173564331d1bc3bcfe0822307639368698a, éxito y APK debug artifact 9,218,655 bytes. Una compilación nueva de los cambios actuales está pendiente.
 - Los borradores 1–108 existen, pero son paráfrasis provisionales; el cotejo completo de fuentes/variantes, revisión visual, PDF y APK final aún no están completados.
+
+
+- **Build verificado después de la integración del arte 106:** CI run 312 para commit ebdd9e2de0f7ed723bea6f2bbdf3a2d253f0e8a3 pasó tests, assembleDebug y upload-artifact. APK debug de 9,229,448 bytes, expira 20-12-2026 13:18 UTC: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743101905. Es una build intermedia; no se probó en teléfono.
