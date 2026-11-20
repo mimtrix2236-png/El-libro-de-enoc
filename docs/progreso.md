@@ -123,3 +123,10 @@
 - Generé una ilustración original del nacimiento de Noé, la incorporé como preview SVG con PNG embebido de 160×240 y la integré en el lector Android para capítulo 106. El SVG conceptual original se conserva. No es master de impresión.
 - CI previo a estos cambios: run 299 exitoso para commit efc00173564331d1bc3bcfe0822307639368698a; artifact debug APK 9,218,655 bytes. Este checkpoint no verifica los cambios de hoy; queda pendiente la nueva ejecución.
 - Próximo: auditar los capítulos 1–108 y la integración de ilustraciones; cotejo crítico completo, revisión visual del lector, PDF y APK final aún pendientes.
+
+
+## Verificación de compilación tras el arte de capítulo 106 — 20 de noviembre de 2026
+- [x] CI run 312 para commit ebdd9e2de0f7ed723bea6f2bbdf3a2d253f0e8a3 completó correctamente: pruebas unitarias del catálogo, assembleDebug y subida del artifact.
+- [x] Artifact debug APK verificado: 9,229,448 bytes; enlace de ejecución https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743101905; expiración 20-12-2026 13:18 UTC.
+- [x] Se comprobó en el árbol GitHub: 108 archivos de capítulo consecutivos; 43 SVG de capítulo 66–108; el preview generado de capítulo 106 existe en source y app assets; MainActivity referencia el asset especial en ambas ramas de carga.
+- [ ] No se probó el WebView/ilustración ni audio en dispositivo físico. Este artifact es debug/intermedio, no release final. El PDF completo y la revisión crítica 1–108 siguen pendientes.
