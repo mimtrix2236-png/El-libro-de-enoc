@@ -43,7 +43,7 @@ No se leyeron directamente las fotografías de los fragmentos, ni los aparatos c
 
 ### 81 — Tablas y misión
 - Rylands Ethiopic MS 23 se mapea a fol. 11r col. a–b (según el informe de Theosis Library).
-- Variación importante en 81:5: Charles 1917 traduce “siete santos”, mientras Dillmann 1851 digitalizado informa “tres”; Charles registra grupos de manuscritos con ambas lecturas. La paráfrasis evita el numeral y deja el dato abierto.
+- Variación importante en 81:5: Charles 1917 imprime “seven holy ones”; la digitalización de Dillmann 1851 citada por Theosis Library/una traducción moderna ofrece “three”. No se verificó directamente el aparato de Charles/Dillmann ni la foto de Rylands MS 23, por lo que no se adjudica el numeral a un manuscrito específico. La paráfrasis evita fijarlo.
 - No se encontró en el mapeo consultado un fragmento arameo que confirme directamente todo el capítulo 81.
 
 ### 82 — Transmisión y calendario
