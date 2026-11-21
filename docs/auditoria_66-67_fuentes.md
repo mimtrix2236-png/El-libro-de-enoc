@@ -1,4 +1,4 @@
-# Auditoría preliminar de fuentes — capítulos 66–69
+# Auditoría preliminar de fuentes — capítulos 66–70
 
 **Fecha de consulta:** 21-11-2026  
 **Base de versificación:** R. H. Charles, *The Book of Enoch* (1917).  
@@ -45,3 +45,12 @@ La transcripción comparativa de Richard Laurence (1883) registra la sección de
 - El texto usa Biqa en 69:13 y Akae en 69:15 para el juramento; se dejan sin armonizar.
 - Fuentes consultadas: Charles 1917 capítulo 69 (transcripción TheBookAndMe/Open Scroll) y clave editorial en el PDF de Charles: https://cleartexteditions.com/public%20domain/1%20enoch%20-%20translated%20by%20%20R.%20H.%20Charles.pdf.
 - No se cotejó el Ge'ez, griego, manuscritos ni aparato crítico de Knibb/Nickelsburg-VanderKam; las paráfrasis y la identificación de interpolaciones siguen provisionales.
+
+
+## Capítulo 70 — pronombres y diferencias de traducción
+
+- Charles 1917 capítulo 70 tiene cuatro versículos. Se revisó la paráfrasis y se dejó sin resolver el antecedente de “his name” en 70:1–2.
+- La traducción de Charles 1917: el nombre de una figura se eleva hacia “that Son of Man” y el Señor de los Espíritus; luego la figura es llevada en carros del espíritu y su nombre desaparece. Laurence 1883 reestructura la frase para hacer del “Son of Man” el sujeto explícito de la exaltación. En 70:3 también varían “two winds”/“two spirits”, “numbered”/“drawn into the midst”, y el agente de la colocación.
+- Estas son diferencias entre traducciones; no se registran como variantes de manuscritos. El resumen evita resolver si la figura inicial es Enoc o el Hijo del Hombre.
+- Fuentes: Charles 1917, Wikisource/TheBookAndMe; Laurence 1883, comparación en Apocrypha Library: https://apocryphalibrary.weebly.com/1-enoch-70.html.
+- Pendiente cotejo de Ge'ez y aparato crítico; la paráfrasis sigue provisional.
