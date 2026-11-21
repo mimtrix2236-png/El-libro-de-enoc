@@ -1,65 +1,45 @@
 # Estado maestro del proyecto — El Libro de Enoc
 
-Actualizado: 2026-11-19
+Actualizado: 2026-11-21
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
 ## Mandato del usuario
-- Terminar la edición editorial completa del libro (capítulos 1–108), cotejo de fuentes, corrección justificada, verificación de datos cronológicos/fechas/calendario/nombres/medidas, ilustraciones y aplicación.
-- No presentar aplicación ni APK al usuario antes de que todo esté completo y comprobado.
-- Guardar avances frecuentes en GitHub para poder continuar desde un chat nuevo sin depender del historial de conversación.
-- No pedir confirmación capítulo por capítulo ni para ilustraciones rutinarias.
-- El usuario pide que el trabajo no se detenga hasta completar. **Limitación real:** el asistente no puede garantizar trabajo autónomo continuo en segundo plano ni superar límites de automatizaciones; la continuidad debe hacerse en sesiones o ejecuciones disponibles. En nuevas sesiones, abrir este archivo y los registros y continuar desde el estado guardado. No afirmar progreso no realizado.
+- Terminar la edición editorial completa de 1 Enoc (capítulos 1–108), el cotejo de fuentes, correcciones justificadas, verificación de cronología/medidas/nombres, ilustraciones y la aplicación Android.
+- No presentar como final ni entregar release hasta que se verifique todo. Guardar cambios incrementales en GitHub y continuar sin pedir confirmaciones rutinarias.
+- El usuario quiere que se siga trabajando hasta completar los capítulos y las ilustraciones; no enviar mensajes de avance intermedios salvo que lo pida o haya una noticia realmente útil.
+- Continuidad: el trabajo depende de ejecuciones/sesiones disponibles; no prometer que un agente trabaja ininterrumpidamente. Registrar el estado real y continuar desde el siguiente pendiente.
 
-## Diseño editorial y visual
-Libro antiguo de cuero marrón, pergamino envejecido, ornamentación dorada discreta, tipografía serif, grabados originales en sepia. Conservar el texto fiel y usar notas editoriales para variantes, interpolaciones, lagunas y problemas de transcripción.
+## Diseño editorial y visual aprobado
+- Cubierta rústica de cuero marrón; interior en pergamino semienvejecido, grabados originales, tinta sepia y tonos tierra, serif y ornamentación discreta.
+- Editor/autor de la edición: Mauro Iván Maidana.
+- El diseño no está declarado final hasta revisar la cubierta y las páginas en alta resolución y preparar PDF de imprenta.
 
-## Estado real (no confundir notas preliminares con cotejo completo)
-- **Capítulos 1–75:** el estado previo del chat decía borrador, pero el manuscrito y los archivos completos no están disponibles en el repositorio. No se puede certificar el cotejo ni dar por finalizados estos capítulos.
-- **76–90:** existe un registro de observaciones estructurales/provisionales; NO es cotejo crítico versículo a versículo. Revisar antes de aplicar enmiendas.
-- **91–108:** existen observaciones de estructura y variantes de orden; NO cotejo versículo a versículo.
-- **Ilustración 76:** generada en chat, escena de doce puertas/vientos celestes en grabado sepia. Archivo binario en GitHub no verificado.
-- **App/APK:** no implementada ni compilada/verificada en este repositorio; no presentar como producto listo.
+## Estado real (revisado contra el árbol del repositorio)
+- **Capítulos:** existen archivos de borrador para los 108 capítulos. Los archivos 66–108 son paráfrasis provisionales, no traducciones exactas ni edición crítica. Cap. 66 tiene además una traducción de trabajo separada. Capítulos 106–108 están ampliados por rangos y documentan límites de testigos; 107 se revisó el 21-11-2026 con Charles 1917 y notas de variantes disponibles, pero sin cotejo directo de manuscritos.
+- **Fuentes:** algunas ediciones públicas y referencias críticas se consultaron en línea; el cotejo de todo el corpus (1–108) con manuscritos/aparatos no está hecho. No afirmar que los capítulos están verificados.
+- **Ilustraciones:** hay 43 SVG conceptuales para capítulos 66–108. Se generaron previews raster embebidos para 106 y 107; son thumbnails y no masters de impresión. Se conserva el concepto original de 107. Capítulos 76–108 aún requieren QA visual y arte de mayor detalle; no todos los capítulos 1–65 están catalogados en este árbol como assets ilustrativos.
+- **Android:** lector Compose integrado con catálogo offline de 108 capítulos, índice y búsqueda, guardado local de capítulo/progreso, marcadores, escala de texto, modo nocturno, gesto horizontal y ambiente celestial procedural original (sin samples externos, interruptor OFF por defecto). El código está implementado, pero no se ha probado en teléfono real.
+- **CI/build:** run 320, commit bf53c357b74a38f5a5572982706f070c36abd221, tuvo tests de catálogo, assembleDebug y artifact exitosos. Run 330 para cambios del capítulo 107 (commit 9ad0d832132e9e20209290426dc00f65e90ba15f) está en curso al actualizar este archivo: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44910458123. No es aún verificación de la última versión.
+- **Entregables:** no se ha generado/verificado PDF final; no hay APK release firmado ni pruebas de dispositivo; debug APKs son artifacts temporales de CI, no entregables finales.
+- **Cubierta:** la estética aprobada está registrada, pero no se afirma que exista una cubierta final de alta resolución verificada en el repo.
 
-## Fuentes y hallazgos guardados
-Ver editorial/REGISTRO_VERIFICACION_FUENTES.md y editorial/COTEJO_CAPITULOS_76-90.md.
-1 Enoc es una colección de unidades literarias con transmisión/composición diferenciada, no una obra de autoría y fecha uniformes.
-- Astronómico: 72–82; Sueños: 83–90; final: 91–108 (incluye unidades editoriales distintas).
-- El calendario de 364 días es un sistema antiguo descrito en el texto; no debe confundirse con el año tropical astronómico actual.
-- Hay diferencias de orden y numeración editorial, especialmente en la composición de 91–93. No reorganizar sin documentar la edición base.
-- Distinguir error de OCR, errata de edición, variante de traducción, variante textual, interpolación, laguna y corrección conjetural.
+## Lista de trabajo
+- [ ] Cotejo textual/filológico 1–108, capítulo y versículo, con apparatus, nombres, variantes, reconstrucciones y lagunas.
+- [ ] Verificar base legal: usar paráfrasis originales y/o traducción de fuente de dominio público con licencia registrada; documentar derechos y edición base.
+- [ ] Completar front matter, introducción histórica, índice, notas, glosario, manuscritos/fragmentos, apéndices de textos relacionados separados, bibliografía.
+- [ ] Crear/revisar ilustración específica de cada capítulo; documentar filename, fuente, master/preview, QA y rights.
+- [ ] Integrar el contenido editorial completo en la app offline; revisar índice, búsqueda, progreso, bookmarks, ajustes, gestos, audio y accesibilidad.
+- [ ] Revisar UI en teléfono real (incluidos WebView SVG, escalado y audio/focus).
+- [ ] Generar PDF imprimible con cubierta e interior de pergamino y verificar páginas, márgenes, imágenes, fuentes y cortes.
+- [ ] Release build reproducible; pruebas; APK release; verificar firma, instalación y funcionamiento.
 
-## Lista de trabajo (no declarar capítulo terminado hasta completar texto, cotejo y nota de verificación)
-- [ ] 1–10
-- [ ] 11–20
-- [ ] 21–30
-- [ ] 31–40
-- [ ] 41–50
-- [ ] 51–60
-- [ ] 61–71
-- [ ] 72–82
-- [ ] 83–90
-- [ ] 91–105
-- [ ] 106–108
-- [ ] Apéndice/notas editoriales y bibliografía
-- [ ] Ilustraciones: catalogar/crear para cada capítulo y guardar archivos verificables
-- [ ] App: implementación completa (texto íntegro de edición legalmente utilizable, imágenes, índice, navegación, búsqueda, favoritos/marcadores, progreso, ajustes, lectura offline)
-- [ ] Build reproducible, pruebas y APK final comprobado
+## Bloqueos/limitaciones
+- Falta el cotejo directo de manuscritos/fotografías y el aparato crítico completo para gran parte de los capítulos.
+- Falta QA físico de Android y audio; falta PDF y release final.
+- Las paráfrasis son material de trabajo; no deben presentarse como texto exacto ni académicamente definitivo.
 
-## Requisitos para cotejo
-Cada tramo debe registrar: edición española base (traductor/editor/año/licencia o estado legal), referencias consultadas, lista de discrepancias por capítulo/versículo, clasificación del problema, propuesta, justificación, decisión editorial, confianza y cualquier texto incierto. Validar datos astronómicos/cronológicos contra fuentes académicas y distinguir el contenido histórico de explicaciones científicas actuales.
-
-## Bloqueos
-- Falta recuperar/definir el texto español base y verificar su derecho de uso.
-- La automatización diaria no pudo crearse porque la cuenta alcanzó el máximo de 3 tareas activas; no se canceló ninguna tarea ajena.
-- No hay build ni pruebas confirmadas.
-
-## Continuidad para el próximo chat
-1. Leer este archivo y todos los documentos editoriales.
-2. No repetir ni sobrevalorar avances anteriores; corregir registro si una afirmación no está sustentada.
-3. Conseguir/definir edición base y legalidad.
-4. Trabajar consecutivamente, cotejar capítulos y guardar commits incrementales.
-5. No entregar la app hasta que cada casilla esté verificada y el build/test esté comprobado.
-
+## Próxima prioridad
+Continuar desde capítulo 107/108 audit y luego revisar la secuencia 66–108, empezando por la verificación de fuentes/variants de 66–71 y el arte pendiente. Mantener el progress log con commits y build IDs reales.
 
 ## Avance guardado — control académico de capítulos 72–82 (2026-11-19)
 - Se creó `editorial/CONTROL_CAPITULOS_72-82.md` (commit `6a27f0b72119547ce92bc0386160bde9f25f5f10`).
