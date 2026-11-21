@@ -312,7 +312,7 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Rechecked Charles 1917 chapter 66 (three verses) and chapter 67 (thirteen verses) in two accessible transcriptions; retained the unusual closing line of 66 without harmonization.
 - [x] Revised the chapter 67 paraphrase into four ranges (67:1–3, 4–7, 8–10, 11–13), distinguishing the “wooden (building)” editorial supply from the contextual identification as ark.
 - [x] Recorded translation/numbering differences: Charles 1917 chapter 66/67 correspond to Laurence 1883 chapters 65/66 in the comparison source; chapter 67:8 wording differs between translations. No manuscript variant is claimed from these English comparisons.
-- [x] Added `docs/auditoria_66-72_fuentes.md` with source links and explicit limits: no direct Ge'ez, Aramaic fragments, facsimile or full apparatus collation.
+- [x] Added `docs/auditoria_66-73_fuentes.md` with source links and explicit limits: no direct Ge'ez, Aramaic fragments, facsimile or full apparatus collation.
 - [ ] Chapters 68–71 remain next for focused source/variant review; chapters 1–108 still not fully critically audited.
 - [ ] No new build result claimed for the current branch yet; CI runs 330–332 were in progress/queued at last check. Verify the run on the latest app-code commit.
 
@@ -329,7 +329,7 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 
 - [x] Rechecked the five verse units of Charles 1917 chapter 68 in accessible transcriptions and revised the paraphrase into 68:1, 2–3, and 4–5.
 - [x] Recorded transmission note: the Book of Parables (37–71) has no known Qumran fragments; the absence is debated in scholarship and is not treated as proof of a specific date or provenance. Added Devorah Dimant (2005) and Marquette/MAQOM reference links.
-- [x] Added chapter 68 notes to `docs/auditoria_66-72_fuentes.md` (now covers 66–68). Charles/Lawrence numbering differences are tracked; no Ge'ez, Greek, Aramaic manuscript or apparatus direct collation claimed.
+- [x] Added chapter 68 notes to `docs/auditoria_66-73_fuentes.md` (now covers 66–68). Charles/Lawrence numbering differences are tracked; no Ge'ez, Greek, Aramaic manuscript or apparatus direct collation claimed.
 - [ ] Chapter 69 is next; 68 remains provisional until critical edition and manuscript checks.
 
 
@@ -361,5 +361,13 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 
 - [x] Expanded chapter 72 paraphrase from a brief summary into 72:1–7, 8–14, 15–20, 21–26 and 27–37, recording the gate sequence and day/night parts in Charles 1917.
 - [x] Added Qumran transmission context: 4Q208–4Q211 are related Aramaic Astronomical Book witnesses; 4Q208 has synchronistic lunar-calendar material and 4Q209 parallels portions 76–79/82. No direct witness for 72:1–37 was identified in consulted sources; direct collation remains pending.
-- [x] Renamed the audit file to `docs/auditoria_66-72_fuentes.md` to reflect its expanded coverage and removed the obsolete filename.
+- [x] Renamed the audit file to `docs/auditoria_66-73_fuentes.md` to reflect its expanded coverage and removed the obsolete filename.
 - [ ] Chapter 73 next; verify lunar calculations and textual variants with Drawnel/DJD 36 before interpreting.
+
+
+## 21 November 2026 — Chapter 73 lunar-cycle review
+
+- [x] Expanded chapter 73 paraphrase to all eight verse units, recording first visibility on the 30th morning and the fractional growth sequence without normalizing the confusing numbers.
+- [x] Consulted Charles 1917, Duke/Goff (2014), and a review of Drawnel (2011); recorded that 4Q208–4Q209 contain lunar-calendar material but 73:4–8 is not directly preserved in the fragments identified by these sources and reconstruction depends on Ethiopic/formulaic parallels.
+- [x] Renamed the audit file to `docs/auditoria_66-73_fuentes.md` and removed the prior path.
+- [ ] Chapter 74 next; review lunar cycle arithmetic, fragment coverage, and version differences without filling gaps.
