@@ -1,10 +1,10 @@
-# Capítulo 82 — El calendario y la transmisión de la sabiduría (paráfrasis provisional por versículo)
+# Capítulo 82 — El calendario y la transmisión de la sabiduría (paráfrasis provisional revisada)
 
-> **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa ni cotejo diplomático; nombres y numerales siguen pendientes.
+> **Estado editorial:** paráfrasis original siguiendo la numeración de Charles 1917. No es traducción directa ni cotejo diplomático. Los nombres se transliteran provisionalmente; el impreso de Charles salta del versículo 13 al 15 (no se inventa un versículo 14).
 
 **82:1.** Enoc declara que escribe y relata a Matusalén lo recibido, y le entrega libros para que los conserve y transmita a las generaciones futuras.
 
-**82:2.** Afirma que la sabiduría también debe pasar a los hijos y nietos, como enseñanza que supera el entendimiento humano.
+**82:2.** Afirma que la sabiduría también debe pasar a los hijos y nietos, como enseñanza que supera el entendimiento humano. Charles incluye una cláusula entre corchetes sobre los hijos que aún tendrá Matusalén.
 
 **82:3.** Quienes la comprenden deben escuchar con atención y aprender; el texto compara su valor con alimento que satisface.
 
@@ -22,30 +22,36 @@
 
 **82:10.** Se enumeran los dirigentes que vigilan a las estrellas y sus entradas en los tiempos, órdenes, estaciones, meses, períodos de gobierno y posiciones asignadas.
 
-**82:11.** Primero aparecen cuatro líderes que dividen el año; después los doce dirigentes mensuales, los jefes de los 360 días ordinarios y los encargados de los cuatro días adicionales.
+**82:11.** Primero aparecen cuatro líderes que dividen el año; después los doce dirigentes mensuales, los jefes de los 360 días ordinarios y los encargados de los cuatro días especiales.
 
 **82:12.** Se nombran los cuatro líderes de las estaciones: Milkiel, Helemmelek, Melejal y Narel. Las formas de sus nombres varían entre ediciones.
 
-**82:13.** El texto enumera subordinados —Adnarel, Iyasusael y Elomeel— y describe una jerarquía adicional, sin que su relación exacta quede del todo clara en la paráfrasis.
+**82:13.** Se nombran subordinados —Adnarel, Iyasusael y Elomeel— y se describe una jerarquía adicional, sin que su relación exacta quede del todo clara.
 
-**82:14.** Al comienzo del año, Milkiel toma el primer turno; también se lo llama Tamaini o “sol” en la tradición del texto. Su período dura 91 días.
+**82:15.** Al comienzo del año, Milkiel se levanta primero y gobierna; también es llamado Tam'aini y “Sol”. Su período dura 91 días.
 
-**82:15.** Durante ese período se describen calor y calma, brotes y hojas, cosecha de trigo y flores; algunos árboles de invierno aún están marchitos.
+**82:16.** Durante ese período se describen calor, calma, brotes y hojas, cosecha de trigo y flores; algunos árboles de invierno aún están marchitos.
 
-**82:16.** Se nombran dirigentes subordinados —Berkael, Zelebsel y Hilujaseph— y se anuncia el final de su período de gobierno.
+**82:17.** Se nombran dirigentes subordinados —Berkael, Zelebsel y Hilujaseph— y se anuncia el final de su período.
 
-**82:17.** El siguiente líder es Helemmelek, llamado “sol brillante”; su período también dura 91 días.
+**82:18.** El siguiente líder es Helemmelek, llamado “Sol brillante”; su período también dura 91 días.
 
-**82:18.** En su tiempo se describe calor seco, frutos maduros, reproducción de ovejas y recolección de cosechas y productos del campo, incluido el vino.
+**82:19.** En su tiempo se describe calor seco, frutos maduros, reproducción de ovejas y recolección de cosechas y productos del campo, incluido el vino.
 
-**82:19.** Se nombran otros jefes de miles —Gidael, Keel, Heel y Asfael— y se anuncia que su período termina.
+**82:20.** Se nombran otros jefes de miles —Gida'ijal, Ke'el, He'el y Asfa'el— y se anuncia que su período termina.
 
-**82:20.** Enoc concluye diciendo que ha mostrado a Matusalén las visiones recibidas antes de él y que ahora las relata.
+**Idea central:** Enoc encarga la transmisión de la sabiduría astronómica y calendárica, describe un año de 364 días y una jerarquía celeste, y conecta las estaciones con sus dirigentes.
 
-**Idea central:** Enoc encarga la transmisión de la sabiduría astronómica y calendárica, describiendo un año de 364 días y una jerarquía celeste.
+**Ilustración SVG propia:** `assets/illustrations/chapter_82.svg` — rueda calendárica de cuatro trimestres y escriba que entrega el rollo a Matusalén.
 
-**Ilustración SVG propia:** `assets/illustrations/chapter_82.svg` — rueda de calendario de cuatro trimestres y escriba que entrega el rollo a Matusalén.
+**Fuentes de trabajo:**
+- R. H. Charles, *The Book of Enoch* (1917), cap. LXXXII, transcripción: https://openscrollproject.org/app/ancient/1EN-82 y https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_82.
+- “Reassessing Jude’s Use of Enochic Traditions” (Tyndale Bulletin 68.2, 2017), tabla de fragmentos: 4Q209 frg.28 corresponde a 1 Enoc 82:9–13: https://tyndalebulletin.org/article/29438-reassessing-jude-s-use-of-enochic-traditions-with-notes-on-their-later-reception-history.pdf.
+- Machiela 2023, *A Handbook of the Aramaic Scrolls from the Qumran Caves*, perfil de 4Q209; no se inspeccionó el manuscrito directamente.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXXII, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_82. Se consultó la transcripción y una versión digital comparativa; no se cotejaron directamente manuscritos.
+## Nota textual
+- Charles 1917 salta de 82:13 a 82:15. La paráfrasis conserva el salto y no inventa un versículo 14.
+- 4Q209 frg.28 preserva material de 82:9–13; no confirma el capítulo completo. 4Q204 1vi.9 se relaciona temáticamente con la transmisión de libros (cf. 82:1–3), pero no es testimonio directo de esos versículos.
+- El calendario de 364 días y los cuatro días especiales se registran como modelo del texto, sin armonizar con calendarios posteriores.
 
-**Nota textual:** los nombres de los líderes y las cifras del calendario varían en las ediciones. 4Q209 frg. 28 se asigna parcialmente a 82:9–13 en fuentes secundarias; no confirma el capítulo entero. Ver `docs/auditoria_76-82_fuentes.md`.
+**Pendiente:** cotejar 82:1–20 en el aparato crítico y Ge'ez; verificar nombres de líderes, numerales y el salto 13→15; examinar 4Q209 frg.28 y 4Q204 1vi.9 en facsímil/DJD 36.
