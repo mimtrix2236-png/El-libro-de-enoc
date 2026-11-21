@@ -387,3 +387,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Preserved Charles's bracketed clause in 75:5 as an editorial addition; left the relation of the four special days to the 364-day year unresolved.
 - [x] Added audit note and renamed the source audit to `docs/auditoria_66-75_fuentes.md`.
 - [ ] Chapter 76 next; review wind portals, cardinal directions, and weather effects with source notes; direct Qumran collation remains pending.
+
+
+## 21 November 2026 — Chapter 76 marker and asset verification
+
+- [x] Corrected chapter 76 note: Charles/Open Scroll marks the north/south wording in 76:3 with damage signs (†) and inserts `[after those on the left]`; 76:12 has `[four]` marked as later addition. The paraphrase does not adopt these as secure text.
+- [x] Verified the generated preview path `assets/generated/chapter_76_winds_gates_preview.jpg` exists (5,799 bytes, 160×160 per asset README), but it is not integrated in the Android reader; the app still uses the SVG concept.
+- [x] Checked Machiela (2023) 4Q210 profile: fragmentary text from the Astronomical Book overlaps chapters 76–78; the overlap is partial and reconstructed, not a witness to the whole chapter.
+- [ ] Chapter 77 next; source review of direction names/etymologies and the damaged river/sea description.
