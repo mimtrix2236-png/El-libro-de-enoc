@@ -24,4 +24,4 @@
 
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXX, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_80. Se consultó la transcripción; no se cotejaron directamente manuscritos.
 
-**Nota textual:** Charles imprime 80:5 entre corchetes y marca una frase en 80:7 como interpolación; no se incorporan como lectura segura. En la lista de fragmentos 4Q208–211 consultada no se asigna testimonio arameo directo a 80. Véase `docs/auditoria_76-82_fuentes.md`.
+**Nota textual:** Charles imprime entre corchetes toda la escena de 80:5 (“And in those days the sun shall be seen...”) y marca con signos `+` la frase “on the extremity of the great chariot”; en 80:7 `[And they shall be altered from all their ways]` aparece como interpolación. No se incorporan como lectura segura. En los perfiles de 4Q208–211 consultados no se asigna testimonio arameo directo a 80. Véase `docs/auditoria_76-82_fuentes.md`.
