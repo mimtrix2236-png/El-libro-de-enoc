@@ -1,4 +1,4 @@
-# Auditoría preliminar de fuentes — capítulos 66–68
+# Auditoría preliminar de fuentes — capítulos 66–69
 
 **Fecha de consulta:** 21-11-2026  
 **Base de versificación:** R. H. Charles, *The Book of Enoch* (1917).  
@@ -36,3 +36,12 @@ La transcripción comparativa de Richard Laurence (1883) registra la sección de
 - Charles 1917 68:1 “grandfather Enoch”/otros traductores “great-grandfather” se registra como diferencia de traducción, no variante de manuscrito, hasta cotejar Ge'ez.
 - Numeración paralela: en la transcripción de Lawrence 1883, Charles 68 corresponde al capítulo 67 de Lawrence; se mantiene Charles en esta edición.
 - No se cotejaron Ge'ez, manuscritos ni aparato crítico. La paráfrasis sigue siendo provisional.
+
+
+## Capítulo 69 — control de corchetes e interpolaciones
+
+- Charles 1917 presenta 29 versículos; se reordenó la paráfrasis por 69:1–3 (nombres/rangos), 4–12 (funciones), 13–15 (juramento/nombre), 16–25 (orden cósmico) y 26–29 (Hijo del Hombre y juicio).
+- La clave de Charles (prefacio p. xxiv) explica que los corchetes simples `[ ]` marcan interpolaciones; el texto de 69:2 contiene la lista de nombres entre corchetes; 69:22–24 aparecen entre corchetes; y 69:25 marca `[they are preserved and]`. Esto es el juicio editorial de Charles, no una lectura paleográfica confirmada aquí.
+- El texto usa Biqa en 69:13 y Akae en 69:15 para el juramento; se dejan sin armonizar.
+- Fuentes consultadas: Charles 1917 capítulo 69 (transcripción TheBookAndMe/Open Scroll) y clave editorial en el PDF de Charles: https://cleartexteditions.com/public%20domain/1%20enoch%20-%20translated%20by%20%20R.%20H.%20Charles.pdf.
+- No se cotejó el Ge'ez, griego, manuscritos ni aparato crítico de Knibb/Nickelsburg-VanderKam; las paráfrasis y la identificación de interpolaciones siguen provisionales.
