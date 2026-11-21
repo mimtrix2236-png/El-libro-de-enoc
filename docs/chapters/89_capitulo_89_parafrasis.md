@@ -30,8 +30,10 @@
 
 **Idea central:** la alegoría recorre desde el diluvio y el nacimiento del rebaño hasta su opresión, dispersión, reconstrucción parcial y registro de abusos.
 
-**Ilustración SVG propia:** `assets/illustrations/chapter_89.svg` — rebaño que atraviesa una secuencia de escenas en una franja de pergamino.
+**Ilustración específica:** assets/illustrations/chapter_89.svg — una composición simbólica del rebaño y carnero guía, depredadores, casa/torre y Enoc como escriba celestial. El concepto vectorial anterior se conserva en assets/illustrations/chapter_89_vector_concept.svg. La imagen generada se incorporó también a Android en app/src/main/assets/illustrations/chapter_89.svg.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXXIX, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_89. Se consultó la transcripción y el capítulo se resumió por rangos; no se cotejaron directamente manuscritos.
+**Arte y derechos:** ilustración original generada para esta edición el 21-11-2026; no usa imágenes de terceros. La copia embebida en SVG es un preview de 128×192 px, adecuado para comprobar la integración y no para impresión. El master generado de 1024×1536 se conserva fuera del repositorio en el entorno de trabajo; falta preparar y archivar una versión de alta resolución para imprenta.
 
-**Nota textual:** Drawnel (2023) informa que 4Q206 frags. 8 I y 9 preservan una versión aramea más corta de 89:1b–9 que la etiópica. El primer rango debe cotejarse separando material conservado de expansión Ge'ez. Los demás rangos no se presentan como confirmados por un fragmento específico. Ver `docs/auditoria_83-90_fuentes.md`.
+**Fuente de trabajo:** R. H. Charles, The Book of Enoch (1917), cap. LXXXIX, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_89. Se consultó la transcripción y el capítulo se resumió por rangos; no se cotejaron directamente manuscritos.
+
+**Nota textual:** Drawnel (2023) informa que 4Q206 frags. 8 I y 9 preservan una versión aramea más corta de 89:1b–9 que la etiópica. El primer rango debe cotejarse separando material conservado de expansión Ge'ez. Los demás rangos no se presentan como confirmados por un fragmento específico. Ver docs/auditoria_83-90_fuentes.md.
