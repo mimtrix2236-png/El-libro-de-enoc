@@ -420,3 +420,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Verified 177 = 3×30 + 3×29 from 78:15–16; consistency does not validate the restoration. Left “one period” in 79:5 undefined rather than attaching it to a 5- or 8-year cycle.
 - [x] Corrected the fragment note: 4Q209 frg.26 is tentative at 78:17–79:2 and is not used as direct witness for 79:3–6.
 - [ ] Chapter 80 next; review the prediction of disorder and editorial brackets, avoid historicizing it as a scientific forecast.
+
+
+## 21 November 2026 — Chapter 80 editorial-mark review
+
+- [x] Rechecked Charles 1917 chapter 80 and clarified its apocalyptic framing (cosmic/seasonal disorder as judgment, not scientific forecast).
+- [x] Recorded the bracketed scene at 80:5, Charles's `+on the extremity of the great chariot+` correction, and the interpolated phrase at 80:7; kept them out of the secure paraphrase.
+- [x] Updated chapter 80 and audit 76–82. No direct Aramaic witness for 80 is assigned in the consulted 4Q208–211 profiles.
+- [ ] Chapter 81 next; review the heavenly tablets, numerals, and “seven saints/three” variant without choosing by guess.
