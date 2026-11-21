@@ -45,3 +45,17 @@
 ## Pendiente
 
 Cotejo directo de fotografías/fragmentos y aparatos críticos, comparación de Ge'ez/Aramaic/Greek/Latin, revisión de nombres y variantes, y control de la paráfrasis con las fuentes. El proyecto no debe etiquetar estos capítulos como “texto definitivo” hasta completar ese trabajo.
+
+## Revisión focalizada de 107 — 21-11-2026
+
+Se comprobó la paráfrasis de 107 con la transcripción de Charles 1917 en Wikisource y CCEL, y se consultaron las notas de variantes de la traducción/aparato alojadas en Marquette/MAQOM. El resumen se corrigió para distinguir los tres movimientos: (1) generaciones transgresoras hasta que surge una generación justa; (2) Enoc instruye a Matusalén para asegurar a Lamec que el recién nacido es su hijo; (3) Matusalén comunica el mensaje y nombra al niño Noé, asociado con consuelo tras la destrucción.
+
+El aparato secundario consultado registra para 107:1 que “generation” es literal; una partícula presenta en B alternativas “for/since/that”; “righteousness” se atribuye a B, C y Gp; y “good” es literal con matices “beautiful/pleasant”. Se mantienen las siglas como aparecen en la fuente porque no se cotejaron los manuscritos. No se adjudica una lectura Ge'ez o aramea a partir de inspección directa.
+
+Fuentes añadidas:
+- R. H. Charles 1917, capítulo CVII, Wikisource: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_107
+- Charles 1917 en CCEL, capítulo 107: https://www.ccel.org/c/charles/otpseudepig/enoch.htm
+- Marquette/MAQOM, notas textuales para 1 Enoc 107:1: https://www.marquette.edu/maqom/1Enoch106.pdf
+- Enoch Archive, contexto de 106–107 como apéndice noánico: https://enocharchive.com/books/the-book-of-enoch/107 (se usa solo como guía contextual secundaria).
+
+Se generó una ilustración específica para 107 y se integró como preview SVG embebido (120×180 px) en el árbol documental y en assets Android. El arte conceptual original se conserva; el arca que aparece en el preview es un elemento contextual, no una descripción literal de 107. El master de alta resolución no está incorporado al repositorio; no se declara arte de impresión.
