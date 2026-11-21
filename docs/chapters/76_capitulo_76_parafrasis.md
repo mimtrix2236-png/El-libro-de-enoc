@@ -34,8 +34,8 @@
 
 **Ilustración SVG propia:** `assets/illustrations/chapter_76.svg` — doce portales alrededor del horizonte, con corrientes de viento y efectos contrastantes.
 
-**Preview generado para el proyecto:** `assets/generated/chapter_76_winds_gates_preview.jpg` — imagen IA comprimida de 160×160; es una vista de referencia, no lámina final ni recurso integrado en el lector.
+**Estado de arte:** solo está incorporado el concepto vectorial `assets/illustrations/chapter_76.svg`. El preview raster que se había mencionado en una nota anterior no existe en el árbol del repositorio; se retiró esa referencia para no afirmar un recurso inexistente.
 
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXVI, texto de dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_76. Se consultó la transcripción; no se cotejaron directamente manuscritos ni aparato crítico.
 
-**Nota textual:** Charles imprime una restauración entre corchetes en 76:3 al enumerar las puertas de norte y sur. La paráfrasis registra que el orden es problemático y no adopta esa restauración como segura. La nota de cotejo reporta 4Q210 1ii como testimonio parcial de 76:3–10 y 76:13–77:4 según fuentes secundarias; no confirma el capítulo completo. Véase `docs/auditoria_76-82_fuentes.md`.
+**Nota textual:** Charles marca el tramo “north … south” de 76:3 con † como texto dañado y añade `[after those on the left]` entre corchetes; en 76:12 `[four]` también es una adición editorial según la clave de Charles. La paráfrasis registra el orden problemático y no adopta las adiciones como lecturas seguras. El perfil de 4Q210 (Machiela 2023) confirma que el manuscrito contiene partes del Libro Astronómico 76–78, pero la asignación exacta a líneas/versículos se basa en reconstrucción y no confirma el capítulo completo. Véase `docs/auditoria_76-82_fuentes.md`.
