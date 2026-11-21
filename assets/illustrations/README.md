@@ -45,5 +45,10 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 104 | chapter_104.svg | Libro de nombres y palabras fieles |
 | 105 | chapter_105.svg | Comunidad en paz ante la luz |
 | 106 | chapter_106.svg | Nacimiento de Noé y consulta de Lamech |
-| 107 | chapter_107.svg | Tabla de generaciones y Noé |
+| 107 | chapter_107.svg | Concepto vectorial: tabla de generaciones y Noé |
 | 108 | chapter_108.svg | Destinos de luz y oscuridad |
+
+## Previews generados integrados
+
+- Capítulo 106: `chapter_106_generated.svg` — preview raster embebido, 160×240 px; no master de impresión.
+- Capítulo 107: `chapter_107_generated.svg` — grabado sepia con Enoc, Matusalén, familia con el recién nacido y arca distante (elemento contextual no literal), 120×180 px; no master de impresión. El concepto vectorial original se conserva en `chapter_107.svg`.
