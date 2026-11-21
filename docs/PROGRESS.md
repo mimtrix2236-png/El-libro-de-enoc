@@ -435,3 +435,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Rechecked Charles 1917 chapter 81 and the accessible Theosis/Dillmann digital text. The phrase at 81:5 appears as “seven holy ones” in Charles and “three” in the Dillmann digital text/modern translation source; the exact manuscript distribution is not verified.
 - [x] Revised the chapter and audit to avoid attributing either numeral to a specific manuscript without direct collation; the paraphrase leaves it out.
 - [ ] Chapter 82 next; review transmission of books, intercalary days, calendar and the fragment 4Q209 frg.28 without overstating overlap.
+
+
+## 21 November 2026 — Chapter 82 numbering and fragment audit
+
+- [x] Corrected the chapter 82 paraphrase: Charles 1917 skips from verse 13 to 15; the previous draft incorrectly renumbered 15–20 as 14–19. The gap is preserved; no verse 14 invented.
+- [x] Checked fragment mapping: 4Q209 frg.28 corresponds to 82:9–13 according to Tyndale Bulletin 68.2 (2017) table; 4Q204 1vi.9 is a thematic parallel for book-transmission, not a direct witness to 82:1–3.
+- [x] Updated chapter 82 and audit 76–82, recording the bracketed clause at 82:2 and the limits of fragment evidence.
+- [ ] Chapter 83 next; review dream-before-marriage frame and the collapsed heaven without interpreting it as literal history.
