@@ -412,3 +412,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Clarified Qumran mapping: Machiela 2023 supports broad 4Q210 overlap with 76–78; the exact 1iii→78:6–8 concordance is secondary/provisional. 4Q208 has calendrical material; 78:6–17 is an abbreviated Ethiopic extract, not a direct 4Q208 witness. 4Q209 frg.26 78:17–79:2 remains tentative.
 - [x] Updated chapter 78 and audit 76–82; no manuscript collation claimed.
 - [ ] Chapter 79 next; check the 177-day count and Charles's restoration marks.
+
+
+## 21 November 2026 — Chapter 79 restoration scope and arithmetic
+
+- [x] Reviewed Charles 1917 chapter 79: 79:4 restores only `<the waning>` to connect the sentence; the 177-day total and 25 weeks + 2 days are recorded.
+- [x] Verified 177 = 3×30 + 3×29 from 78:15–16; consistency does not validate the restoration. Left “one period” in 79:5 undefined rather than attaching it to a 5- or 8-year cycle.
+- [x] Corrected the fragment note: 4Q209 frg.26 is tentative at 78:17–79:2 and is not used as direct witness for 79:3–6.
+- [ ] Chapter 80 next; review the prediction of disorder and editorial brackets, avoid historicizing it as a scientific forecast.
