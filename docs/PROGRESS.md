@@ -347,3 +347,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Compared the English syntax in Charles 1917 and Laurence 1883; noted differences in “his name,” “chariots of the spirit,” “vanished/went forth,” and “two winds/two spirits” as translation differences only.
 - [x] Added chapter 70 to the audit document (now 66–70); sources consulted online, no Ge'ez or apparatus collation.
 - [ ] Chapter 71 next; chapter 70 remains provisional pending critical text review.
+
+
+## 21 November 2026 — Chapter 71 critical note: Charles emendation
+
+- [x] Rechecked Charles 1917 chapter 71 and revised the paraphrase to mark the lost passage at 71:13 as Charles's conjecture, not preserved text.
+- [x] Recorded that Charles 1912/1917 emends 71:14 to third person and extends pronoun changes to 71:15–16. Published notes consulted (Intertextual Bible summarizing Nickelsburg/VanderKam 2012, pp. 321, 327–328) report second-person Ge'ez and no manuscript support known for Charles's third-person emendation. No Ge'ez manuscript was inspected directly; article/capitalization and identity debate remain open.
+- [x] Added chapter 71 entry to the audit file (now 66–71) and updated its paraphrase with attribution and limits.
+- [ ] Chapter 72 is next. The Parables lack known Qumran/Greek witnesses; critical checks for 71 remain.
