@@ -1,5 +1,12 @@
 # Registro de progreso
 
+## 21 de noviembre de 2026 — arte generado e integración del capítulo 89
+- Generé una ilustración original específica para 1 Enoc 89: el rebaño y carnero guía, depredadores, casa/torre y Enoc como escriba; es una composición simbólica de la alegoría extensa, no una escena literal única.
+- Reemplacé el asset SVG del capítulo 89 en el directorio editorial y en Android por un preview JPEG embebido (128×192), para uso offline. Archivado el vector conceptual anterior como assets/illustrations/chapter_89_vector_concept.svg.
+- Actualicé el borrador 89 y el inventario de assets con procedencia, resolución y estado de integración. El master 1024×1536 todavía no está archivado en el repositorio; la preview no es calidad de imprenta.
+- **Pendiente de verificación:** CI/build tras los cambios de arte; no se comprobó en dispositivo ni el render SVG ni la calidad en pantalla.
+- Próximo foco: hacer CI del cambio de asset, seguir el QA de ilustraciones 76–108 y revisar el lector/app antes de la edición PDF.
+
 ## 19 de noviembre de 2026 — revisión documental de capítulos 76–82
 - Revisé los siete borradores 76–82 y sus fuentes citadas; añadí notas de testigos, variantes, numeración y límites del cotejo a los archivos individuales.
 - Creé `docs/auditoria_76-82_fuentes.md` con resumen de la revisión y referencias.
