@@ -48,8 +48,9 @@ No se leyeron directamente las fotografías de los fragmentos, ni los aparatos c
 
 ### 82 — Transmisión y calendario
 - Se conserva la transmisión de libros, instrucción a Matusalén y calendario de 364 días con cuatro días especiales según el marco textual.
-- 4Q209 frg. 28 se asigna parcialmente a 82:9–13; las palabras conservadas se relacionan con meses/fiestas y lista de nombres. Es evidencia fragmentaria, no confirmación de toda la sección.
-- Los numerales presentan discrepancias entre Charles, página impresa de Dillmann y OCR digital. No armonizar números por conjetura.
+- Charles 1917 salta de 82:13 a 82:15; no se crea un versículo 14. Charles 82:2 contiene una cláusula entre corchetes, que se registra como editorial.
+- 4Q209 frg.28 corresponde a 82:9–13 según la tabla de Tyndale Bulletin 68.2 (2017); la evidencia es fragmentaria, no confirma toda la sección. 4Q204 1vi.9 es un paralelo temático de transmisión de libros (cf. 82:1–3), no testimonio directo de esos versículos.
+- Los numerales y nombres presentan discrepancias entre Charles, Dillmann y transcripciones digitales. No armonizar por conjetura.
 
 ## Referencias
 1. Daniel A. Machiela, *A Handbook of the Aramaic Scrolls from the Qumran Caves: Manuscripts, Language, and Scribal Practices* (Leiden/Boston: Brill, 2023), perfiles de 4Q209 y 4Q210, especialmente 4Q210, pp. 54–56. Open access CC BY-NC-ND 4.0. https://brill.com/display/book/9789004513815/9789004513815_webready_content_text.pdf
