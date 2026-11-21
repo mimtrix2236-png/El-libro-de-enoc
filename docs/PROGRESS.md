@@ -294,3 +294,14 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] CI run 317, commit ff195efe91850f5c3625c79805dc71b43f166e5f: catalog unit tests, assembleDebug, and artifact upload all succeeded. Debug APK 9,229,830 bytes: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743708994.
 - [x] CI run 320, commit bf53c357b74a38f5a5572982706f070c36abd221 (includes subsequent documentation updates): successful; debug APK artifact 9,229,829 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743746076; expires 20 Dec 2026 13:24 UTC.
 - [ ] Runtime/device testing remains outstanding; debug artifacts are temporary, not final release.
+
+
+## 21 November 2026 — Chapter 107 source review and generated art preview
+
+- [x] Checked the chapter 107 text in R. H. Charles 1917 (Wikisource and CCEL) and consulted the available Marquette/MAQOM textual notes for 107:1. This is source consultation, not direct manuscript collation.
+- [x] Revised `docs/chapters/107_capitulo_107_parafrasis.md` into three narrative/verse units; recorded preliminary lexical variants and the unresolved witness sigla; clarified that Enoc's instruction is to Methuselah and that Methuselah communicates to Lamech and names the child.
+- [x] Added `assets/illustrations/chapter_107_generated.svg` (120×180 embedded JPEG preview) and a copy under Android assets. Preserved the original vector concept `chapter_107.svg`.
+- [x] Updated the reader's asset routing so chapter 107 uses the generated preview, updated illustration/chapter indexes, and added the 107 focused audit to `docs/auditoria_106-108_fuentes.md`.
+- [x] Relevant commits: `760b346` (docs preview), `ed92dc5` (Android asset), `de6d4af` (routing), `56dc016` (paraphrase), `fea17c6` (audit), `96b502c` (illustration README), `9ad0d83` (chapter index).
+- [ ] CI run 330 for commit `9ad0d83` is pending/in progress at log update: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44910458123. No build success is claimed for these changes yet.
+- [ ] Generated 1024×1536 source image remains in the working session only; repository preview is thumbnail quality and not a print master. Physical-device visual/audio checks, full critical collation, PDF and final release APK remain outstanding.
