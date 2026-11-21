@@ -34,7 +34,7 @@
 
 **Ilustración SVG propia:** `assets/illustrations/chapter_76.svg` — doce portales alrededor del horizonte, con corrientes de viento y efectos contrastantes.
 
-**Estado de arte:** solo está incorporado el concepto vectorial `assets/illustrations/chapter_76.svg`. El preview raster que se había mencionado en una nota anterior no existe en el árbol del repositorio; se retiró esa referencia para no afirmar un recurso inexistente.
+**Preview generado para el proyecto:** `assets/generated/chapter_76_winds_gates_preview.jpg` — JPEG de 160×160 px, descrito en el registro de assets como imagen IA original del 19-11-2026; es preview, no master de impresión, y no está integrado en el lector Android. El concepto vectorial `assets/illustrations/chapter_76.svg` continúa siendo el recurso que muestra la app.
 
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXVI, texto de dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_76. Se consultó la transcripción; no se cotejaron directamente manuscritos ni aparato crítico.
 
