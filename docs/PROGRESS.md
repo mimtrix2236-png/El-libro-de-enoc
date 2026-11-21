@@ -395,3 +395,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Verified the generated preview path `assets/generated/chapter_76_winds_gates_preview.jpg` exists (5,799 bytes, 160×160 per asset README), but it is not integrated in the Android reader; the app still uses the SVG concept.
 - [x] Checked Machiela (2023) 4Q210 profile: fragmentary text from the Astronomical Book overlaps chapters 76–78; the overlap is partial and reconstructed, not a witness to the whole chapter.
 - [ ] Chapter 77 next; source review of direction names/etymologies and the damaged river/sea description.
+
+
+## 21 November 2026 — Chapter 77 fragment mapping and editorial signs
+
+- [x] Rechecked Charles 1917 chapter 77 in Open Scroll; confirmed damaged `†west†` (77:5), restored `‹two of them to›` and later addition `[and some say: into the desert]` (77:7).
+- [x] Checked Machiela 2023, Brill profile for 4Q209/4Q210: 4Q209 23.5–8 // 4Q210 1ii15–18 corresponds to 77:2–3; 4Q209 frg.23 relates to 76:13–77:4. This is fragmentary overlap, not a witness to chapter77 in full.
+- [x] Updated chapter77 paraphrase and audit 76–82 to correct mapping and editorial signs. Direction etymologies remain open; no direct Ge'ez/Aramaic manuscript collation.
+- [ ] Chapter 78 next; review names and lunar fractions against Charles and 4Q210 frg.1iii.
