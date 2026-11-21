@@ -428,3 +428,10 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Recorded the bracketed scene at 80:5, Charles's `+on the extremity of the great chariot+` correction, and the interpolated phrase at 80:7; kept them out of the secure paraphrase.
 - [x] Updated chapter 80 and audit 76–82. No direct Aramaic witness for 80 is assigned in the consulted 4Q208–211 profiles.
 - [ ] Chapter 81 next; review the heavenly tablets, numerals, and “seven saints/three” variant without choosing by guess.
+
+
+## 21 November 2026 — Chapter 81 numeral variant
+
+- [x] Rechecked Charles 1917 chapter 81 and the accessible Theosis/Dillmann digital text. The phrase at 81:5 appears as “seven holy ones” in Charles and “three” in the Dillmann digital text/modern translation source; the exact manuscript distribution is not verified.
+- [x] Revised the chapter and audit to avoid attributing either numeral to a specific manuscript without direct collation; the paraphrase leaves it out.
+- [ ] Chapter 82 next; review transmission of books, intercalary days, calendar and the fragment 4Q209 frg.28 without overstating overlap.
