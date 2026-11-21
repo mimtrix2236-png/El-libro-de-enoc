@@ -1,4 +1,4 @@
-# Auditoría preliminar de fuentes — capítulos 66–73
+# Auditoría preliminar de fuentes — capítulos 66–74
 
 **Fecha de consulta:** 21-11-2026  
 **Base de versificación:** R. H. Charles, *The Book of Enoch* (1917).  
@@ -82,3 +82,12 @@ La transcripción comparativa de Richard Laurence (1883) registra la sección de
 - 4Q208–4Q209 preservan material de calendario lunar. La reseña de Drawnel consultada indica que la reconstrucción de 4Q209 y la relación con 1 Enoc 73:4–8 dependen de patrones y de la versión etiópica porque no hay texto arameo directo conservado para ese pasaje. Duke/Goff 2014 analizan las fracciones de 4Q208–4Q209 como un esquema de visibilidad lunar; la relación con observaciones reales es esquemática y debatida.
 - Fuentes: Charles 1917/Open Scroll; Duke & Goff, *Dead Sea Discoveries* 21 (2014), 176–210; Helen R. Jacobus, reseña de Drawnel (2011). Las URLs y limitaciones se anotan en el capítulo 73.
 - No se cotejó Ge'ez, fotografías ni la edición DJD/Drawnel directamente. No reconstruir versículos a partir de analogías.
+
+
+## Capítulo 74 — cuenta de cinco y ocho años
+
+- Charles 1917, cap. 74, tiene 17 versículos. La paráfrasis fue ampliada con los portales, la puesta conjunta en las puertas tercera/cuarta, la cuenta solar de 364 días y las sumas lunares.
+- En el esquema de Charles: 3 años solares = 1.092 días; 5 = 1.820; 8 = 2.912. Para la Luna: 3 = 1.062; 5 = 1.770; 8 = 2.832. Diferencias acumuladas de 30 días en 5 años y 80 en 8 años. Se describe como aritmética del modelo, no como astronomía exacta.
+- Charles incluye aclaraciones entre corchetes en 74:14 y 74:16; se conservan como notas editoriales, no como texto seguro. En 74:12 hay una corrección con signo + en Charles; no se verifica su origen.
+- Fuentes: Charles 1917, capítulo 74; Duke/Goff 2014 (4Q208–4Q209); Drawnel 2011 citado para consulta futura. No se inspeccionaron directamente manuscritos, DJD 36 ni la monografía de Drawnel.
+- Pendiente: cotejo de 74:10–17 con aparato y fragmentos arameos, revisar portes/portal y el término de estaciones, y distinguir reconstrucciones del texto transmitido.
