@@ -37,9 +37,9 @@ No se leyeron directamente las fotografías de los fragmentos, ni los aparatos c
 - El fragmento 4Q209 frg. 26 se ubica tentativamente en 78:17–79:2, no como confirmación integral del capítulo.
 
 ### 80 — Desorden en tiempos de pecado
-- Se mantiene como advertencia apocalíptica: cosechas y lluvias fuera de tiempo, cambios en luminares y confusión humana.
-- En la lista consultada de fragmentos 4Q208–211 no se asigna un testimonio directo a capítulo 80. No decir que Qumrán lo confirma.
-- No se interpreta como pronóstico meteorológico o teoría científica.
+- Se mantiene como advertencia apocalíptica: cosechas y lluvias fuera de tiempo, cambios en luminares y confusión humana; no como pronóstico meteorológico o teoría científica.
+- Charles 1917 marca toda la escena de 80:5 entre corchetes y el añadido `+on the extremity of the great chariot+`; 80:7 `[And they shall be altered from all their ways]` también aparece como interpolación. Se registran los signos y no se incorporan como lectura segura.
+- En los perfiles consultados de 4Q208–211 no se asigna testimonio arameo directo a capítulo 80. No decir que Qumrán lo confirma.
 
 ### 81 — Tablas y misión
 - Rylands Ethiopic MS 23 se mapea a fol. 11r col. a–b (según el informe de Theosis Library).
