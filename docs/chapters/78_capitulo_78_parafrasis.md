@@ -2,9 +2,9 @@
 
 > **Estado editorial:** paráfrasis original por versículo, basada en Charles 1917. No es traducción directa del Ge'ez ni cotejo diplomático; las cifras y nombres requieren revisión crítica.
 
-**78:1.** El texto transmite dos nombres tradicionales para el Sol; las formas de escribirlos varían entre las ediciones y se registran en la nota textual.
+**78:1.** El texto transmite dos nombres tradicionales para el Sol: Orjares y Tomas (las transliteraciones varían).
 
-**78:2.** La Luna recibe cuatro nombres en esta tradición; su transliteración no es uniforme en las distintas versiones.
+**78:2.** La Luna recibe cuatro nombres: Asonja, Ebla, Benase y Erae; la transliteración no es uniforme.
 
 **78:3.** Ambos luminares son descritos como grandes cuerpos celestes de tamaño comparable, según la cosmología del relato.
 
@@ -12,7 +12,7 @@
 
 **78:5.** Los luminares se ponen por las puertas occidentales, recorren la región del norte y reaparecen por las puertas orientales.
 
-**78:6.** Al salir, la Luna muestra una fracción pequeña de su luz; el capítulo relaciona su plenitud con el día catorce. Una frase entre corchetes en Charles es un suplemento editorial.
+**78:6.** Al salir, la Luna muestra una fracción pequeña de su luz; el capítulo relaciona su plenitud con el día catorce. Charles imprime `[[the light becomes full in her]]` con doble marca, que su clave distingue del suplemento entre corchetes simples.
 
 **78:7.** El relato cuenta el crecimiento de la luz hasta el día quince mediante unidades numéricas; las cifras y su relación requieren cotejo, pues las versiones no son uniformes.
 
@@ -22,7 +22,7 @@
 
 **78:10.** Uriel explica otra regla: cómo la luz pasa del Sol a la Luna y por qué lado se recibe.
 
-**78:11.** Durante el crecimiento, la Luna recibe luz mientras se ubica frente al Sol; el período se describe como catorce días, con una frase suplementada por Charles entre corchetes.
+**78:11.** Durante el crecimiento, la Luna recibe luz mientras se ubica frente al Sol; el período se describe como catorce días. Charles añade `[her light is accomplished in the heaven]` entre corchetes simples.
 
 **78:12.** El primer día se llama luna nueva porque el texto presenta ese momento como el comienzo de la luz que llega a la Luna.
 
@@ -42,4 +42,4 @@
 
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXVIII, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_78. Se consultó la transcripción; no se cotejaron directamente manuscritos.
 
-**Nota textual:** 4Q210 frg. 1 iii se asigna a 78:6–8 y conserva fragmentos de referencias a 14/15 días; la ubicación de 4Q209 frg. 26 en 78:17–79:2 es tentativa. Charles 1917 omite el encabezado de 78 en la transcripción consultada, aunque el material está presente bajo 77. Las cifras (14/15, 29/28, 177) y los nombres se registran como lecturas de la tradición, no como astronomía moderna. Véase `docs/auditoria_76-82_fuentes.md`.
+**Nota textual:** el perfil de Machiela (2023) confirma que 4Q210 contiene porciones de 76–78; una concordancia secundaria asigna 1iii a 78:6–8, pero la asignación exacta no fue verificada directamente. 4Q208 contiene un calendario lunar, y Machiela señala que 78:6–17 es una extracción muy abreviada que usa terminología dependiente de un calendario como el de 4Q208; no es testimonio directo de esos versículos. La ubicación de 4Q209 frg. 26 en 78:17–79:2 es tentativa. El scan de Charles 1917 presenta el título LXXVIII pero un encabezado `CHAPTER LXXVII` (error de numeración); las transcripciones posteriores usan 78. Las cifras (14/15, 29/28, 177) y los nombres se registran como lecturas de la tradición, no como astronomía moderna. Véase `docs/auditoria_76-82_fuentes.md`.
