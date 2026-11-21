@@ -26,6 +26,6 @@
 
 **Ilustración SVG propia:** `assets/illustrations/chapter_81.svg` — Enoc lee tablas celestiales frente a su hogar.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXXI, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_81. Transcripción consultada; no cotejo directo.
+**Fuentes de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXXI, transcripción: https://openscrollproject.org/app/ancient/1EN-81; Theosis Library, 1 Enoch 81 / Rylands Ethiopic MS 23 y Dillmann 1851 digital: https://theosislibrary.com/library/verified-enoch-ethiopic-luminaries. Fuentes digitales consultadas; no cotejo directo de la fotografía ni aparato.
 
-**Nota textual:** 81:5 presenta una variante numérica (Charles lee “siete” y Dillmann digitalizado “tres” en las fuentes secundarias revisadas). La paráfrasis evita fijar la cifra. Ver `docs/auditoria_76-82_fuentes.md`.
+**Nota textual:** 81:5 presenta una variante numérica en las transcripciones consultadas: Charles 1917 imprime “seven holy ones”; la digitalización de Dillmann 1851 citada por Theosis Library/una traducción moderna ofrece “three”. El informe de Theosis Library mapea el capítulo a Rylands Ethiopic MS 23, pero aquí no se inspeccionó la fotografía ni el aparato de Dillmann/Charles; por tanto, no se adjudica la cifra a un manuscrito específico. La paráfrasis evita fijarla. Véase `docs/auditoria_76-82_fuentes.md`.
