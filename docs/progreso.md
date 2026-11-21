@@ -1,5 +1,9 @@
 # Registro de progreso
 
+## 21 de noviembre de 2026 — corrección de cambio de capítulo para ilustración 107
+- En la función de actualización del WebView, el asset de 107 se cargaba como chapter_107.svg aunque al crear el WebView se usaba chapter_107_generated.svg. Corregí el selector para que los capítulos 106 y 107 usen el asset generado en ambos caminos (creación y cambio de capítulo).
+- La corrección está en MainActivity.kt; verificación de CI pendiente. No se ha probado en un teléfono.
+
 ## 21 de noviembre de 2026 — arte generado e integración del capítulo 89
 - Generé una ilustración original específica para 1 Enoc 89: el rebaño y carnero guía, depredadores, casa/torre y Enoc como escriba; es una composición simbólica de la alegoría extensa, no una escena literal única.
 - Reemplacé el asset SVG del capítulo 89 en el directorio editorial y en Android por un preview JPEG embebido (128×192), para uso offline. Archivado el vector conceptual anterior como assets/illustrations/chapter_89_vector_concept.svg.
