@@ -43,6 +43,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 ## Registro de trabajo reciente
 
+- Corregí la selección del SVG generado de capítulo 107 al cambiar de capítulo dentro del WebView; CI pendiente.
+
 - Ilustración generada específica para el capítulo 89 reemplazó el SVG en source y assets Android; preview 128×192, master de impresión pendiente. Registro: assets/generated/README.md.
 - Fuente-audit de capítulos 76–82: `docs/auditoria_76-82_fuentes.md`; notas críticas agregadas a cada paráfrasis, sin convertirlas en traducciones finales. Revisión de fuentes secundarias y bibliografía; cotejo directo de manuscritos aún pendiente.
 
