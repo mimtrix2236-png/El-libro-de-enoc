@@ -1,16 +1,29 @@
-# Capítulo 69 — Los transgresores y el juramento cósmico (paráfrasis provisional)
+# Capítulo 69 — Los transgresores, sus enseñanzas y el juramento cósmico (paráfrasis provisional revisada)
 
-> **Estado editorial:** borrador de paráfrasis para lectura; no es traducción literal ni texto versículo por versículo. Cotejo manuscrito y revisión académica pendientes.
+> **Estado editorial:** paráfrasis original; no traducción literal ni edición crítica. Se sigue Charles 1917 y sus 29 versículos. Se registran los corchetes editoriales de Charles; no se cotejaron manuscritos.
 
-1. Se enumera a varios ángeles culpables y a sus jefes, con nombres que varían en la transmisión. La lista amplía y reorganiza tradiciones sobre los Vigilantes.
-2. Se atribuyen a distintas figuras acciones que condujeron a la transgresión: incitar el descenso, dar consejos corruptos, enseñar violencia y armas, revelar conocimientos y prácticas dañinas. La asociación de Gadreel con Eva y con instrumentos de muerte forma parte de la tradición de esta versión.
-3. La visión describe un juramento o secreto de gran poder que sostiene el orden del universo. Mediante él se afirman cielos, tierra, mares, profundidades, astros, vientos y fenómenos atmosféricos; cada elemento sigue su curso.
-4. La sección culmina con una celebración celestial: se revela el nombre del Hijo del Hombre, se le atribuye el juicio y la corrupción y quienes la propagaron son destinados a desaparecer. La visión anuncia que ya no habrá aquello que se corrompe.
+**69:1–3 — Los nombres y las jerarquías.** Después del juicio, se anuncia que los transgresores tiemblan porque sus secretos fueron revelados. Charles incluye entre corchetes una lista de veintiún nombres angelicales; luego menciona jefes y rangos organizados sobre centenares, cincuentenas y decenas. La lista de nombres se mantiene como dato editorial señalado por Charles, no como enumeración indiscutida.
 
-**Idea central:** la lista de transgresores y saberes nocivos se enlaza con un juramento que mantiene el cosmos y con la conclusión de la parábola: justicia y restauración.
+**69:4–12 — Enseñanzas que desviaron a la humanidad.** La narración atribuye a varios seres la inducción a la transgresión, consejos corruptos, violencia y armas, conocimientos de escritura y saberes sobre espíritus, enfermedades o prácticas dañinas. Los nombres y las funciones se transmiten con problemas y variantes; esta paráfrasis no intenta fijar su ortografía.
 
-**Ilustración propia:** assets/illustrations/chapter_69.svg — un escriba angelical registra nombres alrededor de un círculo de estrellas; bandas de viento, agua y constelaciones convergen en un sello luminoso.
+**69:13–15 — El juramento y el nombre oculto.** Se describe un juramento de gran poder, ligado a una figura que solicita a Miguel revelar un nombre secreto para que el juramento pueda ser pronunciado. Miguel recibe la custodia del juramento. Charles presenta dos formas de nombre (Biqa y Akae) en este tramo; no se armonizan aquí.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. LXIX, https://rojc.uk/book-of-enoch.htm; Global Grey, https://www.globalgreyebooks.com/online-ebooks/r-h-charles_book-of-enoch_complete-text.html (consultados 19-11-2026). Paráfrasis original.
+**69:16–25 — El juramento sostiene el cosmos.** El juramento se presenta como fundamento de la estabilidad del cielo, la tierra, el mar, las profundidades y las luminarias; los astros mantienen sus recorridos y responden cuando son llamados. Las cláusulas sobre vientos, espíritus del agua y cámaras de fenómenos atmosféricos (69:22–24) aparecen entre corchetes en Charles, y en 69:25 también marca como interpolación una breve frase sobre la preservación. Se conserva esa advertencia editorial.
 
-**Pendiente:** verificar nombres y funciones contra Ge'ez, griego y fragmentos arameos cuando existan; no asumir uniformidad entre testimonios.
+**69:26–29 — Revelación del Hijo del Hombre y juicio.** Los seres celestes celebran la revelación del Hijo del Hombre y su asiento en el trono. Se le atribuye el juicio; los pecadores y quienes los desviaron serán destruidos o encadenados, y la corrupción desaparecerá. Charles cierra la tercera parábola en 69:29.
+
+**Idea central:** los conocimientos prohibidos y los transgresores se contraponen al juramento que, en la visión, sostiene el orden universal; la sección culmina con la revelación del Hijo del Hombre y el juicio.
+
+**Ilustración propia:** `assets/illustrations/chapter_69.svg` — escriba angelical registra nombres alrededor de un círculo de estrellas, con bandas de viento, agua y constelaciones que convergen en un sello luminoso. Concepto vectorial; pendiente QA y arte de alta resolución.
+
+**Fuentes consultadas:**
+- R. H. Charles, *The Book of Enoch* (1917), capítulo LXIX, transcripción: https://thebookandme.com/read/1-enoch-the-book-of-parables-chapters-37-71/69/ y https://openscrollproject.org/app/ancient/1EN-69 (consulta 21-11-2026).
+- Charles, clave editorial de corchetes y signos, prefacio p. xxiv (reproducción PDF): https://cleartexteditions.com/public%20domain/1%20enoch%20-%20translated%20by%20%20R.%20H.%20Charles.pdf.
+- Transcripción comparativa del capítulo: https://rojc.uk/book-of-enoch.htm (consulta 21-11-2026).
+
+## Nota crítica provisional
+- En Charles, los corchetes simples `[ ]` indican interpolaciones según la clave del traductor/editor; por eso se señalan la lista de nombres en 69:2, las cláusulas de 69:22–24 y “they are preserved and” en 69:25. No se debe traducir ese signo como una lectura manuscrita segura ni eliminarlo sin revisar el aparato.
+- Los nombres del juramento se conservan en las formas que aparecen en el texto consultado (Biqa/Akae); no se afirma que sean dos nombres idénticos ni se resuelve su etimología.
+- La paráfrasis no constituye verificación de la lista de nombres, la función de cada ángel, ni del texto original.
+
+**Pendiente:** cotejar 69:2–15 con Ge'ez y el aparato de Knibb/Nickelsburg-VanderKam; verificar las interpolaciones señaladas por Charles y sus testigos; revisar la ortografía de nombres y la relación de 69:13–15; confirmar el cierre de la tercera parábola en la edición base.
