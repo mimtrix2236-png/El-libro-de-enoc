@@ -1,13 +1,12 @@
 # Generated illustration previews
 
 ## Chapter 76 — Twelve gates of the winds
-- File: `chapter_76_winds_gates_preview.jpg`
+- File: assets/generated/chapter_76_winds_gates_preview.jpg
 - Source: original AI-generated illustration created for this project on 19 November 2026; no external reference or stock image used.
 - This repository copy is a 160×160 JPEG preview (compressed to fit the current GitHub transfer path). It is **not** the print-resolution master and has not yet been integrated into the Android reader. The existing chapter-specific SVG concept remains in the app until a higher-resolution final art asset and integration are prepared.
 - Visual subject: Enoch and an angel observing twelve celestial gates and winds, in sepia/parchment engraving style.
 
 For each future generated image, record the chapter, asset path, generation date, whether it is a preview or final, resolution, and integration status.
-
 
 ## Chapter 106 — Birth of Noah (20 November 2026)
 - Files: assets/illustrations/chapter_106_generated.svg and app/src/main/assets/illustrations/chapter_106_generated.svg.
@@ -15,3 +14,10 @@ For each future generated image, record the chapter, asset path, generation date
 - Repository image is a 160×240 px paletted PNG embedded inside an SVG wrapper for offline display. It is a low-resolution reader preview, not a print master. The high-resolution generation was not added to the repository in this run.
 - Integrated into the Android chapter viewer by a chapter-106 asset switch. The original vector concept chapter_106.svg remains preserved.
 - Subject: a glowing newborn with Lamech, a midwife and an elderly observer; distant flood imagery, in sepia engraving on parchment.
+
+## Chapter 89 — The sheep-and-shepherd vision (21 November 2026)
+- Files: assets/illustrations/chapter_89.svg and app/src/main/assets/illustrations/chapter_89.svg; archived previous vector concept as assets/illustrations/chapter_89_vector_concept.svg.
+- Source: original AI-generated artwork for this project, no external images used.
+- Embedded JPEG preview is 128×192 px within SVG, offline and local. The generated 1024×1536 master is not yet stored in the repository; this preview is for reader integration and is not print-quality.
+- Integrated by replacing the chapter-89 SVG asset in both the editorial and Android asset folders. Runtime/build verification is still pending.
+- Subject: sheep flock and ram, predators, a tower/house, and Enoc as celestial recorder, symbolizing the long animal allegory rather than one literal verse.
