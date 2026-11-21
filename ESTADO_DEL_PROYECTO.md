@@ -15,7 +15,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - El diseño no está declarado final hasta revisar la cubierta y las páginas en alta resolución y preparar PDF de imprenta.
 
 ## Estado real (revisado contra el árbol del repositorio)
-- **Capítulos:** existen archivos de borrador para los 108 capítulos. Los archivos 66–108 son paráfrasis provisionales, no traducciones exactas ni edición crítica. Cap. 66 tiene además una traducción de trabajo indirecta separada. Capítulos 106–108 están ampliados por rangos y documentan límites de testigos; 107 se revisó el 21-11-2026 con Charles 1917 y notas de variantes disponibles, sin cotejo directo de manuscritos. Capítulos 66–67 se revisaron en fuentes inglesas públicas y cuentan con auditoría preliminar en `docs/auditoria_66-67_fuentes.md`; no se cotejaron Ge'ez ni manuscritos.
+- **Capítulos:** existen archivos de borrador para los 108 capítulos. Los archivos 66–108 son paráfrasis provisionales, no traducciones exactas ni edición crítica. Cap. 66 tiene además una traducción de trabajo indirecta separada. Capítulos 106–108 están ampliados por rangos y documentan límites de testigos; 107 se revisó el 21-11-2026 con Charles 1917 y notas de variantes disponibles, sin cotejo directo de manuscritos. Capítulos 66–68 se revisaron en fuentes inglesas públicas y cuentan con auditoría preliminar en `docs/auditoria_66-67_fuentes.md` (el nombre del archivo conserva el rango original, pero ahora incluye 68); no se cotejaron Ge'ez ni manuscritos.
 - **Fuentes:** algunas ediciones públicas y referencias críticas se consultaron en línea; el cotejo de todo el corpus (1–108) con manuscritos/aparatos no está hecho. No afirmar que los capítulos están verificados.
 - **Ilustraciones:** hay 43 SVG conceptuales para capítulos 66–108. Se generaron previews raster embebidos para 106 y 107; son thumbnails y no masters de impresión. Se conserva el concepto original de 107 y el app muestra el preview generado. El concepto de 67 es específico (Noé, estructura de madera y valle ardiente), pero no se generó master raster para ese capítulo. Capítulos 76–108 aún requieren QA visual y arte de mayor detalle; no todos los capítulos 1–65 están catalogados en este árbol como assets ilustrativos.
 - **Android:** lector Compose integrado con catálogo offline de 108 capítulos, índice y búsqueda, guardado local de capítulo/progreso, marcadores, escala de texto, modo nocturno, gesto horizontal y ambiente celestial procedural original (sin samples externos, interruptor OFF por defecto). El código está implementado, pero no se ha probado en teléfono real.
@@ -39,7 +39,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - Las paráfrasis son material de trabajo; no deben presentarse como texto exacto ni académicamente definitivo.
 
 ## Próxima prioridad
-Continuar con capítulo 68–71: revisión de fuentes/variantes y anotaciones, después seguir secuencialmente por 72–108; auditar assets y completar arte generado pendiente. Mantener el progress log con commits y build IDs reales.
+Continuar con capítulo 69–71: revisión de fuentes/variantes y anotaciones, después seguir secuencialmente por 72–108; auditar assets y completar arte generado pendiente. Mantener el progress log con commits y build IDs reales.
 
 ## Avance guardado — control académico de capítulos 72–82 (2026-11-19)
 - Se creó `editorial/CONTROL_CAPITULOS_72-82.md` (commit `6a27f0b72119547ce92bc0386160bde9f25f5f10`).
