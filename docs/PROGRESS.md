@@ -403,3 +403,12 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Checked Machiela 2023, Brill profile for 4Q209/4Q210: 4Q209 23.5–8 // 4Q210 1ii15–18 corresponds to 77:2–3; 4Q209 frg.23 relates to 76:13–77:4. This is fragmentary overlap, not a witness to chapter77 in full.
 - [x] Updated chapter77 paraphrase and audit 76–82 to correct mapping and editorial signs. Direction etymologies remain open; no direct Ge'ez/Aramaic manuscript collation.
 - [ ] Chapter 78 next; review names and lunar fractions against Charles and 4Q210 frg.1iii.
+
+
+## 21 November 2026 — Chapter 78 numbering and fragment audit
+
+- [x] Corrected chapter 78 note: Charles's printed scan has section title LXXVIII but a `CHAPTER LXXVII` heading (numeration typo); Open Scroll uses 78.
+- [x] Distinguished Charles's double brackets in 78:6 (Ethiopic-only per Charles's key) from the single-bracket interpolation at 78:11; Open Scroll simplifies the 78:6 mark, so scan is preferred for signs.
+- [x] Clarified Qumran mapping: Machiela 2023 supports broad 4Q210 overlap with 76–78; the exact 1iii→78:6–8 concordance is secondary/provisional. 4Q208 has calendrical material; 78:6–17 is an abbreviated Ethiopic extract, not a direct 4Q208 witness. 4Q209 frg.26 78:17–79:2 remains tentative.
+- [x] Updated chapter 78 and audit 76–82; no manuscript collation claimed.
+- [ ] Chapter 79 next; check the 177-day count and Charles's restoration marks.
