@@ -46,7 +46,7 @@ Los archivos con sufijo `parafrasis` son paráfrasis de trabajo: no deben presen
 - Capítulo 104: [paráfrasis provisional](104_capitulo_104_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_104.svg)
 - Capítulo 105: [paráfrasis provisional](105_capitulo_105_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_105.svg)
 - Capítulo 106: [paráfrasis provisional](106_capitulo_106_parafrasis.md) · [concepto SVG](../../assets/illustrations/chapter_106.svg) · [preview generado](../../assets/illustrations/chapter_106_generated.svg)
-- Capítulo 107: [paráfrasis provisional](107_capitulo_107_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_107.svg)
+- Capítulo 107: [paráfrasis provisional revisada](107_capitulo_107_parafrasis.md) · [concepto vectorial](../../assets/illustrations/chapter_107.svg) · [preview generado](../../assets/illustrations/chapter_107_generated.svg)
 - Capítulo 108: [paráfrasis provisional](108_capitulo_108_parafrasis.md) · [ilustración](../../assets/illustrations/chapter_108.svg)
 
 ## Pendiente
