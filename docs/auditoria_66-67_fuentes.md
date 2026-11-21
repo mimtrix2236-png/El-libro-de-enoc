@@ -1,4 +1,4 @@
-# Auditoría preliminar de fuentes — capítulos 66–70
+# Auditoría preliminar de fuentes — capítulos 66–71
 
 **Fecha de consulta:** 21-11-2026  
 **Base de versificación:** R. H. Charles, *The Book of Enoch* (1917).  
@@ -54,3 +54,12 @@ La transcripción comparativa de Richard Laurence (1883) registra la sección de
 - Estas son diferencias entre traducciones; no se registran como variantes de manuscritos. El resumen evita resolver si la figura inicial es Enoc o el Hijo del Hombre.
 - Fuentes: Charles 1917, Wikisource/TheBookAndMe; Laurence 1883, comparación en Apocrypha Library: https://apocryphalibrary.weebly.com/1-enoch-70.html.
 - Pendiente cotejo de Ge'ez y aparato crítico; la paráfrasis sigue provisional.
+
+
+## Capítulo 71 — emendación de Charles y laguna conjetural
+
+- Se reescribió la paráfrasis por tramos y se anotó la laguna de 71:13. Charles 1917 imprime una reconstrucción entre corchetes: la supuesta descripción del Hijo del Hombre junto al Anciano de Días y la pregunta de Enoc; se conserva como conjetura del editor, no como texto transmitido.
+- Charles 1912/1917 emienda 71:14 a tercera persona (“This is the Son of Man”) y modifica pronombres en 71:15–16. La nota crítica consultada en Intertextual Bible, citando Nickelsburg/VanderKam 2012, pp. 321, 327–328, indica que el Ge'ez conservado presenta segunda persona y que la emendación no tiene apoyo manuscrito conocido. Esta información se registra con atribución; no se cotejó directamente Ge'ez.
+- Se anota que traducciones de segunda persona varían entre “you are a son of man” y “you are that Son of Man”; artículo/capitalización y la relación con el Hijo del Hombre anterior siguen discutidos. No se decide la identidad mediante paráfrasis.
+- Fuentes: Charles 1917 scan (cap. 71 y laguna), Intertextual Bible, nota a 71:14–16, y David Wilber (fuente secundaria de discusión). URLs se registran en el capítulo 71.
+- El texto de las Parábolas 37–71 no tiene testigos arameos o griegos conocidos; para 71:14 la evidencia citada corresponde al Ge'ez, no a Qumrán. La verificación de la lectura Ge'ez en manuscritos/facsímiles sigue pendiente.
