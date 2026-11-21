@@ -331,3 +331,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Recorded transmission note: the Book of Parables (37–71) has no known Qumran fragments; the absence is debated in scholarship and is not treated as proof of a specific date or provenance. Added Devorah Dimant (2005) and Marquette/MAQOM reference links.
 - [x] Added chapter 68 notes to `docs/auditoria_66-67_fuentes.md` (now covers 66–68). Charles/Lawrence numbering differences are tracked; no Ge'ez, Greek, Aramaic manuscript or apparatus direct collation claimed.
 - [ ] Chapter 69 is next; 68 remains provisional until critical edition and manuscript checks.
+
+
+## 21 November 2026 — Chapter 69 source and editorial-mark review
+
+- [x] Rechecked Charles 1917 chapter 69 (29 verse units) and revised the paraphrase into ranges: names/ranks, angelic teachings, oath/name, cosmic order, and final judgment.
+- [x] Verified Charles's bracket key in the preface (p. xxiv): square brackets mark interpolations. Recorded the bracketed name list (69:2), clauses 69:22–24, and 69:25 wording. This is Charles's editorial mark, not a manuscript collation.
+- [x] Kept Biqa/Akae forms at 69:13/15 distinct pending original-language review; added chapter 69 notes to the audit file.
+- [ ] Chapter 69 still provisional; chapter 70 is next. Direct Ge'ez/critical apparatus review remains outstanding.
