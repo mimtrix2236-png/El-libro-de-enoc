@@ -8,7 +8,7 @@
 
 **79:3.** La Luna inicia su disminución en la sexta puerta; el texto afirma que allí alcanza su plenitud y desde ese punto comienza a menguar.
 
-**79:4.** Una frase restaurada por Charles describe el menguante en la primera puerta de su temporada hasta completar 177 días, que el relato calcula como veinticinco semanas y dos días. La restauración no se toma como lectura segura.
+**79:4.** Charles restaura solo la frase `<the waning>` para enlazar la oración con el menguante en la primera puerta de su temporada; el texto afirma que se completan 177 días, equivalentes a veinticinco semanas y dos días. La restauración no se toma como lectura segura.
 
 **79:5.** En una etapa del ciclo, la Luna se retrasa cinco días respecto del Sol y del orden de las estrellas, según el cálculo de la visión; el punto de referencia de la frase queda ambiguo.
 
@@ -20,4 +20,4 @@
 
 **Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1917), cap. LXXIX, dominio público: https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_79. Se consultó la transcripción; no se cotejaron directamente manuscritos.
 
-**Nota textual:** 79:4 tiene una restauración editorial entre signos angulares en Charles; la cifra 177 y su conversión a 25 semanas + 2 días se conservan como datos de la tradición, sin armonización. La ubicación tentativa de 4Q209 frg. 26 en 78:17–79:2 solo aporta un testimonio fragmentario a la sección contigua. Véase `docs/auditoria_76-82_fuentes.md`.
+**Nota textual:** 79:4 Charles restaura solo `<the waning>`; la cifra 177 y su conversión a 25 semanas + 2 días son datos del texto. La suma coincide aritméticamente con 78:15–16 (3×30 + 3×29 = 177), pero la concordancia no vuelve segura la restauración. En 79:5 “un período” no se define con claridad; no se asocia por conjetura al ciclo de cinco u ocho años. 4Q209 frg.26 se ubica tentativamente en 78:17–79:2, por lo que no se usa como testimonio directo de 79:3–6. Véase `docs/auditoria_76-82_fuentes.md`.
