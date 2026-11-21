@@ -315,3 +315,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Added `docs/auditoria_66-67_fuentes.md` with source links and explicit limits: no direct Ge'ez, Aramaic fragments, facsimile or full apparatus collation.
 - [ ] Chapters 68–71 remain next for focused source/variant review; chapters 1–108 still not fully critically audited.
 - [ ] No new build result claimed for the current branch yet; CI runs 330–332 were in progress/queued at last check. Verify the run on the latest app-code commit.
+
+
+## 21 November 2026 — CI completed for chapter 107 artwork routing
+
+- [x] GitHub Actions run 330 on commit `9ad0d832132e9e20209290426dc00f65e90ba15f` succeeded: catalog unit tests, `assembleDebug`, and artifact upload. APK artifact 9,234,500 bytes; expires 21-12-2026 13:46 UTC. https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44910458123
+- [x] Run 332 on commit `641df2c78962fd37dcda37921800124d2f24202d` also succeeded, with the same test/build/upload steps. APK artifact 9,234,499 bytes; expires 21-12-2026 13:47 UTC. https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44910515601
+- [ ] Run 333–335 (chapter 67 text/audit/progress commits) were still in progress when checked. They contain no app-code changes after run 332; wait for completion to confirm latest documentation commits also pass workflow.
+- [ ] No physical-device or release/signing verification.
