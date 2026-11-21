@@ -305,3 +305,13 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Relevant commits: `760b346` (docs preview), `ed92dc5` (Android asset), `de6d4af` (routing), `56dc016` (paraphrase), `fea17c6` (audit), `96b502c` (illustration README), `9ad0d83` (chapter index).
 - [ ] CI run 330 for commit `9ad0d83` is pending/in progress at log update: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44910458123. No build success is claimed for these changes yet.
 - [ ] Generated 1024×1536 source image remains in the working session only; repository preview is thumbnail quality and not a print master. Physical-device visual/audio checks, full critical collation, PDF and final release APK remain outstanding.
+
+
+## 21 November 2026 — Focused source review of chapters 66–67
+
+- [x] Rechecked Charles 1917 chapter 66 (three verses) and chapter 67 (thirteen verses) in two accessible transcriptions; retained the unusual closing line of 66 without harmonization.
+- [x] Revised the chapter 67 paraphrase into four ranges (67:1–3, 4–7, 8–10, 11–13), distinguishing the “wooden (building)” editorial supply from the contextual identification as ark.
+- [x] Recorded translation/numbering differences: Charles 1917 chapter 66/67 correspond to Laurence 1883 chapters 65/66 in the comparison source; chapter 67:8 wording differs between translations. No manuscript variant is claimed from these English comparisons.
+- [x] Added `docs/auditoria_66-67_fuentes.md` with source links and explicit limits: no direct Ge'ez, Aramaic fragments, facsimile or full apparatus collation.
+- [ ] Chapters 68–71 remain next for focused source/variant review; chapters 1–108 still not fully critically audited.
+- [ ] No new build result claimed for the current branch yet; CI runs 330–332 were in progress/queued at last check. Verify the run on the latest app-code commit.
