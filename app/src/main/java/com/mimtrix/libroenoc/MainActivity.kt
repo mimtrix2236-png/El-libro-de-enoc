@@ -197,7 +197,7 @@ private fun EnocReader(celestialPlayer: CelestialAudioPlayer) {
                                                     settings.allowContentAccess = false
                                                     webViewClient = WebViewClient()
                                                     setBackgroundColor(android.graphics.Color.TRANSPARENT)
-                                                    val assetFile = if (selectedChapter == 106) "chapter_106_generated.svg" else "chapter_$selectedChapter.svg"
+                                                    val assetFile = when (selectedChapter) { 106 -> "chapter_106_generated.svg"; 107 -> "chapter_107_generated.svg"; else -> "chapter_$selectedChapter.svg" }
                                                     val assetUrl = "file:///android_asset/illustrations/$assetFile"
                                                     tag = assetUrl
                                                     loadUrl(assetUrl)
