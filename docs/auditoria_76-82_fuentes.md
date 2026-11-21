@@ -15,6 +15,8 @@ No se leyeron directamente las fotografías de los fragmentos, ni los aparatos c
 - La paráfrasis conserva el esquema de doce puertas y vientos con efectos beneficiosos o destructivos.
 - 4Q210 se asigna a fragmentos de 1 Enoc 76:3–10 y 76:13–77:4; el arameo y el etiópico no son idénticos.
 - Machiela describe doce puertas asociadas a los cuatro puntos cardinales, vientos y fenómenos meteorológicos con efectos de curación/destrucción.
+- Charles 1917/Open Scroll marca en 76:3 el tramo norte/sur con † (texto dañado) y añade `[after those on the left]`; en 76:12 `[four]` también es una adición según su clave editorial. No tratar las palabras entre signos como lectura segura.
+- Existe un preview generado `assets/generated/chapter_76_winds_gates_preview.jpg` (160×160, 19-11-2026), descrito en el README de assets. No está integrado en el lector; el app usa el SVG conceptual. No es master de impresión.
 - **Pendiente:** precisión del conteo (cuatro puertas de bendición/ocho dañinas), nombres de vientos, y cualquier lectura de lagunas.
 
 ### 77 — Regiones del mundo
