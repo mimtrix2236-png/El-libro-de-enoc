@@ -21,7 +21,7 @@ No se leyeron directamente las fotografías de los fragmentos, ni los aparatos c
 
 ### 77 — Regiones del mundo
 - Se conserva la descripción de cuadrantes, tres divisiones terrestres, montañas, ríos e islas.
-- 4Q210/4Q209 se solapan parcialmente en 77:2–3; los nombres y etimologías de direcciones divergen entre arameo y etiópico. La razón del sur en el etiópico (“el Altísimo desciende”) difiere de la explicación aramea (“el Grande habita”); el oeste también presenta un juego de palabras distinto.
+- 4Q209 frg. 23.5–8 // 4Q210 1ii15–18 corresponde a 77:2–3; 4Q209 frg. 23 también contiene material relacionado con 76:13–77:4. Es evidencia fragmentaria, no capítulo completo. Las etimologías de direcciones divergen entre Aramaico y Ge'ez; no se fija una lectura. Charles marca `†west†` como dañado en 77:5, `‹two of them to›` como restaurado y `[and some say: into the desert]` como adición en 77:7.
 - **Pendiente:** cotejar edición aramea de Milik/Drawnel, letras conservadas y suplementos antes de traducir etimologías.
 
 ### 78 — Sol y Luna
