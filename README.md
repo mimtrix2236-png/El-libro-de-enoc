@@ -42,6 +42,8 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Flujo CI verificado; APK debug de desarrollo, no release final.
 
 ## Registro de trabajo reciente
+
+- Ilustración generada específica para el capítulo 89 reemplazó el SVG en source y assets Android; preview 128×192, master de impresión pendiente. Registro: assets/generated/README.md.
 - Fuente-audit de capítulos 76–82: `docs/auditoria_76-82_fuentes.md`; notas críticas agregadas a cada paráfrasis, sin convertirlas en traducciones finales. Revisión de fuentes secundarias y bibliografía; cotejo directo de manuscritos aún pendiente.
 
 - Fuente-audit 83–90: `docs/auditoria_83-90_fuentes.md`; notas por capítulo añadidas, con variante aramea más corta de 89:1b–9 y debate de división 89:55–58/89:59–90:42 registrados.
