@@ -26,8 +26,10 @@ No se leyeron directamente las fotografías de los fragmentos, ni los aparatos c
 
 ### 78 — Sol y Luna
 - Se conserva la explicación antigua de nombres, fases y proporciones, sin tratarla como astronomía moderna.
-- 4Q210 frg. 1 iii se ubica en 78:6–8 y preserva fragmentariamente datos sobre los días 14/15 y la plenitud de la luz. 4Q209 frg. 26 se coloca de manera tentativa en 78:17–79:2; esa ubicación es “loose”, no segura.
-- La reproducción digital de Charles 1917 informa que el material de capítulo 78 aparece continuado bajo el encabezado 77 (falta encabezado, no material). Debe revisarse la numeración contra el impreso y otras ediciones.
+- Machiela 2023 confirma que 4Q210 contiene porciones de 76–78; una concordancia secundaria (Theosis Library) asigna 1iii a 78:6–8, pero el perfil de Machiela no confirma esa asignación exacta. 4Q209 frg. 26 se coloca tentativamente en 78:17–79:2; esa ubicación es “loose”, no segura.
+- Machiela 2023 señala que 4Q208 contiene solo el calendario sincronístico en los fragmentos existentes; 78:6–17 es una extracción etiópica muy abreviada que usa terminología dependiente de un calendario como 4Q208, no texto arameo directo de esos versículos.
+- El scan de Charles 1917 tiene el título de sección LXXVIII pero el encabezado de capítulo impreso `CHAPTER LXXVII` (error de numeración); Open Scroll y otras transcripciones usan 78. Debe registrarse el error, no afirmar que falta el material.
+- Charles 78:6 tiene doble marca `[[...]]` en el impreso (Ethiopic-only según su clave); 78:11 contiene una frase entre corchetes simples (interpolación según la clave). Open Scroll simplifica la marca de 78:6, por lo que el scan debe preferirse para el signo.
 
 ### 79 — Recapitulación
 - 79:4 conserva en Charles una lectura suplementada/restaurada sobre “la mengua” y 177 días; el total se expresa también como 25 semanas y 2 días.
