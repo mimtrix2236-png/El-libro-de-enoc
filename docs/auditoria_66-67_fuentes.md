@@ -1,4 +1,4 @@
-# Auditoría preliminar de fuentes — capítulos 66–67
+# Auditoría preliminar de fuentes — capítulos 66–68
 
 **Fecha de consulta:** 21-11-2026  
 **Base de versificación:** R. H. Charles, *The Book of Enoch* (1917).  
@@ -26,3 +26,13 @@ La transcripción comparativa de Richard Laurence (1883) registra la sección de
 - Lawrence 1883, numeración paralela: https://summascriptura.thebookofenoch.info/html/Enoch_1_RL.html
 
 **No verificado:** Ge'ez directamente, fragmentos arameos, aparato crítico Knibb/Nickelsburg, fotos de manuscritos, derechos/licencia de traducción para incorporar una traducción íntegra. Charles 1917 se usa aquí como fuente de trabajo de dominio público; las paráfrasis son originales.
+
+
+## Capítulo 68 — revisión de fuente y transmisión
+
+- Charles 1917 presenta cinco versículos: transmisión de la enseñanza a Noé (68:1), dos expresiones de estremecimiento/compasión (68:2–3), negativa de Miguel a interceder (68:4), y sentencia definitiva (68:5). Se revisó la paráfrasis en esas unidades.
+- La sección de Parábolas (1 Enoc 37–71) no cuenta con fragmentos conocidos de Qumrán; se conserva en Ge'ez y no se conoce un fragmento griego. Este dato es de la sección completa y no prueba por sí solo una fecha/procedencia concreta.
+- Devorah Dimant, “The ‘Book of Parables’ (1 Enoch 37–71) and the Qumran Scrolls,” *Meghillot* 3 (2005), 49–67, ficha y abstract: https://cris.haifa.ac.il/en/publications/ספר-המשלים-חנוך-החבשי-לז-עא-ומגילות-קומראן/ . Orlov, “Enoch, Similitudes of,” Marquette/MAQOM: https://www.marquette.edu/maqom/2enochdic123.pdf.
+- Charles 1917 68:1 “grandfather Enoch”/otros traductores “great-grandfather” se registra como diferencia de traducción, no variante de manuscrito, hasta cotejar Ge'ez.
+- Numeración paralela: en la transcripción de Lawrence 1883, Charles 68 corresponde al capítulo 67 de Lawrence; se mantiene Charles en esta edición.
+- No se cotejaron Ge'ez, manuscritos ni aparato crítico. La paráfrasis sigue siendo provisional.
