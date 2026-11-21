@@ -339,3 +339,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Verified Charles's bracket key in the preface (p. xxiv): square brackets mark interpolations. Recorded the bracketed name list (69:2), clauses 69:22–24, and 69:25 wording. This is Charles's editorial mark, not a manuscript collation.
 - [x] Kept Biqa/Akae forms at 69:13/15 distinct pending original-language review; added chapter 69 notes to the audit file.
 - [ ] Chapter 69 still provisional; chapter 70 is next. Direct Ge'ez/critical apparatus review remains outstanding.
+
+
+## 21 November 2026 — Chapter 70 translation comparison
+
+- [x] Rechecked Charles 1917 chapter 70 (four verses) and revised the paraphrase, leaving the subject/pronoun ambiguity in 70:1–2 open rather than asserting Enoch's name or the Son of Man as the referent.
+- [x] Compared the English syntax in Charles 1917 and Laurence 1883; noted differences in “his name,” “chariots of the spirit,” “vanished/went forth,” and “two winds/two spirits” as translation differences only.
+- [x] Added chapter 70 to the audit document (now 66–70); sources consulted online, no Ge'ez or apparatus collation.
+- [ ] Chapter 71 next; chapter 70 remains provisional pending critical text review.
