@@ -20,8 +20,10 @@
 - R. H. Charles, *The Book of Enoch* (1917), cap. LXXII, transcripción de Open Scroll: https://openscrollproject.org/app/ancient/1EN-72 (consulta 21-11-2026).
 - Charles 1917, transcripción en Apologetics Wiki: https://apologetics.wiki/non-canonical/book-of-enoch/72 y MannaFest: https://www.mannafest.faith/read/apocrypha/1-enoch/72 (consulta 21-11-2026).
 - Charles, edición de 1917, scan/transcripción: https://cleartexteditions.com/ct/public%20domain/1%20enoch%20-%20translated%20by%20%20R.%20H.%20Charles.pdf.
+- Annette Y. Reed, “Writing Jewish Astronomy in the Early Hellenistic Age” (2017), sobre 4Q208–4Q211: https://www.academia.edu/41260644/Annette_Y_Reed_Writing_Jewish_Astronomy_in_the_Early_Hellenistic_Age_The_Enochic_Astronomical_Book_as_Aramaic_Wisdom_and_Archival_Impulse_Dead_Sea_Discoveries_24_1_March_2017_1_37.
+- Dennis Duke y Matthew Goff, “The Astronomy of the Qumran Fragments 4Q208 and 4Q209,” *Dead Sea Discoveries* 21 (2014), 176–210: https://www.academia.edu/74065425/The_Astronomy_of_the_Qumran_Fragments_4Q208_and_4Q209.
 
-## Nota editorial
-La descripción de 364 días y las proporciones de puertas pertenecen al modelo cosmológico antiguo del capítulo. No se equiparan automáticamente con estaciones, equinoccios o mediciones astronómicas modernas. La paráfrasis resume el esquema y no verifica matemáticamente cada número en la tradición manuscrita.
+## Nota editorial y transmisión
+La descripción de 364 días y las proporciones de puertas pertenecen al modelo cosmológico antiguo del capítulo. No se equiparan automáticamente con estaciones, equinoccios o mediciones astronómicas modernas. La paráfrasis resume el esquema y no verifica matemáticamente cada número en la tradición manuscrita. El Libro Astronómico tiene testimonios arameos de Qumrán (4Q208–4Q211), pero la bibliografía consultada señala que las coincidencias directas de 4Q209 se concentran en partes de 76–79 y 82, mientras 4Q208 preserva material calendárico lunar; no se identificó aquí un fragmento que reproduzca directamente 72:1–37. La relación entre las versiones aramea y etiópica es compleja y no debe tratarse como un único texto fijo.
 
 **Pendiente:** cotejar 72:6 y las marcas editoriales de Charles con aparato crítico; revisar las diferencias de puertas, meses y días; comparar el calendario de 364 días con Jubileos y Qumrán, sin armonizar las fuentes.
