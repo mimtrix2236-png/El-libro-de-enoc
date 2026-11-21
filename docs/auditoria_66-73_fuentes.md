@@ -1,0 +1,84 @@
+# Auditoría preliminar de fuentes — capítulos 66–73
+
+**Fecha de consulta:** 21-11-2026  
+**Base de versificación:** R. H. Charles, *The Book of Enoch* (1917).  
+**Alcance:** consulta de transcripciones públicas; no cotejo de manuscritos/facsímiles ni edición crítica completa.
+
+## Capítulo 66 (Charles 1917)
+- El capítulo tiene tres versículos: se muestran los ángeles encargados de las aguas inferiores, se ordena contenerlas en vez de hacerlas subir, y el cierre dice que el narrador se apartó de la presencia de Enoc.
+- La traducción de trabajo de `docs/chapters/66_capitulo_66_traduccion_de_trabajo.md` conserva el suplemento inglés “[abide and]” entre corchetes y no armoniza la frase final “I went away from the presence of Enoch”.
+- La paráfrasis de `docs/chapters/66_capitulo_66_parafrasis.md` resume los tres movimientos, pero no pretende traducir literalmente el capítulo.
+
+## Capítulo 67 (Charles 1917)
+- 67:1–3: declaración de favor a Noé y promesa de preservar la estructura de madera para que la semilla de vida continúe.
+- 67:4–7: valle occidental, minerales/metales, aguas perturbadas, azufre y corrientes de fuego; castigo de los ángeles que desviaron a los habitantes.
+- 67:8–10: aguas de alivio corporal y juicio espiritual; los poderosos continúan negando al Señor; se anuncia cambio del espíritu ante el juicio.
+- 67:11–13: cambio de temperatura de las fuentes, agua fría cuando los ángeles ascienden, y testimonio contra los poderosos; las aguas acabarán como fuego.
+- 67:2: Charles imprime “wooden (building)”; “building” es una aclaración editorial. “Arca” se interpreta por contexto, pero no se registra como sustantivo explícito verificado.
+- 67:8: Charles 1917 y Laurence 1883 difieren en la formulación inglesa (“healing of the body” vs. “healing of soul and body”). Se trata como diferencia de traducción hasta que se coteje el original.
+
+## Diferencia de numeración
+La transcripción comparativa de Richard Laurence (1883) registra la sección de Charles 1917 capítulo 66 como Lawrence 65, y Charles 67 como Lawrence 66. La edición de esta app seguirá Charles 1917; los números no se deben combinar entre ediciones sin una tabla de concordancia.
+
+## Fuentes en línea consultadas
+- Charles 1917, 1 Enoch 66: https://thebookandme.com/read/1-enoch-the-book-of-parables-chapters-37-71/66/ y https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_66
+- Charles 1917, 1 Enoch 67: https://thebookandme.com/read/1-enoch-the-book-of-parables-chapters-37-71/67/ y https://rojc.uk/book-of-enoch.htm
+- Lawrence 1883, numeración paralela: https://summascriptura.thebookofenoch.info/html/Enoch_1_RL.html
+
+**No verificado:** Ge'ez directamente, fragmentos arameos, aparato crítico Knibb/Nickelsburg, fotos de manuscritos, derechos/licencia de traducción para incorporar una traducción íntegra. Charles 1917 se usa aquí como fuente de trabajo de dominio público; las paráfrasis son originales.
+
+
+## Capítulo 68 — revisión de fuente y transmisión
+
+- Charles 1917 presenta cinco versículos: transmisión de la enseñanza a Noé (68:1), dos expresiones de estremecimiento/compasión (68:2–3), negativa de Miguel a interceder (68:4), y sentencia definitiva (68:5). Se revisó la paráfrasis en esas unidades.
+- La sección de Parábolas (1 Enoc 37–71) no cuenta con fragmentos conocidos de Qumrán; se conserva en Ge'ez y no se conoce un fragmento griego. Este dato es de la sección completa y no prueba por sí solo una fecha/procedencia concreta.
+- Devorah Dimant, “The ‘Book of Parables’ (1 Enoch 37–71) and the Qumran Scrolls,” *Meghillot* 3 (2005), 49–67, ficha y abstract: https://cris.haifa.ac.il/en/publications/ספר-המשלים-חנוך-החבשי-לז-עא-ומגילות-קומראן/ . Orlov, “Enoch, Similitudes of,” Marquette/MAQOM: https://www.marquette.edu/maqom/2enochdic123.pdf.
+- Charles 1917 68:1 “grandfather Enoch”/otros traductores “great-grandfather” se registra como diferencia de traducción, no variante de manuscrito, hasta cotejar Ge'ez.
+- Numeración paralela: en la transcripción de Lawrence 1883, Charles 68 corresponde al capítulo 67 de Lawrence; se mantiene Charles en esta edición.
+- No se cotejaron Ge'ez, manuscritos ni aparato crítico. La paráfrasis sigue siendo provisional.
+
+
+## Capítulo 69 — control de corchetes e interpolaciones
+
+- Charles 1917 presenta 29 versículos; se reordenó la paráfrasis por 69:1–3 (nombres/rangos), 4–12 (funciones), 13–15 (juramento/nombre), 16–25 (orden cósmico) y 26–29 (Hijo del Hombre y juicio).
+- La clave de Charles (prefacio p. xxiv) explica que los corchetes simples `[ ]` marcan interpolaciones; el texto de 69:2 contiene la lista de nombres entre corchetes; 69:22–24 aparecen entre corchetes; y 69:25 marca `[they are preserved and]`. Esto es el juicio editorial de Charles, no una lectura paleográfica confirmada aquí.
+- El texto usa Biqa en 69:13 y Akae en 69:15 para el juramento; se dejan sin armonizar.
+- Fuentes consultadas: Charles 1917 capítulo 69 (transcripción TheBookAndMe/Open Scroll) y clave editorial en el PDF de Charles: https://cleartexteditions.com/public%20domain/1%20enoch%20-%20translated%20by%20%20R.%20H.%20Charles.pdf.
+- No se cotejó el Ge'ez, griego, manuscritos ni aparato crítico de Knibb/Nickelsburg-VanderKam; las paráfrasis y la identificación de interpolaciones siguen provisionales.
+
+
+## Capítulo 70 — pronombres y diferencias de traducción
+
+- Charles 1917 capítulo 70 tiene cuatro versículos. Se revisó la paráfrasis y se dejó sin resolver el antecedente de “his name” en 70:1–2.
+- La traducción de Charles 1917: el nombre de una figura se eleva hacia “that Son of Man” y el Señor de los Espíritus; luego la figura es llevada en carros del espíritu y su nombre desaparece. Laurence 1883 reestructura la frase para hacer del “Son of Man” el sujeto explícito de la exaltación. En 70:3 también varían “two winds”/“two spirits”, “numbered”/“drawn into the midst”, y el agente de la colocación.
+- Estas son diferencias entre traducciones; no se registran como variantes de manuscritos. El resumen evita resolver si la figura inicial es Enoc o el Hijo del Hombre.
+- Fuentes: Charles 1917, Wikisource/TheBookAndMe; Laurence 1883, comparación en Apocrypha Library: https://apocryphalibrary.weebly.com/1-enoch-70.html.
+- Pendiente cotejo de Ge'ez y aparato crítico; la paráfrasis sigue provisional.
+
+
+## Capítulo 71 — emendación de Charles y laguna conjetural
+
+- Se reescribió la paráfrasis por tramos y se anotó la laguna de 71:13. Charles 1917 imprime una reconstrucción entre corchetes: la supuesta descripción del Hijo del Hombre junto al Anciano de Días y la pregunta de Enoc; se conserva como conjetura del editor, no como texto transmitido.
+- Charles 1912/1917 emienda 71:14 a tercera persona (“This is the Son of Man”) y modifica pronombres en 71:15–16. La nota crítica consultada en Intertextual Bible, citando Nickelsburg/VanderKam 2012, pp. 321, 327–328, indica que el Ge'ez conservado presenta segunda persona y que la emendación no tiene apoyo manuscrito conocido. Esta información se registra con atribución; no se cotejó directamente Ge'ez.
+- Se anota que traducciones de segunda persona varían entre “you are a son of man” y “you are that Son of Man”; artículo/capitalización y la relación con el Hijo del Hombre anterior siguen discutidos. No se decide la identidad mediante paráfrasis.
+- Fuentes: Charles 1917 scan (cap. 71 y laguna), Intertextual Bible, nota a 71:14–16, y David Wilber (fuente secundaria de discusión). URLs se registran en el capítulo 71.
+- El texto de las Parábolas 37–71 no tiene testigos arameos o griegos conocidos; para 71:14 la evidencia citada corresponde al Ge'ez, no a Qumrán. La verificación de la lectura Ge'ez en manuscritos/facsímiles sigue pendiente.
+
+
+## Capítulo 72 — control de esquema y testimonios
+
+- Charles 1917, cap. 72, tiene 37 versículos. Se revisó el resumen por tramos y se anotó la secuencia de puertas y proporciones día/noche sin reinterpretarla como estaciones modernas ni validar el cálculo como astronomía real.
+- El esquema en Charles: cuarta puerta (30 mañanas, 10/8), quinta (30, 11/7), sexta (31, 12/6); regreso por sexta (30, 11/7), quinta (30, 10/8), cuarta (31, 9/9), tercera (30, 10/8), segunda (30, 11/7), primera (31, 12/6), y retorno de nuevo por primera/segunda/tercera hasta 9/9. El cierre afirma un año de 364 días.
+- Se registran marcas de edición de Charles en 72:6 y las correcciones con signo + en 72:12, 72:18, 72:28, sin decidir su origen hasta consultar la clave y el aparato directamente.
+- Contexto de manuscritos: el Libro Astronómico arameo se representa en 4Q208–4Q211; la bibliografía consultada señala que 4Q208 es en gran parte un calendario lunar sincronístico y que 4Q209 tiene paralelos en 76–79 y 82. No se identificó en las fuentes consultadas un fragmento que reproduzca directamente 72:1–37. No se colacionaron fotografías ni el aparato de Drawnel/DJD.
+- Fuentes: Charles 1917/Open Scroll; Annette Y. Reed 2017; Dennis Duke y Matthew Goff 2014 (artículos sobre 4Q208–4Q209).
+- Pendiente: cotejo del texto de 72 con la edición crítica de Drawnel y DJD 36, revisar signos editoriales, comparar la versión aramea y etiópica sin reconstruir pasajes ausentes.
+
+
+## Capítulo 73 — fases lunares y límites de reconstrucción
+
+- Charles 1917 capítulo 73 contiene ocho versículos. La paráfrasis se amplió en 73:1–2 (luminar menor), 3 (ciclo), 4 (primera visibilidad), 5–6 (fracciones) y 7–8 (salida/puesta y aumento de luz).
+- La descripción numérica es compleja; se mantiene como esquema del texto, no se corrige ni se convierte a una fórmula moderna.
+- 4Q208–4Q209 preservan material de calendario lunar. La reseña de Drawnel consultada indica que la reconstrucción de 4Q209 y la relación con 1 Enoc 73:4–8 dependen de patrones y de la versión etiópica porque no hay texto arameo directo conservado para ese pasaje. Duke/Goff 2014 analizan las fracciones de 4Q208–4Q209 como un esquema de visibilidad lunar; la relación con observaciones reales es esquemática y debatida.
+- Fuentes: Charles 1917/Open Scroll; Duke & Goff, *Dead Sea Discoveries* 21 (2014), 176–210; Helen R. Jacobus, reseña de Drawnel (2011). Las URLs y limitaciones se anotan en el capítulo 73.
+- No se cotejó Ge'ez, fotografías ni la edición DJD/Drawnel directamente. No reconstruir versículos a partir de analogías.
