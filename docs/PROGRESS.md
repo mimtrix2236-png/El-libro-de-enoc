@@ -323,3 +323,11 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Run 332 on commit `641df2c78962fd37dcda37921800124d2f24202d` also succeeded, with the same test/build/upload steps. APK artifact 9,234,499 bytes; expires 21-12-2026 13:47 UTC. https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44910515601
 - [ ] Run 333–335 (chapter 67 text/audit/progress commits) were still in progress when checked. They contain no app-code changes after run 332; wait for completion to confirm latest documentation commits also pass workflow.
 - [ ] No physical-device or release/signing verification.
+
+
+## 21 November 2026 — Chapter 68 source review
+
+- [x] Rechecked the five verse units of Charles 1917 chapter 68 in accessible transcriptions and revised the paraphrase into 68:1, 2–3, and 4–5.
+- [x] Recorded transmission note: the Book of Parables (37–71) has no known Qumran fragments; the absence is debated in scholarship and is not treated as proof of a specific date or provenance. Added Devorah Dimant (2005) and Marquette/MAQOM reference links.
+- [x] Added chapter 68 notes to `docs/auditoria_66-67_fuentes.md` (now covers 66–68). Charles/Lawrence numbering differences are tracked; no Ge'ez, Greek, Aramaic manuscript or apparatus direct collation claimed.
+- [ ] Chapter 69 is next; 68 remains provisional until critical edition and manuscript checks.
