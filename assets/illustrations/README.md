@@ -50,5 +50,6 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 
 ## Previews generados integrados
 
+- Capítulo 92: `chapter_92_generated.svg` — grabado sepia con Enoc en el sendero hacia la luz y rollo abierto; preview raster embebido 128×192. El master 1024×1536 está disponible como archivo de trabajo, no archivado en Git. El vector conceptual anterior sigue en `chapter_92.svg`.
 - Capítulo 106: `chapter_106_generated.svg` — preview raster embebido, 160×240 px; no master de impresión.
 - Capítulo 107: `chapter_107_generated.svg` — grabado sepia con Enoc, Matusalén, familia con el recién nacido y arca distante (elemento contextual no literal), 120×180 px; no master de impresión. El concepto vectorial original se conserva en `chapter_107.svg`.
