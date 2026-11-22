@@ -1,20 +1,22 @@
 # Capítulo 92 — El libro de instrucción y la esperanza (paráfrasis provisional)
 
-> **Estado editorial:** borrador de paráfrasis; no es traducción literal ni texto versículo por versículo. Cotejo crítico pendiente.
+> **Estado editorial:** paráfrasis original de cinco versículos; no es traducción literal. El cotejo crítico final y la verificación directa de manuscritos siguen pendientes.
 
-El texto se presenta como un libro de Enoc dirigido a sus hijos y a las generaciones que mantengan rectitud y paz. Les pide que no se angustien por los tiempos, porque cada período tiene su lugar. La figura del justo se levanta, camina por la senda de justicia y recibe bondad, gracia y luz eterna. La visión afirma que el pecado desaparecerá y ya no será visto.
+**92:1.** Enoc presenta este escrito de sabiduría a sus hijos y a las generaciones que vivirán con rectitud y paz. La frase elogiosa entre corchetes en la edición de Charles se considera una adición editorial/interpolación propuesta por él, no una lectura segura del texto.
 
-**Idea central:** el escrito transmite esperanza: el tiempo está bajo orden divino y la justicia no termina en la oscuridad.
+**92:2.** A los destinatarios se les pide no desalentarse por la época que atraviesan: el Santo ha establecido un tiempo para cada cosa.
 
-**Ilustración propia:** assets/illustrations/chapter_92.svg — un rollo abierto sobre una mesa de madera, con un camino iluminado que sale de la página hacia un horizonte claro.
+**92:3–4.** El justo se despierta y camina por la senda recta; su vida se caracteriza por bondad y gracia, y recibe justicia duradera y luz eterna.
 
-**Fuente de trabajo:** R. H. Charles, *The Book of Enoch* (1912), cap. XCII, https://rojc.uk/book-of-enoch.htm; https://fishtheright.com/writings/enoch/92/ (consultadas 19-11-2026). Paráfrasis original.
+**92:5.** El pecado queda condenado a desaparecer en oscuridad y, según la promesa, ya no volverá a manifestarse.
 
-**Nota textual:** Charles coloca el capítulo 92 antes de 91 dentro de su orden editorial. Se conserva el número tradicional aquí y se anotará el orden en el aparato. Cotejo pendiente.
+**Idea central:** una breve apertura de exhortación y esperanza afirma que el tiempo no está fuera del orden divino y que la justicia tiene un futuro permanente.
 
+**Ilustración generada específica:** `assets/illustrations/chapter_92_generated.svg` — Enoc en un sendero entre sombra y amanecer, con un rollo abierto como símbolo de la enseñanza. Preview 128×192; el vector conceptual original permanece en `chapter_92.svg`.
 
-## Nota de cotejo documental — revisión 19-11-2026
+**Fuentes de trabajo verificadas en esta revisión:**
+- R. H. Charles, *The Book of Enoch* (1917), capítulo XCII, transcripción de CCEL: https://ccel.org/ccel/charles/otpseudepig/files/enoch/ENOCH_5.HTM. La edición identifica su orden como XCII; XCI 1–10, 18–19; XCIII 1–10; XCI 12–17; XCIV–CIV.
+- Open Scroll Project, capítulo 92: https://openscrollproject.org/app/ancient/1EN-92 (reproducción de Charles 1917; registra su nota de interpolación en 92:1).
+- Stuckenbruck, *1 Enoch 91–108* (2007), resumen del testimonio fragmentario de 4QEng/4Q212: fragmento a asignado a 91:10, 18–19 y 92:1–2; fragmentos b,c a 92:5 y 93:1–4, entre otros. No se cotejaron fotografías ni aparato completo.
 
-92:1–5 funciona como introducción del libro/exhortación epistolar en la organización crítica de Stuckenbruck (2007; 2010). 4Q212 frg. a se asigna a 92:1–2; es un testimonio muy fragmentario y no confirma el resto de la paráfrasis. La formulación “a las generaciones” y el alcance del prólogo deben verificarse por separado en los testigos Ge'ez y arameo.
-
-**Pendiente:** cotejo directo de 92:1–5 con 4Q212 y las ediciones críticas; el resumen sigue provisional.
+**Nota de orden y testimonio:** la organización de Charles reordena las unidades 91–93 respecto del orden tradicional etiópico. El capítulo 92 contiene cinco versículos en el texto de Charles. La asignación de 4Q212 a 92:1–2 se registra como información bibliográfica, no como verificación directa del fragmento.
