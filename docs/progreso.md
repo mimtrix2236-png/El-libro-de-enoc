@@ -153,3 +153,12 @@
 - [x] CI run 317, commit ff195efe91850f5c3625c79805dc71b43f166e5f: tests del catálogo, assembleDebug y upload artifact, todos exitosos. APK debug 9,229,830 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743708994.
 - [x] CI run 320, commit bf53c357b74a38f5a5572982706f070c36abd221 (incluye actualización documental posterior): éxito y artifact debug APK 9,229,829 bytes; run https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743746076; expiración 20-12-2026 13:24 UTC.
 - [ ] No se probó runtime en dispositivo. Los APK son debug temporales, no release final.
+
+
+## 22 de noviembre de 2026 — revisión del capítulo 92 e ilustración generada
+- Revisé el texto del capítulo 92 en Charles 1917 (CCEL) y Open Scroll: la unidad tiene cinco versículos; 92:1 incluye una frase entre corchetes que Charles marca como interpolación editorial. Reescribí el borrador en cinco unidades para no ocultar esa nota ni presentar una traducción literal.
+- Registré que el orden de Charles organiza XCII antes de XCI 1–10, 18–19; XCIII 1–10; XCI 12–17; y XCIV–CIV. No fijé el orden crítico como definitivo.
+- La asignación fragmentaria 4Q212 a 92:1–2 está documentada en Stuckenbruck; no se inspeccionaron fotografías del fragmento.
+- Generé arte específico para capítulo 92 (Enoc en sendero de sombra hacia amanecer con rollo abierto). Master 1024×1536 JPG en archivo de trabajo; preview 128×192 integrado como SVG con raster embebido, tanto en assets editoriales como en Android. El SVG conceptual anterior se conserva.
+- Actualicé la selección de asset de MainActivity para cargar el preview generado al abrir/cambiar a capítulo 92. Build/CI y render en dispositivo siguen pendientes.
+- Próximo: seguir con QA de capítulos 93–108 y el lector, y preparar comprobaciones de CI, PDF y APK final. No se declara terminada la edición.
