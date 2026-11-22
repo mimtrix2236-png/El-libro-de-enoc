@@ -22,6 +22,7 @@ Se revisaron las paráfrasis 91–95, Charles 1917 y los datos publicados de la 
 - El borrador inicial solo resumía 93:1–10 y omitía 93:11–14. Se añadió una paráfrasis original de la unidad que pregunta por los límites del conocimiento humano ante los misterios celestiales y la grandeza divina.
 - 4Q212 conserva fragmentos asignados a 93:2–4, 93:9–10 y 93:11–14; el fragmento copto Antinoë se asigna a 93:3–8. Ninguno es testimonio completo.
 - 93:11–14 no debe confundirse con la Apocalipsis de las Semanas: pertenece a otra unidad de la colección (Epístola en la clasificación crítica consultada).
+- Charles 1917 imprime 93:11–14 entre corchetes; el mapeo de 4Q212 incluye fragmentos asignados a esa unidad, así que los corchetes se registran como juicio editorial y no como demostración de interpolación tardía.
 - **Pendiente:** cotejo de 93:1–10 y 93:11–14 por separado, incluyendo orden y diferencias entre Ge'ez, Aramaic y Coptic.
 
 ## 94 — Ayes y exhortación
