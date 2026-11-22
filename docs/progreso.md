@@ -162,3 +162,8 @@
 - Generé arte específico para capítulo 92 (Enoc en sendero de sombra hacia amanecer con rollo abierto). Master 1024×1536 JPG en archivo de trabajo; preview 128×192 integrado como SVG con raster embebido, tanto en assets editoriales como en Android. El SVG conceptual anterior se conserva.
 - Actualicé la selección de asset de MainActivity para cargar el preview generado al abrir/cambiar a capítulo 92. Build/CI y render en dispositivo siguen pendientes.
 - Próximo: seguir con QA de capítulos 93–108 y el lector, y preparar comprobaciones de CI, PDF y APK final. No se declara terminada la edición.
+
+## 22 de noviembre de 2026 — aclaración editorial de 1 Enoc 93
+- Separé la paráfrasis de 93:1–10 (siete semanas) del poema 93:11–14 en el borrador y en el catálogo offline Android.
+- Charles 1917 imprime 93:11–14 entre corchetes, pero Stuckenbruck asigna fragmentos de 4Q212 a esa unidad; por tanto, los corchetes son un juicio editorial y no prueba de interpolación tardía. Se documenta la cautela.
+- La ilustración de 93 sigue siendo SVG conceptual de siete arcos/columnas; no se reemplazó con una imagen generada genérica. Build y prueba de render siguen pendientes.
