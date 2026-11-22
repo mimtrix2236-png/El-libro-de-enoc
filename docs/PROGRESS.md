@@ -3,12 +3,12 @@
 Autor de esta edición: **Mauro Iván Maidana**  
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
-## Estado actual — 19 de noviembre de 2026
+## Estado actual — 22 de noviembre de 2026
 
 ### Libro
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; 66–108 son borradores, capítulo 66 además tiene traducción indirecta en archivo separado.
 - [x] Capítulos 66–108: 43 archivos con resumen, fuente, notas e idea de ilustración; capítulo 66 tiene traducción indirecta desde Charles (1917); cotejo crítico/versicular pendiente.
-- [x] 43 SVG individuales 66–108 y copias Android; capítulos 66–75 refinados en escenas más detalladas; 76–108 siguen conceptuales y requieren revisión artística.
+- [x] 43 SVG individuales 66–108 y copias Android; capítulos 66–75 refinados. Previews generados integrados en 89, 92, 106 y 107; 76 tiene preview registrado. Los capítulos 76–108 aún requieren revisión artística; los previews generados son de baja resolución y no master de impresión.
 - [ ] Traducción final y cotejo versículo por versículo; aparato de variantes; apéndices completos; PDF de libro.
 
 ### Aplicación
