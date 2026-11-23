@@ -82,3 +82,9 @@ Se guardó `assets/generated/chapter_76_winds_gates_preview.jpg`, una preview IA
 
 ### CI reciente
 El CI de los commits de notas falló por un paréntesis de cierre faltante en `LaterEnocContent66_80.kt`, capítulo 66. Se corrigió en `78a256b5d5433821be2063e3001142ecf1532047`. La ejecución de esa corrección todavía debe confirmarse; no se declara build success.
+
+## Revisión incremental — 23 de noviembre de 2026
+- Capítulo 94: borrador editorial expandido a 11 unidades por versículo y catálogo Android actualizado. Separación entre 94:1–5 (marco/exhortación) y 94:6–11 (ayes); suplemento 94:7 y frase difícil 94:5 anotados.
+- Fuentes: Charles 1917/1912 y extracto digital Stuckenbruck 2007 revisados. La asignación aramea citada de 4Q212 a 94:1–2 es fragmentaria; no se afirma que 94:3–11 esté atestiguado ni que la ausencia de fragmento pruebe inexistencia.
+- Arte generado específico de 94 integrado como preview embebido en SVG en editorial y Android; el master 1024×1536 no se ha archivado en GitHub. La calidad de impresión queda pendiente.
+- La actualización aún no tiene build CI verificado ni prueba de render en dispositivo.
