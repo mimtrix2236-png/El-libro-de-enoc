@@ -25,11 +25,13 @@ Se revisaron las paráfrasis 91–95, Charles 1917 y los datos publicados de la 
 - Charles 1917 imprime 93:11–14 entre corchetes; el mapeo de 4Q212 incluye fragmentos asignados a esa unidad, así que los corchetes se registran como juicio editorial y no como demostración de interpolación tardía.
 - **Pendiente:** cotejo de 93:1–10 y 93:11–14 por separado, incluyendo orden y diferencias entre Ge'ez, Aramaic y Coptic.
 
-## 94 — Ayes y exhortación
-- 94:1–5 y 94:6–11 son unidades distinguibles en Charles; la paráfrasis los resume conjuntamente.
-- 4Q212 se asigna solo a 94:1–2 en el mapeo consultado. No se atribuye testimonio arameo directo a 94:3–11 en esta revisión.
-- **Pendiente:** separar 94:1–5 y 94:6–11, cotejar los ayes, términos sobre riqueza/violencia y suplementos.
-
+## 94 — Senda de justicia y ayes contra la opresión
+- **Estructura:** 94:1–5 funciona como exhortación del marco de la Epístola; 94:6–11 abre la serie de ayes contra los pecadores (en especial, opresión, engaño y riqueza como falsa seguridad). No deben resumirse como un único bloque indiferenciado.
+- **4Q212 (4QEnochᵍ):** Stuckenbruck asigna material fragmentario a 94:1–2. El fragmento no cubre el capítulo entero; 94:3–5 y 94:6–11 no se presentan como conservados en esa asignación. La falta de fragmento atribuido no demuestra que la unidad no existiera.
+- **94:5:** la frase final de Charles es de difícil interpretación. El borrador registra la exhortación a conservar sabiduría y la advertencia de que se la intentará despreciar, sin forzar una lectura del cierre.
+- **94:7:** Charles imprime entre corchetes un suplemento sobre adquisición de oro/plata mediante juicio. Se mantiene como nota editorial y no se incorpora a la paráfrasis base.
+- **Revisión:** se expandió el borrador a once unidades numeradas, siguiendo el texto de Charles 1917 como base de trabajo. Se consultó también la transcripción de Charles 1912 y un extracto digital de Stuckenbruck 2007 (introducción y comentario). No se inspeccionaron fotos del manuscrito ni aparatos críticos completos.
+- **Pendiente:** cotejo Ge'ez, variantes y límites del fragmento arameo; revisión del suplemento y de la frase ambigua de 94:5.
 ## 95 — Lamentación y ayes
 - No se identificó en el mapeo consultado de 4Q212 un fragmento directo de 95. El borrador se basa provisionalmente en la tradición etiópica/Charles.
 - **Pendiente:** cotejo de la secuencia de ayes y frases de lamentación, sin reconstruir lagunas.
@@ -42,3 +44,5 @@ Se revisaron las paráfrasis 91–95, Charles 1917 y los datos publicados de la 
 
 ## Cambios incorporados
 Se agregaron notas a las paráfrasis 91–95 y se completó el contenido resumido de 93:11–14. La edición sigue siendo provisional y no se presenta como traducción crítica.
+4. R. H. Charles, *The Book of Enoch* (SPCK, 1917), caps. 91–95, texto de dominio público; reproducción digital Project Gutenberg eBook 77935, revisada mediante https://fishtheright.com/writings/enoch/94/. OCR/transcripción no sustituyen la inspección del impreso.
+5. Loren T. Stuckenbruck, *1 Enoch 91–108* (Commentaries on Early Jewish Literature; De Gruyter, 2007), extracto digital consultado en https://dokumen.pub/1-enoch-chapters-91-108-commentaries-on-early-jewish-literature-3110191199-9783110191196.html; se usó el mapeo fragmentario de 4Q212 y el esquema de la Epístola, no el aparato completo.
