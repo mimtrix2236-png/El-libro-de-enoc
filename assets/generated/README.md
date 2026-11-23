@@ -21,3 +21,10 @@ For each future generated image, record the chapter, asset path, generation date
 - Embedded JPEG preview is 128×192 px within SVG, offline and local. The generated 1024×1536 master is not yet stored in the repository; this preview is for reader integration and is not print-quality.
 - Integrated by replacing the chapter-89 SVG asset in both the editorial and Android asset folders. Runtime/build verification is still pending.
 - Subject: sheep flock and ram, predators, a tower/house, and Enoc as celestial recorder, symbolizing the long animal allegory rather than one literal verse.
+
+## Chapter 94 — Two paths / warning against oppression (23 November 2026)
+- Files: `assets/illustrations/chapter_94.svg`, `app/src/main/assets/illustrations/chapter_94.svg`; the former concept is preserved at `assets/illustrations/chapter_94_vector_concept.svg`.
+- Source: original AI-generated art created for this project on 23 Nov 2026; no external image/reference used.
+- Reader version: embedded JPEG preview, 128×192 px, within an SVG wrapper for offline WebView display. This is a small preview and not print-quality.
+- Master: 1024×1536 JPEG (quality-compressed) is present in the working session as `/mnt/data/chapter_94_master.jpg`, but is not committed to this repository. The preview SVG is the committed asset; preserve/transfer the master separately before the session artifact expires.
+- Subject: Enoc at a crossroads, a peaceful path toward dawn, and a dark building/wealth representing oppression and false security. Symbolic illustration, not a reconstruction of a historical event.
