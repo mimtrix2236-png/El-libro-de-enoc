@@ -104,3 +104,9 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 
 
 - **Build verificado después de integrar 106–108 en el catálogo:** CI run 317 (commit ff195efe91850f5c3625c79805dc71b43f166e5f) pasó tests, assembleDebug y upload; APK debug 9,229,830 bytes. Run 320 (commit bf53c357b74a38f5a5572982706f070c36abd221, documentación posterior) también pasó y generó APK debug 9,229,829 bytes: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44743746076. Artifact temporal, expira 20-12-2026 13:24 UTC. Sin prueba en dispositivo; aún no es release final.
+
+## Actualización de trabajo — 23 de noviembre de 2026
+- El capítulo 94 se amplió a 11 paráfrasis provisionales por referencia y se integró al lector offline; se anotaron la frase ambigua de 94:5 y el suplemento editorial entre corchetes en 94:7.
+- Arte específico generado para capítulo 94 e integrado en los dos SVG de recursos (preview 128×192); el concepto vectorial anterior se conserva. El master 1024×1536 no está archivado en GitHub.
+- La revisión de fuentes 91–95 registra el mapeo fragmentario de 4Q212 a 94:1–2 y los límites de evidencia; no hubo cotejo de fotos ni aparato crítico completo.
+- Build/CI de estos commits y prueba en teléfono pendientes. No es release final.
