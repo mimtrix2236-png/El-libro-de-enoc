@@ -33,7 +33,7 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Registro y protocolo de cotejo crítico: `editorial/cotejo_critico.md`.
 - Los capítulos 6–16 cuentan con mapas de folios y notas críticas en `editorial/fuentes_capitulos_06_10.md`, `editorial/fuentes_capitulos_11_13.md` y `editorial/fuentes_capitulos_14_16.md`.
 - Los 108 capítulos tienen archivos individuales de trabajo; el capítulo 66 cuenta además con una traducción indirecta de 3 versículos basada en Charles 1917 (no cotejada con Ge'ez), y 67–108 son paráfrasis provisionales integradas en el catálogo offline.
-- 43 SVG capítulo-específicos (66–108) en `assets/illustrations/` y duplicados en `app/src/main/assets/illustrations/`; 66–75 refinados, 76–108 conceptuales.
+- 43 SVG capítulo-específicos (66–108) en `assets/illustrations/` y duplicados en `app/src/main/assets/illustrations/`; 66–75 refinados. Los capítulos 89, 92, 94 y 106 tienen previews raster generadas e integradas; 76 tiene una preview separada sin integración. Los restantes 76–108 siguen siendo conceptuales y todos requieren QA visual; los previews no son láminas de impresión.
 - El cotejo integral de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
 - Tres tests de catálogo y build debug con audio procedural pasan en CI, commit `a802f77`: [ejecución](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44539201507). No es release final; falta prueba en dispositivo.
 - Auditoría 66–108: `docs/auditoria_capitulos_66-108.md`.
