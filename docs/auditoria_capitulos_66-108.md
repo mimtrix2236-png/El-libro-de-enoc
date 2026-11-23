@@ -20,7 +20,7 @@ Online Critical Pseudepigrapha es un recurso académico multilingüe de edicione
 
 ## Estado de arte
 
-Los 43 SVG existen y están vinculados por número de capítulo. La auditoría de archivos no equivale a una evaluación de calidad: son dibujos vectoriales de concepto, con una plantilla de pergamino y motivos propios, pero necesitan una revisión artística y refinamiento para la edición final. No se consideran láminas editoriales definitivas.
+Los 43 SVG capítulo-específicos existen y están vinculados por número. 66–75 fueron refinados; 89, 92, 94 y 106 cuentan con previews raster generadas integradas dentro de SVG; capítulo 76 tiene una preview separada no integrada. El resto de 76–108 conserva conceptos vectoriales. La revisión de archivos no equivale a QA artístico; todos los assets necesitan inspección y refinamiento. Ninguna preview se considera lámina de imprenta definitiva.
 
 ## Build / corrección técnica
 
