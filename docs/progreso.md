@@ -167,3 +167,12 @@
 - Separé la paráfrasis de 93:1–10 (siete semanas) del poema 93:11–14 en el borrador y en el catálogo offline Android.
 - Charles 1917 imprime 93:11–14 entre corchetes, pero Stuckenbruck asigna fragmentos de 4Q212 a esa unidad; por tanto, los corchetes son un juicio editorial y no prueba de interpolación tardía. Se documenta la cautela.
 - La ilustración de 93 sigue siendo SVG conceptual de siete arcos/columnas; no se reemplazó con una imagen generada genérica. Build y prueba de render siguen pendientes.
+
+## 23 de noviembre de 2026 — expansión del capítulo 94 y arte generado
+- Amplié `docs/chapters/94_capitulo_94_parafrasis.md` a paráfrasis provisional por los 11 versículos, separando 94:1–5 (exhortación) de 94:6–11 (ayes). No se presenta como traducción literal.
+- Revisé Charles 1917, capítulo XCIV, a través de la transcripción Project Gutenberg #77935 (Fish the Right) y Charles 1912 (Margins). La frase final de 94:5 se marca difícil; el suplemento entre corchetes de 94:7 se conserva como nota editorial y no se incorpora a la paráfrasis base.
+- Consulté un extracto digital de Stuckenbruck 2007: el mapeo de 4Q212 incluye 94:1–2, no todo el capítulo; la ausencia de asignación no se trata como prueba de inexistencia. No se inspeccionaron fotos ni aparato crítico completo.
+- Integré once unidades al catálogo Android offline `LaterEnocContent81_95.kt`; la fuente y el estado provisional quedan visibles.
+- Generé arte específico para 94: Enoc en un cruce de caminos, senda clara versus edificio oscuro/riqueza. Reemplacé ambos SVG de capítulo 94 por un wrapper con imagen JPEG embebida 128×192; archivé el concepto vectorial anterior en `assets/illustrations/chapter_94_vector_concept.svg`. El master 1024×1536 existe en el espacio de trabajo, no en el repo; no es lámina de imprenta y debe descargarse/archivarse por separado.
+- Commits: paráfrasis `5edb5ad`; catálogo `a4d0cbe`; audit `0b5e1e2`; archivo concepto `487458e`; SVG editorial `a5277aa`; SVG Android `d9256bc`.
+- **CI y render:** la build posterior a estos commits todavía debe verificarse; no se probó en dispositivo. El PDF, APK release y cotejo crítico final siguen pendientes.
