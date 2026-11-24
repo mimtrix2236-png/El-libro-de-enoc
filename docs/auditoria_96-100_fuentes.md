@@ -13,9 +13,11 @@ Se revisaron los borradores 96–100, Charles 1917 y metadatos del papyrus grieg
 - El papyrus es testimonio de transmisión tardía (catalogado como siglo IV) y contiene errores/lagunas. No es una versión completa y no debe considerarse automáticamente superior a Ge'ez.
 
 ## 96
-- El resumen de esperanza para justos y ayes contra poderosos/ricos queda provisional.
-- No se identificó un testimonio arameo o griego directo para este capítulo en el mapeo consultado.
-- **Pendiente:** cotejo Ge'ez, Charles/Knibb, versículos y suplementos; el corchete de Charles 96:2 no se integra como texto seguro.
+- Se amplió el resumen a ocho unidades siguiendo la numeración de Charles 1917.
+- 96:2 está íntegramente entre corchetes en Charles; se presenta como suplemento editorial separado, no como texto base seguro ni como interpolación demostrada por cotejo de manuscritos.
+- 96:1 y 96:3 se resumen como esperanza/vindicación y consuelo; 96:4–8 se separan en riqueza aparente, abuso de abundancia, abandono de la fuente de vida, registro de injusticia y opresión por los poderosos.
+- El mapeo secundario consultado no asigna fragmento directo de 4Q212 a 96; el papyrus griego Chester Beatty-Michigan XII comienza en 97:6 según el catálogo consultado. No se inspeccionaron imágenes de manuscritos.
+- **Pendiente:** cotejo Ge'ez, Charles/Knibb y aparato crítico; estudiar el suplemento 96:2 y los matices de 96:6 y 96:8.
 
 ## 97
 - El papyrus griego comienza en 97:6; 97:1–5 no está cubierto por ese testigo.
