@@ -113,3 +113,6 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 
 
 - **24 de noviembre de 2026 — capítulo 95:** paráfrasis provisional ampliada a siete unidades y sincronizada con el catálogo Android. Se registran el suplemento y la lectura dañada de 95:1, el versículo corrupto 95:2 y la diferencia de versificación Charles 1917 / Charlesworth 1983 sin confundirla con variante manuscrita. Ilustración específica generada e integrada como preview 128×192 en SVG editorial y Android; master 1024×1536 fuera del repositorio. CI y prueba en dispositivo pendientes.
+
+
+- **24 de noviembre de 2026 — capítulo 96:** paráfrasis provisional ampliada a ocho unidades y sincronizada con el catálogo Android. La unidad 96:2, marcada entre corchetes por Charles, se separa como suplemento editorial. Límites de testigos registrados; no hubo cotejo directo de manuscritos. El arte sigue siendo un concepto SVG, pendiente de ilustración generada específica y QA. CI y prueba en dispositivo pendientes.
