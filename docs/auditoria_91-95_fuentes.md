@@ -33,8 +33,13 @@ Se revisaron las paráfrasis 91–95, Charles 1917 y los datos publicados de la 
 - **Revisión:** se expandió el borrador a once unidades numeradas, siguiendo el texto de Charles 1917 como base de trabajo. Se consultó también la transcripción de Charles 1912 y un extracto digital de Stuckenbruck 2007 (introducción y comentario). No se inspeccionaron fotos del manuscrito ni aparatos críticos completos.
 - **Pendiente:** cotejo Ge'ez, variantes y límites del fragmento arameo; revisión del suplemento y de la frase ambigua de 94:5.
 ## 95 — Lamentación y ayes
-- No se identificó en el mapeo consultado de 4Q212 un fragmento directo de 95. El borrador se basa provisionalmente en la tradición etiópica/Charles.
-- **Pendiente:** cotejo de la secuencia de ayes y frases de lamentación, sin reconstruir lagunas.
+- Se amplió el borrador de resumen general a siete unidades siguiendo la numeración de Charles 1917.
+- 95:1: Charles marca un suplemento para la comparación inicial con una nube y una expresión dañada en la segunda comparación; la paráfrasis evita fijar ambas como lectura segura.
+- 95:2: Charles encierra el versículo completo entre signos de corrupción (†…†). Se conserva solo su sentido general —pregunta por la permisividad de agravios y anuncio de juicio— sin reconstruir el texto.
+- 95:3–7: se separan la exhortación a los justos y los ayes contra maldiciones irrevocables, represalia, falso testimonio/medida injusta y persecución.
+- La edición de Charlesworth 1983 agrupa/resegmenta parte del material respecto de los siete versículos de Charles 1917; se registra como diferencia editorial de versificación, no como variante manuscrita probada.
+- No se identificó un fragmento arameo de 4Q212 asignado directamente a 95 en el mapeo secundario consultado. No se afirma testimonio griego directo ni cotejo de fotografías.
+- **Pendiente:** cotejar Ge'ez, Charles/Knibb y aparato crítico completo; resolver 95:1 y 95:4; mantener 95:2 como corrupto hasta que haya evidencia suficiente.
 
 ## Referencias
 1. Loren T. Stuckenbruck, “The Epistle of Enoch: Genre and Authorial Presentation,” *Dead Sea Discoveries* 17 (2010), 387–417. DOI https://doi.org/10.1163/156851710X513593. Consulta del texto/abstract digital; se distingue entre Epístola, Exhortación, Apocalipsis de las Semanas y materiales anexos.
