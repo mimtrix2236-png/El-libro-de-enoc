@@ -88,3 +88,12 @@ El CI de los commits de notas falló por un paréntesis de cierre faltante en `L
 - Fuentes: Charles 1917/1912 y extracto digital Stuckenbruck 2007 revisados. La asignación aramea citada de 4Q212 a 94:1–2 es fragmentaria; no se afirma que 94:3–11 esté atestiguado ni que la ausencia de fragmento pruebe inexistencia.
 - Arte generado específico de 94 integrado como preview embebido en SVG en editorial y Android; el master 1024×1536 no se ha archivado en GitHub. La calidad de impresión queda pendiente.
 - La actualización aún no tiene build CI verificado ni prueba de render en dispositivo.
+
+
+## Actualización incremental — 24 de noviembre de 2026
+
+- Capítulo 95 ampliado a siete paráfrasis por versículo en `docs/chapters/95_capitulo_95_parafrasis.md` y en el catálogo Kotlin `LaterEnocContent81_95.kt`.
+- Se registran explícitamente el suplemento y la expresión dañada de 95:1, y la corrupción textual de 95:2 en Charles 1917; no se reconstruyen las palabras inciertas.
+- Se anotó la diferencia de versificación entre Charles 1917 (siete unidades) y la presentación de Charlesworth 1983; no se la etiqueta como variante manuscrita.
+- Ilustración específica de 95 generada e integrada como preview 128×192 embebida en SVG para el lector offline. El master 1024×1536 permanece fuera del repositorio y aún no es lámina de imprenta.
+- La integración Kotlin y los assets se han modificado, pero esta actualización no tiene todavía un resultado CI verificado ni prueba en dispositivo.
