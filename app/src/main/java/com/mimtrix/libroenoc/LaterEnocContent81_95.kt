@@ -173,9 +173,17 @@ object LaterEnocContent81_95 {
                 VerseEntry("94:10", "El Creador revertirá su situación; el pasaje anuncia que no habrá compasión por su caída y expresa el juicio con lenguaje contundente."),
                 VerseEntry("94:11", "En ese tiempo, los justos serán motivo de vergüenza para los pecadores y los impíos.")
             )),
-        ChapterEntry(95, "El llanto de Enoc y nuevas advertencias", "Paráfrasis provisional · cotejo crítico pendiente",
-            "el profeta expresa dolor por la violencia y anuncia que la injusticia no quedará sin respuesta.",
-            "Fuente: R. H. Charles, The Book of Enoch (1912), cap. XCV, https://rojc.uk/book-of-enoch.htm (consultado 19-11-2026). Paráfrasis original. Pendiente: cotejar frases de difícil lectura y suplementos señalados por Charles; no reconstruir los pasajes dañados. Ilustración: assets/illustrations/chapter_95.svg — Enoc llorando junto a una nube de lluvia; en el fondo, figuras que persiguen a una persona justa y una balanza.",
-            listOf(VerseEntry("Capítulo 95 · paráfrasis", "Enoc lamenta la maldad y desea que sus lágrimas fueran como aguas para aliviar su dolor. Pregunta por la causa de la injusticia y advierte que el juicio alcanzará a quienes dañan a otros. A los justos les pide no temer, mientras pronuncia ayes contra quienes maldicen, devuelven mal por mal, dan falso testimonio y persiguen a los rectos. La medida de sus actos será la medida de su destino.")))
+        ChapterEntry(95, "El llanto de Enoc y los nuevos ayes", "Paráfrasis original por versículo · provisional · cotejo crítico pendiente",
+            "Enoc expresa dolor por la maldad y exhorta a los justos a no temer; después denuncia maldiciones destructivas, represalias, falso testimonio, juicio torcido y persecución.",
+            "Fuente de trabajo: R. H. Charles, The Book of Enoch (SPCK, 1917), cap. XCV; transcripción digital cotejada con la edición de 1912. 95:1 contiene un suplemento y una expresión dañada; Charles marca 95:2 entero como corrupto (†…†). Se resume sin reconstruir palabras inciertas. La versificación sigue los siete versículos de Charles 1917; Charlesworth 1983 agrupa/resegmenta parte del material, diferencia editorial no demostrada como variante manuscrita. No se identificó fragmento arameo o griego directo para 95 en el mapeo consultado. Ver docs/auditoria_91-95_fuentes.md y docs/chapters/95_capitulo_95_parafrasis.md. Ilustración generada: assets/illustrations/chapter_95.svg; preview 128×192, master de impresión pendiente.",
+            listOf(
+                VerseEntry("95:1", "Enoc desea que sus ojos fueran una fuente de agua para llorar por sus destinatarios y descargar el dolor de su corazón. La comparación inicial y una expresión posterior aparecen con marcas editoriales de suplemento o corrupción; no se fijan aquí como palabras seguras."),
+                VerseEntry("95:2", "El pasaje pregunta quién permitió los agravios y la maldad, y anuncia que el juicio alcanzará a los pecadores. Charles marca el versículo completo como corrupto; se conserva solo el sentido general, sin reconstrucción."),
+                VerseEntry("95:3", "Los justos reciben la exhortación de no temer a los pecadores. El texto anuncia que el Señor los pondrá bajo su poder para que se ejecute juicio; es lenguaje de vindicación del pasaje, no una autorización para la violencia privada."),
+                VerseEntry("95:4", "Se reprende a quienes pronuncian anatemas o maldiciones irrevocables. A causa de sus pecados, la curación o el remedio quedará lejos de ellos; el matiz exacto requiere cotejo léxico."),
+                VerseEntry("95:5", "Se condena a quienes devuelven mal a su prójimo y se anuncia una retribución acorde con sus propias obras."),
+                VerseEntry("95:6", "Se denuncia a los testigos mentirosos y a quienes falsean la medida o el juicio; el texto advierte que su caída será repentina."),
+                VerseEntry("95:7", "Se pronuncia un ay contra quienes persiguen a los justos. Los perseguidores serán entregados a persecución y cargarán con el peso de la injusticia que impusieron.")
+            ))
     )
 }
