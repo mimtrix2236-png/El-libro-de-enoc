@@ -28,3 +28,11 @@ For each future generated image, record the chapter, asset path, generation date
 - Reader version: embedded JPEG preview, 128×192 px, within an SVG wrapper for offline WebView display. This is a small preview and not print-quality.
 - Master: 1024×1536 JPEG (quality-compressed) is present in the working session as `/mnt/data/chapter_94_master.jpg`, but is not committed to this repository. The preview SVG is the committed asset; preserve/transfer the master separately before the session artifact expires.
 - Subject: Enoc at a crossroads, a peaceful path toward dawn, and a dark building/wealth representing oppression and false security. Symbolic illustration, not a reconstruction of a historical event.
+
+
+## Chapter 95 — Enoch's grief and fresh woes (24 November 2026)
+- Files: `assets/illustrations/chapter_95.svg`, `app/src/main/assets/illustrations/chapter_95.svg`; previous concept preserved as `assets/illustrations/chapter_95_vector_concept.svg`.
+- Source: original AI-generated artwork created for this project on 24 Nov 2026; no external photograph or illustration used.
+- Reader asset: 128×192 JPEG preview embedded in an SVG wrapper for local/offline display. The generated 1024×1536 master is available in the working session as `/mnt/data/chapter_95_master.jpg`, not committed to the repository; it must be archived at full resolution before print production.
+- Subject: Enoch lamenting beneath rain clouds, a solitary righteous figure in a beam of light, accusers and a balance in the background. Symbolic chapter-specific composition, not a historical reconstruction.
+- Runtime integration uses the existing `chapter_95.svg` path, so no new chapter-selection branch is needed. Build and device rendering remain unverified.
