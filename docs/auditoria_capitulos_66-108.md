@@ -97,3 +97,12 @@ El CI de los commits de notas falló por un paréntesis de cierre faltante en `L
 - Se anotó la diferencia de versificación entre Charles 1917 (siete unidades) y la presentación de Charlesworth 1983; no se la etiqueta como variante manuscrita.
 - Ilustración específica de 95 generada e integrada como preview 128×192 embebida en SVG para el lector offline. El master 1024×1536 permanece fuera del repositorio y aún no es lámina de imprenta.
 - La integración Kotlin y los assets se han modificado, pero esta actualización no tiene todavía un resultado CI verificado ni prueba en dispositivo.
+
+
+## Actualización incremental — 24 de noviembre de 2026 (capítulo 96)
+
+- El borrador del capítulo 96 se amplió a ocho paráfrasis por versículo y se integró al catálogo offline `LaterEnocContent96_108.kt`.
+- La unidad 96:2, que Charles imprime completa entre corchetes, queda marcada como suplemento editorial y separada del núcleo; no se afirma que la marca demuestre por sí sola una interpolación manuscrita.
+- Se registran los límites de los testigos consultados: el mapeo secundario de 4Q212 no asigna un fragmento directo a 96 y el papyrus griego Chester Beatty-Michigan XII se cataloga desde 97:6. No hubo inspección de imágenes de manuscritos.
+- La ilustración de capítulo 96 permanece como concepto SVG; la ilustración generada específica y su QA siguen pendientes.
+- Build CI y prueba en dispositivo de esta integración pendientes.
