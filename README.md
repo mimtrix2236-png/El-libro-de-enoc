@@ -110,3 +110,6 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 - Arte específico generado para capítulo 94 e integrado en los dos SVG de recursos (preview 128×192); el concepto vectorial anterior se conserva. El master 1024×1536 no está archivado en GitHub.
 - La revisión de fuentes 91–95 registra el mapeo fragmentario de 4Q212 a 94:1–2 y los límites de evidencia; no hubo cotejo de fotos ni aparato crítico completo.
 - Build/CI de estos commits y prueba en teléfono pendientes. No es release final.
+
+
+- **24 de noviembre de 2026 — capítulo 95:** paráfrasis provisional ampliada a siete unidades y sincronizada con el catálogo Android. Se registran el suplemento y la lectura dañada de 95:1, el versículo corrupto 95:2 y la diferencia de versificación Charles 1917 / Charlesworth 1983 sin confundirla con variante manuscrita. Ilustración específica generada e integrada como preview 128×192 en SVG editorial y Android; master 1024×1536 fuera del repositorio. CI y prueba en dispositivo pendientes.
