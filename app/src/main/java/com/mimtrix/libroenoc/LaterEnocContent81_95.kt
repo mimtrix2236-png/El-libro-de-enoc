@@ -173,7 +173,7 @@ object LaterEnocContent81_95 {
                 VerseEntry("94:10", "El Creador revertirá su situación; el pasaje anuncia que no habrá compasión por su caída y expresa el juicio con lenguaje contundente."),
                 VerseEntry("94:11", "En ese tiempo, los justos serán motivo de vergüenza para los pecadores y los impíos.")
             )),
-        ChapterEntry(95, "El llanto de Enoc y los nuevos ayes", "Paráfrasis original por versículo · provisional · cotejo crítico pendiente",
+        ChapterEntry(95, "El llanto de Enoc y los nuevos ayes", "Paráfrasis provisional original por versículo · cotejo crítico pendiente",
             "Enoc expresa dolor por la maldad y exhorta a los justos a no temer; después denuncia maldiciones destructivas, represalias, falso testimonio, juicio torcido y persecución.",
             "Fuente de trabajo: R. H. Charles, The Book of Enoch (SPCK, 1917), cap. XCV; transcripción digital cotejada con la edición de 1912. 95:1 contiene un suplemento y una expresión dañada; Charles marca 95:2 entero como corrupto (†…†). Se resume sin reconstruir palabras inciertas. La versificación sigue los siete versículos de Charles 1917; Charlesworth 1983 agrupa/resegmenta parte del material, diferencia editorial no demostrada como variante manuscrita. No se identificó fragmento arameo o griego directo para 95 en el mapeo consultado. Ver docs/auditoria_91-95_fuentes.md y docs/chapters/95_capitulo_95_parafrasis.md. Ilustración generada: assets/illustrations/chapter_95.svg; preview 128×192, master de impresión pendiente.",
             listOf(
