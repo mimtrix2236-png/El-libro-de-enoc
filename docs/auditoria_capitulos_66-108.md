@@ -122,4 +122,4 @@ El CI de los commits de notas falló por un paréntesis de cierre faltante en `L
 - Capítulo 98: 16 unidades de lectura. Se anotan la variante “sabios y necios / sabios y no necios” de 98:1, las diferencias de 98:2–3 y las lagunas griegas 98:3b–4a, 98:11b–12a y 98:15.
 - Ambos capítulos están integrados en el catálogo offline. Se añadió una prueba de regresión para sus referencias y notas de testigos.
 - Se corrigieron las etiquetas de estado provisional de los capítulos 95 y 96 detectadas por CI. Las ejecuciones previas fallaron en el test de estado; la verificación posterior a las correcciones está pendiente.
-- La ilustración generada del capítulo 97 está integrada como preview SVG; el capítulo 98 conserva su concepto vectorial específico y requiere refinamiento.
+- La ilustración generada del capítulo 97 está integrada como preview SVG; el SVG del capítulo 98 se refinó con escena propia de lujo, registro celestial, vecino humilde y juicio, y se copió al árbol Android.
