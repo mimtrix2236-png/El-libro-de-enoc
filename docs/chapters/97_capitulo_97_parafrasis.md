@@ -59,7 +59,7 @@ El capítulo tiene tres movimientos: consuelo a los justos (97:1–2), advertenc
 ## Ilustración
 
 **Archivo de concepto:** `assets/illustrations/chapter_97.svg`.  
-**Preview generado específico:** `assets/illustrations/chapter_97_generated.svg` (también copiado en los assets Android). Representa los graneros, las riquezas que se dispersan como agua y a los justos que oran a la distancia. Es una preview de 128×192 píxeles para el lector; no es un master de impresión.
+**Preview generado específico:** `assets/illustrations/chapter_97_generated.svg` (también copiado en los assets Android). Representa los graneros, las riquezas que se dispersan como agua y a los justos que oran a la distancia. Es una SVG de 128×192 con raster generado embebido de 64×96 píxeles para el lector; no es un master de impresión.
 
 ## Fuentes consultadas
 
