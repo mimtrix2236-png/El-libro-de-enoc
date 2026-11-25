@@ -3,7 +3,7 @@
 Autor de esta edición: **Mauro Iván Maidana**  
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
-## Estado actual — 22 de noviembre de 2026
+## Estado actual — 25 de noviembre de 2026
 
 ### Libro
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; 66–108 son borradores, capítulo 66 además tiene traducción indirecta en archivo separado.
@@ -443,3 +443,13 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Checked fragment mapping: 4Q209 frg.28 corresponds to 82:9–13 according to Tyndale Bulletin 68.2 (2017) table; 4Q204 1vi.9 is a thematic parallel for book-transmission, not a direct witness to 82:1–3.
 - [x] Updated chapter 82 and audit 76–82, recording the bracketed clause at 82:2 and the limits of fragment evidence.
 - [ ] Chapter 83 next; review dream-before-marriage frame and the collapsed heaven without interpreting it as literal history.
+
+
+## 25 de noviembre de 2026 — Capítulo 97 y arte generado
+
+- [x] Reescrito `docs/chapters/97_capitulo_97_parafrasis.md` como paráfrasis original por unidades: 97:1–7, 97:8a–b, 97:9a–c, 97:9d, 97:9e y 97:10.
+- [x] Revisada la estructura del capítulo con Stuckenbruck: consuelo a los justos (97:1–2), advertencia sobre el juicio (97:3–6) y ayes contra la riqueza injusta (97:7–10).
+- [x] Registrados los límites del papyrus griego Chester Beatty–Michigan XII (comienza en medio de 97:6), las diferencias griego/Ge'ez en 97:8–10 y la numeración editorial 9d/9e de Charles 1917. No se afirma colación directa de manuscritos ni aparato completo.
+- [x] Integradas las unidades al catálogo offline `LaterEnocContent96_108.kt`; el lector muestra ahora las subdivisiones y notas de 97.
+- [x] Generada una ilustración específica de 97 e integrada como preview SVG con imagen raster embebida de 128×192 en los árboles editorial y Android; MainActivity selecciona el asset generado en los dos caminos de carga. El concepto vectorial previo se conserva.
+- [ ] CI de estos cambios pendiente de verificación; no se afirma build success. Master de alta resolución aún no archivado como lámina de impresión; QA en teléfono real pendiente.
