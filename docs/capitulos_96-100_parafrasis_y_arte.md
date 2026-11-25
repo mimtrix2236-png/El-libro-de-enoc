@@ -10,12 +10,12 @@ Enok anuncia que los justos pueden levantar la mirada con esperanza, aunque el m
 
 **Ilustración:** Un grupo humilde mira el amanecer desde una colina mientras una ciudad opulenta queda en sombra; grabado sepia.
 
-## Capítulo 97 — La riqueza injusta y el dolor de los oprimidos
-La palabra profética denuncia a quienes acumulan bienes mediante engaños, explotación y desprecio por los necesitados. Se advierte que la riqueza construida sobre el sufrimiento no permanecerá como refugio. El texto llama a reconocer la dignidad de quienes han sido despojados y a abandonar la arrogancia.
+## Capítulo 97 — La vindicación de los justos y la riqueza injusta
+El capítulo avanza en tres pasos: anima a los justos, enfrenta a los pecadores con el juicio y denuncia a quienes acumulan plata y oro sin justicia. La jactancia de los ricos aparece como discurso atribuido a ellos mismos; la respuesta del texto afirma que sus bienes no permanecerán y que sus obras serán expuestas.
 
-**Lectura:** La crítica se dirige a la injusticia, no a una simple posesión material.
+**Lectura:** La crítica no se dirige a una posesión abstracta, sino a la riqueza obtenida sin justicia y a la seguridad construida sobre ella.
 
-**Ilustración:** Balanza desigual, monedas y manos de trabajadores; al fondo, una figura poderosa apartando la mirada. Estilo de grabado moral antiguo.
+**Ilustración:** Granero colmado, monedas y recipientes que se dispersan por una corriente; en primer plano un escriba señala el registro, mientras al fondo un grupo de justos eleva su oración. Grabado sepia sobre pergamino.
 
 ## Capítulo 98 — La violencia y la responsabilidad
 Enok recuerda que las palabras, las acciones y las decisiones dejan huella. Advierte sobre la mentira, la crueldad y el abuso, e invita a quienes han actuado mal a cambiar de camino. La visión insiste en que nadie puede esconder indefinidamente el daño causado.
