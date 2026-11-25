@@ -197,14 +197,14 @@ private fun EnocReader(celestialPlayer: CelestialAudioPlayer) {
                                                     settings.allowContentAccess = false
                                                     webViewClient = WebViewClient()
                                                     setBackgroundColor(android.graphics.Color.TRANSPARENT)
-                                                    val assetFile = when (selectedChapter) { 92 -> "chapter_92_generated.svg"; 106 -> "chapter_106_generated.svg"; 107 -> "chapter_107_generated.svg"; else -> "chapter_$selectedChapter.svg" }
+                                                    val assetFile = when (selectedChapter) { 92 -> "chapter_92_generated.svg"; 97 -> "chapter_97_generated.svg"; 106 -> "chapter_106_generated.svg"; 107 -> "chapter_107_generated.svg"; else -> "chapter_$selectedChapter.svg" }
                                                     val assetUrl = "file:///android_asset/illustrations/$assetFile"
                                                     tag = assetUrl
                                                     loadUrl(assetUrl)
                                                 }
                                             },
                                             update = { view ->
-                                                val assetFile = when (selectedChapter) { 92 -> "chapter_92_generated.svg"; 106 -> "chapter_106_generated.svg"; 107 -> "chapter_107_generated.svg"; else -> "chapter_$selectedChapter.svg" }
+                                                val assetFile = when (selectedChapter) { 92 -> "chapter_92_generated.svg"; 97 -> "chapter_97_generated.svg"; 106 -> "chapter_106_generated.svg"; 107 -> "chapter_107_generated.svg"; else -> "chapter_$selectedChapter.svg" }
                                                 val assetUrl = "file:///android_asset/illustrations/$assetFile"
                                                 if (view.tag != assetUrl) {
                                                     view.tag = assetUrl
