@@ -106,3 +106,11 @@ El CI de los commits de notas falló por un paréntesis de cierre faltante en `L
 - Se registran los límites de los testigos consultados: el mapeo secundario de 4Q212 no asigna un fragmento directo a 96 y el papyrus griego Chester Beatty-Michigan XII se cataloga desde 97:6. No hubo inspección de imágenes de manuscritos.
 - La ilustración de capítulo 96 permanece como concepto SVG; la ilustración generada específica y su QA siguen pendientes.
 - Build CI y prueba en dispositivo de esta integración pendientes.
+
+
+## Actualización incremental — 25 de noviembre de 2026 (capítulo 97)
+
+- Capítulo 97 ampliado a paráfrasis por unidades y subdivisiones de Charles 1917; catálogo offline actualizado con doce unidades legibles.
+- Se anotó la división 97:1–2 / 97:3–6 / 97:7–10 del comentario de Stuckenbruck, la cobertura griega desde mitad de 97:6 y las diferencias de lectura en 97:8–10.
+- Ilustración original generada para el tema de la riqueza injusta, integrada como preview de 128×192 embebida en SVG en el árbol editorial y Android. MainActivity usa el asset generado en ambos caminos de carga.
+- No se inspeccionaron facsímiles ni aparato completo; el borrador es provisional. CI y prueba en dispositivo de esta actualización pendientes.
