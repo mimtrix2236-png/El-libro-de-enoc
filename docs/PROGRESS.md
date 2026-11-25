@@ -462,4 +462,5 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Capítulo 98: paráfrasis por los 16 versículos, con variantes de 98:1–3 y lagunas griegas 98:3b–4a, 98:11b–12a y 98:15 anotadas. Catálogo Android actualizado con 16 entradas.
 - [x] Añadida prueba de regresión para las unidades y notas de testigos de 97–98. Se detectaron etiquetas de estado no conformes en 95 y 96; se corrigieron para que todos los capítulos 67–108 conserven la marca `Paráfrasis provisional`.
 - [ ] Los workflows anteriores fallaron en el test de estado provisional antes de la corrección; el workflow nuevo de la revisión 97–98 debe confirmar tests y assembleDebug. No se afirma build success hasta verificarlo.
-- [ ] El capítulo 98 mantiene su concepto SVG específico; refinamiento artístico, QA de las 76–108, prueba física y master de imprenta pendientes.
+- [x] Refinado el SVG vectorial del capítulo 98: dos ricos con vestiduras y metales, mesa de lujo, libro de registro, vecino humilde y horno simbólico; se actualizó la copia Android.
+- [ ] QA de las ilustraciones 76–108, prueba física y masters de imprenta pendientes.
