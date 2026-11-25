@@ -71,4 +71,22 @@ class EnocContentCatalogTest {
         assertTrue(chapter108.verses.last().text.contains("resplandecerán"))
     }
 
+
+    @Test
+    fun chapters97And98KeepVerseUnitsAndWitnessCaveats() {
+        val chapter97 = EnocContent.chapters.first { it.number == 97 }
+        val chapter98 = EnocContent.chapters.first { it.number == 98 }
+
+        assertEquals(
+            listOf("97:1", "97:2", "97:3", "97:4", "97:5", "97:6", "97:7", "97:8a", "97:8b", "97:9a–9c", "97:9d", "97:9e", "97:10"),
+            chapter97.verses.map { it.reference }
+        )
+        assertTrue(chapter97.criticalNote.contains("97:9d–e"))
+        assertTrue(chapter97.criticalNote.contains("97:8a"))
+
+        assertEquals((1..16).map { "98:$it" }, chapter98.verses.map { it.reference })
+        assertTrue(chapter98.criticalNote.contains("98:3b–4a"))
+        assertTrue(chapter98.criticalNote.contains("98:11b–12a"))
+        assertTrue(chapter98.criticalNote.contains("98:15"))
+    }
 }
