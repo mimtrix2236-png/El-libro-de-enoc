@@ -3,7 +3,7 @@ package com.mimtrix.libroenoc
 /** Borradores provisionales offline de capítulos 96–108. */
 object LaterEnocContent96_108 {
     val chapters: List<ChapterEntry> = listOf(
-        ChapterEntry(96, "Esperanza para los justos y ayes contra los poderosos", "Paráfrasis original por versículo · provisional · cotejo crítico pendiente",
+        ChapterEntry(96, "Esperanza para los justos y ayes contra los poderosos", "Paráfrasis provisional original por versículo · cotejo crítico pendiente",
             "La esperanza para quienes sufren se contrapone a la riqueza ostentosa y al poder que se usan para humillar; las obras injustas quedan como memoria y testimonio.",
             "Fuente de trabajo: R. H. Charles, The Book of Enoch (SPCK, 1917), cap. XCVI, transcripción digital Wikisource y control Fish the Right. Charles imprime 96:2 completo entre corchetes como suplemento editorial; se resume aparte y no se integra al núcleo. No se identificó testimonio directo de 4Q212 ni del papyrus griego Chester Beatty-Michigan para 96 en los mapeos consultados. No se inspeccionaron manuscritos. Ver docs/auditoria_96-100_fuentes.md y docs/chapters/96_capitulo_96_parafrasis.md. Ilustración: assets/illustrations/chapter_96.svg, concepto vectorial actual; arte generado específico pendiente.",
             listOf(
