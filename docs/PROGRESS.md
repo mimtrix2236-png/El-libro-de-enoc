@@ -8,7 +8,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 ### Libro
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; 66–108 son borradores, capítulo 66 además tiene traducción indirecta en archivo separado.
 - [x] Capítulos 66–108: 43 archivos con resumen, fuente, notas e idea de ilustración; capítulo 66 tiene traducción indirecta desde Charles (1917); cotejo crítico/versicular pendiente.
-- [x] 43 SVG individuales 66–108 y copias Android; capítulos 66–75 refinados. Previews generados integrados en 89, 92, 106 y 107; 76 tiene preview registrado. Los capítulos 76–108 aún requieren revisión artística; los previews generados son de baja resolución y no master de impresión.
+- [x] 43 SVG individuales 66–108 y copias Android; capítulos 66–75 refinados. Previews generados integrados en 89, 92, 97, 106 y 107; 76 tiene preview registrado. Los capítulos 76–108 aún requieren revisión artística; los previews generados son de baja resolución y no master de impresión.
 - [ ] Traducción final y cotejo versículo por versículo; aparato de variantes; apéndices completos; PDF de libro.
 
 ### Aplicación
@@ -453,3 +453,13 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Integradas las unidades al catálogo offline `LaterEnocContent96_108.kt`; el lector muestra ahora las subdivisiones y notas de 97.
 - [x] Generada una ilustración específica de 97 e integrada como preview SVG de 128×192 con raster embebido de 64×96 en los árboles editorial y Android; MainActivity selecciona el asset generado en los dos caminos de carga. El concepto vectorial previo se conserva.
 - [ ] CI de estos cambios pendiente de verificación; no se afirma build success. Master de alta resolución aún no archivado como lámina de impresión; QA en teléfono real pendiente.
+
+
+## 25 de noviembre de 2026 — Capítulos 97 y 98
+
+- [x] Capítulo 97: paráfrasis por unidades, 13 entradas en catálogo Android, con la subdivisión 97:9d/9e de Charles 1917 y las diferencias de transmisión en 97:8–10 registradas.
+- [x] Ilustración específica generada para 97 e integrada como SVG 128×192 con raster 64×96 en los árboles editorial y Android; selector de MainActivity actualizado en ambos caminos de carga. El SVG conceptual anterior se conserva.
+- [x] Capítulo 98: paráfrasis por los 16 versículos, con variantes de 98:1–3 y lagunas griegas 98:3b–4a, 98:11b–12a y 98:15 anotadas. Catálogo Android actualizado con 16 entradas.
+- [x] Añadida prueba de regresión para las unidades y notas de testigos de 97–98. Se detectaron etiquetas de estado no conformes en 95 y 96; se corrigieron para que todos los capítulos 67–108 conserven la marca `Paráfrasis provisional`.
+- [ ] Los workflows anteriores fallaron en el test de estado provisional antes de la corrección; el workflow nuevo de la revisión 97–98 debe confirmar tests y assembleDebug. No se afirma build success hasta verificarlo.
+- [ ] El capítulo 98 mantiene su concepto SVG específico; refinamiento artístico, QA de las 76–108, prueba física y master de imprenta pendientes.
