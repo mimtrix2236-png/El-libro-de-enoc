@@ -123,3 +123,10 @@ El CI de los commits de notas falló por un paréntesis de cierre faltante en `L
 - Ambos capítulos están integrados en el catálogo offline. Se añadió una prueba de regresión para sus referencias y notas de testigos.
 - Se corrigieron las etiquetas de estado provisional de los capítulos 95 y 96 detectadas por CI. Las ejecuciones previas fallaron en el test de estado; la verificación posterior a las correcciones está pendiente.
 - La ilustración generada del capítulo 97 está integrada como preview SVG; el SVG del capítulo 98 se refinó con escena propia de lujo, registro celestial, vecino humilde y juicio, y se copió al árbol Android.
+
+
+### CI verificado — 25 de noviembre de 2026
+
+- [x] Workflow 45631047654 en commit `f5ca50a16c5efa6d63943931e6619dfa8c8d74b6`: tests de catálogo, `assembleDebug` y `upload-artifact` terminaron en **success**.
+- [x] Artifact APK debug de 9.269.933 bytes; [ver ejecución](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/45631047654). Expira el 25-12-2026 a las 14:10 UTC.
+- [ ] No es una release firmada ni una prueba en dispositivo; los commits documentales posteriores no cambian el código de aplicación de esa ejecución.
