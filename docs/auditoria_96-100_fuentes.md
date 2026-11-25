@@ -30,9 +30,15 @@ Se revisaron los borradores 96–100, Charles 1917 y metadatos del papyrus grieg
 - **Límites:** revisión de transcripciones y extracto académico; no se inspeccionaron fotografías del papyrus, manuscritos Ge'ez ni el aparato completo de Bonner. La paráfrasis continúa provisional.
 
 ## 98
-- Greek witness parcial en 97:6–104:13. Las listas bibliográficas de lagunas indican pérdidas en 98:3b–4a, 98:11b–12a y 98:15, entre otras.
-- Se conserva la idea de responsabilidad moral humana y registro celestial, pero el debate sobre origen del pecado no se resuelve.
-- **Pendiente:** verificar lagunas y lecturas de 98:4–5; no reconstruir.
+
+- Se amplió el borrador a las 16 unidades de Charles 1917 y se integró al catálogo offline.
+- Estructura: 98:1–3 (juramento sobre lujo, sabiduría y pérdida), 98:4–5 (responsabilidad humana por el pecado y formulación difícil sobre esterilidad), 98:6–8 (registro celestial de obras y opresión) y 98:9–16 (ayes contra necedad, violencia, desprecio de los justos y falsedad escrita).
+- En 98:1, el griego y algunos manuscritos etiópicos dicen “a los sabios y no a los necios”; la lectura etiópica seguida por Charles en este lugar incluye a ambos. La identidad de los destinatarios afecta la lectura de 98:2–3.
+- En 98:2, el griego cambia a tercera persona y presenta plata/oro como alimento, mientras el Ge'ez conserva segunda persona y una lista más amplia (incluye púrpura y honor). En 98:3 difiere la relación causal entre lujo y falta de sabiduría/conocimiento. No se armonizan.
+- El papyrus griego Chester Beatty–Michigan XII tiene lagunas 98:3b–4a y 98:11b–12a por rotura y omite 98:15 por salto de texto; no se rellenan esas partes.
+- La frase de 98:5 sobre la esterilidad se conserva como difícil y no se convierte en afirmación médica ni en regla sobre las mujeres. “Comer sangre” (98:11) se resume sin imponer una explicación única.
+- **Fuentes consultadas:** Charles SPCK 1917, cap. XCVIII, transcripción The Book and Me; Stuckenbruck, *1 Enoch 91–108* (2007), discusión de 98:1–3 y notas textuales, pp. 325–329.
+- **Límites:** no se inspeccionaron fotografías de manuscritos ni el aparato completo de Bonner; no se afirma cotejo directo de Ge'ez o griego. La paráfrasis sigue provisional.
 
 ## 99
 - Greek witness parcial, con lagunas reportadas alrededor de 99:4, 5b–6, 8–9 y 16.
