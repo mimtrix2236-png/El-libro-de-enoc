@@ -20,9 +20,14 @@ Se revisaron los borradores 96–100, Charles 1917 y metadatos del papyrus grieg
 - **Pendiente:** cotejo Ge'ez, Charles/Knibb y aparato crítico; estudiar el suplemento 96:2 y los matices de 96:6 y 96:8.
 
 ## 97
-- El papyrus griego comienza en 97:6; 97:1–5 no está cubierto por ese testigo.
-- El capítulo se resume como condena de riqueza injusta y obras ocultas; verificar la subdivisión y numerales.
-- **Pendiente:** comparar Ge'ez con Greek 97:6–104:13 y aparato de Bonner/Stuckenbruck.
+
+- Se verificó la división literaria con el comentario de Stuckenbruck: 97:1–2 (tercera consolación de los justos), 97:3–6 (advertencia a los pecadores sobre el juicio) y 97:7–10 (cuarto grupo de ayes contra la riqueza injusta).
+- Se amplió el borrador a unidades numeradas: 97:1–7, 97:8a–b, 97:9a–c, 97:9d, 97:9e y 97:10. Las subdivisiones 9d/9e siguen la impresión SPCK 1917; algunas transcripciones de Charles 1912 rotulan de otra manera. La diferencia se registra como numeración editorial, no como variante manuscrita demostrada.
+- El papyrus griego Chester Beatty–Michigan XII comienza en medio de 97:6; no cubre 97:1–5. El tramo griego presenta errores y necesita emendaciones, por lo que no se trata como testigo completo ni superior por defecto.
+- Stuckenbruck señala diferencias en 97:8a (formulación griega sin la misma construcción relativa), en 97:9 (etiópico con una lectura problemática sobre trabajadores del campo frente a griego con “bienes”) y en 97:10 (la imagen etiópica hace desaparecer el error/falsedad como agua; el griego orienta la imagen hacia la riqueza derramada o desaparecida). La paráfrasis evita resolver estas diferencias sin aparato completo.
+- 97:8b–9 se reconoce como discurso atribuido a los ricos para exponer su falsa seguridad; 97:10 lo refuta. La crítica se dirige a la riqueza injustamente adquirida, sin convertirla en una condena abstracta de toda posesión.
+- **Fuentes consultadas:** Charles, SPCK 1917, cap. XCVII, transcripción The Book and Me; Charles 1912 digital Rojc solo para comparación de numeración; Stuckenbruck, *1 Enoch 91–108* (2007), esquema y notas de 97:1–10, pp. 318–325.
+- **Límites:** revisión de transcripciones y extracto académico; no se inspeccionaron fotografías del papyrus, manuscritos Ge'ez ni el aparato completo de Bonner. La paráfrasis continúa provisional.
 
 ## 98
 - Greek witness parcial en 97:6–104:13. Las listas bibliográficas de lagunas indican pérdidas en 98:3b–4a, 98:11b–12a y 98:15, entre otras.
