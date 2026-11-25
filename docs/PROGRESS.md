@@ -451,5 +451,5 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Revisada la estructura del capítulo con Stuckenbruck: consuelo a los justos (97:1–2), advertencia sobre el juicio (97:3–6) y ayes contra la riqueza injusta (97:7–10).
 - [x] Registrados los límites del papyrus griego Chester Beatty–Michigan XII (comienza en medio de 97:6), las diferencias griego/Ge'ez en 97:8–10 y la numeración editorial 9d/9e de Charles 1917. No se afirma colación directa de manuscritos ni aparato completo.
 - [x] Integradas las unidades al catálogo offline `LaterEnocContent96_108.kt`; el lector muestra ahora las subdivisiones y notas de 97.
-- [x] Generada una ilustración específica de 97 e integrada como preview SVG con imagen raster embebida de 128×192 en los árboles editorial y Android; MainActivity selecciona el asset generado en los dos caminos de carga. El concepto vectorial previo se conserva.
+- [x] Generada una ilustración específica de 97 e integrada como preview SVG de 128×192 con raster embebido de 64×96 en los árboles editorial y Android; MainActivity selecciona el asset generado en los dos caminos de carga. El concepto vectorial previo se conserva.
 - [ ] CI de estos cambios pendiente de verificación; no se afirma build success. Master de alta resolución aún no archivado como lámina de impresión; QA en teléfono real pendiente.
