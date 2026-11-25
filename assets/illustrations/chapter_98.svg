@@ -1,2 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 98, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><rect x="100" y="250" width="300" height="220" rx="10" fill="#d5bd91" stroke="#5b3b20" stroke-width="8"/><path d="M130 290 Q255 340 370 290 M130 330 Q255 380 370 330 M130 370 Q255 420 370 370" stroke="#8b633a" stroke-width="7" fill="none"/><g fill="#c7a273" stroke="#5b3b20" stroke-width="7"><path d="M130 500 L160 460 190 500 190 560 130 560Z"/><path d="M320 500 L350 460 380 500 380 560 320 560Z"/></g><path d="M255 160 L280 200 330 205 290 235 300 280 255 255 210 280 220 235 180 205 230 200Z" fill="#d6bc91" stroke="#5b3b20" stroke-width="7"/></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 98</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="1 Enoc 98: lujo de los poderosos, registro de la opresión y juicio">
+<defs>
+  <radialGradient id="paper98"><stop offset="0" stop-color="#f6e8c9"/><stop offset="1" stop-color="#c7a174"/></radialGradient>
+  <linearGradient id="purple98" x2="0" y2="1"><stop stop-color="#8b5960"/><stop offset="1" stop-color="#56323b"/></linearGradient>
+  <linearGradient id="gold98" x2="0" y2="1"><stop stop-color="#e4c58b"/><stop offset="1" stop-color="#a7773f"/></linearGradient>
+</defs>
+<rect width="512" height="720" fill="url(#paper98)"/>
+<rect x="17" y="17" width="478" height="686" rx="8" fill="none" stroke="#4e321d" stroke-width="7"/>
+<rect x="29" y="29" width="454" height="662" fill="none" stroke="#9b7147" stroke-width="2"/>
+<path d="M58 194 Q256 120 454 194" fill="none" stroke="#8c6845" stroke-width="3"/>
+<path d="M75 188 V105 Q75 72 108 72 H404 Q437 72 437 105 V188" fill="#dfc69b" stroke="#5a3a22" stroke-width="6"/>
+<path d="M94 177 V109 Q94 92 111 92 H401 Q418 92 418 109 V177" fill="none" stroke="#9a7348" stroke-width="3"/>
+<g fill="#c9a777" stroke="#5a3a22" stroke-width="5">
+  <path d="M116 177 V130 Q116 113 134 113 Q152 113 152 130 V177Z"/>
+  <path d="M360 177 V130 Q360 113 378 113 Q396 113 396 130 V177Z"/>
+</g>
+<!-- The wealthy household -->
+<g stroke="#4f3422" stroke-width="6" stroke-linejoin="round">
+  <path d="M115 252 Q117 207 160 203 Q202 207 205 252 L218 332 H102Z" fill="url(#purple98)"/>
+  <path d="M307 252 Q311 207 353 203 Q394 207 399 252 L411 332 H294Z" fill="#b48a58"/>
+  <path d="M137 211 Q160 230 183 211 L193 242 Q161 261 128 242Z" fill="url(#gold98)"/>
+  <path d="M329 211 Q353 230 376 211 L386 242 Q353 261 320 242Z" fill="url(#gold98)"/>
+  <path d="M146 199 Q160 178 179 198 L185 215 Q162 228 140 215Z" fill="#d7b889"/>
+  <path d="M340 199 Q354 178 373 198 L379 215 Q356 228 334 215Z" fill="#d7b889"/>
+  <circle cx="162" cy="190" r="22" fill="#d6b98d"/>
+  <circle cx="356" cy="190" r="22" fill="#d6b98d"/>
+  <path d="M141 185 Q145 159 165 162 Q183 163 185 185" fill="none"/>
+  <path d="M335 185 Q339 159 359 162 Q377 163 379 185" fill="none"/>
+  <path d="M149 194 L158 196 M168 196 L177 194 M343 194 L352 196 M362 196 L371 194" fill="none" stroke-width="3"/>
+  <path d="M155 209 Q162 217 170 209 M349 209 Q356 217 364 209" fill="none" stroke-width="3"/>
+  <path d="M115 257 Q160 282 205 257 M307 257 Q353 282 399 257" fill="none" stroke="#e0c08a" stroke-width="4"/>
+</g>
+<!-- Luxury table, coins, purple cloth and vessels -->
+<path d="M82 333 H430 L410 366 H102Z" fill="#7a4f2c" stroke="#4f3422" stroke-width="7"/>
+<path d="M106 365 L118 469 M405 365 L393 469" stroke="#4f3422" stroke-width="10"/>
+<path d="M97 376 Q256 402 415 376" fill="none" stroke="#d6b98d" stroke-width="4"/>
+<path d="M174 334 Q256 350 337 334 L325 365 H185Z" fill="#75404b" stroke="#4f3422" stroke-width="5"/>
+<g fill="url(#gold98)" stroke="#5a3a22" stroke-width="4">
+  <ellipse cx="140" cy="326" rx="18" ry="8"/><ellipse cx="159" cy="318" rx="18" ry="8"/><ellipse cx="178" cy="327" rx="18" ry="8"/>
+  <ellipse cx="335" cy="326" rx="18" ry="8"/><ellipse cx="354" cy="318" rx="18" ry="8"/><ellipse cx="373" cy="327" rx="18" ry="8"/>
+  <path d="M224 306 H246 L252 334 H218Z"/><path d="M218 306 Q235 294 252 306" fill="none"/>
+  <path d="M264 305 H286 L292 334 H258Z"/><path d="M258 305 Q275 293 292 305" fill="none"/>
+</g>
+<!-- Open record of deeds -->
+<path d="M174 448 Q213 430 255 450 Q297 430 338 448 V545 Q297 526 255 548 Q213 526 174 545Z" fill="#f1dfb8" stroke="#4f3422" stroke-width="7"/>
+<path d="M255 450 V548" stroke="#8c6845" stroke-width="4"/>
+<g stroke="#8b6948" stroke-width="3" fill="none">
+  <path d="M190 469 Q220 460 240 472 M190 486 Q220 477 240 489 M190 503 Q220 494 240 506 M190 520 Q220 511 240 523"/>
+  <path d="M270 472 Q300 460 322 469 M270 489 Q300 477 322 486 M270 506 Q300 494 322 503 M270 523 Q300 511 322 520"/>
+</g>
+<!-- Poor neighbor, outside the feast -->
+<g stroke="#4f3422" stroke-width="6" stroke-linejoin="round">
+  <circle cx="83" cy="470" r="21" fill="#d8bb91"/>
+  <path d="M56 496 Q83 477 110 499 L120 586 H47Z" fill="#8b6845"/>
+  <path d="M65 518 Q41 542 38 567 M102 520 Q123 536 128 555" fill="none"/>
+  <path d="M54 587 H117" fill="none"/>
+  <path d="M28 565 Q82 547 137 565 L130 590 H35Z" fill="#c8a77a"/>
+  <path d="M37 565 Q82 578 128 565" fill="none" stroke-width="4"/>
+</g>
+<!-- Distant furnace / judgment motif -->
+<g stroke="#573720" stroke-width="6">
+  <path d="M365 571 H456 V645 H365Z" fill="#8c5b38"/>
+  <path d="M355 571 Q410 550 466 571" fill="#c29a68"/>
+  <path d="M382 632 Q368 609 389 592 Q390 611 405 602 Q422 583 420 565 Q448 592 440 613 Q435 635 414 640Z" fill="#b86b37"/>
+  <path d="M397 632 Q389 615 404 605 Q406 621 417 616 Q429 604 427 594 Q443 622 425 637Z" fill="#e0b46c" stroke-width="3"/>
+</g>
+<path d="M52 659 Q256 674 460 659" fill="none" stroke="#6e4a2a" stroke-width="3"/>
+<text x="256" y="686" font-family="serif" font-size="18" text-anchor="middle" fill="#4f3422">1 ENOC · 98</text>
+</svg>
