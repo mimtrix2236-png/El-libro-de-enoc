@@ -114,3 +114,12 @@ El CI de los commits de notas falló por un paréntesis de cierre faltante en `L
 - Se anotó la división 97:1–2 / 97:3–6 / 97:7–10 del comentario de Stuckenbruck, la cobertura griega desde mitad de 97:6 y las diferencias de lectura en 97:8–10.
 - Ilustración original generada para el tema de la riqueza injusta, integrada como preview SVG de 128×192 con raster embebido de 64×96 en el árbol editorial y Android. MainActivity usa el asset generado en ambos caminos de carga.
 - No se inspeccionaron facsímiles ni aparato completo; el borrador es provisional. CI y prueba en dispositivo de esta actualización pendientes.
+
+
+## Actualización incremental — 25 de noviembre de 2026 (capítulos 97–98)
+
+- Capítulo 97: 13 unidades de lectura; 97:9d y 97:9e conservan la numeración marginal de Charles 1917. Se registran las diferencias etiópico/griego de 97:8–10 y el inicio del papyrus griego a mitad de 97:6.
+- Capítulo 98: 16 unidades de lectura. Se anotan la variante “sabios y necios / sabios y no necios” de 98:1, las diferencias de 98:2–3 y las lagunas griegas 98:3b–4a, 98:11b–12a y 98:15.
+- Ambos capítulos están integrados en el catálogo offline. Se añadió una prueba de regresión para sus referencias y notas de testigos.
+- Se corrigieron las etiquetas de estado provisional de los capítulos 95 y 96 detectadas por CI. Las ejecuciones previas fallaron en el test de estado; la verificación posterior a las correcciones está pendiente.
+- La ilustración generada del capítulo 97 está integrada como preview SVG; el capítulo 98 conserva su concepto vectorial específico y requiere refinamiento.
