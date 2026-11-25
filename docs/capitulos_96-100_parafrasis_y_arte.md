@@ -17,12 +17,12 @@ El capítulo avanza en tres pasos: anima a los justos, enfrenta a los pecadores 
 
 **Ilustración:** Granero colmado, monedas y recipientes que se dispersan por una corriente; en primer plano un escriba señala el registro, mientras al fondo un grupo de justos eleva su oración. Grabado sepia sobre pergamino.
 
-## Capítulo 98 — La violencia y la responsabilidad
-Enok recuerda que las palabras, las acciones y las decisiones dejan huella. Advierte sobre la mentira, la crueldad y el abuso, e invita a quienes han actuado mal a cambiar de camino. La visión insiste en que nadie puede esconder indefinidamente el daño causado.
+## Capítulo 98 — La responsabilidad humana y el registro de las obras
+El capítulo vincula la ostentación y la pérdida de sabiduría con la responsabilidad humana por el pecado. Luego insiste en que las obras de opresión quedan registradas ante el Altísimo y pronuncia ayes contra quienes desprecian a los justos, practican violencia o difunden falsedades.
 
-**Lectura:** La responsabilidad moral alcanza tanto las acciones visibles como la intención que las alimenta.
+**Lectura:** La injusticia no queda oculta; el texto presenta la memoria celestial como garantía de rendición de cuentas.
 
-**Ilustración:** Una persona frente a un espejo oscuro que refleja sus actos, con un rollo abierto y luz de vela; composición simbólica en sepia.
+**Ilustración:** Un libro abierto registra las obras junto a una mesa de lujo con adornos, plata, oro y púrpura; una figura humilde queda fuera de la mesa, mientras al fondo una luz severa anticipa el juicio. Grabado sepia sobre pergamino.
 
 ## Capítulo 99 — Una tierra llena de injusticia
 La advertencia se extiende a la sociedad: la violencia, el engaño y la corrupción se multiplican cuando las personas olvidan la justicia. Enok describe una época en que la maldad se normaliza y los débiles quedan expuestos. El llamado es a apartarse de esas prácticas y proteger a quienes sufren.
