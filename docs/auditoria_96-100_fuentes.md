@@ -41,9 +41,16 @@ Se revisaron los borradores 96–100, Charles 1917 y metadatos del papyrus grieg
 - **Límites:** no se inspeccionaron fotografías de manuscritos ni el aparato completo de Bonner; no se afirma cotejo directo de Ge'ez o griego. La paráfrasis sigue provisional.
 
 ## 99
-- Greek witness parcial, con lagunas reportadas alrededor de 99:4, 5b–6, 8–9 y 16.
-- El resumen no agrega interpretaciones concretas de idolatría/explotación más allá del texto.
-- **Pendiente:** cotejar subdivisiones y ayes con Ge'ez y Greek.
+
+- Se amplió el borrador de resumen único a 16 paráfrasis provisionales, una por cada versículo de la numeración Charles 1917, y se integró el mismo desglose en el catálogo Android offline.
+- Estructura literaria consultada en Stuckenbruck: 99:1–2 cierra los ayes iniciados en 98:9; 99:3–5 exhorta a los justos; 99:6–9 presenta la advertencia jurada sobre idolatría/extravío; 99:10 bendice a quienes reciben sabiduría; 99:11–16 reúne nuevos ayes.
+- Stuckenbruck documenta variantes de persona en 99:1; en 99:2, la tradición etiópica habla de «ley eterna» y el griego de «alianza eterna», además de diferencias en la frase sobre quienes se consideran sin pecado.
+- **Testimonio griego:** el comentario indica expresamente que el manuscrito Chester Beatty–Michigan no conserva 99:11–12. No se reconstruyen esos versículos desde el griego. La mención anterior de lagunas en 99:4, 5b–6, 8–9 y 16 no se ha vuelto a comprobar directamente en el papiro y queda como dato de catálogo pendiente, no como colación verificada.
+- En 99:12 se conserva abierta la diferencia entre la traducción de Charles («medidas falsas») y la formulación etiópica comentada como fundamento de pecado/engaño. En 99:14 se registra la oscilación medida/fundamento y ley/alianza; en 99:16 hay variantes de persona y referencia pronominal.
+- 99:5 se parafrasea sin asignar una causa histórica al abandono de los niños. En 99:9 no se fuerza el antecedente de «estas cosas».
+- No se identificó en el mapeo secundario consultado un fragmento arameo asignado directamente a 99; la ausencia de asignación no prueba inexistencia de una forma aramea.
+- **Fuentes consultadas:** Charles 1917, cap. XCIX; Stuckenbruck, *1 Enoch 91–108* (2007), pp. 357–371 y 415–416. Se consultaron transcripciones y comentario; no se inspeccionaron fotografías del papiro, manuscritos Ge'ez ni el aparato completo de Bonner.
+- El arte generado del capítulo 99 reemplaza el SVG de primera pasada en ambos recursos offline. El concepto vectorial previo se conserva como chapter_99_vector_concept.svg; el preview raster integrado es 128×192 px y no es master de impresión.
 
 ## 100
 - Greek witness parcial en el tramo 97:6–104:13, con lagunas; no se identificó Aramaic Qumran directo.
