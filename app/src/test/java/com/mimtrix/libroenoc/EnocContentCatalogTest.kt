@@ -97,7 +97,7 @@ class EnocContentCatalogTest {
         assertTrue(chapter99.criticalNote.contains("99:11–12"))
         assertTrue(chapter99.criticalNote.contains("no conserva"))
         assertTrue(chapter99.criticalNote.contains("ley eterna"))
-        assertTrue(chapter99.editorialNote.contains("chapter_99.svg"))
+        assertTrue(chapter99.criticalNote.contains("chapter_99.svg"))
     }
 
 }
