@@ -475,3 +475,5 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Actualizado el catálogo Android a 13 unidades versículo por versículo y añadida una prueba de regresión para numeración, estado provisional y límites de testigos.
 - [ ] CI del nuevo commit pendiente de resultado; no se declara compilación verificada hasta consultar Actions.
 - [ ] Master 1024×1536 y QA de impresión, cotejo directo de Ge'ez/papiro y pruebas en dispositivo real pendientes.
+
+- [x] Corrección de QA: el primer test de capítulo 100 consultaba la nota editorial en lugar de la nota crítica, donde el catálogo guarda la ruta de ilustración. Se ajustó la aserción para comprobar el campo correcto; nueva CI pendiente.
