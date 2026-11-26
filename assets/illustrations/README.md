@@ -57,3 +57,6 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 
 
 - Capítulo 99: chapter_99.svg — ilustración original generada, preview JPEG embebido de 128×192 px; se conserva el concepto vectorial previo en chapter_99_vector_concept.svg. La escena reúne el testimonio de Enoc, una balanza falseada, una imagen de piedra, una familia vulnerable y una casa levantada con trabajo ajeno. Es una imagen simbólica, no una reconstrucción histórica ni una lámina final de imprenta.
+
+
+- Capítulo 99: chapter_99.svg — ilustración original generada, preview JPEG embebido de 128×192 px; se conserva el concepto vectorial previo en chapter_99_vector_concept.svg. La escena reúne el testimonio de Enoc, una balanza falseada, una imagen de piedra, una familia vulnerable y una casa levantada con trabajo ajeno. Es una imagen simbólica, no una reconstrucción histórica ni una lámina final de imprenta.
