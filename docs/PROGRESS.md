@@ -486,5 +486,6 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] Capítulo 101: reemplazado el resumen único por nueve paráfrasis originales siguiendo Charles 1917; añadidas notas sobre «hijos del cielo», lluvia/rocío y el mar como imágenes del discurso, sin convertirlas en afirmaciones científicas.
 - [x] Capítulo 101: actualizado el catálogo Android con nueve unidades y añadida prueba de regresión.
 - [x] Capítulo 101: creada una ilustración vectorial original específica de navegación en mar agitado, con costa arenosa y Enoc observando; integración offline en preparación dentro de este commit.
-- [ ] CI de capítulo 101 pendiente de resultado. No se afirma build success para este nuevo cambio hasta consultar Actions.
+- [x] CI run 45836262085, commit `eb64b71d528ea0f823cc232e29920916bc883879`: pruebas del catálogo, `assembleDebug` y subida del artifact finalizaron correctamente. [Workflow](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/45836262085).
+- [x] Artifact debug `el-libro-de-enoc-debug-apk`: 9.281.465 bytes; SHA-256 `ee164b285e333f27e377109a2a081d195f2990d53abbed24ae932d4437d4c884`; expira el 26-12-2026 14:11 UTC. Es una compilación debug, no release firmado ni prueba física.
 - [ ] Cotejo de manuscritos, QA en dispositivo y arte final de impresión pendientes.
