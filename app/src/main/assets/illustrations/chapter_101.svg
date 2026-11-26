@@ -1,2 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 101, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><path d="M70 420 Q100 300 160 380 T260 380 T360 380 T440 420 L430 550 80 550Z" fill="#6b4a2b" stroke="#5b3b20" stroke-width="8"/><g fill="#d5bd91" stroke="#5b3b20" stroke-width="7"><path d="M170 370 L255 300 340 370 330 440 180 440Z"/><path d="M205 370 L255 330 305 370Z"/></g><path d="M70 300 Q120 240 180 300 T300 300 T440 300" stroke="#5b3b20" stroke-width="8" fill="none"/><path d="M100 260 Q140 200 180 260 M330 260 Q370 200 410 260" stroke="#a16d39" stroke-width="7" fill="none"/><path d="M90 560 Q255 600 420 560" stroke="#5b3b20" stroke-width="8" fill="none"/></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 101</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración de 1 Enoc 101: los navegantes, el mar y sus límites">
+<title>1 Enoc 101 — El mar y el temor de los navegantes</title>
+<desc>Grabado vectorial sepia sobre pergamino: un barco antiguo zarandeado por olas y viento, Enoc observa desde una roca, la arena delimita el mar y las nubes anuncian lluvia retenida.</desc>
+<defs>
+  <radialGradient id="paper" cx="48%" cy="38%" r="78%"><stop offset="0" stop-color="#f4e8cc"/><stop offset=".72" stop-color="#e3cfaa"/><stop offset="1" stop-color="#b58c5c"/></radialGradient>
+  <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c7a477"/><stop offset="1" stop-color="#8b603b"/></linearGradient>
+  <linearGradient id="sail" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1e1bf"/><stop offset="1" stop-color="#c8a477"/></linearGradient>
+  <pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0M-2 2L2-2M6 10L10 6" stroke="#76502f" stroke-width=".7" opacity=".48"/></pattern>
+  <pattern id="waves" width="24" height="14" patternUnits="userSpaceOnUse"><path d="M0 7q6-6 12 0t12 0" fill="none" stroke="#5d4028" stroke-width="1" opacity=".55"/></pattern>
+</defs>
+<rect width="512" height="720" fill="url(#paper)"/>
+<rect x="13" y="13" width="486" height="694" rx="5" fill="none" stroke="#57391f" stroke-width="5"/>
+<rect x="23" y="23" width="466" height="674" fill="none" stroke="#a47a4a" stroke-width="1.8"/>
+<g fill="none" stroke="#694728" stroke-width="2.4">
+ <path d="M34 60l25-24 25 24-25 24zM428 60l25-24 25 24-25 24zM34 660l25-24 25 24-25 24zM428 660l25-24 25 24-25 24z"/>
+ <path d="M42 60h34M436 60h34M42 660h34M436 660h34"/>
+</g>
+<!-- storm sky -->
+<g stroke="#5d4028" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M24 210q28-38 66-20 12-48 67-39 22-42 65-17 43-44 83-3 47-19 73 25 41-2 48 34v50H24z" fill="#bda078" stroke-width="3"/>
+ <path d="M24 210q28-38 66-20 12-48 67-39 22-42 65-17 43-44 83-3 47-19 73 25 41-2 48 34v50H24z" fill="url(#hatch)" stroke="none"/>
+ <path d="M38 205q24-22 47-4m13-27q24-23 46-4m37-26q21-17 43 2m28-16q26-17 49 7m29-6q24-12 43 9m22 9q18-7 31 12" fill="none" stroke-width="2"/>
+ <path d="M75 226q34-15 61 1m62-38q30-16 57 3m70-2q30-15 58 5m-333 54q25-9 49 2m178 4q32-10 55 2" fill="none" stroke-width="1.2"/>
+</g>
+<!-- withheld rain and wind -->
+<g stroke="#775333" stroke-width="1.6" fill="none" opacity=".8">
+ <path d="M96 292l-8 19m26-18-8 21m35-18-8 19m188-28-8 19m28-20-8 20m30-17-8 20"/>
+ <path d="M30 330q44-18 80-5m-73 17q28-10 54-2m320-20q31-13 67 0m-53 15q27-9 51-1"/>
+ <path d="M153 286l-9 12m30-15-9 12m-66 29-9 12m281-39-9 12m31-11-9 12"/>
+</g>
+<!-- sun hidden behind cloud -->
+<circle cx="386" cy="167" r="28" fill="#d6b77f" stroke="#704c2c" stroke-width="2"/>
+<g stroke="#704c2c" stroke-width="1.4" opacity=".75">
+ <path d="M386 125v-13m0 110v-13m-42-42h-13m110 0h-13m-72-30-9-9m78 78-9-9m0-60 9-9m-78 78-9 9"/>
+</g>
+<!-- sea -->
+<path d="M24 350q40-22 80 0t80 0 80 0 80 0 80 0 75 0v344H24z" fill="url(#sea)" stroke="#5c3e27" stroke-width="3"/>
+<path d="M24 350q40-22 80 0t80 0 80 0 80 0 80 0 75 0v344H24z" fill="url(#waves)" opacity=".75"/>
+<g fill="none" stroke="#5b3c25" stroke-width="3">
+ <path d="M24 386q34-30 68 0t68 0 68 0 68 0 68 0 68 0 68 0 68 0"/>
+ <path d="M24 430q30-23 60 0t60 0 60 0 60 0 60 0 60 0 60 0 60 0"/>
+ <path d="M24 482q42-32 84 0t84 0 84 0 84 0 84 0 84 0"/>
+ <path d="M24 535q30-20 60 0t60 0 60 0 60 0 60 0 60 0 60 0 60 0"/>
+ <path d="M24 594q35-26 70 0t70 0 70 0 70 0 70 0 70 0"/>
+</g>
+<!-- distant sandy boundary -->
+<path d="M320 432q54-35 99-16 34 14 68-3v64q-39 20-81 2-46-20-86 5z" fill="#d9bd8d" stroke="#69472a" stroke-width="2.5"/>
+<path d="M322 442q44-18 81-4t84-4M328 456q43-13 76 1t78 0M341 470q31-10 62 3t60 0" fill="none" stroke="#8a6137" stroke-width="1.4"/>
+<g fill="#8a6137"><circle cx="359" cy="449" r="2"/><circle cx="390" cy="462" r="2"/><circle cx="431" cy="445" r="2"/><circle cx="458" cy="463" r="2"/></g>
+<!-- ship hull -->
+<g stroke="#4e321e" stroke-linejoin="round">
+ <path d="M164 405q83 28 174-4l-24 55q-74 31-134-3z" fill="#825a35" stroke-width="4"/>
+ <path d="M176 414q74 25 148-4m-136 23q61 23 122-1m-105 20q45 15 90-3" fill="none" stroke="#d3b17d" stroke-width="2"/>
+ <path d="M210 405l5-195m0 0l-1-9" fill="none" stroke-width="6"/>
+ <path d="M214 220q-54 28-78 115 37 8 76 4z" fill="url(#sail)" stroke-width="3"/>
+ <path d="M221 218q46 28 91 108-43 9-91 4z" fill="#e7d4b1" stroke-width="3"/>
+ <path d="M142 331q34-10 69-2m10-1q39-8 82 0M151 319l59-91m25 0 62 94" fill="none" stroke-width="1.6"/>
+ <path d="M217 207l0-18m-7 7h15" fill="none" stroke-width="2"/>
+ <path d="M173 394l-3 12m26-4-2 12m28-9-1 12m29-14 1 12m27-18 4 12" fill="none" stroke="#d9bd8d" stroke-width="1.2"/>
+</g>
+<!-- sailors -->
+<g fill="#5a3a23" stroke="#4b301d" stroke-width="1.5">
+ <circle cx="190" cy="389" r="7"/><path d="M184 397l13 0 8 17h-29z"/>
+ <circle cx="238" cy="392" r="7"/><path d="M231 400l14 0 8 16h-30z"/>
+ <circle cx="281" cy="385" r="7"/><path d="M274 393l14 0 8 18h-30z"/>
+</g>
+<g stroke="#4b301d" stroke-width="2" fill="none"><path d="M190 404l-8 8m8-8 8 8m42-8-9 8m9-8 8 8m33-13-8 8m8-8 8 8"/></g>
+<!-- spray -->
+<g fill="#f0dfbf" stroke="#704c2c" stroke-width="1">
+ <path d="M125 391q17-25 30-3-16-4-21 13zM317 381q15-24 31-5-17-3-23 14zM103 449q13-20 24-2-13-2-18 10zM335 435q14-21 26-2-14-2-18 10z"/>
+ <circle cx="153" cy="374" r="3"/><circle cx="331" cy="366" r="3"/><circle cx="110" cy="418" r="2.5"/><circle cx="356" cy="402" r="2.5"/>
+</g>
+<!-- fish near shore -->
+<g fill="#9b7147" stroke="#4d321f" stroke-width="1.5">
+ <path d="M68 552q18-13 35 0-17 13-35 0l-10-8v16z"/><circle cx="94" cy="550" r="1.8" fill="#f0dfbf"/>
+ <path d="M270 621q16-12 31 0-15 12-31 0l-9-7v14z"/><circle cx="294" cy="619" r="1.5" fill="#f0dfbf"/>
+</g>
+<!-- Enoch on rocky promontory -->
+<path d="M24 548q24-44 68-49 29 5 44 32l24 163H24z" fill="#b99668" stroke="#57391f" stroke-width="3"/>
+<path d="M24 548q24-44 68-49 29 5 44 32l24 163H24z" fill="url(#hatch)" opacity=".65"/>
+<g stroke="#4d321f" stroke-linejoin="round">
+ <path d="M54 546q8-34 39-31 24 7 21 37l-11 26-40-2z" fill="#d7bd91" stroke-width="3"/>
+ <path d="M56 548q-9 25 7 46l21 21 17-28-4-30" fill="#d7bd91" stroke-width="2"/>
+ <path d="M62 560q10-8 22-3m-20 14q12 6 22-1m-15 16q10 4 17-3" fill="none" stroke-width="1.3"/>
+ <path d="M54 546q-3-18 12-29 23-16 42 5l-4 9q-22-9-42 15" fill="#7a5737" stroke-width="2"/>
+ <path d="M77 596q-25 23-34 69l63 10q11-42-4-76z" fill="#6e4b2d" stroke-width="3"/>
+ <path d="M66 613l-17 47m38-45 8 49m-24-40-4 39" fill="none" stroke="#d6bd92" stroke-width="1.4"/>
+ <path d="M83 602l15-4 27 34-22 7z" fill="#e4d0ad" stroke-width="2"/>
+ <path d="M124 628l-3-90" stroke-width="5" fill="none"/>
+ <path d="M118 538q8-14 15 0" fill="none" stroke-width="2"/>
+</g>
+<!-- engraved cliff lines -->
+<g fill="none" stroke="#68482a" stroke-width="1.3" opacity=".8">
+ <path d="M27 579l23-13m-24 28 33-18m-32 33 26-14m-23 30 31-17m-29 34 26-13m-25 30 30-15"/>
+ <path d="M380 505q18-8 34 0m-30 10q22-8 40 0m-31 12q16-5 29 2"/>
+</g>
+<path d="M36 686q210-18 440 0" fill="none" stroke="#6a4729" stroke-width="2"/>
+</svg>

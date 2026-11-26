@@ -109,4 +109,13 @@ class EnocContentCatalogTest {
         assertTrue(chapter100.criticalNote.contains("No se inspeccionaron"))
         assertTrue(chapter100.criticalNote.contains("chapter_100.svg"))
     }
+    @Test
+    fun chapter101HasNineVerseUnitsAndSeaWitnessCaveats() {
+        val chapter101 = EnocContent.chapters.first { it.number == 101 }
+        assertEquals((1..9).map { "101:$it" }, chapter101.verses.map { it.reference })
+        assertTrue(chapter101.status.contains("Paráfrasis provisional"))
+        assertTrue(chapter101.criticalNote.contains("97:6–104:13"))
+        assertTrue(chapter101.criticalNote.contains("No se inspeccionaron"))
+        assertTrue(chapter101.criticalNote.contains("chapter_101.svg"))
+    }
 }

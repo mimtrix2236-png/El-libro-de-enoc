@@ -13,9 +13,14 @@ Se revisaron los borradores 101–105, Charles 1917, los metadatos del papyrus g
 - No se identificó un fragmento Qumrán directo para 101–103 en la lista consultada. No se afirma corroboración aramea para ellos.
 
 ## 101
-- Paráfrasis sobre naturaleza, límites del mar y falta de temor humano.
-- Greek witness partial; no direct Aramaic fragment mapped.
-- **Pendiente:** cotejar imágenes de navegación, lluvia/rocío y los límites del mar; no modernizar la cosmología.
+
+- Se sustituyó el resumen general por nueve paráfrasis originales, una por cada versículo de Charles 1917. Estructura: 101:1–3 (observación del cielo, lluvia retenida y advertencia contra la arrogancia); 101:4–6 (los navegantes temen al mar y reconocen su peligro y sus límites); 101:7–9 (la obediencia figurada del mar contrasta con la falta de temor de los pecadores).
+- Se consultó la transcripción de Charles 1917, cap. CI, en Fish the Right; la página identifica el eBook Project Gutenberg #77935 y declara control con el escaneo de la misma impresión.
+- La vista previa introductoria de Stuckenbruck, p. 17, enumera el papiro griego Chester Beatty–Michigan XII para 97:6–104:13. Ese rango abarca el capítulo 101, pero no demuestra que los nueve versículos estén conservados sin lagunas. No se inspeccionaron fotos ni se cotejó el texto griego verso por verso.
+- El cuadro resumido de testigos no asigna fragmento arameo directo a 101. La ausencia de una asignación en esa lista no demuestra inexistencia de una forma aramea.
+- Se mantiene abierta la expresión «hijos del cielo» de 101:1, sin identificarla automáticamente con ángeles. Las ventanas del cielo, la retención de lluvia/rocío y el mar que se seca en 101:2–7 se conservan como imágenes del discurso, no como explicación meteorológica o cosmología científica.
+- No se registran variantes específicas de Ge'ez/griego porque no se consultó el aparato detallado del comentario ni se inspeccionaron manuscritos. El borrador continúa provisional.
+- Se creó una ilustración vectorial original y específica: un barco antiguo zarandeado por olas, la costa arenosa como límite del mar y Enoc observando desde un promontorio. SVG editorial y copia offline Android actualizados; el vector previo se conserva aparte.
 
 ## 102
 - Paráfrasis de juicio y destino de justos muertos; la terminología Sheol/espíritus requiere cotejo.
