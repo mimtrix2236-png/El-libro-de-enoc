@@ -53,9 +53,15 @@ Se revisaron los borradores 96–100, Charles 1917 y metadatos del papyrus grieg
 - El arte generado del capítulo 99 reemplaza el SVG de primera pasada en ambos recursos offline. El concepto vectorial previo se conserva como chapter_99_vector_concept.svg; el preview raster integrado es 128×192 px y no es master de impresión.
 
 ## 100
-- Greek witness parcial en el tramo 97:6–104:13, con lagunas; no se identificó Aramaic Qumran directo.
-- El borrador resume violencia, juicio, protección de justos y creación como testigo; cada detalle debe cotejarse.
-- **Pendiente:** revisar ángeles, sangre, testigos naturales y numerales; no asumir que el papyrus conserva todos los versículos.
+
+- Se reemplazó el resumen único por 13 paráfrasis originales, una por cada versículo de Charles 1917. La estructura de lectura se organiza en 100:1–3 (violencia recíproca), 100:4–6 (juicio y custodia), 100:7–9 (ayes contra perseguidores) y 100:10–13 (la creación como testigo).
+- Se consultó la transcripción de Charles 1917, capítulo C, en Fish the Right; la propia página identifica Project Gutenberg #77935 y declara control con el escaneo de la misma impresión. Se conserva como testimonio editorial histórico, no como sustituto del Ge'ez.
+- La vista previa introductoria de Stuckenbruck, p. 17, enumera el papiro griego Chester Beatty–Michigan XII para 97:6–104:13. Ese rango incluye el capítulo 100, pero no basta por sí solo para afirmar que cada versículo esté preservado de manera continua. No se inspeccionaron fotos ni se realizó colación versículo por versículo.
+- El mismo cuadro de testigos sitúa 4Q212 (4QEng) hasta 94:1–2 y 4Q204 (4QEnc) en 104:13–105:2 y en el material de Noé; no asigna un fragmento arameo directamente a 100. La falta de asignación en ese cuadro no prueba inexistencia de una forma aramea.
+- Se registraron como imágenes visionarias, no datos históricos, las corrientes de sangre y los caballos/carros sumergidos (100:1–3). La expresión de 100:4 sobre quienes hicieron descender el pecado y el “sueño largo” de 100:5 permanecen abiertos, sin interpretación única.
+- Los fenómenos de 100:10–13 se resumen como testigos celestes y meteorológicos. La invitación a sobornar la lluvia se mantiene como ironía textual; no se transforma en explicación física del clima.
+- No se registran variantes griego/Ge'ez específicas de 100 en esta revisión: no se consultó el aparato detallado del comentario ni se inspeccionaron manuscritos. La paráfrasis continúa provisional.
+- Se generó una ilustración propia para el capítulo 100 y se integró como preview de 128×192 en ambos recursos SVG offline. El concepto vectorial anterior se conserva en `chapter_100_vector_concept.svg`; el master de impresión y su QA siguen pendientes.
 
 ## Referencias
 1. 4care artefact record 752 / TM 61462, P. Beatty XII, metadata and content range (Greek 97:6–104 and 106–107:3): https://4care-skos.mf.no/4care-artefacts/752/

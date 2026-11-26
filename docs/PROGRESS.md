@@ -3,7 +3,7 @@
 Autor de esta edición: **Mauro Iván Maidana**  
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
-## Estado actual — 25 de noviembre de 2026
+## Estado actual — 26 de noviembre de 2026
 
 ### Libro
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; 66–108 son borradores, capítulo 66 además tiene traducción indirecta en archivo separado.
@@ -464,3 +464,14 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] CI run 45631047654, commit `f5ca50a16c5efa6d63943931e6619dfa8c8d74b6`: tests de catálogo, `assembleDebug` y subida del artifact finalizaron correctamente. APK debug: 9.269.933 bytes; [workflow](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/45631047654); artifact temporal, expira 25-12-2026 14:10 UTC. Esta verificación cubre el código hasta ese commit; no es APK release ni prueba física.
 - [x] Refinado el SVG vectorial del capítulo 98: dos ricos con vestiduras y metales, mesa de lujo, libro de registro, vecino humilde y horno simbólico; se actualizó la copia Android.
 - [ ] QA de las ilustraciones 76–108, prueba física y masters de imprenta pendientes.
+
+
+## 26 de noviembre de 2026 — Capítulo 100 y arte generado
+
+- [x] Reemplazado el resumen único del capítulo 100 por 13 paráfrasis originales, organizadas según los 13 versículos de Charles 1917.
+- [x] Añadidas notas sobre el carácter visionario de las imágenes de sangre, el sentido abierto de 100:4 y 100:5, y la personificación de la creación en 100:10–13.
+- [x] Delimitada la evidencia sin exagerarla: la vista previa introductoria de Stuckenbruck sitúa el papiro griego Chester Beatty–Michigan XII en 97:6–104:13, rango que abarca 100, pero no demuestra preservación continua de cada verso. El mapa resumido de 4Q212 y 4Q204 no asigna fragmento arameo directo a 100.
+- [x] Generada una ilustración específica del capítulo 100 e integrada en los dos SVG offline como preview 128×192; guardado también el JPEG de preview. El antiguo SVG conceptual se preservó con nombre separado.
+- [x] Actualizado el catálogo Android a 13 unidades versículo por versículo y añadida una prueba de regresión para numeración, estado provisional y límites de testigos.
+- [ ] CI del nuevo commit pendiente de resultado; no se declara compilación verificada hasta consultar Actions.
+- [ ] Master 1024×1536 y QA de impresión, cotejo directo de Ge'ez/papiro y pruebas en dispositivo real pendientes.
