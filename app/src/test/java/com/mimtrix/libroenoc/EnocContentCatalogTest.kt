@@ -107,6 +107,6 @@ class EnocContentCatalogTest {
         assertTrue(chapter100.status.contains("Paráfrasis provisional"))
         assertTrue(chapter100.criticalNote.contains("97:6–104:13"))
         assertTrue(chapter100.criticalNote.contains("No se inspeccionaron"))
-        assertTrue(chapter100.editorialNote.contains("chapter_100.svg"))
+        assertTrue(chapter100.criticalNote.contains("chapter_100.svg"))
     }
 }
