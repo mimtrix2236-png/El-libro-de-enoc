@@ -45,3 +45,12 @@ For each future generated image, record the chapter, asset path, generation date
 - The previous chapter-specific vector concept is preserved as assets/illustrations/chapter_99_vector_concept.svg.
 - Subject: Enoch's testimony before the angels, false measure, stone idol, vulnerable family, and oppressive house-building; symbolic references to 99:3, 7, 12–13 rather than a literal historical reconstruction.
 - The 1024×1536 generation is not archived in this repository yet; print-master review remains open.
+
+
+## Chapter 99 — Testimony, idolatry, and unjust measures (26 November 2026)
+- Files: assets/illustrations/chapter_99.svg and app/src/main/assets/illustrations/chapter_99.svg.
+- Source: original AI-generated artwork made for this project; no stock image or external illustration used.
+- The 128×192 JPEG preview is embedded in both SVG wrappers so the Android reader can display it offline without a network request. It is a low-resolution reader preview, not print-resolution master art.
+- The previous chapter-specific vector concept is preserved as assets/illustrations/chapter_99_vector_concept.svg.
+- Subject: Enoch's testimony before the angels, false measure, stone idol, vulnerable family, and oppressive house-building; symbolic references to 99:3, 7, 12–13 rather than a literal historical reconstruction.
+- The 1024×1536 generation is not archived in this repository yet; print-master review remains open.
