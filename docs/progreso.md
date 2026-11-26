@@ -176,3 +176,13 @@
 - Generé arte específico para 94: Enoc en un cruce de caminos, senda clara versus edificio oscuro/riqueza. Reemplacé ambos SVG de capítulo 94 por un wrapper con imagen JPEG embebida 128×192; archivé el concepto vectorial anterior en `assets/illustrations/chapter_94_vector_concept.svg`. El master 1024×1536 existe en el espacio de trabajo, no en el repo; no es lámina de imprenta y debe descargarse/archivarse por separado.
 - Commits: paráfrasis `5edb5ad`; catálogo `a4d0cbe`; audit `0b5e1e2`; archivo concepto `487458e`; SVG editorial `a5277aa`; SVG Android `d9256bc`.
 - **CI y render:** la build posterior a estos commits todavía debe verificarse; no se probó en dispositivo. El PDF, APK release y cotejo crítico final siguen pendientes.
+
+
+## 26 de noviembre de 2026 — expansión editorial del capítulo 99
+- Convertí docs/chapters/99_capitulo_99_parafrasis.md de un resumen único a 16 paráfrasis originales, una por versículo según Charles 1917. El texto se rotula provisional y no se presenta como traducción literal.
+- Incorporé las 16 unidades al catálogo Android offline LaterEnocContent96_108.kt y añadí una prueba de regresión para referencias, estado provisional y cautelas textuales.
+- Consulté Charles 1917, cap. XCIX, y el comentario de Loren T. Stuckenbruck, 1 Enoch 91–108 (2007), pp. 357–371 y 415–416. Se documentaron: la estructura 99:1–2 / 3–5 / 6–9 / 10 / 11–16; variantes de persona en 99:1; ley/alianza eterna en 99:2 y 99:14; la ausencia de 99:11–12 en el manuscrito griego Chester Beatty–Michigan; y la tensión «medidas falsas» / «fundamento de pecado y engaño» en 99:12.
+- Corregí la auditoría: la lista anterior de lagunas griegas en 99:4, 5b–6, 8–9 y 16 no se había cotejado directamente y queda marcada como pendiente; no se afirma inspección del papiro, de manuscritos Ge'ez ni del aparato completo de Bonner.
+- Se generó arte específico de capítulo 99: Enoc con el rollo de testimonio, balanza falsa, ídolo, familia vulnerable y casa construida mediante trabajo ajeno. La integración SVG y el archivo raster de preview están en proceso; el concepto vectorial previo se conserva. El master de impresión no está archivado en GitHub y el preview no debe usarse como lámina final.
+- La nueva prueba del catálogo quedó añadida; la compilación de CI posterior a estos cambios aún debe verificarse. No se ha probado el render en un dispositivo físico.
+- Próximo capítulo en la secuencia: 100. Siguen pendientes QA de las ilustraciones, cotejo crítico 1–108, front matter y apéndices, PDF imprimible y APK release firmado.
