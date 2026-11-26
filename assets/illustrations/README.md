@@ -37,7 +37,7 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 96 | chapter_96.svg | Luz para los justos y riqueza opresiva |
 | 97 | chapter_97.svg | Riqueza injusta y registro celestial |
 | 98 | chapter_98.svg | Dos ricos en una mesa de lujo, monedas y adornos; libro abierto que registra sus obras, vecino humilde y horno distante como señal de juicio |
-| 99 | chapter_99.svg | Idolatría, falsas medidas y cuidado de niños |
+| 99 | chapter_99.svg | Enoc como testigo: plegaria ante los ángeles, ídolo, balanza falsa, niños y casa edificada con trabajo ajeno |
 | 100 | chapter_100.svg | Justos bajo protección en tiempo de violencia |
 | 101 | chapter_101.svg | Navegantes y mar dentro de límites |
 | 102 | chapter_102.svg | Justicia y luz para los muertos rectos |
@@ -54,3 +54,6 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 - Capítulo 92: `chapter_92_generated.svg` — grabado sepia con Enoc en el sendero hacia la luz y rollo abierto; preview raster embebido 128×192. El master 1024×1536 está disponible como archivo de trabajo, no archivado en Git. El vector conceptual anterior sigue en `chapter_92.svg`.
 - Capítulo 106: `chapter_106_generated.svg` — preview raster embebido, 160×240 px; no master de impresión.
 - Capítulo 107: `chapter_107_generated.svg` — grabado sepia con Enoc, Matusalén, familia con el recién nacido y arca distante (elemento contextual no literal), 120×180 px; no master de impresión. El concepto vectorial original se conserva en `chapter_107.svg`.
+
+
+- Capítulo 99: chapter_99.svg — ilustración original generada, preview JPEG embebido de 128×192 px; se conserva el concepto vectorial previo en chapter_99_vector_concept.svg. La escena reúne el testimonio de Enoc, una balanza falseada, una imagen de piedra, una familia vulnerable y una casa levantada con trabajo ajeno. Es una imagen simbólica, no una reconstrucción histórica ni una lámina final de imprenta.
