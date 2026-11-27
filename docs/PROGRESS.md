@@ -3,7 +3,7 @@
 Autor de esta edición: **Mauro Iván Maidana**  
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
-## Estado actual — 26 de noviembre de 2026
+## Estado actual — 27 de noviembre de 2026
 
 ### Libro
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; 66–108 son borradores, capítulo 66 además tiene traducción indirecta en archivo separado.
@@ -489,3 +489,15 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - [x] CI run 45836262085, commit `eb64b71d528ea0f823cc232e29920916bc883879`: pruebas del catálogo, `assembleDebug` y subida del artifact finalizaron correctamente. [Workflow](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/45836262085).
 - [x] Artifact debug `el-libro-de-enoc-debug-apk`: 9.281.465 bytes; SHA-256 `ee164b285e333f27e377109a2a081d195f2990d53abbed24ae932d4437d4c884`; expira el 26-12-2026 14:11 UTC. Es una compilación debug, no release firmado ni prueba física.
 - [ ] Cotejo de manuscritos, QA en dispositivo y arte final de impresión pendientes.
+
+
+## Avance incremental — 27 de noviembre de 2026
+
+- [x] Capítulo 102: reemplazado el resumen único por once paráfrasis originales, una por unidad de Charles 1917; no se presenta como traducción literal.
+- [x] Capítulo 102: nota textual ampliada tras consultar la transcripción de Charles 1917 en Scriptura, la transcripción OCR de The Book and Me y la reproducción del texto griego del Chester Beatty–Michigan XII. Se registran la lectura corrupta de 102:3, Sheol/Hades en 102:5 y la diferencia sustantiva de 102:8 y 102:10–11. No se inspeccionaron fotografías ni aparato crítico completo.
+- [x] Capítulo 102: ilustración generada específica integrada en `assets/illustrations/chapter_102.svg` y `app/src/main/assets/illustrations/chapter_102.svg`; raster embebida 64×96, mostrada a 128×192. El concepto vectorial previo se preservó en `chapter_102_vector_concept.svg` en ambos árboles.
+- [x] Catálogo offline actualizado a once unidades y prueba de regresión añadida para referencias 102:1–11 y cautelas textuales.
+- [x] Inventario de arte, auditoría 101–105 y README actualizados.
+- Commits de contenido: `018ea17055bcbc902689561a0f67365d2975fc8a` (capítulo 102), `172a2621010a78b1c811c3f2226266adb6d6b39b` (catálogo), `397befe8bfb4653fecc412c3d7c7e51cf44c68a7` (test), `631e946de147b32e5e14e4c83962111653f39bd7` (auditoría), `c33a561a330a7c2ec5aad1f328eef782c0c0f5f6` y `6450b92636a5b828eca1d43e9de30aff05f92d5a` (SVG generado editorial y Android).
+- [ ] CI de los cambios del 27-11 pendiente de consulta; no declarar compilación verificada hasta obtener el resultado de Actions.
+- [ ] Cotejo directo Ge'ez/griego, fotografías y aparato crítico; master de ilustración para impresión; capítulo 103 versículo por versículo.
