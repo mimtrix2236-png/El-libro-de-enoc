@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 103, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><rect x="90" y="220" width="150" height="240" rx="10" fill="#d5bd91" stroke="#5b3b20" stroke-width="8"/><rect x="270" y="220" width="150" height="240" rx="10" fill="#6b4a2b" stroke="#5b3b20" stroke-width="8"/><path d="M110 270 Q165 320 220 270 M110 320 Q165 370 220 320 M110 370 Q165 420 220 370" stroke="#8b633a" stroke-width="7" fill="none"/><path d="M290 270 Q345 320 400 270 M290 320 Q345 370 400 320 M290 370 Q345 420 400 370" stroke="#d5bd91" stroke-width="7" fill="none"/><path d="M255 180 L255 500" stroke="#5b3b20" stroke-width="7"/><path d="M70 550 Q255 600 440 550" stroke="#5b3b20" stroke-width="8" fill="none"/></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 103</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="1 Enoc 103: tablas celestiales, destinos de los muertos y lamento de los justos oprimidos">
+<title>1 Enoc 103 — Registro celestial y lamento de los justos</title>
+<defs>
+  <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#f3e4c5"/><stop offset="1" stop-color="#c9a578"/></linearGradient>
+  <linearGradient id="light" x2="0" y2="1"><stop stop-color="#fff2c9"/><stop offset="1" stop-color="#c28b4c"/></linearGradient>
+  <linearGradient id="shadow" x2="0" y2="1"><stop stop-color="#473326"/><stop offset="1" stop-color="#1f1a18"/></linearGradient>
+  <pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".6" fill="#7b5736" opacity=".22"/><circle cx="10" cy="9" r=".5" fill="#7b5736" opacity=".18"/></pattern>
+</defs>
+<rect width="512" height="720" fill="url(#paper)"/><rect width="512" height="720" fill="url(#grain)"/>
+<rect x="16" y="16" width="480" height="688" rx="8" fill="none" stroke="#5b3b20" stroke-width="7"/><rect x="28" y="28" width="456" height="664" fill="none" stroke="#a17a4d" stroke-width="2"/>
+<!-- celestial record -->
+<path d="M52 55 Q256 -10 460 55 L460 268 Q256 226 52 268Z" fill="#e6d0a6" stroke="#694729" stroke-width="5"/>
+<g stroke="#b17d3f" stroke-width="3" opacity=".65"><path d="M256 36V68 M220 42L207 72 M292 42L305 72 M172 54L150 82 M340 54L362 82 M126 75L104 97 M386 75L408 97"/></g>
+<path d="M164 87 Q256 55 348 87 L340 218 Q256 195 172 218Z" fill="url(#light)" stroke="#654426" stroke-width="6"/>
+<path d="M256 84V215" stroke="#6c4b2b" stroke-width="4"/>
+<g stroke="#7a5634" stroke-width="3" fill="none" opacity=".8"><path d="M188 112Q220 102 242 112 M188 130Q220 120 242 130 M188 148Q220 138 242 148 M188 166Q220 156 242 166 M270 112Q302 102 324 112 M270 130Q302 120 324 130 M270 148Q302 138 324 148 M270 166Q302 156 324 166"/></g>
+<g fill="#5b3b20"><circle cx="104" cy="115" r="4"/><circle cx="408" cy="115" r="4"/><circle cx="130" cy="180" r="3"/><circle cx="382" cy="180" r="3"/></g>
+<!-- remembered righteous: clear side -->
+<path d="M45 245 Q105 205 194 246 L194 405 L45 405Z" fill="#e8d5b3" stroke="#765330" stroke-width="4"/>
+<path d="M65 365Q80 310 120 300Q160 310 177 365" fill="#d4b486" stroke="#68482a" stroke-width="4"/>
+<g fill="#b98a52" stroke="#5b3b20" stroke-width="3">
+<circle cx="91" cy="294" r="11"/><path d="M80 308L102 308L110 355L73 355Z"/>
+<circle cx="126" cy="284" r="12"/><path d="M114 298L138 298L148 357L105 357Z"/>
+<circle cx="158" cy="298" r="10"/><path d="M149 310L168 310L177 356L140 356Z"/>
+</g>
+<g stroke="#7d552e" stroke-width="2" fill="none"><path d="M86 318L96 340 M122 311L132 340 M155 320L164 342"/></g>
+<!-- Sheol: dark side -->
+<path d="M318 245 Q335 204 400 214 Q467 220 470 290 L470 405 L318 405Z" fill="url(#shadow)" stroke="#4b3020" stroke-width="5"/>
+<path d="M340 405V304 Q342 246 395 244 Q447 246 450 304V405Z" fill="#2a211d" stroke="#a47b4d" stroke-width="4"/>
+<path d="M383 374Q367 344 390 320Q399 305 392 288Q426 316 419 342Q414 365 430 374Z" fill="#b86a32" stroke="#d5a15e" stroke-width="3"/>
+<g stroke="#b99a6b" stroke-width="4" fill="none"><path d="M346 270L365 287L355 305L375 322 M441 267L423 286L435 307L416 324"/><path d="M350 258L445 258"/></g>
+<g fill="#c2a77e" opacity=".75"><circle cx="373" cy="330" r="7"/><path d="M366 340L380 340L385 371L361 371Z"/><circle cx="422" cy="336" r="6"/><path d="M416 345L428 345L433 373L411 373Z"/></g>
+<!-- central scroll / witness -->
+<path d="M212 255Q256 240 300 255V385Q256 369 212 385Z" fill="#ead7b2" stroke="#5b3b20" stroke-width="5"/>
+<path d="M256 253V382" stroke="#8a633c" stroke-width="3"/>
+<g stroke="#805a36" stroke-width="2" fill="none"><path d="M224 276H246 M224 290H246 M224 304H246 M224 318H246 M224 332H246 M266 276H288 M266 290H288 M266 304H288 M266 318H288 M266 332H288"/></g>
+<!-- lower lament: yoke and workers -->
+<path d="M48 448Q256 420 464 448" stroke="#795331" stroke-width="5" fill="none"/>
+<path d="M74 474Q256 454 438 474" stroke="#795331" stroke-width="4" fill="none"/>
+<g fill="#a77b4a" stroke="#50331e" stroke-width="4">
+<circle cx="126" cy="508" r="14"/><path d="M111 524L142 524L151 602L103 602Z"/>
+<circle cx="206" cy="500" r="15"/><path d="M190 518L222 518L231 602L181 602Z"/>
+<circle cx="286" cy="508" r="14"/><path d="M272 524L301 524L311 602L262 602Z"/>
+</g>
+<path d="M96 484Q206 463 319 484" stroke="#4d321f" stroke-width="10" fill="none"/>
+<path d="M126 480L126 524 M206 473L206 518 M286 480L286 524" stroke="#4d321f" stroke-width="5"/>
+<g stroke="#5b3b20" stroke-width="3" fill="none"><path d="M119 544L136 571 M198 538L215 570 M280 544L295 572"/></g>
+<!-- petition and closed authority gate -->
+<path d="M352 477L470 477V635H352Z" fill="#9c754c" stroke="#50331f" stroke-width="5"/>
+<path d="M365 490V621 M394 490V621 M423 490V621 M452 490V621" stroke="#5b3b20" stroke-width="5"/>
+<path d="M352 512H470 M352 594H470" stroke="#5b3b20" stroke-width="5"/>
+<g fill="#e6d2ae" stroke="#5b3b20" stroke-width="3"><circle cx="332" cy="518" r="11"/><path d="M321 532L343 532L350 579L314 579Z"/></g>
+<path d="M312 548Q293 534 277 544" fill="none" stroke="#5b3b20" stroke-width="4"/>
+<path d="M277 540Q265 536 257 544L270 555" fill="none" stroke="#5b3b20" stroke-width="3"/>
+<path d="M340 530L360 542L349 554" fill="none" stroke="#5b3b20" stroke-width="3"/>
+<!-- broken chain and caption -->
+<g fill="none" stroke="#6b4829" stroke-width="4"><ellipse cx="76" cy="635" rx="13" ry="7" transform="rotate(25 76 635)"/><ellipse cx="100" cy="644" rx="13" ry="7" transform="rotate(-20 100 644)"/><path d="M87 637L91 640"/></g>
+<path d="M42 666Q256 680 470 666" stroke="#7b5736" stroke-width="3" fill="none"/>
+<text x="256" y="690" text-anchor="middle" font-family="serif" font-size="16" fill="#5b3b20" letter-spacing="2">1 ENOC · 103</text>
+</svg>
