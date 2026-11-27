@@ -35,9 +35,16 @@ Se revisaron los borradores 101–105, Charles 1917, los metadatos del papyrus g
 - **Pendiente:** cotejo de Ge'ez y del griego con Bonner/Stuckenbruck y revisión de las divisiones, lagunas y lectura de 102:10–11.
 
 ## 103
-- El resumen incluye recompensa de justos y queja de quienes sufrieron.
-- Greek witness partial; no direct Aramaic Qumran witness mapped.
-- **Pendiente:** verificar cambio de voz y divisiones, especialmente 103:1–15.
+
+- El borrador se amplió a quince paráfrasis originales, una por versículo de Charles 1917. No se presenta como traducción literal.
+- Se consultaron las transcripciones de Charles 1917 en Scriptura y Fish the Right; esta última declara control con el escaneo de la impresión. Se contrastó con The Book and Me, que advierte sobre OCR.
+- 103:5–6 se mantiene como discurso de quienes elogian a los personas ricas e injustas; no se atribuye esa valoración al narrador. 103:9–15 conserva la queja de los justos vivos, no una voz de muertos.
+- Charles incluye en 103:10 un suplemento entre corchetes y marca con dagas como corrupta la cláusula sobre los golpes en 103:12. No se reconstruyen esos pasajes.
+- El papiro griego Chester Beatty–Michigan XII cubre parcialmente la Epístola. Un resumen bibliográfico que cita Stuckenbruck 2007, p. 186, enumera pérdidas en 103:1, 3–4, 5–6, 12 y 15, además de una pérdida parcial en 103:13. Se registra como dato secundario; no se consultó el aparato de Bonner ni se inspeccionaron fotos.
+- No se identifica fragmento arameo Qumrán directo para 103 en el mapa consultado; no se afirma que el capítulo esté corroborado por un testigo arameo.
+- Se sustituyó el resumen único del catálogo Android por quince unidades versiculares y se añadió prueba de secuencia.
+- Ilustración vectorial original específica: tablas celestiales y memoria de los justos, caverna oscura con cadenas/fuego para el destino de los pecadores, y trabajadores sometidos a un yugo ante una autoridad que no escucha. Se conserva el vector anterior como `chapter_103_vector_concept.svg`. La ilustración es provisional y requiere QA; no se adoptaron los resultados generados que resultaron genéricos.
+- **Pendiente:** cotejo directo de Ge'ez y del papiro griego con Bonner/Stuckenbruck, revisión de las lagunas y control visual a tamaño de impresión.
 
 ## 104
 - Greek witness partial 97:6–104:13; 4Q204 se asigna a 104:13–105:2.
