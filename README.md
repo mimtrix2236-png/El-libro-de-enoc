@@ -124,3 +124,11 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 - Se generó una lámina específica de 1 Enoc 102 y se integró como raster 64×96 embebido en el SVG editorial y en el asset Android; el visor la presenta en 128×192. El concepto vectorial anterior se preservó como `chapter_102_vector_concept.svg`.
 - La paráfrasis y el catálogo Android siguen marcados como provisionales; no se afirma colación directa de manuscritos.
 - El siguiente borrador que requiere conversión a unidades versiculares es el capítulo 103.
+
+
+## Avance incremental — capítulos 102–103 (27 de noviembre de 2026)
+
+- Capítulo 102: paráfrasis provisional por sus once unidades de Charles 1917; se documentan diferencias de la forma griega en 102:3, 102:5, 102:8 y 102:10–11. Ilustración generada integrada como preview raster embebida en el SVG offline; el concepto vectorial previo se conserva.
+- Capítulo 103: paráfrasis provisional por sus quince versículos; se registran el suplemento de 103:10, la lectura corrupta de 103:12 y las lagunas griegas reportadas en fuentes secundarias. No se afirma cotejo directo de manuscritos.
+- Capítulo 103: nueva lámina vectorial específica con tablas celestiales, memoria de los justos, destino oscuro de los pecadores y trabajadores bajo yugo ante una autoridad que no escucha. Se conserva el concepto anterior; las imágenes generadas disponibles para este capítulo resultaron genéricas y no se incorporaron.
+- El lector Android muestra ambos capítulos offline con once y quince unidades, respectivamente; pruebas automatizadas de secuencia añadidas. Build CI de los cambios recientes aún pendiente de resultado.
