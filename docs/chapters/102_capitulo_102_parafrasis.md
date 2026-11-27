@@ -45,7 +45,7 @@ La base de esta paráfrasis es R. H. Charles, *The Book of Enoch* (SPCK, 1917), 
 
 **Archivo:** `assets/illustrations/chapter_102.svg` (copia offline en `app/src/main/assets/illustrations/chapter_102.svg`).  
 **Escena:** una pareja humilde junto a la entrada de una caverna iluminada por una lámpara, con figuras de los muertos al fondo; en una terraza superior, hombres acomodados comen y beben mientras se burlan. La composición representa el contraste entre el duelo de los justos y la prosperidad ostentosa de quienes cuestionan su destino.  
-**Técnica:** imagen generada original, grabado sepia integrado como preview raster de 128×192 dentro de SVG. No es todavía una lámina maestra para impresión. El concepto vectorial anterior se conserva en `chapter_102_vector_concept.svg`.
+**Técnica:** imagen generada original, grabado sepia integrado como raster de 64×96 embebida en un SVG que se muestra a 128×192. No es todavía una lámina maestra para impresión. El concepto vectorial anterior se conserva en `chapter_102_vector_concept.svg`.
 
 ## Fuentes consultadas y bibliografía de trabajo
 
