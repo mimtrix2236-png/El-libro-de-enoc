@@ -501,3 +501,17 @@ El ambiente celestial ya está implementado en Kotlin; no es solo una especifica
 - Commits de contenido: `018ea17055bcbc902689561a0f67365d2975fc8a` (capítulo 102), `172a2621010a78b1c811c3f2226266adb6d6b39b` (catálogo), `397befe8bfb4653fecc412c3d7c7e51cf44c68a7` (test), `631e946de147b32e5e14e4c83962111653f39bd7` (auditoría), `c33a561a330a7c2ec5aad1f328eef782c0c0f5f6` y `6450b92636a5b828eca1d43e9de30aff05f92d5a` (SVG generado editorial y Android).
 - [ ] CI de los cambios del 27-11 pendiente de consulta; no declarar compilación verificada hasta obtener el resultado de Actions.
 - [ ] Cotejo directo Ge'ez/griego, fotografías y aparato crítico; master de ilustración para impresión; capítulo 103 versículo por versículo.
+
+
+## Avance incremental — capítulo 103 — 27 de noviembre de 2026
+
+- [x] Capítulo 103: reemplazado el resumen único por quince paráfrasis originales siguiendo la numeración de Charles 1917; se mantiene el estado provisional.
+- [x] Capítulo 103: documentadas la voz elogiosa de 103:5–6, la queja de los justos vivos en 103:9–15, el suplemento editorial de 103:10 y la lectura corrupta marcada en 103:12.
+- [x] Capítulo 103: anotadas las lagunas del papiro griego a partir de un resumen bibliográfico que cita Stuckenbruck 2007, p. 186; se aclara que no se inspeccionaron el aparato ni fotografías.
+- [x] Catálogo offline actualizado a quince unidades y prueba de regresión añadida.
+- [x] Ilustración vectorial capítulo-específica integrada en editorial y Android; el concepto previo se conserva. Los intentos de raster generada fueron descartados por genéricos y no se presentan como lámina específica.
+- [x] Auditoría 101–105, inventario de arte y README actualizados.
+- Commits: `7c2f0975591c89383cd3894e420a86e52dcfc665` (paráfrasis), `63f4c12d9f57fcd206713da75aa6de14c0828572` (catálogo), `38953b5c94b852a54ba6d1d47e59b5c61515d48d` (test), `79e6ee7e29589c710629610af61823a97696ec6e` y `829cf95a073e27b8537729f5862945f99c8f9233` (arte editorial y Android), `2ca8214ec8de92e6cd285eda42fcb8da19467591` (auditoría), `acb40e06e4eb7a7432e7fc232dd68505aa4d4eea` (inventario).
+- [ ] CI de los cambios del capítulo 103 pendiente de consulta; no afirmar compilación hasta revisar Actions.
+- [ ] Cotejo directo de Ge'ez/griego y revisión del arte para impresión.
+- **Siguiente capítulo de trabajo:** 104, que sigue siendo un resumen general y debe convertirse en unidades versiculares con cautelas de 4Q204 y del papiro griego.
