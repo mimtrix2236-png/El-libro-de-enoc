@@ -64,6 +64,6 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 
 ## Preview generado del capítulo 102
 
-- `chapter_102.svg`: grabado generado específico sobre el contraste entre los justos muertos y la mesa de quienes se burlan de ellos; contiene una preview raster de 128×192 px. La copia offline está en `app/src/main/assets/illustrations/chapter_102.svg`.
+- `chapter_102.svg`: grabado generado específico sobre el contraste entre los justos muertos y la mesa de quienes se burlan de ellos; contiene una preview raster embebida de 64×96 px que se muestra a 128×192. La copia offline está en `app/src/main/assets/illustrations/chapter_102.svg`.
 - El concepto SVG vectorial anterior se conserva en `chapter_102_vector_concept.svg` tanto en el árbol editorial como en Android.
 - La preview se deriva de una imagen generada de 1024×1536; el master no está incorporado en este commit y debe someterse a QA de impresión antes de publicarse como lámina final.
