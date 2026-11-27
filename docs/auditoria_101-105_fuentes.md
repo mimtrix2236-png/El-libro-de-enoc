@@ -23,9 +23,16 @@ Se revisaron los borradores 101–105, Charles 1917, los metadatos del papyrus g
 - Se creó una ilustración vectorial original y específica: un barco antiguo zarandeado por olas, la costa arenosa como límite del mar y Enoc observando desde un promontorio. SVG editorial y copia offline Android actualizados; el vector previo se conserva aparte.
 
 ## 102
-- Paráfrasis de juicio y destino de justos muertos; la terminología Sheol/espíritus requiere cotejo.
-- Greek witness partial, con lagunas; no direct Aramaic Qumran witness mapped.
-- **Pendiente:** no traducir “resurrección” o “espíritu” por inferencia si el texto no lo expresa; cotejar 102:1–11.
+
+- El borrador se amplió a once unidades siguiendo la numeración de Charles 1917; se conserva como paráfrasis provisional, no como traducción literal.
+- Se consultó Charles 1917, cap. CII, en la transcripción Scriptura (27-11-2026). Se contrastó con la transcripción de Charles 1917 en The Book and Me, que advierte que su texto procede de OCR, y con la transcripción del Chester Beatty–Michigan papyrus XII reproducida por Les Versets Bibliques.
+- Charles marca con daga la cláusula de 102:3 sobre los ángeles que ejecutan sus órdenes como lectura corrupta. La forma griega publicada difiere en la formulación y en el orden de los elementos celestes y terrestres.
+- En 102:5 Charles usa *Sheol*, mientras la transcripción griega usa *Hades*. La paráfrasis sigue la forma base de Charles sin asumir equivalencia semántica completa.
+- En 102:8 hay una diferencia sustantiva: la forma etiópica transmitida por Charles dice que los muertos no verán la luz; la transcripción griega publicada contiene una frase sobre levantarse/ser salvados y ver a los impíos comer y beber. No se fusionan las lecturas.
+- En 102:10–11 el testimonio griego publicado reorganiza el contraste final y difiere en la caracterización de la justicia y la caída. No se impone una alineación versículo por versículo.
+- El testimonio griego es parcial. La página consultada es una reproducción secundaria, no la edición de Bonner 1937; no se inspeccionaron fotografías ni aparato crítico. El informe no identifica un fragmento arameo de Qumrán asignado directamente a 102; esto no demuestra inexistencia absoluta.
+- Ilustración generada específica para 102: una pareja humilde junto a una caverna iluminada, con figuras de los muertos al fondo y una mesa de ricos que comen y beben en una terraza superior. Preview 128×192 integrada en SVG editorial y Android; el concepto vectorial previo se conserva como `chapter_102_vector_concept.svg`. No es master de impresión.
+- **Pendiente:** cotejo de Ge'ez y del griego con Bonner/Stuckenbruck y revisión de las divisiones, lagunas y lectura de 102:10–11.
 
 ## 103
 - El resumen incluye recompensa de justos y queja de quienes sufrieron.
