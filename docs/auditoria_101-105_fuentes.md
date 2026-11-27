@@ -31,7 +31,7 @@ Se revisaron los borradores 101–105, Charles 1917, los metadatos del papyrus g
 - En 102:8 hay una diferencia sustantiva: la forma etiópica transmitida por Charles dice que los muertos no verán la luz; la transcripción griega publicada contiene una frase sobre levantarse/ser salvados y ver a los impíos comer y beber. No se fusionan las lecturas.
 - En 102:10–11 el testimonio griego publicado reorganiza el contraste final y difiere en la caracterización de la justicia y la caída. No se impone una alineación versículo por versículo.
 - El testimonio griego es parcial. La página consultada es una reproducción secundaria, no la edición de Bonner 1937; no se inspeccionaron fotografías ni aparato crítico. El informe no identifica un fragmento arameo de Qumrán asignado directamente a 102; esto no demuestra inexistencia absoluta.
-- Ilustración generada específica para 102: una pareja humilde junto a una caverna iluminada, con figuras de los muertos al fondo y una mesa de ricos que comen y beben en una terraza superior. Preview 128×192 integrada en SVG editorial y Android; el concepto vectorial previo se conserva como `chapter_102_vector_concept.svg`. No es master de impresión.
+- Ilustración generada específica para 102: una pareja humilde junto a una caverna iluminada, con figuras de los muertos al fondo y una mesa de ricos que comen y beben en una terraza superior. Raster 64×96 embebida en SVG editorial y Android, mostrada a 128×192; el concepto vectorial previo se conserva como `chapter_102_vector_concept.svg`. No es master de impresión.
 - **Pendiente:** cotejo de Ge'ez y del griego con Bonner/Stuckenbruck y revisión de las divisiones, lagunas y lectura de 102:10–11.
 
 ## 103
