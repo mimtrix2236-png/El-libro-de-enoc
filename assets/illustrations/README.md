@@ -60,3 +60,10 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 
 
 - Capítulo 99: chapter_99.svg — ilustración original generada, preview JPEG embebido de 128×192 px; se conserva el concepto vectorial previo en chapter_99_vector_concept.svg. La escena reúne el testimonio de Enoc, una balanza falseada, una imagen de piedra, una familia vulnerable y una casa levantada con trabajo ajeno. Es una imagen simbólica, no una reconstrucción histórica ni una lámina final de imprenta.
+
+
+## Preview generado del capítulo 102
+
+- `chapter_102.svg`: grabado generado específico sobre el contraste entre los justos muertos y la mesa de quienes se burlan de ellos; contiene una preview raster de 128×192 px. La copia offline está en `app/src/main/assets/illustrations/chapter_102.svg`.
+- El concepto SVG vectorial anterior se conserva en `chapter_102_vector_concept.svg` tanto en el árbol editorial como en Android.
+- La preview se deriva de una imagen generada de 1024×1536; el master no está incorporado en este commit y debe someterse a QA de impresión antes de publicarse como lámina final.
