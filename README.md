@@ -116,3 +116,11 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 
 
 - **24 de noviembre de 2026 — capítulo 96:** paráfrasis provisional ampliada a ocho unidades y sincronizada con el catálogo Android. La unidad 96:2, marcada entre corchetes por Charles, se separa como suplemento editorial. Límites de testigos registrados; no hubo cotejo directo de manuscritos. El arte sigue siendo un concepto SVG, pendiente de ilustración generada específica y QA. CI y prueba en dispositivo pendientes.
+
+
+## Avance editorial y visual — 27 de noviembre de 2026
+
+- El capítulo 102 ya está organizado en once paráfrasis provisionales, una por unidad de la numeración de Charles 1917, con nota explícita de las diferencias Ge'ez/griego en 102:3, 102:5, 102:8 y 102:10–11.
+- Se generó una lámina específica de 1 Enoc 102 y se integró como raster 64×96 embebido en el SVG editorial y en el asset Android; el visor la presenta en 128×192. El concepto vectorial anterior se preservó como `chapter_102_vector_concept.svg`.
+- La paráfrasis y el catálogo Android siguen marcados como provisionales; no se afirma colación directa de manuscritos.
+- El siguiente borrador que requiere conversión a unidades versiculares es el capítulo 103.
