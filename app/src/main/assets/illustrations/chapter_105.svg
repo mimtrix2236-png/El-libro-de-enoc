@@ -1,2 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 105, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><path d="M90 530 Q255 590 420 530" stroke="#5b3b20" stroke-width="8" fill="none"/><g fill="#d5bd91" stroke="#5b3b20" stroke-width="7"><circle cx="150" cy="420" r="22"/><path d="M130 445 L170 445 190 520 110 520Z"/><circle cx="250" cy="390" r="30"/><path d="M220 420 L280 420 315 520 185 520Z"/><circle cx="360" cy="420" r="22"/><path d="M340 445 L380 445 400 520 320 520Z"/></g><path d="M255 180 L300 260 210 260Z" fill="#c7a273" stroke="#5b3b20" stroke-width="8"/><path d="M80 220 Q255 130 430 220" stroke="#a16d39" stroke-width="8" fill="none"/></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 105</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="1 Enoc 105: un maestro transmite sabiduría a los hijos de la tierra y los guía por el camino de la rectitud">
+<title>1 Enoc 105 — Los hijos de la rectitud y la promesa de paz</title>
+<defs>
+ <linearGradient id="paper105" x2="0" y2="1"><stop stop-color="#f2e2c1"/><stop offset="1" stop-color="#c7a276"/></linearGradient>
+ <linearGradient id="dawn105" x2="0" y2="1"><stop stop-color="#fff1c8"/><stop offset="1" stop-color="#c18a4b"/></linearGradient>
+ <pattern id="grain105" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2" cy="4" r=".6" fill="#795333" opacity=".2"/><circle cx="9" cy="10" r=".5" fill="#795333" opacity=".18"/></pattern>
+</defs>
+<rect width="512" height="720" fill="url(#paper105)"/><rect width="512" height="720" fill="url(#grain105)"/>
+<rect x="16" y="16" width="480" height="688" rx="8" fill="none" stroke="#5b3b20" stroke-width="7"/><rect x="28" y="28" width="456" height="664" fill="none" stroke="#a17a4d" stroke-width="2"/>
+<!-- distant doorway and two symbolic figures -->
+<path d="M282 340V148Q282 70 364 70Q446 70 446 148V340Z" fill="#d6bd92" stroke="#654426" stroke-width="7"/>
+<path d="M302 340V154Q302 94 364 94Q426 94 426 154V340Z" fill="url(#dawn105)" stroke="#8a633d" stroke-width="3"/>
+<path d="M364 94V340" stroke="#8a633d" stroke-width="3"/>
+<g fill="#b78b55" stroke="#5b3b20" stroke-width="4">
+ <circle cx="342" cy="184" r="17"/><path d="M322 205Q342 190 362 205L372 290H312Z"/>
+ <circle cx="392" cy="195" r="14"/><path d="M376 212Q392 202 408 212L416 290H368Z"/>
+</g>
+<g stroke="#6f4c2c" stroke-width="3" fill="none"><path d="M329 229L315 255 M355 229L369 255 M384 232L375 254 M400 232L413 254"/></g>
+<!-- rays and path -->
+<g stroke="#b9874c" stroke-width="3" opacity=".65"><path d="M364 112L255 380 M364 112L295 390 M364 112L430 390 M364 112L470 380 M364 112L205 390"/></g>
+<path d="M244 665Q252 586 276 520Q300 445 350 340Q370 320 390 340Q340 450 320 530Q300 600 300 665Z" fill="#dfc79d" stroke="#765331" stroke-width="5"/>
+<path d="M270 665Q275 590 294 530Q315 455 365 350" fill="none" stroke="#a57a49" stroke-width="3" stroke-dasharray="8 8"/>
+<!-- teacher with open scroll -->
+<g stroke="#51351f" stroke-width="5" stroke-linejoin="round">
+ <circle cx="116" cy="388" r="23" fill="#c79d68"/>
+ <path d="M91 416Q116 399 141 416L158 555H74Z" fill="#8c6037"/>
+ <path d="M95 424L64 476L83 494 M137 424L174 460L198 448" fill="none"/>
+ <path d="M83 555L69 624 M148 555L165 624" fill="none"/>
+</g>
+<path d="M96 371Q115 350 137 373" stroke="#4e321e" stroke-width="7" fill="none"/>
+<!-- scroll -->
+<path d="M154 438Q190 426 226 438V492Q190 480 154 492Z" fill="#f0dfbd" stroke="#5b3b20" stroke-width="5"/>
+<path d="M154 438Q143 463 154 492 M226 438Q238 463 226 492" fill="none" stroke="#7a5634" stroke-width="4"/>
+<g stroke="#8b633e" stroke-width="2"><path d="M166 450H214 M166 461H214 M166 472H214 M166 483H214"/></g>
+<!-- listeners: children of the earth -->
+<g stroke="#51351f" stroke-width="4" stroke-linejoin="round">
+ <circle cx="223" cy="532" r="15" fill="#c79d68"/><path d="M207 549L239 549L248 620H198Z" fill="#b88c58"/>
+ <circle cx="270" cy="555" r="13" fill="#d0aa75"/><path d="M256 569L284 569L291 626H249Z" fill="#9a7044"/>
+ <circle cx="324" cy="552" r="14" fill="#c79d68"/><path d="M309 567L339 567L348 628H300Z" fill="#b18a59"/>
+ <circle cx="373" cy="533" r="15" fill="#d0aa75"/><path d="M357 550L389 550L399 621H348Z" fill="#8f6740"/>
+</g>
+<g stroke="#5b3b20" stroke-width="3" fill="none"><path d="M216 566L228 584 M263 584L275 601 M317 582L331 600 M365 565L380 584"/></g>
+<!-- peaceful olive tree and spring -->
+<path d="M55 540Q76 500 93 468Q103 449 110 430" stroke="#5d4329" stroke-width="9" fill="none"/>
+<g fill="#8b8054" stroke="#5b3b20" stroke-width="3"><ellipse cx="67" cy="468" rx="23" ry="11" transform="rotate(-28 67 468)"/><ellipse cx="97" cy="454" rx="25" ry="12" transform="rotate(18 97 454)"/><ellipse cx="75" cy="438" rx="22" ry="10" transform="rotate(-12 75 438)"/></g>
+<path d="M420 600Q452 579 474 600Q454 623 425 620Z" fill="#b7a079" stroke="#5b3b20" stroke-width="3"/>
+<path d="M427 608Q450 600 468 608" fill="none" stroke="#e6d4b1" stroke-width="3"/>
+<!-- lower border ornaments -->
+<path d="M48 662Q256 680 464 662" fill="none" stroke="#6e4a2a" stroke-width="3"/>
+<g fill="#6b4a2b"><circle cx="48" cy="48" r="5"/><circle cx="464" cy="48" r="5"/><circle cx="48" cy="672" r="5"/><circle cx="464" cy="672" r="5"/></g>
+</svg>
