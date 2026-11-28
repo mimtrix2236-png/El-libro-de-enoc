@@ -43,7 +43,7 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 102 | chapter_102.svg | Justicia y luz para los muertos rectos |
 | 103 | chapter_103.svg | Registros y queja de los justos |
 | 104 | chapter_104.svg | Scriptorium: copista fiel, falsificador y libros de rectitud |
-| 105 | chapter_105.svg | Comunidad en paz ante la luz |
+| 105 | chapter_105.svg | Maestro con rollo, oyentes jóvenes y sendero de rectitud hacia dos figuras simbólicas |
 | 106 | chapter_106.svg | Nacimiento de Noé y consulta de Lamech |
 | 107 | chapter_107.svg | Concepto vectorial: tabla de generaciones y Noé |
 | 108 | chapter_108.svg | Destinos de luz y oscuridad |
@@ -81,3 +81,10 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 - `chapter_104.svg`: grabado generado específico de un scriptorium dividido entre la copia fiel y la falsificación de escritos; preview JPEG embebida de 128×192 px, derivada de una generación 1024×1536.
 - El concepto vectorial previo se conserva en `chapter_104_vector_concept.svg` en el árbol editorial y en los assets Android.
 - La preview está integrada para lectura offline. No es master de impresión; la imagen de alta resolución permanece como archivo de trabajo y aún requiere archivado y QA de imprenta.
+
+
+## Revisión del capítulo 105
+
+- `chapter_105.svg`: SVG vectorial específico con un maestro que muestra un rollo a los hijos de la tierra, oyentes jóvenes, un sendero hacia dos figuras simbólicas y motivos de paz (olivo/fuente).
+- El concepto anterior se conserva como `chapter_105_vector_concept.svg` en el árbol editorial y en los assets Android.
+- Los intentos de generación raster produjeron escenas genéricas de familia/ángeles y no se incorporaron; la versión actual es un dibujo vectorial editorial provisional, no una lámina de imprenta.
