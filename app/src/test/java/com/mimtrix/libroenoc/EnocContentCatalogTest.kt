@@ -98,6 +98,18 @@ class EnocContentCatalogTest {
         assertTrue(chapter98.criticalNote.contains("98:15"))
     }
     @Test
+    fun chapter108HasFifteenVerseUnitsAndRecordsItsGeEzOnlyStatusAndDamagedReading() {
+        val chapter108 = EnocContent.chapters.first { it.number == 108 }
+        assertEquals((1..15).map { "108:$it" }, chapter108.verses.map { it.reference })
+        assertTrue(chapter108.status.contains("Paráfrasis provisional"))
+        assertTrue(chapter108.criticalNote.contains("Ge'ez"))
+        assertTrue(chapter108.criticalNote.contains("look over"))
+        assertTrue(chapter108.criticalNote.contains("no se cotejó Ge'ez directamente"))
+        assertTrue(chapter108.criticalNote.contains("chapter_108.svg"))
+        assertTrue(chapter108.verses[10].text.contains("generación de luz"))
+    }
+
+    @Test
     fun chapter99UsesSixteenVerseLevelParaphrasesAndTextualCaveats() {
         val chapter99 = EnocContent.chapters.first { it.number == 99 }
         assertEquals((1..16).map { "99:$it" }, chapter99.verses.map { it.reference })
