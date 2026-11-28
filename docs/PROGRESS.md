@@ -2,6 +2,10 @@
 
 ## Estado consolidado — 28 de noviembre de 2026
 
+- [x] Apéndice I en borrador: mapa de testigos y fragmentos de 1 Enoc, con rangos de 4Q212, 4Q204, papiro Chester Beatty–Michigan XII, fragmento copto de Antinoë y testimonio latino Royal Ms. 5 E XIII; se declara que el mapa procede de Stuckenbruck 2007 y que no hubo colación directa.
+- [x] Apéndice II en borrador, separado: Libro de los Gigantes, 2 Enoc, 3 Enoc, tradiciones noáquicas y contextos bíblicos; se explicita que no son capítulos adicionales de 1 Enoc.
+- [x] Pipeline PDF editorial con ReportLab y verificación de 108 capítulos; el workflow se amplió para incluir los apéndices. Nueva generación posterior a estos apéndices pendiente de CI.
+
 - [x] PDF de prueba editorial generado y verificado por CI: 108 capítulos, 219 páginas A5, 487.311 bytes, SHA-256 `807205035cb0fb7dd2d1112d37a74e2529e364e899afb1950e4e9f443fe1b182`. [Run 46154096563](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563) · [Artifact PDF](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563/artifacts/15266567019), ZIP digest `sha256:49a9cfa8e09d7401da9953f4aa0f210dc53d88cab86831b5bc35883bb2716e05`, retención hasta 28-12-2026 14:20 UTC. El propio PDF se etiqueta como prueba provisional; todavía no incluye apéndices completos ni revisión crítica final.
 
 - [x] Búsqueda de texto completo en título, número, referencias, paráfrasis y notas editoriales/críticas; test de regresión y CI run 46153453012 exitosos para commit `7422eafdcfb9341631513e19900dc48542da674a`. APK debug artifact 9.311.192 bytes, digest ZIP `sha256:752cebe26fbe32fdf186bfc398ded83ed818faa0b82ceb010d48350464569cd4` (retención hasta 28-12-2026 14:13 UTC).
