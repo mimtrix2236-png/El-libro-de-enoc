@@ -10,6 +10,20 @@ data class ChapterEntry(
     val verses: List<VerseEntry>
 )
 
+fun ChapterEntry.matchesQuery(query: String): Boolean {
+    val q = query.trim()
+    if (q.isEmpty()) return true
+    return number.toString().contains(q, ignoreCase = true) ||
+        title.contains(q, ignoreCase = true) ||
+        status.contains(q, ignoreCase = true) ||
+        editorialNote.contains(q, ignoreCase = true) ||
+        criticalNote.contains(q, ignoreCase = true) ||
+        verses.any { verse ->
+            verse.reference.contains(q, ignoreCase = true) ||
+                verse.text.contains(q, ignoreCase = true)
+        }
+}
+
 object EnocContent {
     // Base de trabajo: traducción provisional. Cada versículo debe cotejarse con los testigos antes de declararse definitivo.
     val chapters = listOf(
