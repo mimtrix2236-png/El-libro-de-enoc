@@ -54,3 +54,12 @@ For each future generated image, record the chapter, asset path, generation date
 - The previous chapter-specific vector concept is preserved as assets/illustrations/chapter_99_vector_concept.svg.
 - Subject: Enoch's testimony before the angels, false measure, stone idol, vulnerable family, and oppressive house-building; symbolic references to 99:3, 7, 12–13 rather than a literal historical reconstruction.
 - The 1024×1536 generation is not archived in this repository yet; print-master review remains open.
+
+
+## Chapter 108 — Final admonition and generation of light (28 November 2026)
+- Files: `assets/illustrations/chapter_108.svg` and `app/src/main/assets/illustrations/chapter_108.svg`; the previous vector concept remains preserved as `chapter_108_vector_concept.svg` in both trees.
+- Source: original AI-generated artwork created for this project on 28 Nov 2026; no stock image or external illustration used.
+- Reader asset: 128×192 JPEG preview embedded in the SVG wrapper, available offline. SHA-256 of the committed preview bytes: `7508fa322001522164b8bc4ae5d67f0697fedd202f405261b090b23352bd433f`.
+- Master: 1024×1536 JPEG at `/mnt/data/chapter_108_master.jpg` in the working environment; not yet committed to the repository. It must be archived and checked at print resolution before print production.
+- Subject: Enoch and the interpreting angel before the deep cloud, fire and luminous mountains; an open heavenly book, the faithful moving toward seats of honor, and a shadowed ravine representing the sinners' assigned fate. Symbolic, not a historical reconstruction.
+- Status: integrated in editorial and Android asset trees; Android CI after this asset change and device rendering remain to be verified.
