@@ -26,7 +26,7 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 
 ## Estado de desarrollo
 - Proyecto Android Kotlin/Compose con catálogo offline de 108 capítulos (paráfrasis provisional).
-- Índice con búsqueda por título/número, tamaño de letra, modo nocturno, marcadores por capítulo, progreso local y swipe.
+- Índice con búsqueda de texto completo (título, número, versículos y notas), tamaño de letra, modo nocturno, marcadores por capítulo, progreso local y swipe.
 - Ilustración vectorial ornamental integrada en la cabecera.
 - Ilustraciones vectoriales originales específicas para los capítulos 6–16.
 - Contenido provisional de los capítulos 1–16 incorporado versículo por versículo y marcado como borrador.
@@ -141,3 +141,5 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 - Pendiente: cotejo crítico, QA de 43 ilustraciones y masters, front matter/apéndices, PDF imprimible, búsqueda completa/paginación, pruebas físicas y APK release firmado.
 
 - Auditoría de integridad de capítulos 66–108: [informe](docs/auditoria_integridad_66-108_2026-11-28.md). Confirmados 43/43 borradores, 43/43 SVG editoriales y 43/43 copias Android idénticas; doce previews generadas están integradas, mientras 31 recursos principales siguen siendo vectoriales y requieren QA.
+
+- Búsqueda de texto completo: CI run 46153453012 pasó tests, `assembleDebug` y subida del APK debug para commit `7422eafdcfb9341631513e19900dc48542da674a`.
