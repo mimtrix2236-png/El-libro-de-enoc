@@ -7,11 +7,24 @@
 ## 106–107 — Nacimiento de Noé
 
 - Es una unidad narrativa diferenciada, 1 Enoc 106:1–107:3, que se transmite como apéndice noánico; no debe mezclarse con el texto del *Genesis Apocryphon* como si fuera el mismo.
-- Las asignaciones publicadas de 4Q204 incluyen 104:13–106:2 y 106:13–107:2. Los rangos y la nomenclatura de fragmentos dependen de las ediciones; no equivalen a un cotejo propio de las letras conservadas.
+- El mapa de Stuckenbruck asigna a 4Q204 (4QEnochc) los fragmentos 5a/b para 104:13–105:2 y 106:1–2, y los fragmentos 5b–c-i para 106:13–107:2. No debe resumirse como un tramo continuo 104:13–106:2: 106:3–12 no aparece en esa asignación. Los rangos y la nomenclatura dependen de la edición; no equivalen a un cotejo propio de las letras conservadas.
 - El papyrus Greek Chester Beatty–Michigan XII se reporta para 106:1–107:3; el Latin Royal Ms. 5 E XIII para 106:1–18. Son testimonios parciales.
 - Un fragmento adicional reportado con 106:19–107:1 llegó al mercado de antigüedades sin procedencia arqueológica demostrada; se mantiene separado y no se cuenta como testigo Qumrán seguro.
 - 1Q20 (*Genesis Apocryphon*) y 4Q534–536 (“Birth of Noah”) son tradiciones paralelas relacionadas; no son copias de 1 Enoc 106–107.
 - **Variantes/precauciones:** el relato repite las frases sobre abrir la boca y la bendición; las traducciones presentan formulaciones distintas. La expresión de salvación de Noé y “sus hijos/tres hijos” no se armoniza. Charles marca expresiones dañadas o suplementos; deben cotejarse en el aparato.
+
+## Revisión focalizada de 106 — 28-11-2026
+
+- Se sustituyó la paráfrasis por rangos por 19 unidades individuales según Charles 1917. El catálogo conserva el orden impreso, que es 1–14, 17, 15, 16, 18, 19: Charles imprime 106:17 inmediatamente después de 106:14.
+- Charles marca 106:2 y 106:3 con dagas como texto dañado; la paráfrasis evita reconstruir el cabello/ojos y la acción verbal del recién nacido.
+- En 106:11 se conserva la repetición de la escena de la partera y la bendición al Señor del cielo; no se elimina por considerarla duplicación.
+- En 106:16 Charles incluye entre corchetes una frase que juzga interpolada posteriormente; se registra como intervención editorial y no se integra al núcleo de la paráfrasis.
+- Se consultó Fish the Right, que declara control de Charles 1917 con el escaneo de la impresión, y la vista previa de Stuckenbruck 2007. El índice del comentario separa 106:13–17, 106:18 y 106:19–107:1, lo que confirma la necesidad de no colapsar todo el cierre en un único rango.
+- Stuckenbruck p. 17 asigna 4Q204 frag. 5a/b a 104:13–105:2 y 106:1–2; frag. 5b–c-i a 106:13–107:2. El Chester Beatty–Michigan XII se asigna a 106:1–107:3; Royal Ms. 5 E XIII a 106:1–18. Son asignaciones bibliográficas; no se inspeccionaron fotografías ni aparato crítico completo.
+- Se mantiene la separación entre 1Q20 (Genesis Apocryphon) y 4Q534–536 como paralelos noánicos relacionados, no copias de 1 Enoc 106.
+- Se actualizaron el borrador editorial, el catálogo Android y una prueba que verifica el orden no secuencial de Charles.
+
+**Pendiente:** cotejo de Ge'ez/griego/arameo/latín con ediciones críticas y fotografías, especialmente 106:2–3, el orden 106:17 y la interpolación de 106:16; verificar si el testimonio latino y el griego conservan las mismas cláusulas.
 
 ## 108 — Admonición escatológica
 
