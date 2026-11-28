@@ -88,3 +88,10 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 - `chapter_105.svg`: SVG vectorial específico con un maestro que muestra un rollo a los hijos de la tierra, oyentes jóvenes, un sendero hacia dos figuras simbólicas y motivos de paz (olivo/fuente).
 - El concepto anterior se conserva como `chapter_105_vector_concept.svg` en el árbol editorial y en los assets Android.
 - Los intentos de generación raster produjeron escenas genéricas de familia/ángeles y no se incorporaron; la versión actual es un dibujo vectorial editorial provisional, no una lámina de imprenta.
+
+
+## Revisión del capítulo 108
+
+- `chapter_108.svg`: SVG vectorial específico de la admonición final: nube profunda, llama, montañas luminosas, libros celestes, justos en luz y pecadores en oscuridad.
+- El concepto vectorial previo se conserva como `chapter_108_vector_concept.svg` en assets editoriales y Android.
+- Los intentos de generación raster se descartaron porque devolvieron escenas genéricas de familia y ángeles, no la visión descrita en el capítulo. El vector actual es una lámina editorial provisional, pendiente de QA de imprenta.
