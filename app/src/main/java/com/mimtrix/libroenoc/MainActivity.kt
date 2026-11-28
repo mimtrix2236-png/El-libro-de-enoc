@@ -67,9 +67,7 @@ private fun EnocReader(celestialPlayer: CelestialAudioPlayer) {
     var ambientVolume by remember { mutableFloatStateOf(.18f) }
     LaunchedEffect(ambientEnabled, ambientVolume) { if (ambientEnabled) celestialPlayer.start(ambientVolume) else celestialPlayer.stop() }
     DisposableEffect(celestialPlayer) { onDispose { celestialPlayer.stop() } }
-    val visibleChapters = EnocContent.chapters.filter {
-        searchQuery.isBlank() || it.number.toString().contains(searchQuery.trim()) || it.title.contains(searchQuery.trim(), ignoreCase = true)
-    }
+    val visibleChapters = EnocContent.chapters.filter { it.matchesQuery(searchQuery) }
     val bg = if (night) Color(0xFF19151B) else Parchment
     val paper = if (night) Color(0xFF302832) else Color(0xFFFBF6EA)
     val text = if (night) Parchment else Ink
@@ -143,13 +141,18 @@ private fun EnocReader(celestialPlayer: CelestialAudioPlayer) {
                         onValueChange = { searchQuery = it },
                         modifier = Modifier.fillMaxWidth().padding(horizontal = 14.dp, vertical = 2.dp),
                         singleLine = true,
-                        label = { Text("Buscar por título o capítulo") }
+                        label = { Text("Buscar en el libro: texto, capítulo o nota") }
                     )
                     LazyColumn(
                         Modifier.weight(1f),
                         contentPadding = PaddingValues(horizontal = 14.dp, vertical = 4.dp),
                         verticalArrangement = Arrangement.spacedBy(7.dp)
                     ) {
+                        if (visibleChapters.isEmpty()) {
+                            item {
+                                Text("No se encontraron coincidencias en el texto, las referencias o las notas.", color = text.copy(alpha = .72f), modifier = Modifier.padding(16.dp))
+                            }
+                        }
                         items(visibleChapters) { chapter ->
                             Card(
                                 Modifier.fillMaxWidth().clickable { selectedChapter = chapter.number; showIndex = false },
