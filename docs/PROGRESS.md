@@ -2,6 +2,8 @@
 
 ## Estado consolidado — 28 de noviembre de 2026
 
+- [x] PDF de prueba editorial generado y verificado por CI: 108 capítulos, 219 páginas A5, 487.311 bytes, SHA-256 `807205035cb0fb7dd2d1112d37a74e2529e364e899afb1950e4e9f443fe1b182`. [Run 46154096563](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563) · [Artifact PDF](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563/artifacts/15266567019), ZIP digest `sha256:49a9cfa8e09d7401da9953f4aa0f210dc53d88cab86831b5bc35883bb2716e05`, retención hasta 28-12-2026 14:20 UTC. El propio PDF se etiqueta como prueba provisional; todavía no incluye apéndices completos ni revisión crítica final.
+
 - [x] Búsqueda de texto completo en título, número, referencias, paráfrasis y notas editoriales/críticas; test de regresión y CI run 46153453012 exitosos para commit `7422eafdcfb9341631513e19900dc48542da674a`. APK debug artifact 9.311.192 bytes, digest ZIP `sha256:752cebe26fbe32fdf186bfc398ded83ed818faa0b82ceb010d48350464569cd4` (retención hasta 28-12-2026 14:13 UTC).
 - [ ] Cubierta SVG de cuero rústico añadida al índice Android; CI de esa integración aún pendiente.
 
@@ -24,7 +26,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; los capítulos 66–108 tienen borradores, pero el grado de detalle no es uniforme y no deben considerarse capítulos críticos terminados.
 - [x] Capítulos 102–108 convertidos a paráfrasis por unidades de Charles 1917: 102 (11), 103 (15), 104 (13), 105 (2), 106 (19, orden impreso conservado), 107 (3), 108 (15). Todos siguen provisionales; 66–101 requieren auditoría de uniformidad y cotejo.
 - [x] 43 SVG individuales 66–108 y copias Android; auditoría de árbol confirma 43/43 pares con SHA idéntico. Hay 12 previews raster generadas integradas en el lector (89, 92, 94, 95, 97, 99, 100, 102, 104, 106, 107, 108); capítulo 76 conserva una preview separada no integrada. Los otros 31 recursos principales siguen siendo SVG vectoriales. Ninguna preview es master de imprenta. Informe: `docs/auditoria_integridad_66-108_2026-11-28.md`.
-- [ ] Cotejo crítico Ge'ez/griego/arameo/latín por capítulo; aparato de variantes; apéndices completos; PDF de libro imprimible.
+- [ ] Cotejo crítico Ge'ez/griego/arameo/latín por capítulo; aparato de variantes; apéndices completos; edición imprimible final (la prueba PDF ya se genera en CI).
 - [ ] Archivar masters de alta resolución y aprobar cada lámina para impresión.
 
 ### Aplicación
@@ -32,7 +34,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 - [x] Índice, búsqueda de texto completo, marcadores por capítulo, persistencia del último capítulo, tamaño de letra y modo nocturno.
 - [x] Navegación por swipe horizontal y ambiente celestial procedural opcional/offline.
 - [x] CI capítulo 104 (run 46150736913) pasó tests, assembleDebug y upload APK. CI capítulos 105–108 pendientes tras correcciones de regresión.
-- [ ] Paginación tipo libro, ampliación de ilustraciones, QA UX/dispositivo real, PDF y APK release final.
+- [ ] Paginación tipo libro, ampliación de ilustraciones, QA UX/dispositivo real, PDF final con apéndices completos y APK release firmado.
 
 **Nota:** los registros cronológicos de abajo son snapshots de avances anteriores; si alguna casilla/afirmación contradice este estado actual, prevalece esta sección.
 
