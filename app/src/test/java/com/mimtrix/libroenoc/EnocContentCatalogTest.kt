@@ -185,4 +185,15 @@ class EnocContentCatalogTest {
         assertTrue(chapter103.criticalNote.contains("chapter_103.svg"))
         assertTrue(chapter103.verses[10].text.contains("yugo"))
     }
+
+    @Test
+    fun fullTextSearchFindsVerseReferencesTextAndCriticalNotes() {
+        val chapter108 = EnocContent.chapters.first { it.number == 108 }
+        assertTrue(chapter108.matchesQuery("generación de luz"))
+        assertTrue(chapter108.matchesQuery("108:4"))
+        assertTrue(chapter108.matchesQuery("look over"))
+        assertTrue(chapter108.matchesQuery("Matusalén"))
+        assertTrue(chapter108.matchesQuery("  "))
+        assertTrue(!chapter108.matchesQuery("frase inexistente de prueba"))
+    }
 }
