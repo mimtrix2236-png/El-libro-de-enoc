@@ -271,6 +271,9 @@ def build(output: Path):
         ("Glosario preliminar", ROOT / "docs" / "glosario_preliminar.md"),
         ("Bibliografía y fuentes de cotejo", ROOT / "docs" / "bibliografia_fuentes_cotejo.md"),
     ]
+    appendix_dir = ROOT / "docs" / "apendices"
+    if appendix_dir.exists():
+        optional.extend((path.stem, path) for path in sorted(appendix_dir.glob("*.md")))
     for title, path in optional:
         if path.exists():
             story.append(PageBreak())
