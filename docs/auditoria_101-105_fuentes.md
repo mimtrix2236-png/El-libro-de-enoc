@@ -47,9 +47,16 @@ Se revisaron los borradores 101–105, Charles 1917, los metadatos del papyrus g
 - **Pendiente:** cotejo directo de Ge'ez y del papiro griego con Bonner/Stuckenbruck, revisión de las lagunas y control visual a tamaño de impresión.
 
 ## 104
-- Greek witness partial 97:6–104:13; 4Q204 se asigna a 104:13–105:2.
-- El fragmento arameo no confirma toda la exhortación; las reconstrucciones deben diferenciar letras conservadas y suplementos.
-- **Pendiente:** cotejar 104:9–13 y solapamiento 104:13 con las ediciones críticas/fotos.
+
+- Se amplió el borrador a trece paráfrasis originales, una por cada versículo de Charles 1917. Sigue marcado como paráfrasis provisional, no traducción literal.
+- Fuente textual consultada: Charles 1917, cap. CIV, transcripción Fish the Right que declara control con el escaneo de la impresión; contraste con The Book and Me, que advierte sobre OCR. No se cotejó Ge'ez directamente.
+- Stuckenbruck 2007, comentario pp. 561–583, organiza 104:1–6 como respuesta al discurso de los justos vivos (103:9–15), 104:7–8 como advertencia a pecadores vivos y 104:9–105:2 como conclusión de la Epístola. Se registra como análisis literario del comentario, no como división manuscrita universal.
+- El mapa de testigos de Stuckenbruck p. 17 asigna al Chester Beatty–Michigan XII el tramo griego parcial 97:6–104:13 y a 4Q204 frag. 5a/b el tramo arameo 104:13–105:2. El fragmento arameo se solapa con el final de 104 y el inicio de 105; no confirma 104:1–12. Las asignaciones son bibliográficas: no se inspeccionaron fotografías ni el aparato completo.
+- En 104:10–11 se conserva la ambigüedad sintáctica sobre quienes pervierten las palabras y quienes las copian fielmente; no se afirma que sean el mismo grupo ni se infiere una teoría canónica.
+- Se integraron 13 unidades en `LaterEnocContent96_108.kt` y se añadió prueba de secuencia y cautelas de testigos.
+- Ilustración generada específica: scriptorium con copista fiel y falsificador, preview JPEG 128×192 embebida en `chapter_104.svg` editorial y Android. Se preservó el concepto vectorial anterior como `chapter_104_vector_concept.svg`. La preview no es master de impresión.
+
+**Pendiente:** cotejo directo del Ge'ez, texto griego con Bonner y fragmento arameo 4Q204 con Drawnel/Milik, incluyendo fotografías y aparato; QA de la ilustración a tamaño de imprenta.
 
 ## 105
 - No está en el papyrus griego Chester Beatty-Michigan XII.
