@@ -144,6 +144,6 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 
 - Búsqueda de texto completo: CI run 46153453012 pasó tests, `assembleDebug` y subida del APK debug para commit `7422eafdcfb9341631513e19900dc48542da674a`.
 
-- PDF de prueba editorial: [run 46154096563](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563) generó y verificó un PDF A5 de 219 páginas con 108 capítulos (487.311 bytes; SHA-256 `807205035cb0fb7dd2d1112d37a74e2529e364e899afb1950e4e9f443fe1b182`). [Descargar artifact PDF](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563/artifacts/15266567019). Es una prueba editorial, no el libro final: faltan cotejo crítico y apéndices completos.
+- PDF de prueba actualizado con los dos apéndices separados: [CI run 46154511711](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154511711) generó 231 páginas A5 y verificó 108 capítulos, créditos y presencia textual de ambos apéndices (511.351 bytes; SHA-256 `8be8cf565091a1828f496b49653545450202bc44f3f5b38a6c2249728793fb60`). [Artifact PDF](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154511711/artifacts/15266953165). Sigue siendo prueba provisional, no edición final.
 
 - Se añadieron dos apéndices separados en borrador: [testigos y fragmentos](docs/apendices/01_testigos_y_fragmentos.md) y [textos enoquicos relacionados](docs/apendices/02_textos_enoquicos_relacionados.md). El workflow PDF ahora los incorpora; la nueva prueba tras esta ampliación aún debe pasar CI.
