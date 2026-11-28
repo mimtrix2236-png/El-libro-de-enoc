@@ -7,6 +7,7 @@ on:
       - "docs/00_front_matter.md"
       - "docs/glosario_preliminar.md"
       - "docs/bibliografia_fuentes_cotejo.md"
+      - "docs/apendices/**"
       - "assets/book_cover.svg"
       - "scripts/build_book_pdf.py"
       - "requirements-pdf.txt"
