@@ -294,8 +294,10 @@ def build(output: Path):
     if len(reader.pages) < 108:
         raise SystemExit(f"PDF incompleto: {len(reader.pages)} páginas.")
     extracted = "\n".join((page.extract_text() or "") for page in reader.pages)
-    if "108:15" not in extracted or "Mauro Iván Maidana" not in extracted:
-        raise SystemExit("La verificación del PDF no encontró el capítulo 108 o los créditos.")
+    required_text = ["108:15", "Mauro Iván Maidana", "Apéndice I", "Apéndice II", "4Q212", "4Q203", "2 Enoc", "3 Enoc"]
+    missing_text = [term for term in required_text if term not in extracted]
+    if missing_text:
+        raise SystemExit(f"El PDF no contiene secciones requeridas: {missing_text}")
     digest = hashlib.sha256(output.read_bytes()).hexdigest()
     result = {
         "output": str(output.relative_to(ROOT)),
