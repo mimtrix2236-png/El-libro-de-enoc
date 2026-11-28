@@ -59,10 +59,18 @@ Se revisaron los borradores 101–105, Charles 1917, los metadatos del papyrus g
 **Pendiente:** cotejo directo del Ge'ez, texto griego con Bonner y fragmento arameo 4Q204 con Drawnel/Milik, incluyendo fotografías y aparato; QA de la ilustración a tamaño de imprenta.
 
 ## 105
-- No está en el papyrus griego Chester Beatty-Michigan XII.
-- 4Q204 104:13–105:2 es evidencia aramea fragmentaria de circulación temprana de parte del pasaje; no se puede concluir que 105 fuera añadido tardío solo porque falta en el papyrus griego.
-- La frase “su hijo” se conserva como lectura provisional, pero su interpretación no se resuelve.
-- **Pendiente:** cotejar Ge'ez y fragmento 4Q204 para 105:1–2, pronombres y suplementos.
+
+- Se amplió el borrador a dos paráfrasis originales siguiendo la numeración de Charles 1917. Continúa marcado como provisional, no traducción literal.
+- Se consultó Charles 1917, cap. CV, en Fish the Right; la página indica que el texto de Project Gutenberg #77935 fue controlado con el escaneo de la impresión. Charles marca “them” e “it” entre paréntesis como suplidos para aclarar el sentido; se registran como intervención del traductor, no como variante manuscrita.
+- Stuckenbruck 2007, pp. 582–583, estudia 104:9–105:2 como conclusión de la Epístola y divide 105:1 como exhortación final y 105:2 como revelación sobre el fin.
+- La asignación publicada de 4Q204 frag. 5a/b cubre 104:13–105:2; es evidencia aramea fragmentaria que se solapa con el final de 104 y los dos versículos de 105. No se inspeccionaron fotos ni las reconstrucciones de Drawnel/Milik.
+- El papiro griego Chester Beatty–Michigan XII llega a 104:13; no se identifica testimonio griego para 105. La ausencia en ese papiro no prueba una interpolación tardía.
+- “My Son” en 105:2 se conserva como expresión de Charles sin imponer interpretación cristológica. La frase sobre la recompensa “over the whole earth” en 105:1 se mantiene abierta.
+- Se anotó que Laurence/Lawrence 1883 numera el pasaje correspondiente como 104:1–2; es una diferencia de división editorial, no prueba de variante textual.
+- Se integraron dos unidades en `LaterEnocContent96_108.kt` y una prueba de secuencia y cautelas.
+- Se refinó el SVG con una escena de enseñanza: maestro con rollo, oyentes jóvenes, sendero hacia dos figuras simbólicas y olivo/fuente. Se conservaron los vectores anteriores en `chapter_105_vector_concept.svg`. Las salidas raster generadas se descartaron por no corresponder al contenido específico.
+
+**Pendiente:** cotejar Ge'ez y 4Q204 5a/b en la edición crítica y fotografías, especialmente pronombres, “mi Hijo” y la frase sobre recompensa; revisar el arte a tamaño de impresión.
 
 ## Referencias
 1. 4care artefact record 752 / TM 61462, P. Beatty XII, https://4care-skos.mf.no/4care-artefacts/752/ (rango griego 97:6–104 y 106–107:3).
