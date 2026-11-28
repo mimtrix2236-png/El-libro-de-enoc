@@ -53,9 +53,11 @@ La base de lectura es R. H. Charles, *The Book of Enoch* (SPCK, 1917), capítulo
 ## Ilustración del capítulo
 
 - **Archivo principal:** `assets/illustrations/chapter_108.svg`; copia offline: `app/src/main/assets/illustrations/chapter_108.svg`.
-- **Concepto anterior conservado:** `assets/illustrations/chapter_108_vector_concept.svg` en ambas carpetas.
-- **Escena revisada:** Enoc y el ángel ante la nube profunda, la llama y las montañas luminosas; los libros celestes aparecen sobre la visión, mientras una senda iluminada conduce a los justos hacia asientos de honor y una zona oscura representa el destino de los pecadores.
-- **Técnica:** SVG vectorial editorial específico en tinta sepia y tonos tierra. Las pruebas de generación raster produjeron escenas genéricas de familia y ángeles que no correspondían al texto y fueron descartadas. La ilustración vectorial requiere todavía QA de imprenta.
+- **Concepto vectorial anterior conservado:** `assets/illustrations/chapter_108_vector_concept.svg` en ambas carpetas.
+- **Lámina generada específica (28-11-2026):** Enoc y el ángel observan una nube profunda atravesada por fuego y montañas luminosas; un libro abierto representa el registro celestial, mientras una senda iluminada conduce a los fieles hacia asientos de honor y un barranco oscuro alude al destino de los pecadores. La escena reúne motivos de 108:4–15 sin pretender reconstruir un acontecimiento histórico.
+- **Integración:** preview JPEG de 128×192 px embebida en el SVG para lectura Android sin conexión. El archivo generado de mayor resolución (1024×1536) está conservado en el entorno de trabajo como `/mnt/data/chapter_108_master.jpg`, pero todavía no está archivado en GitHub; la preview no es master de imprenta.
+- **Técnica:** grabado original en sepia, ocre y tinta marrón sobre textura de pergamino envejecido. El SVG vectorial conceptual anterior se preserva por separado.
+
 
 ## Fuentes consultadas
 
