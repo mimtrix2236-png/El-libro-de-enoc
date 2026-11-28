@@ -34,7 +34,7 @@ Se identificará la procedencia de cada texto. Los fragmentos, reconstrucciones,
 - Los capítulos 6–16 cuentan con mapas de folios y notas críticas en `editorial/fuentes_capitulos_06_10.md`, `editorial/fuentes_capitulos_11_13.md` y `editorial/fuentes_capitulos_14_16.md`.
 - Los 108 capítulos tienen archivos individuales de trabajo; el capítulo 66 cuenta además con una traducción indirecta de 3 versículos basada en Charles 1917 (no cotejada con Ge'ez), y 67–108 son paráfrasis provisionales integradas en el catálogo offline.
 - 43 SVG capítulo-específicos (66–108) en `assets/illustrations/` y duplicados en `app/src/main/assets/illustrations/`; 66–75 refinados. Los capítulos 89, 92, 94 y 106 tienen previews raster generadas e integradas; 76 tiene una preview separada sin integración. Los restantes 76–108 siguen siendo conceptuales y todos requieren QA visual; los previews no son láminas de impresión.
-- El cotejo integral de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva.
+- El cotejo integral de los 108 capítulos sigue pendiente; no presentar los borradores como edición definitiva. Existe una prueba de composición PDF de 108 capítulos, aún no la edición imprimible final.
 - Tres tests de catálogo y build debug con audio procedural pasan en CI, commit `a802f77`: [ejecución](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44539201507). No es release final; falta prueba en dispositivo.
 - Auditoría 66–108: `docs/auditoria_capitulos_66-108.md`.
 - CI Android: compilación verificada con éxito en commit `613cd34`; artifact APK debug disponible en [GitHub Actions](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44536929563). Es un build de desarrollo, no APK final.
@@ -143,3 +143,5 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 - Auditoría de integridad de capítulos 66–108: [informe](docs/auditoria_integridad_66-108_2026-11-28.md). Confirmados 43/43 borradores, 43/43 SVG editoriales y 43/43 copias Android idénticas; doce previews generadas están integradas, mientras 31 recursos principales siguen siendo vectoriales y requieren QA.
 
 - Búsqueda de texto completo: CI run 46153453012 pasó tests, `assembleDebug` y subida del APK debug para commit `7422eafdcfb9341631513e19900dc48542da674a`.
+
+- PDF de prueba editorial: [run 46154096563](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563) generó y verificó un PDF A5 de 219 páginas con 108 capítulos (487.311 bytes; SHA-256 `807205035cb0fb7dd2d1112d37a74e2529e364e899afb1950e4e9f443fe1b182`). [Descargar artifact PDF](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46154096563/artifacts/15266567019). Es una prueba editorial, no el libro final: faltan cotejo crítico y apéndices completos.
