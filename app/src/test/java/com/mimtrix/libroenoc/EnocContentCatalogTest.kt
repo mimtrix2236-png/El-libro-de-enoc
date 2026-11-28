@@ -132,6 +132,18 @@ class EnocContentCatalogTest {
     }
 
     @Test
+    fun chapter104HasThirteenVerseUnitsAndRecordsPartialWitnessCoverage() {
+        val chapter104 = EnocContent.chapters.first { it.number == 104 }
+        assertEquals((1..13).map { "104:$it" }, chapter104.verses.map { it.reference })
+        assertTrue(chapter104.status.contains("Paráfrasis provisional"))
+        assertTrue(chapter104.criticalNote.contains("97:6–104:13"))
+        assertTrue(chapter104.criticalNote.contains("104:13–105:2"))
+        assertTrue(chapter104.criticalNote.contains("no se inspeccionaron"))
+        assertTrue(chapter104.criticalNote.contains("chapter_104.svg"))
+        assertTrue(chapter104.verses[10].text.contains("relación exacta"))
+    }
+
+    @Test
     fun chapter103HasFifteenVerseUnitsAndRecordsWitnessGaps() {
         val chapter103 = EnocContent.chapters.first { it.number == 103 }
         assertEquals((1..15).map { "103:$it" }, chapter103.verses.map { it.reference })
