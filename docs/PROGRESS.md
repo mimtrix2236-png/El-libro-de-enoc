@@ -1,5 +1,17 @@
 # Seguimiento de producción — Libro de Enoc
 
+## Estado consolidado — 28 de noviembre de 2026
+
+- Los 108 archivos canónicos de capítulo están presentes. En la secuencia 66–108 existen 43 borradores individuales; 102–108 ya están organizados por unidades versiculares según Charles 1917. Todos siguen siendo paráfrasis provisionales, no traducciones críticas.
+- Los capítulos 102–108 tienen catálogo offline por unidad: 102 (11), 103 (15), 104 (13), 105 (2), 106 (19, orden impreso de Charles), 107 (3) y 108 (15).
+- Existen 43 SVG específicos para 66–108 y copias Android. El capítulo 108 ya incorpora una ilustración generada propia como preview offline 128×192; el concepto vectorial previo se conserva. Los masters de impresión y el QA de todas las láminas siguen pendientes.
+- CI verificado para commit `458d5ca637d4557c168d9c6d026f3c6befd5076a`: run 46152092859, pruebas de catálogo, `assembleDebug` y subida de artifact exitosos. Artifact debug: 9.305.084 bytes; digest del artifact ZIP `sha256:d580af0b580fc00fe6547bf7827f919785111a320a92f1e71acedd5f66995a75`. Esta verificación precede a la integración de la nueva ilustración 108 y no la cubre.
+- Prioridad siguiente: cotejo crítico y auditoría visual sistemática; luego front matter/apéndices, PDF imprimible, búsqueda de texto completo/paginación, QA en dispositivo y APK release firmado.
+- No se inspeccionaron fotografías de manuscritos ni se completó colación directa. No existe todavía PDF final ni APK release verificado.
+
+---
+
+
 Autor de esta edición: **Mauro Iván Maidana**  
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
