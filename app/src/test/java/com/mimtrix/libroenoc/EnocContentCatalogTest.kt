@@ -105,7 +105,7 @@ class EnocContentCatalogTest {
         assertTrue(chapter108.status.contains("Paráfrasis provisional"))
         assertTrue(chapter108.criticalNote.contains("Ge'ez"))
         assertTrue(chapter108.criticalNote.contains("look over"))
-        assertTrue(chapter108.criticalNote.contains("no se cotejó Ge'ez directamente"))
+        assertTrue(chapter108.criticalNote.contains("No se cotejó Ge'ez directamente"))
         assertTrue(chapter108.criticalNote.contains("chapter_108.svg"))
         assertTrue(chapter108.verses[10].text.contains("generación de luz"))
     }
