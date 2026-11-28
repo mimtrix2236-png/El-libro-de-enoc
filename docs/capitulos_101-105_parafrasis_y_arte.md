@@ -34,12 +34,15 @@ La exhortación asegura que los ángeles recuerdan a los justos y que sus nombre
 
 **Estado actualizado:** paráfrasis original provisional de 104:1–13 en `docs/chapters/104_capitulo_104_parafrasis.md`; testigos griego y arameo parciales, sin cotejo directo de manuscritos. Preview de 128×192 embebida en `assets/illustrations/chapter_104.svg`; concepto vectorial anterior conservado por separado.
 
-## Capítulo 105 — La promesa y la cercanía divina
-El pasaje presenta una promesa de cercanía y protección para los fieles. La esperanza se expresa como una relación que no se rompe ante la adversidad: quienes buscan justicia son llamados a confiar y a no ceder ante el temor. El tono prepara el cierre del libro y su mirada hacia las generaciones futuras.
+## Capítulo 105 — La sabiduría transmitida y la paz de los justos
 
-**Lectura:** La promesa ofrece consuelo y continuidad a quienes viven con rectitud.
+Se ordena convocar a los hijos de la tierra y darles testimonio de la sabiduría. Los destinatarios aparecen como guías, y la enseñanza se vincula con una recompensa que alcanza a toda la tierra. La declaración final promete que «yo y mi Hijo» permanecerán unidos con ellos en los caminos de rectitud; a los oyentes se les anuncia paz y se los invita a alegrarse.
 
-**Ilustración:** Un pequeño grupo caminando hacia una ciudad iluminada a través de un valle, acompañados por una presencia angelical sugerida; grabado sepia.
+**Lectura:** el cierre de la Epístola une la transmisión comunitaria de la sabiduría con la promesa de paz para quienes siguen la rectitud.
+
+**Ilustración:** maestro con rollo ante un grupo de oyentes jóvenes; sendero hacia dos figuras simbólicas, olivo y fuente como motivos de paz. Se descartaron pruebas raster genéricas de familias/ángeles.
+
+**Estado actualizado:** paráfrasis original provisional de 105:1–2 en `docs/chapters/105_capitulo_105_parafrasis.md`. 4Q204 se asigna fragmentariamente a 104:13–105:2; el papiro griego llega a 104:13. No se inspeccionaron fotografías ni aparato crítico.
 
 ---
 **Estado:** borradores 101–105 y propuestas de ilustración incluidos; falta cotejo y arte final.
