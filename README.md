@@ -132,3 +132,10 @@ La aplicación se desarrolla en paralelo con la edición, pero el texto se publi
 - Capítulo 103: paráfrasis provisional por sus quince versículos; se registran el suplemento de 103:10, la lectura corrupta de 103:12 y las lagunas griegas reportadas en fuentes secundarias. No se afirma cotejo directo de manuscritos.
 - Capítulo 103: nueva lámina vectorial específica con tablas celestiales, memoria de los justos, destino oscuro de los pecadores y trabajadores bajo yugo ante una autoridad que no escucha. Se conserva el concepto anterior; las imágenes generadas disponibles para este capítulo resultaron genéricas y no se incorporaron.
 - El lector Android muestra ambos capítulos offline con once y quince unidades, respectivamente; pruebas automatizadas de secuencia añadidas. Build CI de los cambios recientes aún pendiente de resultado.
+
+
+## Estado consolidado — 28 de noviembre de 2026
+- Los borradores individuales 66–108 existen; 102–108 están ya desglosados por unidades de Charles 1917 en la documentación y el lector offline. Son paráfrasis provisionales, no una traducción crítica ni una colación directa del Ge'ez.
+- Capítulo 108: ilustración original generada integrada como preview offline 128×192 en los SVG editorial y Android; el concepto vectorial anterior se conserva. Master 1024×1536 pendiente de archivado en GitHub y QA de imprenta.
+- Última CI verificada antes de este arte: [run 46152092859](https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/46152092859), commit `458d5ca637d4557c168d9c6d026f3c6befd5076a`: tests de catálogo, `assembleDebug` y upload-artifact exitosos. Artifact debug 9.305.084 bytes; no es release firmado ni cubre el commit de arte recién añadido.
+- Pendiente: cotejo crítico, QA de 43 ilustraciones y masters, front matter/apéndices, PDF imprimible, búsqueda completa/paginación, pruebas físicas y APK release firmado.
