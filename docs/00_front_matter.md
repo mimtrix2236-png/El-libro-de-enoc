@@ -6,6 +6,8 @@ Edición de lectura y estudio
 **Mauro Iván Maidana**  
 Fecha de inicio de edición: 18 de noviembre de 2026
 
+**Diseño aprobado de cubierta e interior:** cuero marrón rústico con filetes y ornamentos en dorado envejecido; páginas de pergamino semi envejecido, ilustraciones en grabado y tinta sepia/ocre. El recurso vectorial de cubierta está en `assets/book_cover.svg` y se integra offline en Android como `app/src/main/assets/book_cover.svg`.
+
 ## Dedicatoria
 *Espacio reservado para la dedicatoria del autor.*
 
@@ -19,7 +21,7 @@ El Libro de Enoc ocupa un lugar singular en la literatura antigua. Sus visiones,
 
 Esta edición busca acompañar al lector sin confundir historia, texto y tradición interpretativa. Se ofrecerá una guía de lectura, un índice de secciones, notas breves y un apéndice documental. Cuando los manuscritos no permitan recuperar una lectura completa, se indicará la condición fragmentaria y no se rellenará el vacío con texto inventado.
 
-El objetivo es que el libro pueda leerse en la aplicación como una obra continua y, posteriormente, prepararse con cuidado para una edición imprimible.
+El objetivo es que el libro pueda leerse en la aplicación como una obra continua y, posteriormente, prepararse con cuidado para una edición imprimible. Los borradores de los capítulos 66–108 se identifican como paráfrasis provisionales basadas en la numeración de Charles 1917; no deben confundirse con traducciones literales ni con una edición crítica. La revisión final deberá distinguir el texto transmitido, los suplementos del traductor, las reconstrucciones, las variantes de testigos y las hipótesis histórico-literarias.
 
 ## Introducción histórica (borrador)
 Los estudios académicos describen 1 Enoc como una colección de escritos en torno a Enoc, compuesta en etapas y en su mayor parte originalmente en arameo. La colección se divide habitualmente en cinco grandes unidades: Libro de los Vigilantes (1–36), Parábolas (37–71), Libro Astronómico (72–82), Visiones de los Sueños (83–90) y Epístola de Enoc (91–108). La tradición etíope conserva la obra completa, mientras que los fragmentos de Qumrán y los testimonios griegos son importantes para reconstruir su historia textual.
