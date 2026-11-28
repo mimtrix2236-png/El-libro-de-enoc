@@ -68,15 +68,16 @@ class EnocContentCatalogTest {
         assertTrue(chapter106.criticalNote.contains("106:16"))
         assertTrue(chapter106.verses[14].reference == "106:17")
         assertEquals(listOf("107:1", "107:2", "107:3"), chapter107.verses.map { it.reference })
-        assertEquals(listOf("108:1–3", "108:4–6", "108:7–10", "108:11–15"), chapter108.verses.map { it.reference })
+        assertEquals((1..15).map { "108:$it" }, chapter108.verses.map { it.reference })
 
         assertTrue(chapter106.criticalNote.contains("4Q204"))
         assertTrue(chapter106.criticalNote.contains("no cotejo directo"))
         assertTrue(chapter106.editorialNote.contains("chapter_106_generated.svg"))
         assertTrue(chapter107.verses.last().text.contains("Noé"))
         assertTrue(chapter108.criticalNote.contains("Ge'ez"))
+        assertTrue(chapter108.criticalNote.contains("look over"))
         assertTrue(chapter108.criticalNote.contains("No se cotejó Ge'ez directamente"))
-        assertTrue(chapter108.verses.last().text.contains("resplandecerán"))
+        assertTrue(chapter108.verses.last().text.contains("resplandor"))
     }
 
 
