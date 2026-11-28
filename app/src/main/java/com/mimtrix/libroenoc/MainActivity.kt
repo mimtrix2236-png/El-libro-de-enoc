@@ -117,7 +117,23 @@ private fun EnocReader(celestialPlayer: CelestialAudioPlayer) {
                 ) {
                     Text("EDICIÓN ILUSTRADA", color = Gold, fontSize = 10.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.sp)
                     Spacer(Modifier.height(7.dp))
-                    Image(painterResource(R.drawable.enoch_illumination_banner), contentDescription = "Ilustración ornamental inspirada en manuscritos etiópicos", modifier = Modifier.fillMaxWidth().height(112.dp))
+                    if (showIndex) {
+                        AndroidView(
+                            factory = { viewContext ->
+                                WebView(viewContext).apply {
+                                    settings.javaScriptEnabled = false
+                                    isVerticalScrollBarEnabled = false
+                                    isHorizontalScrollBarEnabled = false
+                                    setBackgroundColor(android.graphics.Color.TRANSPARENT)
+                                    webViewClient = WebViewClient()
+                                    loadUrl("file:///android_asset/book_cover.svg")
+                                }
+                            },
+                            modifier = Modifier.fillMaxWidth().height(190.dp)
+                        )
+                    } else {
+                        Image(painterResource(R.drawable.enoch_illumination_banner), contentDescription = "Ilustración ornamental inspirada en manuscritos etiópicos", modifier = Modifier.fillMaxWidth().height(78.dp))
+                    }
                     Spacer(Modifier.height(8.dp))
                     Text("El Libro de Enoc", color = Parchment, fontSize = 27.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Serif)
                     Text("Lectura · manuscritos · variantes críticas", color = Color(0xFFD9CBAF), fontSize = 12.sp)
