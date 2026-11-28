@@ -58,7 +58,15 @@ class EnocContentCatalogTest {
         val chapter107 = EnocContent.chapters.first { it.number == 107 }
         val chapter108 = EnocContent.chapters.first { it.number == 108 }
 
-        assertEquals(listOf("106:1–3", "106:4–7", "106:8–12", "106:13–19"), chapter106.verses.map { it.reference })
+        assertEquals(
+            listOf("106:1", "106:2", "106:3", "106:4", "106:5", "106:6", "106:7", "106:8", "106:9", "106:10", "106:11", "106:12", "106:13", "106:14", "106:17", "106:15", "106:16", "106:18", "106:19"),
+            chapter106.verses.map { it.reference }
+        )
+        assertTrue(chapter106.criticalNote.contains("106:1–2"))
+        assertTrue(chapter106.criticalNote.contains("106:13–107:2"))
+        assertTrue(chapter106.criticalNote.contains("106:17"))
+        assertTrue(chapter106.criticalNote.contains("106:16"))
+        assertTrue(chapter106.verses[14].reference == "106:17")
         assertEquals(listOf("107:1", "107:2", "107:3"), chapter107.verses.map { it.reference })
         assertEquals(listOf("108:1–3", "108:4–6", "108:7–10", "108:11–15"), chapter108.verses.map { it.reference })
 
