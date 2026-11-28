@@ -144,6 +144,18 @@ class EnocContentCatalogTest {
     }
 
     @Test
+    fun chapter105HasTwoVersesAndRecordsTheAramaicWitnessAndSuppliedWords() {
+        val chapter105 = EnocContent.chapters.first { it.number == 105 }
+        assertEquals(listOf("105:1", "105:2"), chapter105.verses.map { it.reference })
+        assertTrue(chapter105.status.contains("Paráfrasis provisional"))
+        assertTrue(chapter105.criticalNote.contains("104:13–105:2"))
+        assertTrue(chapter105.criticalNote.contains("no aporta un testimonio griego"))
+        assertTrue(chapter105.criticalNote.contains("Lawrence 1883"))
+        assertTrue(chapter105.criticalNote.contains("chapter_105.svg"))
+        assertTrue(chapter105.verses[1].text.contains("mi Hijo"))
+    }
+
+    @Test
     fun chapter103HasFifteenVerseUnitsAndRecordsWitnessGaps() {
         val chapter103 = EnocContent.chapters.first { it.number == 103 }
         assertEquals((1..15).map { "103:$it" }, chapter103.verses.map { it.reference })
