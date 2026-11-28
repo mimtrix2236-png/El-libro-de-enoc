@@ -20,7 +20,7 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 ### Libro
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; los capítulos 66–108 tienen borradores, pero el grado de detalle no es uniforme y no deben considerarse capítulos críticos terminados.
 - [x] Capítulos 102–108 convertidos a paráfrasis por unidades de Charles 1917: 102 (11), 103 (15), 104 (13), 105 (2), 106 (19, orden impreso conservado), 107 (3), 108 (15). Todos siguen provisionales; 66–101 requieren auditoría de uniformidad y cotejo.
-- [x] 43 SVG individuales 66–108 y copias Android. Previews generados integrados en 89, 92, 97, 99, 100, 102, 104, 106 y 107; 76 tiene preview registrado. Capítulos 105 y 108 tienen SVG vectorial específico refinado; las ilustraciones 76–108 aún requieren QA artístico. Los previews son recursos de lectura, no masters de impresión.
+- [x] 43 SVG individuales 66–108 y copias Android; auditoría de árbol confirma 43/43 pares con SHA idéntico. Hay 12 previews raster generadas integradas en el lector (89, 92, 94, 95, 97, 99, 100, 102, 104, 106, 107, 108); capítulo 76 conserva una preview separada no integrada. Los otros 31 recursos principales siguen siendo SVG vectoriales. Ninguna preview es master de imprenta. Informe: `docs/auditoria_integridad_66-108_2026-11-28.md`.
 - [ ] Cotejo crítico Ge'ez/griego/arameo/latín por capítulo; aparato de variantes; apéndices completos; PDF de libro imprimible.
 - [ ] Archivar masters de alta resolución y aprobar cada lámina para impresión.
 
