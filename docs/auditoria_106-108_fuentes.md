@@ -28,11 +28,15 @@
 
 ## 108 — Admonición escatológica
 
-- Es una unidad final independiente, denominada *Eschatological Admonition* en bibliografía reciente.
-- En los testimonios catalogados consultados, 108 se conserva solo en la tradición Ge'ez; no se identifica un testigo Aramaic, Greek, Coptic o Latin. 4Q204 y Chester Beatty–Michigan XII concluyen con el material de Nacimiento de Noé; Royal Ms. 5 E XIII termina en 106:18.
-- La inclusión de 108 se interpreta como un desarrollo posterior de la colección. Se propone una datación de fines del siglo I d. C. en un estudio, pero es una hipótesis y no una fecha demostrada.
-- El texto se presentará como apéndice final con aviso de transmisión Ge'ez-only; no se atribuirá corroboración Qumrán.
-- **Corrección de fuente:** una reproducción web de Charles basada en su edición de 1912 consultada antes termina en 107 y no contiene 108. Para este capítulo se registra la edición SPCK 1917 y transcripción pública de Project Gutenberg #77935, además de Open Scroll. La paráfrasis no es traducción directa del Ge'ez.
+- Se amplió el borrador a quince paráfrasis originales, una por versículo de Charles 1917. Continúa provisional; no es traducción directa del Ge'ez.
+- Se consultó Charles 1917, cap. CVIII, en Fish the Right (transcripción controlada con el escaneo de la impresión) y Open Scroll.
+- Stuckenbruck 2007 trata 108:1–15 como unidad independiente, *Eschatological Admonition*. En la introducción propone que se añadió a la colección probablemente durante la parte final del siglo I d. C.; es una hipótesis histórico-literaria.
+- El resumen de testigos de Stuckenbruck no asigna a 108 testimonio arameo, griego, copto o latino; la unidad se transmite en la tradición Ge'ez dentro del mapa consultado. La ausencia de un testigo paralelo conocido no prueba que nunca circulara en otra lengua.
+- Charles marca 108:4 como dañado (“look over”); se mantiene la incertidumbre. En 108:6 una palabra entre paréntesis es suplemento de Charles, no lectura manuscrita segura. En 108:7 se evita fijar la relación sintáctica entre el registro celeste y los grupos mencionados.
+- Se refinó la ilustración SVG: Enoc y el ángel ante nube, llama y montañas luminosas; libros celestes, justos en luz y pecadores en oscuridad. El concepto anterior se conserva como `chapter_108_vector_concept.svg`. Los intentos raster se descartaron por genéricos.
+- Se integraron 15 unidades en el catálogo Android y una prueba de numeración, condición Ge'ez y lectura dañada.
+
+**Pendiente:** cotejo de la tradición Ge'ez con Charles 1906, Knibb y Stuckenbruck/Nickelsburg; revisar variantes entre recenciones etiópicas y confirmar el estado de 108:4 y 108:7 con aparato crítico.
 
 ## Fuentes consultadas (20-11-2026)
 
