@@ -42,7 +42,7 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 | 101 | chapter_101.svg | Navegantes y mar dentro de límites |
 | 102 | chapter_102.svg | Justicia y luz para los muertos rectos |
 | 103 | chapter_103.svg | Registros y queja de los justos |
-| 104 | chapter_104.svg | Libro de nombres y palabras fieles |
+| 104 | chapter_104.svg | Scriptorium: copista fiel, falsificador y libros de rectitud |
 | 105 | chapter_105.svg | Comunidad en paz ante la luz |
 | 106 | chapter_106.svg | Nacimiento de Noé y consulta de Lamech |
 | 107 | chapter_107.svg | Concepto vectorial: tabla de generaciones y Noé |
@@ -74,3 +74,10 @@ Ilustraciones SVG vectoriales originales de primera pasada, tinta sepia y tonos 
 - `chapter_103.svg`: lámina vectorial específica con tablas celestiales, contraste entre memoria luminosa y destino oscuro, y trabajadores sometidos a un yugo ante una autoridad que no escucha.
 - La copia offline se encuentra en `app/src/main/assets/illustrations/chapter_103.svg`; el concepto anterior se preservó como `chapter_103_vector_concept.svg` en ambos árboles.
 - Los intentos de generación raster disponibles produjeron escenas genéricas y no se incorporaron como arte del capítulo. Esta versión vectorial es provisional, no master de impresión, y requiere QA visual.
+
+
+## Preview generado del capítulo 104
+
+- `chapter_104.svg`: grabado generado específico de un scriptorium dividido entre la copia fiel y la falsificación de escritos; preview JPEG embebida de 128×192 px, derivada de una generación 1024×1536.
+- El concepto vectorial previo se conserva en `chapter_104_vector_concept.svg` en el árbol editorial y en los assets Android.
+- La preview está integrada para lectura offline. No es master de impresión; la imagen de alta resolución permanece como archivo de trabajo y aún requiere archivado y QA de imprenta.
