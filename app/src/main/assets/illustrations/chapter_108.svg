@@ -1,2 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="Ilustración original para 1 Enoc capítulo 108, grabado sepia en pergamino"><defs><radialGradient id="paper"><stop offset="0" stop-color="#f0dfbd"/><stop offset="1" stop-color="#c8a67a"/></radialGradient></defs><rect width="512" height="720" fill="url(#paper)"/><rect x="18" y="18" width="476" height="684" rx="8" fill="none" stroke="#5b3b20" stroke-width="6"/><rect x="30" y="30" width="452" height="660" fill="none" stroke="#9c7448" stroke-width="2"/><g stroke="#5b3b20" stroke-width="5" fill="none"><path d="M45 65 L75 45 95 65 75 85Z M417 65 L437 45 457 65 437 85Z M45 655 L75 635 95 655 75 675Z M417 655 L437 635 457 655 437 675Z"/></g><g><path d="M70 260 Q120 170 210 220 Q255 170 300 220 Q390 170 440 260 L420 520 Q350 570 255 540 Q160 570 90 520Z" fill="#d5bd91" stroke="#5b3b20" stroke-width="8"/><path d="M90 300 Q160 250 210 300 T330 300 T420 300" stroke="#8b633a" stroke-width="7" fill="none"/><g fill="#c7a273" stroke="#5b3b20" stroke-width="7"><circle cx="170" cy="430" r="24"/><path d="M150 455 L190 455 210 520 130 520Z"/><circle cx="340" cy="430" r="24"/><path d="M320 455 L360 455 380 520 300 520Z"/></g><path d="M255 200 L280 250 330 255 290 285 300 330 255 305 210 330 220 285 180 255 230 250Z" fill="#c7a273" stroke="#5b3b20" stroke-width="7"/><rect x="170" y="570" width="170" height="55" rx="8" fill="#6b4a2b" stroke="#5b3b20" stroke-width="7"/><path d="M190 585 Q255 610 320 585" stroke="#d5bd91" stroke-width="5" fill="none"/></g><path d="M55 640 Q255 655 457 640" fill="none" stroke="#6e4a2a" stroke-width="3"/><text x="256" y="672" font-family="serif" font-size="18" text-anchor="middle" fill="#5b3b20">1 ENOC · 108</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 720" role="img" aria-label="1 Enoc 108: Enoc y el ángel ante la nube de fuego, los libros celestes y el destino opuesto de justos y pecadores">
+<title>1 Enoc 108 — La admonición escatológica y la generación de luz</title>
+<defs>
+ <linearGradient id="paper108" x2="0" y2="1"><stop stop-color="#f1e0be"/><stop offset="1" stop-color="#c5a071"/></linearGradient>
+ <linearGradient id="light108" x2="0" y2="1"><stop stop-color="#fff2c9"/><stop offset="1" stop-color="#d4a45f"/></linearGradient>
+ <linearGradient id="fire108" x2="0" y2="1"><stop stop-color="#e9b56e"/><stop offset="1" stop-color="#6b3520"/></linearGradient>
+ <pattern id="grain108" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".5" fill="#704b2b" opacity=".2"/><circle cx="9" cy="9" r=".6" fill="#704b2b" opacity=".15"/></pattern>
+</defs>
+<rect width="512" height="720" fill="url(#paper108)"/><rect width="512" height="720" fill="url(#grain108)"/>
+<rect x="16" y="16" width="480" height="688" rx="8" fill="none" stroke="#5b3b20" stroke-width="7"/><rect x="28" y="28" width="456" height="664" fill="none" stroke="#9c7448" stroke-width="2"/>
+<!-- heavenly books -->
+<g stroke="#51351f" stroke-width="5" stroke-linejoin="round">
+ <path d="M160 75Q210 55 255 80V135Q210 112 160 135Z" fill="#ead8b5"/>
+ <path d="M255 80Q300 55 352 75V135Q300 112 255 135Z" fill="#ead8b5"/>
+ <path d="M255 80V137" fill="none"/>
+ <path d="M176 91Q210 83 238 95 M176 105Q210 97 238 109 M272 95Q305 83 337 91 M272 109Q305 97 337 105" fill="none" stroke="#8b633c" stroke-width="2"/>
+</g>
+<!-- cloud, flame and shining mountains -->
+<path d="M170 175Q130 135 174 112Q197 72 245 108Q286 70 324 112Q385 99 395 154Q440 178 401 220Q365 247 330 221Q290 252 252 222Q205 249 170 218Z" fill="#d7c39d" stroke="#5b3b20" stroke-width="6"/>
+<path d="M250 218Q220 274 248 326Q266 359 255 397Q302 357 292 314Q285 273 312 235Q281 249 272 273Q275 239 250 218Z" fill="url(#fire108)" stroke="#6b3a20" stroke-width="5"/>
+<g fill="#d9c49c" stroke="#5b3b20" stroke-width="5"><path d="M170 325L222 250L270 325Z"/><path d="M255 332L320 236L384 332Z"/><path d="M335 330L398 265L450 330Z"/></g>
+<g stroke="#8b633c" stroke-width="3" fill="none"><path d="M222 250L236 277L251 265L270 325 M320 236L340 273L355 257L384 332 M398 265L414 293L429 281L450 330"/></g>
+<!-- left: Enoch and angel interpreter -->
+<g stroke="#51351f" stroke-width="5" stroke-linejoin="round">
+ <circle cx="86" cy="390" r="22" fill="#c79d68"/>
+ <path d="M61 416Q86 399 111 416L132 556H40Z" fill="#8d623a"/>
+ <path d="M67 425L44 468L58 488 M105 425L130 461L151 445" fill="none"/>
+ <path d="M61 556L52 626 M111 556L123 626" fill="none"/>
+ <path d="M70 372Q86 354 103 372" fill="none" stroke-width="7"/>
+ <path d="M143 385Q157 359 180 374Q198 390 185 416Q164 430 147 412Z" fill="#d2b88b"/>
+ <path d="M151 415L188 415L204 520L135 520Z" fill="#b28b58"/>
+ <path d="M149 392L124 380 M184 394L206 379" fill="none"/>
+</g>
+<!-- scroll in Enoch's hand -->
+<path d="M126 450Q153 438 180 450V497Q153 484 126 497Z" fill="#f0dfbd" stroke="#5b3b20" stroke-width="4"/>
+<path d="M137 461H169 M137 473H169 M137 485H169" stroke="#8b633c" stroke-width="2"/>
+<!-- light path and righteous seated in light -->
+<path d="M208 640Q232 565 250 500Q267 435 286 360Q308 433 330 500Q354 575 375 640Z" fill="url(#light108)" opacity=".72"/>
+<g stroke="#5b3b20" stroke-width="4" stroke-linejoin="round">
+ <rect x="284" y="535" width="55" height="20" rx="4" fill="#8c6037"/>
+ <circle cx="311" cy="466" r="16" fill="#d0aa75"/><path d="M294 484L328 484L339 535H283Z" fill="#d8c39b"/>
+ <rect x="362" y="565" width="55" height="20" rx="4" fill="#8c6037"/>
+ <circle cx="389" cy="495" r="15" fill="#d0aa75"/><path d="M373 512L405 512L416 565H362Z" fill="#d8c39b"/>
+</g>
+<!-- right: shadowed sinners led toward darkness -->
+<path d="M420 365Q462 382 478 430L472 642H408Q431 578 421 515Q408 438 420 365Z" fill="#68412a" opacity=".9"/>
+<g stroke="#3e291b" stroke-width="4" fill="#8a6540"><circle cx="443" cy="465" r="13"/><path d="M429 479L457 479L464 540H422Z"/><circle cx="466" cy="525" r="10"/><path d="M456 536L476 536L480 590H450Z"/></g>
+<path d="M426 610Q450 590 480 610" stroke="#c18a4b" stroke-width="5" fill="none"/>
+<!-- final horizon -->
+<path d="M45 652Q256 670 467 652" fill="none" stroke="#6e4a2a" stroke-width="3"/>
+<g fill="#6b4a2b"><circle cx="48" cy="48" r="5"/><circle cx="464" cy="48" r="5"/><circle cx="48" cy="672" r="5"/><circle cx="464" cy="672" r="5"/></g>
+</svg>
