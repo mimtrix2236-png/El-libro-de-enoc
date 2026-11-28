@@ -2,6 +2,9 @@
 
 ## Estado consolidado — 28 de noviembre de 2026
 
+- [x] Búsqueda de texto completo en título, número, referencias, paráfrasis y notas editoriales/críticas; test de regresión y CI run 46153453012 exitosos para commit `7422eafdcfb9341631513e19900dc48542da674a`. APK debug artifact 9.311.192 bytes, digest ZIP `sha256:752cebe26fbe32fdf186bfc398ded83ed818faa0b82ceb010d48350464569cd4` (retención hasta 28-12-2026 14:13 UTC).
+- [ ] Cubierta SVG de cuero rústico añadida al índice Android; CI de esa integración aún pendiente.
+
 - Los 108 archivos canónicos de capítulo están presentes. En la secuencia 66–108 existen 43 borradores individuales; 102–108 ya están organizados por unidades versiculares según Charles 1917. Todos siguen siendo paráfrasis provisionales, no traducciones críticas.
 - Los capítulos 102–108 tienen catálogo offline por unidad: 102 (11), 103 (15), 104 (13), 105 (2), 106 (19, orden impreso de Charles), 107 (3) y 108 (15).
 - Existen 43 SVG específicos para 66–108 y copias Android. El capítulo 108 ya incorpora una ilustración generada propia como preview offline 128×192; el concepto vectorial previo se conserva. Los masters de impresión y el QA de todas las láminas siguen pendientes.
@@ -26,10 +29,10 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
 ### Aplicación
 - [x] Catálogo offline de 108 capítulos; capítulos 102–108 con 11, 15, 13, 2, 19, 3 y 15 unidades provisionales respectivamente.
-- [x] Índice, búsqueda por título/número, marcadores por capítulo, persistencia del último capítulo, tamaño de letra y modo nocturno.
+- [x] Índice, búsqueda de texto completo, marcadores por capítulo, persistencia del último capítulo, tamaño de letra y modo nocturno.
 - [x] Navegación por swipe horizontal y ambiente celestial procedural opcional/offline.
 - [x] CI capítulo 104 (run 46150736913) pasó tests, assembleDebug y upload APK. CI capítulos 105–108 pendientes tras correcciones de regresión.
-- [ ] Búsqueda de texto completo, paginación tipo libro, ampliación de ilustraciones, QA UX/dispositivo real, PDF y APK release final.
+- [ ] Paginación tipo libro, ampliación de ilustraciones, QA UX/dispositivo real, PDF y APK release final.
 
 **Nota:** los registros cronológicos de abajo son snapshots de avances anteriores; si alguna casilla/afirmación contradice este estado actual, prevalece esta sección.
 
