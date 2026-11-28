@@ -3,21 +3,21 @@
 Autor de esta edición: **Mauro Iván Maidana**  
 Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
-## Estado actual — 27 de noviembre de 2026
+## Estado actual — 28 de noviembre de 2026
 
 ### Libro
-- [x] 108 archivos canónicos consecutivos en `docs/chapters/`; 66–108 son borradores, capítulo 66 además tiene traducción indirecta en archivo separado.
-- [x] Capítulos 66–108: 43 archivos con resumen, fuente, notas e idea de ilustración; capítulo 66 tiene traducción indirecta desde Charles (1917); cotejo crítico/versicular pendiente.
-- [x] 43 SVG individuales 66–108 y copias Android; capítulos 66–75 refinados. Previews generados integrados en 89, 92, 97, 106 y 107; 76 tiene preview registrado. Los capítulos 76–108 aún requieren revisión artística; los previews generados son de baja resolución y no master de impresión.
-- [ ] Traducción final y cotejo versículo por versículo; aparato de variantes; apéndices completos; PDF de libro.
+- [x] 108 archivos canónicos consecutivos en `docs/chapters/`; los capítulos 66–108 tienen borradores, pero el grado de detalle no es uniforme y no deben considerarse capítulos críticos terminados.
+- [x] Capítulos 102–104 convertidos a paráfrasis por unidades de Charles 1917: 102 (11), 103 (15), 104 (13). Los tres siguen provisionales; 105–108 aún requieren conversión o refinamiento versicular y cotejo.
+- [x] 43 SVG individuales 66–108 y copias Android. Previews generados integrados en 89, 92, 97, 99, 100, 102, 104, 106 y 107; 76 tiene preview registrado. Las ilustraciones 76–108 aún requieren QA artístico; los previews son recursos de lectura, no masters de impresión.
+- [ ] Cotejo crítico Ge'ez/griego/arameo por capítulo; aparato de variantes; apéndices completos; PDF de libro imprimible.
+- [ ] Archivar masters de alta resolución y aprobar cada lámina para impresión.
 
 ### Aplicación
-- [x] Catálogo offline de 108 capítulos; capítulo 66 con traducción indirecta de trabajo, capítulos 67–108 con paráfrasis provisionales.
+- [x] Catálogo offline de 108 capítulos; capítulos 102–104 con 11, 15 y 13 unidades provisionales respectivamente.
 - [x] Índice, búsqueda por título/número, marcadores por capítulo, persistencia del último capítulo, tamaño de letra y modo nocturno.
-- [x] Navegación por swipe horizontal.
-- [x] Ambiente celestial original procedural (AudioTrack), opcional, apagado por defecto, control de volumen, offline y pausa/resume al salir/volver.
-- [x] 3 tests unitarios de catálogo y CI build debug verificados; artifact de desarrollo en commit `a802f77`: https://github.com/mimtrix2236-png/El-libro-de-enoc/actions/runs/44539201507 (9,205,699 bytes).
-- [ ] Probar audio y navegación en dispositivo real; paginación tipo libro, búsqueda de texto completo, ampliación de ilustraciones, pruebas UX y APK final.
+- [x] Navegación por swipe horizontal y ambiente celestial procedural opcional/offline.
+- [x] Tests de catálogo y build debug han pasado en ejecuciones anteriores; el resultado de CI de los cambios del 28-11 queda pendiente de consulta.
+- [ ] Búsqueda de texto completo, paginación tipo libro, ampliación de ilustraciones, QA UX/dispositivo real, PDF y APK release final.
 
 **Nota:** los registros cronológicos de abajo son snapshots de avances anteriores; si alguna casilla/afirmación contradice este estado actual, prevalece esta sección.
 
