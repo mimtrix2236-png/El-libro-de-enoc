@@ -34,3 +34,8 @@ Los fragmentos arameos de Qumrán no conservan todas las secciones: la ausencia 
 - Loren T. Stuckenbruck, estudios sobre las tradiciones enóquicas tempranas y los manuscritos del Mar Muerto.
 
 *Este material es un borrador editorial de apertura, no una traducción del texto antiguo ni un prólogo académico final.*
+
+
+## Organización de los apéndices
+
+Los materiales documentales se mantendrán separados del cuerpo de 1 Enoc. El primer apéndice resume los testigos y fragmentos conocidos, con rangos de correspondencia y límites de evidencia. El segundo distingue obras y tradiciones relacionadas —Libro de los Gigantes, 2 Enoc, 3 Enoc y materiales noáquicos— para evitar que se confundan con capítulos adicionales de la colección de 108 capítulos. Ambos apéndices son borradores documentales y deberán revisarse antes de la edición imprimible definitiva.
