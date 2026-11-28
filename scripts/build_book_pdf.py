@@ -130,15 +130,14 @@ def markdown_flowables(markdown: str, styles) -> list:
 
 
 class CoverFlowable(Flowable):
+    """ReportLab-native cover matching the approved leather/aged-gold design.
+
+    The SVG remains the canonical Android/editorial asset. Drawing this cover
+    directly with ReportLab keeps the PDF build independent of Cairo bindings.
+    """
     def __init__(self, svg_path: Path):
         super().__init__()
         self.svg_path = svg_path
-        self.drawing = None
-        try:
-            from svglib.svglib import svg2rlg
-            self.drawing = svg2rlg(str(svg_path)) if svg_path.exists() else None
-        except Exception:
-            self.drawing = None
 
     def wrap(self, avail_width, avail_height):
         self.width = avail_width
@@ -147,33 +146,58 @@ class CoverFlowable(Flowable):
 
     def draw(self):
         c = self.canv
-        if self.drawing and self.drawing.width and self.drawing.height:
-            try:
-                from reportlab.graphics import renderPDF
-                scale = min(self.width / self.drawing.width, self.height / self.drawing.height)
-                w = self.drawing.width * scale
-                h = self.drawing.height * scale
-                c.saveState()
-                c.translate((self.width - w) / 2, (self.height - h) / 2)
-                c.scale(scale, scale)
-                renderPDF.draw(self.drawing, c, 0, 0)
-                c.restoreState()
-                return
-            except Exception:
-                pass
+        w, h = self.width, self.height
         c.saveState()
-        c.setFillColor(colors.HexColor("#3b2117"))
-        c.rect(0, 0, self.width, self.height, fill=1, stroke=0)
-        c.setStrokeColor(GOLD)
-        c.setLineWidth(2)
-        c.rect(9*mm, 9*mm, self.width-18*mm, self.height-18*mm, fill=0, stroke=1)
-        c.setFillColor(colors.HexColor("#e4c17c"))
-        c.setFont("Times-Bold", 22)
-        c.drawCentredString(self.width/2, self.height*.64, "EL LIBRO DE ENOC")
-        c.setFont("Times-Roman", 10)
-        c.drawCentredString(self.width/2, self.height*.57, "EDICIÓN ILUSTRADA · LECTURA Y ESTUDIO")
-        c.setFont("Times-Roman", 13)
-        c.drawCentredString(self.width/2, self.height*.35, "MAURO IVÁN MAIDANA")
+        c.setFillColor(colors.HexColor("#321c13"))
+        c.rect(0, 0, w, h, fill=1, stroke=0)
+        # Quiet leather grain: deterministic, low-contrast tooling marks.
+        c.setStrokeColor(colors.HexColor("#6b432b"))
+        c.setLineWidth(.35)
+        for row in range(18):
+            y = 8*mm + row * (h-16*mm) / 17
+            for col in range(11):
+                x = 8*mm + col * (w-16*mm) / 10
+                c.line(x, y, x+2.5*mm, y+0.7*mm)
+        c.setStrokeColor(colors.HexColor("#c49a5a"))
+        c.setLineWidth(1.6)
+        c.rect(8*mm, 8*mm, w-16*mm, h-16*mm, fill=0, stroke=1)
+        c.setLineWidth(.55)
+        c.rect(11*mm, 11*mm, w-22*mm, h-22*mm, fill=0, stroke=1)
+        # Corner tooling and celestial seal.
+        for x, y, sx, sy in [
+            (14*mm, h-14*mm, 1, -1), (w-14*mm, h-14*mm, -1, -1),
+            (14*mm, 14*mm, 1, 1), (w-14*mm, 14*mm, -1, 1)
+        ]:
+            c.setLineWidth(1)
+            c.line(x, y, x+12*mm*sx, y)
+            c.line(x, y, x, y+12*mm*sy)
+            c.circle(x+5*mm*sx, y+5*mm*sy, 2.2*mm, fill=0, stroke=1)
+        cx, cy = w/2, h*.79
+        c.setLineWidth(1)
+        c.circle(cx, cy, 15*mm, fill=0, stroke=1)
+        c.setDash(1.2, 2.4)
+        c.circle(cx, cy, 12*mm, fill=0, stroke=1)
+        c.setDash()
+        c.line(cx, cy-19*mm, cx, cy+19*mm)
+        c.line(cx-19*mm, cy, cx+19*mm, cy)
+        c.setFillColor(colors.HexColor("#e0c184"))
+        c.circle(cx, cy, 1.5*mm, fill=1, stroke=0)
+        gold = colors.HexColor("#e1c184")
+        c.setFillColor(gold)
+        c.setFont("Times-Bold", 17)
+        c.drawCentredString(cx, h*.60, "EL LIBRO DE ENOC")
+        c.setStrokeColor(gold)
+        c.setLineWidth(.7)
+        c.line(w*.28, h*.575, w*.72, h*.575)
+        c.setFont("Times-Roman", 9)
+        c.drawCentredString(cx, h*.535, "EDICIÓN ILUSTRADA")
+        c.setFont("Times-Roman", 7.2)
+        c.drawCentredString(cx, h*.505, "LECTURA · ESTUDIO · TRADICIÓN TEXTUAL")
+        c.line(w*.36, h*.465, w*.64, h*.465)
+        c.setFont("Times-Bold", 11)
+        c.drawCentredString(cx, h*.405, "MAURO IVÁN MAIDANA")
+        c.setFont("Times-Roman", 7.5)
+        c.drawCentredString(cx, h*.37, "108 CAPÍTULOS")
         c.restoreState()
 
 
