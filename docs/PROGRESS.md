@@ -7,16 +7,16 @@ Repositorio: https://github.com/mimtrix2236-png/El-libro-de-enoc
 
 ### Libro
 - [x] 108 archivos canónicos consecutivos en `docs/chapters/`; los capítulos 66–108 tienen borradores, pero el grado de detalle no es uniforme y no deben considerarse capítulos críticos terminados.
-- [x] Capítulos 102–106 convertidos a paráfrasis por unidades de Charles 1917: 102 (11), 103 (15), 104 (13), 105 (2), 106 (19, orden impreso conservado). Todos siguen provisionales; 107–108 aún requieren refinamiento y cotejo.
-- [x] 43 SVG individuales 66–108 y copias Android. Previews generados integrados en 89, 92, 97, 99, 100, 102, 104, 106 y 107; 76 tiene preview registrado. Capítulo 105 tiene SVG vectorial específico refinado; las ilustraciones 76–108 aún requieren QA artístico. Los previews son recursos de lectura, no masters de impresión.
-- [ ] Cotejo crítico Ge'ez/griego/arameo por capítulo; aparato de variantes; apéndices completos; PDF de libro imprimible.
+- [x] Capítulos 102–108 convertidos a paráfrasis por unidades de Charles 1917: 102 (11), 103 (15), 104 (13), 105 (2), 106 (19, orden impreso conservado), 107 (3), 108 (15). Todos siguen provisionales; 66–101 requieren auditoría de uniformidad y cotejo.
+- [x] 43 SVG individuales 66–108 y copias Android. Previews generados integrados en 89, 92, 97, 99, 100, 102, 104, 106 y 107; 76 tiene preview registrado. Capítulos 105 y 108 tienen SVG vectorial específico refinado; las ilustraciones 76–108 aún requieren QA artístico. Los previews son recursos de lectura, no masters de impresión.
+- [ ] Cotejo crítico Ge'ez/griego/arameo/latín por capítulo; aparato de variantes; apéndices completos; PDF de libro imprimible.
 - [ ] Archivar masters de alta resolución y aprobar cada lámina para impresión.
 
 ### Aplicación
-- [x] Catálogo offline de 108 capítulos; capítulos 102–106 con 11, 15, 13, 2 y 19 unidades provisionales respectivamente.
+- [x] Catálogo offline de 108 capítulos; capítulos 102–108 con 11, 15, 13, 2, 19, 3 y 15 unidades provisionales respectivamente.
 - [x] Índice, búsqueda por título/número, marcadores por capítulo, persistencia del último capítulo, tamaño de letra y modo nocturno.
 - [x] Navegación por swipe horizontal y ambiente celestial procedural opcional/offline.
-- [x] CI de capítulo 104 (run 46150736913): pruebas de catálogo, assembleDebug y subida del APK debug completados correctamente. CI de capítulos 105–106 pendiente.
+- [x] CI capítulo 104 (run 46150736913) pasó tests, assembleDebug y upload APK. CI capítulos 105–108 pendientes tras correcciones de regresión.
 - [ ] Búsqueda de texto completo, paginación tipo libro, ampliación de ilustraciones, QA UX/dispositivo real, PDF y APK release final.
 
 **Nota:** los registros cronológicos de abajo son snapshots de avances anteriores; si alguna casilla/afirmación contradice este estado actual, prevalece esta sección.
