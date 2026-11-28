@@ -50,6 +50,7 @@ def register_fonts() -> tuple[str, str, str]:
         pdfmetrics.registerFont(TTFont("BookSerif", str(candidates[0])))
         pdfmetrics.registerFont(TTFont("BookSerif-Bold", str(candidates[1])))
         pdfmetrics.registerFont(TTFont("BookSerif-Italic", str(candidates[2])))
+        pdfmetrics.registerFontFamily("BookSerif", normal="BookSerif", bold="BookSerif-Bold", italic="BookSerif-Italic", boldItalic="BookSerif-Bold")
         if candidates[3].exists():
             pdfmetrics.registerFont(TTFont("BookSans", str(candidates[3])))
         return "BookSerif", "BookSerif-Bold", "BookSerif-Italic"
@@ -147,14 +148,19 @@ class CoverFlowable(Flowable):
     def draw(self):
         c = self.canv
         if self.drawing and self.drawing.width and self.drawing.height:
-            from reportlab.graphics import renderPDF
-            scale = min(self.width / self.drawing.width, self.height / self.drawing.height)
-            w = self.drawing.width * scale
-            h = self.drawing.height * scale
-            c.saveState()
-            renderPDF.draw(self.drawing, c, (self.width - w) / 2, (self.height - h) / 2, showBoundary=False)
-            c.restoreState()
-            return
+            try:
+                from reportlab.graphics import renderPDF
+                scale = min(self.width / self.drawing.width, self.height / self.drawing.height)
+                w = self.drawing.width * scale
+                h = self.drawing.height * scale
+                c.saveState()
+                c.translate((self.width - w) / 2, (self.height - h) / 2)
+                c.scale(scale, scale)
+                renderPDF.draw(self.drawing, c, 0, 0)
+                c.restoreState()
+                return
+            except Exception:
+                pass
         c.saveState()
         c.setFillColor(colors.HexColor("#3b2117"))
         c.rect(0, 0, self.width, self.height, fill=1, stroke=0)
