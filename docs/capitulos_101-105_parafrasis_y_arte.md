@@ -24,12 +24,15 @@ Enok transmite consuelo a quienes sufren y han sido fieles. Aunque los poderosos
 
 **Ilustración:** Una figura afligida recibe consuelo de un mensajero junto a un camino; el cielo abre una franja de luz, grabado sepia.
 
-## Capítulo 104 — El escrito de los justos
-La enseñanza anima a los justos a no temer las acusaciones ni la burla de los impíos. Sus obras y su fidelidad quedan representadas como algo conservado en un registro. Enok exhorta a mantener la integridad, porque la verdad será reconocida y la injusticia no tendrá la última palabra.
+## Capítulo 104 — Memoria de los justos y fidelidad de los escritos
 
-**Lectura:** El registro celestial simboliza la dignidad de una vida fiel, incluso cuando no recibe reconocimiento humano.
+La exhortación asegura que los ángeles recuerdan a los justos y que sus nombres permanecen inscritos ante el Grande. La vergüenza y la aflicción no serán definitivas: se promete luz, apertura de las puertas celestes y juicio contra quienes facilitaron el despojo. A continuación se advierte que los pecadores no podrán ocultar sus obras y que la mentira o la alteración de las palabras de rectitud constituyen una falta grave. El capítulo denuncia a quienes tergiversan el mensaje y anuncia libros entregados a los justos y sabios para su alegría y aprendizaje.
 
-**Ilustración:** Un escriba celestial anotando en un libro abierto mientras una figura terrenal permanece firme ante sombras; manuscrito antiguo, sepia.
+**Lectura:** la memoria de los oprimidos y la transmisión íntegra de la sabiduría se oponen a la violencia y a la falsificación.
+
+**Ilustración generada:** un scriptorium con dos prácticas contrapuestas: un copista fiel que conserva el rollo y una figura que altera otro escrito; los libros y la luz aluden al registro y a la enseñanza.
+
+**Estado actualizado:** paráfrasis original provisional de 104:1–13 en `docs/chapters/104_capitulo_104_parafrasis.md`; testigos griego y arameo parciales, sin cotejo directo de manuscritos. Preview de 128×192 embebida en `assets/illustrations/chapter_104.svg`; concepto vectorial anterior conservado por separado.
 
 ## Capítulo 105 — La promesa y la cercanía divina
 El pasaje presenta una promesa de cercanía y protección para los fieles. La esperanza se expresa como una relación que no se rompe ante la adversidad: quienes buscan justicia son llamados a confiar y a no ceder ante el temor. El tono prepara el cierre del libro y su mirada hacia las generaciones futuras.
